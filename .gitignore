@@ -1,0 +1,10 @@
+__pycache__/
+.env
+*.pyc
+*.pkl
+*.sqlite
+*.log
+.vscode/
+.ipynb_checkpoints/
+data/raw/*
+!data/raw/extendicare_kb

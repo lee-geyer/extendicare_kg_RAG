@@ -1,0 +1,9 @@
+llama-cloud-services
+openai
+qdrant-client
+neo4j
+pydantic
+sentence-transformers
+fastapi
+uvicorn
+python-dotenv
