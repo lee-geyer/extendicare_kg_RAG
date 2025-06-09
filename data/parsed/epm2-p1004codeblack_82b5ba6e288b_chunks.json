@@ -1,0 +1,54 @@
+{
+  "doc_id": "epm2-p1004codeblack_82b5ba6e288b",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "epm2-p1004codeblack_82b5ba6e288b_chunk_000_dafab888",
+      "doc_id": "epm2-p1004codeblack_82b5ba6e288b",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Emergency Planning and Management\n**INDEX:** EPM2-P10.04\n**SECTION:** Emergency Response Codes\n**EFFECTIVE DATE:** January 13, 2025\n**REVIEWED DATE:** January 6, 2025\n**APPROVED BY:** Senior Director, Corporate Quality and Risk\n**MODIFIED DATE:** May 30, 2025----## POLICY### Emergency Response Codes## PROCEDUREA Code Black is announced after any bomb threat whether it is called in, in a letter/email/social media, or identification of a suspicious package.When receiving a bomb threat call, complete the **Code Black Staff Receiving the Threat Job Action Checklist** for Call Receiver Information. Immediately following the phone call, complete the **Bomb Threat Report** within the Staff Receiving the Threat Job Action Checklist for the police investigation. Fill out as much of the report as possible.",
+      "char_count": 844,
+      "token_estimate": 211,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1004codeblack_82b5ba6e288b_chunk_001_6972d59f",
+      "doc_id": "epm2-p1004codeblack_82b5ba6e288b",
+      "chunk_index": 1,
+      "text": "Immediately following the phone call, complete the **Bomb Threat Report** within the Staff Receiving the Threat Job Action Checklist for the police investigation. Fill out as much of the report as possible. Give the Incident Manager a full account.- A copy of the Bomb Threat Report must be accessible at all nursing stations and at reception.When receiving a written, mailed, or electronic threat, or locating a suspicious object, complete the corresponding checklist in the **Code Black Staff Receiving the Threat Job Action Checklist**.All Staff must follow the procedures for a bomb threat as per their designated Job Action checklists and follow direction from the Incident Manager.## TOOLS1. Code Black Staff Receiving the Threat Job Action Checklist",
+      "char_count": 756,
+      "token_estimate": 189,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1004codeblack_82b5ba6e288b_chunk_002_9f3053c7",
+      "doc_id": "epm2-p1004codeblack_82b5ba6e288b",
+      "chunk_index": 2,
+      "text": "2. Code Black Incident Manager Job Action Checklist\n\n3. Code Black All Staff Job Action Checklist",
+      "char_count": 97,
+      "token_estimate": 24,
+      "section_title": "Code Black Incident Manager Job Action Checklist",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1004codeblack_82b5ba6e288b_chunk_004_037f1891",
+      "doc_id": "epm2-p1004codeblack_82b5ba6e288b",
+      "chunk_index": 4,
+      "text": "4. Code Black Executive Director/Designate Job Action Checklist\n\n5. Code Black Poster----**Helping people**\nThis document is uncontrolled when printed.\n**Ikva bettar**\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----Page 1 of 1",
+      "char_count": 461,
+      "token_estimate": 115,
+      "section_title": "Code Black Executive Director/Designate Job Action Checklist",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

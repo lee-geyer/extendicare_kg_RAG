@@ -1,0 +1,18 @@
+{
+  "doc_id": "ipc2-p10-e20-respiratoryetiquettecoughingandsneezingbestpractices_46df583bee3a",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "ipc2-p10-e20-respiratoryetiquettecoughingandsneezingbestpractices_46df583bee3a_chunk_000_6ae4ab5c",
+      "doc_id": "ipc2-p10-e20-respiratoryetiquettecoughingandsneezingbestpractices_46df583bee3a",
+      "chunk_index": 0,
+      "text": "# Respiratory Etiquette## Coughing & Sneezing Best Practices### Move it\nMove away from others when you feel a sneeze or cough coming on.### Catch it\nCover your mouth and nose with a tissue when you sneeze or cough. If you don’t have a tissue, cough or sneeze into your sleeve or elbow, not into your hands!### Bin it\nDiscard any used tissue in a garbage bin.### Kill it\nWash or sanitize hands immediately. Remember to rub hands for a minimum of 15 seconds!----## Stop the Spread of Infection\nInfections (such as influenza, COVID-19, cold viruses, and even whooping cough) are spread by coughing or sneezing. When you cough or sneeze on your hands, your hands carry and spread these infectious agents. When you touch an object such as a door handle, elevator button, telephone, or computer keyboard with unclean hands, you are spreading germs. The next person who touches these objects may pick up these germs and get sick if they do not clean their hands before touching their eyes, nose, or mouth.",
+      "char_count": 998,
+      "token_estimate": 249,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 5
+    }
+  ]
+}

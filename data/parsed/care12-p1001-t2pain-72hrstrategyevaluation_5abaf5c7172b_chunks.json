@@ -1,0 +1,78 @@
+{
+  "doc_id": "care12-p1001-t2pain-72hrstrategyevaluation_5abaf5c7172b",
+  "total_chunks": 6,
+  "chunks": [
+    {
+      "chunk_id": "care12-p1001-t2pain-72hrstrategyevaluation_5abaf5c7172b_chunk_000_aa1ed521",
+      "doc_id": "care12-p1001-t2pain-72hrstrategyevaluation_5abaf5c7172b",
+      "chunk_index": 0,
+      "text": "# Pain - 72hr Strategy Evaluation| Resident: | Effective Date: | Location: |\n|-----------|-----------------|-----------|\n| Initial Admission: | Admission: | Date of Birth: |\n| Score: NA | Category: NA | Physician: |## A. Shift Pain Assessment### 1. Most Recent Pain Level\n- **Pain Level:**\n- **Date:**\n- **Pain Scale:**### 1b. What scale was used? - a. Numeric\n- b. Painad### 1c. Click on the score - this will populate the SPN as well as the Resident assessment page. ```\n| Score | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |\n```### 2. Pain Description:\n- a. Sharp\n- b. Dull\n- c. Throbbing\n- d. Burning\n- e. Aching\n- f. Stabbing\n- g. Other or More details or Notable Changes\n- h. Unable to describe### 2b. More details on pain description:### 3. Location of Pain:\n- a. Back pain\n- b. Bone pain\n- c. Chest pain\n- d. Headache\n- e. Hip pain\n- f. Joint pain (other than hip)\n- g. Soft tissue pain (e.g., lesion, muscle)\n- h. Abdominal pain\n- i. Mouth / tooth pain\n- j. Skin Injury\n- k. Other### 3b. Please specify details: (location, region, side etc)### 4. Timing of Pain:\n- a. Constant\n- b. Intermittent\n- c. Occasional\n- d. Other or More details or Notable Changes\n- e. Unable to describe### 4b.",
+      "char_count": 1196,
+      "token_estimate": 299,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care12-p1001-t2pain-72hrstrategyevaluation_5abaf5c7172b_chunk_001_0b88f88a",
+      "doc_id": "care12-p1001-t2pain-72hrstrategyevaluation_5abaf5c7172b",
+      "chunk_index": 1,
+      "text": "Other or More details or Notable Changes\n- e. Unable to describe### 4b. More details on timing of pain:### 5. Impact on Daily Activities: (Consult family as needed)\n- a. Limits abilities to perform ADLs independently (e.g., walking, eating, dressing)\n- b. Sleep disturbances (e.g., restless sleep, insomnia)\n- c. Causes decreased appetite or nausea/vomiting.----**Page 1 of 3**# Pain - 72hr Strategy Evaluation## Resident:### 5. Details of pain's impact on Resident's quality of life:### 6. Effectiveness of Pain Management Strategies overall:\n- a. Effective\n- b. Partially\n- c. Not Effective### 6b.",
+      "char_count": 599,
+      "token_estimate": 149,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care12-p1001-t2pain-72hrstrategyevaluation_5abaf5c7172b_chunk_002_c04afbb8",
+      "doc_id": "care12-p1001-t2pain-72hrstrategyevaluation_5abaf5c7172b",
+      "chunk_index": 2,
+      "text": "Partially\n- c. Not Effective### 6b. Sedation Scale\n| Score | Description                                                                                     |\n|-------|-------------------------------------------------------------------------------------------------|\n| S     | Sleeping, easy to arouse                                                                        |\n| 1     | Awake and Alert                                                                                 |\n| 2     | Slightly drowsy, easy to arouse                                                                 |\n| 3     | Change in functional level, confusion                                                            |\n| 4     | Frequently drowsy, difficult to arouse, drifts off to sleep during conversation                 |\n| 5     | Somnolent, minimal or no response to physical stimulation                                         |### 6c. Based on Sedation Scale findings, more assessment or consultation is recommended.### 7. Action / Strategies:\n- a. Continue with current plan. - b. Update Physician or Nurse Practitioner. - c. Initiate changes to the pain management plan. - d. Initiate referral(s)\n- e.",
+      "char_count": 1193,
+      "token_estimate": 298,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care12-p1001-t2pain-72hrstrategyevaluation_5abaf5c7172b_chunk_003_6cb92d1c",
+      "doc_id": "care12-p1001-t2pain-72hrstrategyevaluation_5abaf5c7172b",
+      "chunk_index": 3,
+      "text": "- d. Initiate referral(s)\n- e. Other or New or Adjusted Strategies### 7b. Indicate any referrals required:\n- a. Registered Dietitian\n- b. Occupational Therapy\n- c. Physiotherapy\n- d. Social Work\n- e. Recreation\n- f. Behavioural Support Lead\n- g. Skin and Wound Care Lead\n- h. Restorative Care Coordinating Committee\n- i. Pain Lead### ACTION REQUIRED:\nReferral schedule triggered. To complete, open under 'next assessment due' of the assessment tab in the resident's health record. (S)### 7c. Describe any other, new or adjusted Pain Management Strategies especially those put into place because of ineffective or partially effective strategies:### 8. Care Plan:\n- **Focus:** Physical pain\n- **Goal:** Indications of pain will be managed evident by a decreased PAINAD score by next review\n- **Goal:** Numeric Pain Scale will demonstrate verbalizations of decreased pain through to next review\n- **Goal:** Resident goal (SPECIFY)\n- **Goal:** Will have a decreased Pain Scale Score from (SPECIFY) to (SPECIFY) through to next review\n- **Intervention:** Adaptive device(s) used (SPECIFY, e.g.",
+      "char_count": 1088,
+      "token_estimate": 272,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care12-p1001-t2pain-72hrstrategyevaluation_5abaf5c7172b_chunk_004_788bd6da",
+      "doc_id": "care12-p1001-t2pain-72hrstrategyevaluation_5abaf5c7172b",
+      "chunk_index": 4,
+      "text": "Describe any other, new or adjusted Pain Management Strategies especially those put into place because of ineffective or partially effective strategies:### 8. Care Plan:\n- **Focus:** Physical pain\n- **Goal:** Indications of pain will be managed evident by a decreased PAINAD score by next review\n- **Goal:** Numeric Pain Scale will demonstrate verbalizations of decreased pain through to next review\n- **Goal:** Resident goal (SPECIFY)\n- **Goal:** Will have a decreased Pain Scale Score from (SPECIFY) to (SPECIFY) through to next review\n- **Intervention:** Adaptive device(s) used (SPECIFY, e.g. Neck/back support cushions, joint brace, massage tool)----*Page 2 of 3*# Pain - 72hr Strategy Evaluation## Resident:\n- **Intervention: Cultural/traditional remedies**\n- (SPECIFY e.g., Acupuncture, Reiki, essential oils, etc.",
+      "char_count": 821,
+      "token_estimate": 205,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care12-p1001-t2pain-72hrstrategyevaluation_5abaf5c7172b_chunk_005_c2b96616",
+      "doc_id": "care12-p1001-t2pain-72hrstrategyevaluation_5abaf5c7172b",
+      "chunk_index": 5,
+      "text": "Care Plan:\n- **Focus:** Physical pain\n- **Goal:** Indications of pain will be managed evident by a decreased PAINAD score by next review\n- **Goal:** Numeric Pain Scale will demonstrate verbalizations of decreased pain through to next review\n- **Goal:** Resident goal (SPECIFY)\n- **Goal:** Will have a decreased Pain Scale Score from (SPECIFY) to (SPECIFY) through to next review\n- **Intervention:** Adaptive device(s) used (SPECIFY, e.g. Neck/back support cushions, joint brace, massage tool)----*Page 2 of 3*# Pain - 72hr Strategy Evaluation## Resident:\n- **Intervention: Cultural/traditional remedies**\n- (SPECIFY e.g., Acupuncture, Reiki, essential oils, etc. include routine, support required why who/when)- **Intervention: Non-verbal indications**\n- (SPECIFY e.g., facial grimacing, tight fists, crying, sweating, care refusal, guarding, new/worsened responsive behaviours etc.)- **Intervention: Pain triggers**\n- (SPECIFY), management strategies (SPECIFY- include routine, supports required, etc.)- **Intervention: Relaxation pain strategies**\n- (SPECIFY e.g., calming music, gentle massage- include resident routine, support required.)- **Intervention: RESTORATIVE**\n- Assist with Nursing rehab skills and training as method of pain relief (SPECIFY skills training, approach, time of day/duration)- **Intervention: RESTORATIVE**\n- Participates in PT/OT program(s) (SPECIFY) as method of pain relief (SPECIFY, e.g., heat therapy, TENs, ROM, etc., include time of day/times per week)- **Intervention: Support repositioning in chair/bed**\n- (SPECIFY-frequency and preferred position, etc.)----**Signature**: ___________________________\n**Date**: _______________________________----**Page 3 of 3**",
+      "char_count": 1700,
+      "token_estimate": 425,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

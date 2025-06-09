@@ -1,0 +1,18 @@
+{
+  "doc_id": "ipc2-p10-e40-enhancedprecautions-n95posterfrench_0cfb07d3ad4d",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "ipc2-p10-e40-enhancedprecautions-n95posterfrench_0cfb07d3ad4d_chunk_000_f0e3006d",
+      "doc_id": "ipc2-p10-e40-enhancedprecautions-n95posterfrench_0cfb07d3ad4d",
+      "chunk_index": 0,
+      "text": "# PRÉCAUTIONS RENFORCÉE## RESPIRATEUR N95 OBLIGATOIRE### EN PLUS DES PRÉCAUTIONS CONTRE LES CONTACTS ET L’EXPOSITION AUX GOUTTELETTES- **Portez une blouse à manches longues**\n- **Portez protection oculaire dans un rayon de 2 mètres du résident**\n- **Portez des gants**\n- **Portez un respirateur N95 dont l’ajustement et l’étanchéité ont été vérifiés**",
+      "char_count": 351,
+      "token_estimate": 87,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 3
+    }
+  ]
+}

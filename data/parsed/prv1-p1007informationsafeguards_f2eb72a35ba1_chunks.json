@@ -1,0 +1,102 @@
+{
+  "doc_id": "prv1-p1007informationsafeguards_f2eb72a35ba1",
+  "total_chunks": 8,
+  "chunks": [
+    {
+      "chunk_id": "prv1-p1007informationsafeguards_f2eb72a35ba1_chunk_000_138fa18b",
+      "doc_id": "prv1-p1007informationsafeguards_f2eb72a35ba1",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Privacy and Confidentiality\n**INDEX:** PRV1-P10.07\n**SECTION:** Privacy and Confidentiality\n**EFFECTIVE DATE:** April 1, 2025\n**DESCRIPTION:** Information Safeguards\n**REVIEWED DATE:** March 25, 2025\n**APPROVED BY:** Senior Director, Corporate Quality and Risk\n**MODIFIED DATE:** May 30, 2025----## POLICY### Privacy and Confidentiality Program## PROCEDURE### Administrative Safeguards- Managers/supervisors will review the importance of confidentiality with each new staff/student/volunteer/contracted service provider during orientation and annually, found within the Code of Business Conduct. - Managers/supervisors will ensure staff are made aware that any infraction related to Extendicare’s Privacy and Confidentiality policies may result in disciplinary action, up to and including termination of employment or contract with Extendicare. - Extendicare staff will complete education on policies and procedures for securing personal health information (PHI) via Privacy Education on Workday.",
+      "char_count": 1033,
+      "token_estimate": 258,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv1-p1007informationsafeguards_f2eb72a35ba1_chunk_001_804f4ade",
+      "doc_id": "prv1-p1007informationsafeguards_f2eb72a35ba1",
+      "chunk_index": 1,
+      "text": "- Managers/supervisors will ensure staff are made aware that any infraction related to Extendicare’s Privacy and Confidentiality policies may result in disciplinary action, up to and including termination of employment or contract with Extendicare. - Extendicare staff will complete education on policies and procedures for securing personal health information (PHI) via Privacy Education on Workday. - All Extendicare staff will take reasonable steps to confirm PHI transmitted via fax or email is sent to the correct recipient, such as confirming location or email address for first-time recipients. - Extendicare’s Privacy team will audit the collection, use, disclosure, and destruction of PHI to reduce the risk of error, fraud, or misuse of information.### Physical SafeguardsExecutive Directors/Managers/Supervisors will:- Ensure that all PHI is securely stored in filing cabinets or locked rooms. - Position monitors located in public areas so that residents/families/visitors cannot view any onscreen information. - Ensure PHI or confidential information transmitted by mail or courier is sealed, marked as confidential, and directed to the attention of the authorized recipient.",
+      "char_count": 1188,
+      "token_estimate": 297,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv1-p1007informationsafeguards_f2eb72a35ba1_chunk_002_3909efb7",
+      "doc_id": "prv1-p1007informationsafeguards_f2eb72a35ba1",
+      "chunk_index": 2,
+      "text": "- Position monitors located in public areas so that residents/families/visitors cannot view any onscreen information. - Ensure PHI or confidential information transmitted by mail or courier is sealed, marked as confidential, and directed to the attention of the authorized recipient. - Locate fax machines and printers used to send or receive PHI in a secure area. All fax transmissions are sent with a cover sheet that indicates the information being sent is confidential.All Staff will:- Discuss PHI in private or quiet areas. - Not leave PHI unattended in vehicles or when using public transit.### Technical Safeguards----**Helping people live better**\nThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 2**# PROCEDURE## SECTION: Privacy and Confidentiality",
+      "char_count": 1047,
+      "token_estimate": 261,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv1-p1007informationsafeguards_f2eb72a35ba1_chunk_003_d1cdac02",
+      "doc_id": "prv1-p1007informationsafeguards_f2eb72a35ba1",
+      "chunk_index": 3,
+      "text": "### DESCRIPTION: Information Safeguards\n\n### INDEX: PRV1-P10.07For awareness, Extendicare deploys the following technical safeguards:- Extendicare users are assigned a user ID to authenticate and restrict access to data and applications required for their role. Privileges are restricted to the least amount of PHI required for their functional role and that can be reasonably accommodated by the specific information system. The use of another person’s assigned User ID is prohibited.- Passwords meet or exceed the minimum requirements of the system for which they are used.",
+      "char_count": 575,
+      "token_estimate": 143,
+      "section_title": "DESCRIPTION: Information Safeguards",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv1-p1007informationsafeguards_f2eb72a35ba1_chunk_005_decd7c8c",
+      "doc_id": "prv1-p1007informationsafeguards_f2eb72a35ba1",
+      "chunk_index": 5,
+      "text": "Privileges are restricted to the least amount of PHI required for their functional role and that can be reasonably accommodated by the specific information system. The use of another person’s assigned User ID is prohibited.- Passwords meet or exceed the minimum requirements of the system for which they are used. They are a combination of alphanumeric characters that cannot be easily guessed and are kept confidential at all times and should not be written down, posted publicly or shared with other staff.- PHI is not sent by email or transmitted over external networks, including internet and wireless networks, without being encrypted and must contain a confidentiality notification.- PHI is stored only on designated network drives.- Extendicare deploys firewalls, intrusion detection software, and other technical means to protect internal Extendicare networks carrying identifiable PHI from unauthorized use and malicious software.- Extendicare and its service providers complete audits as required by provincial legislation.- Conducts privacy impact assessments to assess potential risks to Extendicare’s network and PHI e.g., introduction of a new health information repository.> **Note:** Privacy Impact Assessments (PIAs) are required in the province of Alberta and must be submitted to the Alberta Privacy Commissioner’s Office upon completion.## EDUCATION1.",
+      "char_count": 1371,
+      "token_estimate": 342,
+      "section_title": "INDEX: PRV1-P10.07For awareness, Extendicare deploys the following technical safeguards:- Extendicare users are assigned a user ID to authenticate and restrict access to data and applications required for their role. Privileges are restricted to the least amount of PHI required for their functional role and that can be reasonably accommodated by the specific information system. The use of another person’s assigned User ID is prohibited.- Passwords meet or exceed the minimum requirements of the system for which they are used. They are a combination of alphanumeric characters that cannot be easily guessed and are kept confidential at all times and should not be written down, posted publicly or shared with other staff.- PHI is not sent by email or transmitted over external networks, including internet and wireless networks, without being encrypted and must contain a confidentiality notification.- PHI is stored only on designated network drives.- Extendicare deploys firewalls, intrusion detection software, and other technical means to protect internal Extendicare networks carrying identifiable PHI from unauthorized use and malicious software.- Extendicare and its service providers complete audits as required by provincial legislation.- Conducts privacy impact assessments to assess potential risks to Extendicare’s network and PHI e.g., introduction of a new health information repository.> **Note:** Privacy Impact Assessments (PIAs) are required in the province of Alberta and must be submitted to the Alberta Privacy Commissioner’s Office upon completion.## EDUCATION1. Annual Privacy Education----Helping people live betterThis document is uncontrolled when printed.Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 2 of 2**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv1-p1007informationsafeguards_f2eb72a35ba1_chunk_006_ff5ec0a4",
+      "doc_id": "prv1-p1007informationsafeguards_f2eb72a35ba1",
+      "chunk_index": 6,
+      "text": "The use of another person’s assigned User ID is prohibited.- Passwords meet or exceed the minimum requirements of the system for which they are used. They are a combination of alphanumeric characters that cannot be easily guessed and are kept confidential at all times and should not be written down, posted publicly or shared with other staff.- PHI is not sent by email or transmitted over external networks, including internet and wireless networks, without being encrypted and must contain a confidentiality notification.- PHI is stored only on designated network drives.- Extendicare deploys firewalls, intrusion detection software, and other technical means to protect internal Extendicare networks carrying identifiable PHI from unauthorized use and malicious software.- Extendicare and its service providers complete audits as required by provincial legislation.- Conducts privacy impact assessments to assess potential risks to Extendicare’s network and PHI e.g., introduction of a new health information repository.> **Note:** Privacy Impact Assessments (PIAs) are required in the province of Alberta and must be submitted to the Alberta Privacy Commissioner’s Office upon completion.## EDUCATION1. Annual Privacy Education----Helping people live betterThis document is uncontrolled when printed.Extendicare (Canada) Inc.",
+      "char_count": 1330,
+      "token_estimate": 332,
+      "section_title": "INDEX: PRV1-P10.07For awareness, Extendicare deploys the following technical safeguards:- Extendicare users are assigned a user ID to authenticate and restrict access to data and applications required for their role. Privileges are restricted to the least amount of PHI required for their functional role and that can be reasonably accommodated by the specific information system. The use of another person’s assigned User ID is prohibited.- Passwords meet or exceed the minimum requirements of the system for which they are used. They are a combination of alphanumeric characters that cannot be easily guessed and are kept confidential at all times and should not be written down, posted publicly or shared with other staff.- PHI is not sent by email or transmitted over external networks, including internet and wireless networks, without being encrypted and must contain a confidentiality notification.- PHI is stored only on designated network drives.- Extendicare deploys firewalls, intrusion detection software, and other technical means to protect internal Extendicare networks carrying identifiable PHI from unauthorized use and malicious software.- Extendicare and its service providers complete audits as required by provincial legislation.- Conducts privacy impact assessments to assess potential risks to Extendicare’s network and PHI e.g., introduction of a new health information repository.> **Note:** Privacy Impact Assessments (PIAs) are required in the province of Alberta and must be submitted to the Alberta Privacy Commissioner’s Office upon completion.## EDUCATION1. Annual Privacy Education----Helping people live betterThis document is uncontrolled when printed.Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 2 of 2**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv1-p1007informationsafeguards_f2eb72a35ba1_chunk_007_248cf260",
+      "doc_id": "prv1-p1007informationsafeguards_f2eb72a35ba1",
+      "chunk_index": 7,
+      "text": "They are a combination of alphanumeric characters that cannot be easily guessed and are kept confidential at all times and should not be written down, posted publicly or shared with other staff.- PHI is not sent by email or transmitted over external networks, including internet and wireless networks, without being encrypted and must contain a confidentiality notification.- PHI is stored only on designated network drives.- Extendicare deploys firewalls, intrusion detection software, and other technical means to protect internal Extendicare networks carrying identifiable PHI from unauthorized use and malicious software.- Extendicare and its service providers complete audits as required by provincial legislation.- Conducts privacy impact assessments to assess potential risks to Extendicare’s network and PHI e.g., introduction of a new health information repository.> **Note:** Privacy Impact Assessments (PIAs) are required in the province of Alberta and must be submitted to the Alberta Privacy Commissioner’s Office upon completion.## EDUCATION1. Annual Privacy Education----Helping people live betterThis document is uncontrolled when printed.Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.",
+      "char_count": 1356,
+      "token_estimate": 339,
+      "section_title": "INDEX: PRV1-P10.07For awareness, Extendicare deploys the following technical safeguards:- Extendicare users are assigned a user ID to authenticate and restrict access to data and applications required for their role. Privileges are restricted to the least amount of PHI required for their functional role and that can be reasonably accommodated by the specific information system. The use of another person’s assigned User ID is prohibited.- Passwords meet or exceed the minimum requirements of the system for which they are used. They are a combination of alphanumeric characters that cannot be easily guessed and are kept confidential at all times and should not be written down, posted publicly or shared with other staff.- PHI is not sent by email or transmitted over external networks, including internet and wireless networks, without being encrypted and must contain a confidentiality notification.- PHI is stored only on designated network drives.- Extendicare deploys firewalls, intrusion detection software, and other technical means to protect internal Extendicare networks carrying identifiable PHI from unauthorized use and malicious software.- Extendicare and its service providers complete audits as required by provincial legislation.- Conducts privacy impact assessments to assess potential risks to Extendicare’s network and PHI e.g., introduction of a new health information repository.> **Note:** Privacy Impact Assessments (PIAs) are required in the province of Alberta and must be submitted to the Alberta Privacy Commissioner’s Office upon completion.## EDUCATION1. Annual Privacy Education----Helping people live betterThis document is uncontrolled when printed.Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 2 of 2**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv1-p1007informationsafeguards_f2eb72a35ba1_chunk_008_7d7d26e4",
+      "doc_id": "prv1-p1007informationsafeguards_f2eb72a35ba1",
+      "chunk_index": 8,
+      "text": "Annual Privacy Education----Helping people live betterThis document is uncontrolled when printed.Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 2 of 2**",
+      "char_count": 394,
+      "token_estimate": 98,
+      "section_title": "INDEX: PRV1-P10.07For awareness, Extendicare deploys the following technical safeguards:- Extendicare users are assigned a user ID to authenticate and restrict access to data and applications required for their role. Privileges are restricted to the least amount of PHI required for their functional role and that can be reasonably accommodated by the specific information system. The use of another person’s assigned User ID is prohibited.- Passwords meet or exceed the minimum requirements of the system for which they are used. They are a combination of alphanumeric characters that cannot be easily guessed and are kept confidential at all times and should not be written down, posted publicly or shared with other staff.- PHI is not sent by email or transmitted over external networks, including internet and wireless networks, without being encrypted and must contain a confidentiality notification.- PHI is stored only on designated network drives.- Extendicare deploys firewalls, intrusion detection software, and other technical means to protect internal Extendicare networks carrying identifiable PHI from unauthorized use and malicious software.- Extendicare and its service providers complete audits as required by provincial legislation.- Conducts privacy impact assessments to assess potential risks to Extendicare’s network and PHI e.g., introduction of a new health information repository.> **Note:** Privacy Impact Assessments (PIAs) are required in the province of Alberta and must be submitted to the Alberta Privacy Commissioner’s Office upon completion.## EDUCATION1. Annual Privacy Education----Helping people live betterThis document is uncontrolled when printed.Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 2 of 2**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

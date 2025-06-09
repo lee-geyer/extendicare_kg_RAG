@@ -1,0 +1,53 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t4ffireblanketsinspectionchecklist_2523374aa70e_chunk_000_677bb609",
+      "doc_id": "maint1-o1002-t4ffireblanketsinspectionchecklist_2523374aa70e",
+      "chunk_index": 0,
+      "text": "# Extendicare Maintenance Inspection Checklist## Equipment: Fire Blankets### LEGEND/KEY| LEGEND | KEY         |\n|--------|-------------|\n| W      | Weekly      |\n| M      | Monthly     |\n| Q      | Quarterly   |\n| S      | Semi-Annual |\n| A      | Annual      |\n| O      | Ok          |\n| R      | Repair      |\n| N      | Replace     |### Inspection Details- **Name:**\n- **Year:**\n- **Unit No.:**\n- **Manufacturer:** All\n- **Model:** All### Inspection Checks| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   |   |   | 1. Check that blankets are in their proper place. |\n| X |   |   |   |   | 2. Check that cabinet/container is properly secured. |\n| X |   |   |   |   | 3. Check that pull straps are:                                      |\n|   |   |   |   |   |    - properly secured to the blanket                                 |\n|   |   |   |   |   |    - visible, free, and accessible                                   |\n| X |   |   |   |   | 4. Check that blanket is properly folded for its cabinet/container.",
+      "char_count": 1163,
+      "token_estimate": 290,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t4ffireblanketsinspectionchecklist_2523374aa70e_chunk_001_cd74cfc0",
+      "doc_id": "maint1-o1002-t4ffireblanketsinspectionchecklist_2523374aa70e",
+      "chunk_index": 1,
+      "text": "Check that pull straps are:                                      |\n|   |   |   |   |   |    - properly secured to the blanket                                 |\n|   |   |   |   |   |    - visible, free, and accessible                                   |\n| X |   |   |   |   | 4. Check that blanket is properly folded for its cabinet/container. |### Monthly Checklist|       | JAN | FEB | MAR | APR | MAY | JUN |\n|-------|-----|-----|-----|-----|-----|-----|\n| M     |     |     |     |     |     |     |\n| Q     |     |     |     |     |     |     |\n| S     |     |     |     |     |     |     |\n| A     |     |     |     |     |     |     |\n| W     |     |     |     |     |     |     ||       | JUL | AUG | SEP | OCT | NOV | DEC |\n|-------|-----|-----|-----|-----|-----|-----|\n| M     |     |     |     |     |     |     |\n| Q     |     |     |     |     |     |     |\n| S     |     |     |     |     |     |     |\n| A     |     |     |     |     |     |     |\n| W     |     |     |     |     |     |     |----**Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1090,
+      "token_estimate": 272,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t4ffireblanketsinspectionchecklist_2523374aa70e_chunk_002_dd7e8e44",
+      "doc_id": "maint1-o1002-t4ffireblanketsinspectionchecklist_2523374aa70e",
+      "chunk_index": 2,
+      "text": "|### Monthly Checklist|       | JAN | FEB | MAR | APR | MAY | JUN |\n|-------|-----|-----|-----|-----|-----|-----|\n| M     |     |     |     |     |     |     |\n| Q     |     |     |     |     |     |     |\n| S     |     |     |     |     |     |     |\n| A     |     |     |     |     |     |     |\n| W     |     |     |     |     |     |     ||       | JUL | AUG | SEP | OCT | NOV | DEC |\n|-------|-----|-----|-----|-----|-----|-----|\n| M     |     |     |     |     |     |     |\n| Q     |     |     |     |     |     |     |\n| S     |     |     |     |     |     |     |\n| A     |     |     |     |     |     |     |\n| W     |     |     |     |     |     |     |----**Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 994,
+      "token_estimate": 248,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t4ffireblanketsinspectionchecklist_2523374aa70e_chunk_003_4358013a",
+      "doc_id": "maint1-o1002-t4ffireblanketsinspectionchecklist_2523374aa70e",
+      "chunk_index": 3,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 2 of 2",
+      "char_count": 788,
+      "token_estimate": 197,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 4
+}

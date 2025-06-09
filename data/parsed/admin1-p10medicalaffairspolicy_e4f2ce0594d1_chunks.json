@@ -1,0 +1,41 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "admin1-p10medicalaffairspolicy_e4f2ce0594d1_chunk_000_2f1397a8",
+      "doc_id": "admin1-p10medicalaffairspolicy_e4f2ce0594d1",
+      "chunk_index": 0,
+      "text": "```markdown\n\n# Extendicare Policy Manual**INDEX:** ADMIN1-P10\n**SECTION:** Medical and Professional Services\n**EFFECTIVE DATE:** July 15, 2025\n**REVIEWED DATE:** July 8, 2025\n**APPROVED BY:** VP, LTC Operations\n**MODIFIED DATE:**----## POLICYExtendicare Medical Affairs is a function operating within the Chief Medical Office, which oversees all administrative activities of Physicians and Nurse Practitioners.## STANDARDAll Extendicare homes are responsible for following the procedures established by Medical Affairs including but not limited to recruitment, credentialing, onboarding, retainment, compliance, and departure of Medical Directors, Attending Physicians, and Nurse Practitioners.## PROCEDURE1. Medical Affairs## EDUCATION1. Ontario Long-Term Care Clinicians’ Medical Director course:\nhttps://www.oltcc.ca/medicaldirectorcourse/",
+      "char_count": 842,
+      "token_estimate": 210,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "admin1-p10medicalaffairspolicy_e4f2ce0594d1_chunk_002_32e70b3d",
+      "doc_id": "admin1-p10medicalaffairspolicy_e4f2ce0594d1",
+      "chunk_index": 2,
+      "text": "2. Ontario Physician and Nurse Practitioner Education Requirement## REFERENCES1. Alberta:\n- Continuing Care Health Service Standards:\nhttps://open.alberta.ca/publications/continuing-care-health-service-standards\n\n2. Manitoba:\n- Medical Staff Rules and Regulations, 2021 (Winnipeg Region-specific):\nhttps://sharedhealthmb.ca/files/med-staff-rules-and-regs-wrha.pdf\n- PCH Medical Director Roles & Responsibilities\n- PCH Attending Physician & Nurse Practitioner Roles & Responsibilities",
+      "char_count": 483,
+      "token_estimate": 120,
+      "section_title": "Ontario Physician and Nurse Practitioner Education Requirement## REFERENCES1. Alberta:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "admin1-p10medicalaffairspolicy_e4f2ce0594d1_chunk_004_ebd84c41",
+      "doc_id": "admin1-p10medicalaffairspolicy_e4f2ce0594d1",
+      "chunk_index": 4,
+      "text": "3. Ontario:\n- Fixing Long Term Care Act, 2021:\nhttps://www.ontario.ca/laws/statute/21f39----Helping people live betterThis document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n```",
+      "char_count": 444,
+      "token_estimate": 111,
+      "section_title": "Ontario:",
+      "chunk_type": "content",
+      "start_line": 16,
+      "end_line": 20
+    }
+  ],
+  "total_chunks": 3
+}

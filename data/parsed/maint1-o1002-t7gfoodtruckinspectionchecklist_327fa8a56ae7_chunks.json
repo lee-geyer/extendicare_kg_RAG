@@ -1,0 +1,41 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t7gfoodtruckinspectionchecklist_327fa8a56ae7_chunk_000_5d67d82c",
+      "doc_id": "maint1-o1002-t7gfoodtruckinspectionchecklist_327fa8a56ae7",
+      "chunk_index": 0,
+      "text": "# Extendicare Maintenance Inspection Checklist## Equipment: Food Truck### LEGEND/KEY| LEGEND | KEY       |\n|--------|-----------|\n| W      | Weekly    |\n| M      | Monthly   |\n| Q      | Quarterly |\n| S      | Semi-Annual |\n| A      | Annual    |\n| O      | Ok        |\n| R      | Repair    |\n| N      | Replace   |### CHECKS| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   |   |   | 1. Check that catches and hinges and door locks operate smoothly. |\n| X |   |   |   |   | 2. Check that casters and bumper guards are in place, secure and in good condition. |\n| X |   |   |   |   | 3. Lubricate as required.",
+      "char_count": 756,
+      "token_estimate": 189,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t7gfoodtruckinspectionchecklist_327fa8a56ae7_chunk_001_6cdd2e09",
+      "doc_id": "maint1-o1002-t7gfoodtruckinspectionchecklist_327fa8a56ae7",
+      "chunk_index": 1,
+      "text": "|\n| X |   |   |   |   | 3. Lubricate as required. |### Monthly Schedule|     | JAN | FEB | MAR | APR | MAY | JUN | |\n|-----|-----|-----|-----|-----|-----|-----|---|\n| M   | Q   | S   | A   | M   | Q   | S   | A   |\n| W   | W   | W   | W   | W   | W   | W   | W   ||     | JUL | AUG | SEP | OCT | NOV | DEC | |\n|-----|-----|-----|-----|-----|-----|-----|---|\n| M   | Q   | S   | A   | M   | Q   | S   | A   |\n| W   | W   | W   | W   | W   | W   | W   | W   |----*Helping people live better*> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1059,
+      "token_estimate": 264,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t7gfoodtruckinspectionchecklist_327fa8a56ae7_chunk_002_8588be64",
+      "doc_id": "maint1-o1002-t7gfoodtruckinspectionchecklist_327fa8a56ae7",
+      "chunk_index": 2,
+      "text": "© 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\nPage 2 of 2",
+      "char_count": 519,
+      "token_estimate": 129,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 3
+}

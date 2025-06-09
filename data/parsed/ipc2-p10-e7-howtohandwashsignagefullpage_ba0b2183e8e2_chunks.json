@@ -1,0 +1,78 @@
+{
+  "doc_id": "ipc2-p10-e7-howtohandwashsignagefullpage_ba0b2183e8e2",
+  "total_chunks": 6,
+  "chunks": [
+    {
+      "chunk_id": "ipc2-p10-e7-howtohandwashsignagefullpage_ba0b2183e8e2_chunk_000_7c0c2a5f",
+      "doc_id": "ipc2-p10-e7-howtohandwashsignagefullpage_ba0b2183e8e2",
+      "chunk_index": 0,
+      "text": "# How to Handwash## Handwashing Station1. Wet hands with warm water\n\n2. Apply soap",
+      "char_count": 82,
+      "token_estimate": 20,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-e7-howtohandwashsignagefullpage_ba0b2183e8e2_chunk_002_fbc84734",
+      "doc_id": "ipc2-p10-e7-howtohandwashsignagefullpage_ba0b2183e8e2",
+      "chunk_index": 2,
+      "text": "3. Lather soap and rub hands palm to palm\n\n4. Rub in between hand with palm of other hand",
+      "char_count": 89,
+      "token_estimate": 22,
+      "section_title": "Lather soap and rub hands palm to palm",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-e7-howtohandwashsignagefullpage_ba0b2183e8e2_chunk_004_e7a67e5f",
+      "doc_id": "ipc2-p10-e7-howtohandwashsignagefullpage_ba0b2183e8e2",
+      "chunk_index": 4,
+      "text": "5. Rub back of each hand with palm of other hand\n\n6. Rub fingertips of each hand in opposite palm",
+      "char_count": 97,
+      "token_estimate": 24,
+      "section_title": "Rub back of each hand with palm of other hand",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-e7-howtohandwashsignagefullpage_ba0b2183e8e2_chunk_006_e915217b",
+      "doc_id": "ipc2-p10-e7-howtohandwashsignagefullpage_ba0b2183e8e2",
+      "chunk_index": 6,
+      "text": "7. Rub each thumb clasped in opposite hand\n\n8. Rinse thoroughly under running water",
+      "char_count": 83,
+      "token_estimate": 20,
+      "section_title": "Rub each thumb clasped in opposite hand",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-e7-howtohandwashsignagefullpage_ba0b2183e8e2_chunk_008_04aa3aa3",
+      "doc_id": "ipc2-p10-e7-howtohandwashsignagefullpage_ba0b2183e8e2",
+      "chunk_index": 8,
+      "text": "9. Pat hands dry with paper towel\n\n10. Turn off water using paper towel",
+      "char_count": 71,
+      "token_estimate": 17,
+      "section_title": "Pat hands dry with paper towel",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-e7-howtohandwashsignagefullpage_ba0b2183e8e2_chunk_010_3e537391",
+      "doc_id": "ipc2-p10-e7-howtohandwashsignagefullpage_ba0b2183e8e2",
+      "chunk_index": 10,
+      "text": "11. Your hands are safe",
+      "char_count": 23,
+      "token_estimate": 5,
+      "section_title": "Your hands are safe",
+      "chunk_type": "content",
+      "start_line": 10,
+      "end_line": 10
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint5-o1003-t2kitchenhoodfiresuppressionsysinspform_5f4479c635ae_chunk_000_c0fed3ab",
+      "doc_id": "maint5-o1003-t2kitchenhoodfiresuppressionsysinspform_5f4479c635ae",
+      "chunk_index": 0,
+      "text": "# Extendicare Kitchen Hood Fire Suppression System Inspection (Semi‐Annual) Form| **Facility Name:** | **Date of Inspection:** |\n|--------------------|------------------------|\n|                    |                        |## INSPECTION COMPANY:\n- **Name:**\n- **Address:**\n- **Inspector:**\n- **Signature:**## SYSTEM:\n- **Manufacturer:**\n- **Model:**\n- **Type:**\n- **Size:**\n- **No. of Nozzles:**\n- **Size and Type:**\n- **No. of Detectors:**\n- **Temperature Rating:**\n- **Location of Manual Release:**\n- **Emergency Shut‐Off Devices:**\n- Mechanical\n- Electrical## INSPECTION CHECKLIST\n- [ ] Insert safety pin or remove cartridge to de‐activate system. - [ ] Supply cylinder weighted and cylinder pressure checked. - [ ] Check grease build‐up in hood. - [ ] Test AUTO and MAN operation of system. - [ ] Test automatic gas and/or electrical shut down devices. - [ ] Check and clean all discharge nozzles, ensure all piping and fittings are tight. - [ ] Check cables for fraying or possible weak spots. - [ ] Change all fusible links and clean all quartzoid links. - [ ] Inspect dry chemical inside cartridge operated systems. - [ ] Replace all filters and nozzle covers.",
+      "char_count": 1168,
+      "token_estimate": 292,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint5-o1003-t2kitchenhoodfiresuppressionsysinspform_5f4479c635ae_chunk_001_11063f0e",
+      "doc_id": "maint5-o1003-t2kitchenhoodfiresuppressionsysinspform_5f4479c635ae",
+      "chunk_index": 1,
+      "text": "- [ ] Inspect dry chemical inside cartridge operated systems. - [ ] Replace all filters and nozzle covers. - [ ] Restore system to normal and reactivate.| **Date of last recharge:** | **Next recharge:** |\n|----------------------------|-------------------|\n|                            |                   || **Date of last hydrostatic test:** | **Next hydrostatic test:** |\n|------------------------------------|----------------------------|\n|                                    |                            |## COMMENTS\nHelping people live better> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 1**",
+      "char_count": 890,
+      "token_estimate": 222,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 2
+}

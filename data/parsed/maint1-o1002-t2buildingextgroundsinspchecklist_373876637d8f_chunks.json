@@ -1,0 +1,53 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t2buildingextgroundsinspchecklist_373876637d8f_chunk_000_e200d1f1",
+      "doc_id": "maint1-o1002-t2buildingextgroundsinspchecklist_373876637d8f",
+      "chunk_index": 0,
+      "text": "# Extendicare Building Checklist## Facility No. **Facility Name**\n**Check by**\n**Date**### Legend\n| Key | Description          |\n|-----|----------------------|\n| W   | Weekly               |\n| M   | Monthly              |\n| R   | Repair               |\n| Q   | Quarterly            |\n| N   | Replace              |\n| S   | Semi-Annual          |\n| A   | Annual               |### Building Exterior and Grounds Checks\n| W | M | Q | S | A | Item                                                        |\n|---|---|---|---|---|-------------------------------------------------------------|\n| X |   |   |   |   | 1. Patio areas clean and in good condition. |\n| X |   |   |   |   | 2. Sidewalks, entrances, and steps are clean and safe. |\n| X |   |   |   |   | 3. Exterior lights are working. |\n| X |   |   |   |   | 4. Garbage collection area clean and orderly. |\n| X |   |   |   |   | 5. Lawn furniture is secure and in good order. |\n|   | X |   |   |   | 6. Lawn in need of mowing or watering. |\n|   | X |   |   |   | 7. Flower beds. |\n|   | X |   |   |   | 8. Cracks or settling in pavement. |\n|   | X |   |   |   | 9. Parking lot surface and markings in good condition. |\n|   | X |   |   |   | 10.",
+      "char_count": 1195,
+      "token_estimate": 298,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t2buildingextgroundsinspchecklist_373876637d8f_chunk_001_9bd4ade8",
+      "doc_id": "maint1-o1002-t2buildingextgroundsinspchecklist_373876637d8f",
+      "chunk_index": 1,
+      "text": "Parking lot surface and markings in good condition. |\n|   | X |   |   |   | 10. Exterior signs visible and in good condition. |\n|   |   | X |   |   | 11. Trees and hedges trimmed. |\n|   |   | X |   |   | 12. Eavestrough, RWL, catch basins clear; screens, cover in place. |\n|   |   | X |   |   | 13. Window seals, sash, sills in good condition. |\n|   |   | X |   |   | 14. Building exterior surfaces in good condition. |\n|   |   |   | X |   | 15. Arrange exterior window cleaning. |\n|   |   |   | X |   | 16. Weedkiller and fertilizer application. |\n|   |   |   | X |   | 17. Enclosures in good repair and painted. |\n|   |   |   | X |   | 18. Gates in good repair and painted. |\n|   |   |   | X |   | 19. Out-buildings in good repair and painted. |\n|   |   |   | X |   | 20. Rainwater leaders firmly attached, draining away from building. |\n|   |   |   | X |   | 21. Eavestroughs firmly attached, properly sloped, clean. |\n|   |   |   | X |   | 22. Roof and flashings in good condition, no evidence of water penetration.",
+      "char_count": 1019,
+      "token_estimate": 254,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t2buildingextgroundsinspchecklist_373876637d8f_chunk_002_c718997f",
+      "doc_id": "maint1-o1002-t2buildingextgroundsinspchecklist_373876637d8f",
+      "chunk_index": 2,
+      "text": "|\n|   |   |   | X |   | 22. Roof and flashings in good condition, no evidence of water penetration. |### Monthly Schedule\n| Month | M | Q | S | A |\n|-------|---|---|---|---|\n| JAN   | W | W | W | W |\n| FEB   | W | W | W | W |\n| MAR   | W | W | W | W |\n| APR   | W | W | W | W |\n| MAY   | W | W | W | W |\n| JUN   | W | W | W | W |\n| JUL   | W | W | W | W |\n| AUG   | W | W | W | W |\n| SEP   | W | W | W | W |\n| OCT   | W | W | W | W |\n| NOV   | W | W | W | W |\n| DEC   | W | W | W | W |----**Helping people live better.**\nThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. **Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1090,
+      "token_estimate": 272,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t2buildingextgroundsinspchecklist_373876637d8f_chunk_003_ae3e525e",
+      "doc_id": "maint1-o1002-t2buildingextgroundsinspchecklist_373876637d8f",
+      "chunk_index": 3,
+      "text": "© 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 2 of 2",
+      "char_count": 515,
+      "token_estimate": 128,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 4
+}

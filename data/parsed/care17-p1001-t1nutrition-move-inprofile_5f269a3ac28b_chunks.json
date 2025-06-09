@@ -1,0 +1,54 @@
+{
+  "doc_id": "care17-p1001-t1nutrition-move-inprofile_5f269a3ac28b",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "care17-p1001-t1nutrition-move-inprofile_5f269a3ac28b_chunk_000_500e97e8",
+      "doc_id": "care17-p1001-t1nutrition-move-inprofile_5f269a3ac28b",
+      "chunk_index": 0,
+      "text": "# Nutrition - Move-in Profile| Resident: | Effective Date: | Location: |\n|-----------|------------------|-----------|\n| Initial Admission: | Admission: | Date of Birth: |\n| Score: NA | Category: NA | Physician: |## A. Move-in Nutrition Profile1. **Nutrition Manager/Food Services Manager** must complete the Move-in Nutrition Profile. Any identified risk should be addressed with the Nurse and/or Dietitian.### Diet and Dining2. **Diet Type, Food Texture and Fluid Consistency Prior to Move-in:**",
+      "char_count": 496,
+      "token_estimate": 124,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 3
+    },
+    {
+      "chunk_id": "care17-p1001-t1nutrition-move-inprofile_5f269a3ac28b_chunk_001_2087f9cc",
+      "doc_id": "care17-p1001-t1nutrition-move-inprofile_5f269a3ac28b",
+      "chunk_index": 1,
+      "text": "3. **Move-in Oral Diet Type:**\n- a. Regular\n- b. Gluten Restricted\n- c. Low Potassium\n- d. Vegetarian\n- e. Clear Fluid\n- f. Full Fluid\n- g. NPO4. **Therapeutic Interventions** (appropriate until assessed by RD)\n\n5. **Move-in Food Texture:**\n- a. Regular\n- b. Minced Meat\n- c. Minced\n- d. Pureed\n- e. Liquid (Fluid)\n- f. NPO6. **Fluid Consistency:**\n- a. Thin Level 0 (TN0)/ Regular\n- b. Mildly Thick Level 2 (MT2)/ Nectar-Like\n- c. Moderately Thick Level 3 (M03)/ Honey-Like\n- d. Extremely Thick Level 4 (EX4)/ Pudding-Like\n- e. NPO7. **Does Resident receive Enteral Feeding?**\n- a. Yes\n- b. No8. **If 'yes' please specify:** (S)",
+      "char_count": 629,
+      "token_estimate": 157,
+      "section_title": "**Move-in Oral Diet Type:**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p1001-t1nutrition-move-inprofile_5f269a3ac28b_chunk_003_22f8dd32",
+      "doc_id": "care17-p1001-t1nutrition-move-inprofile_5f269a3ac28b",
+      "chunk_index": 3,
+      "text": "9. **Nutritional Supplement or Special/Snack Extras Prior to Move-in:**\n\n10. **Allergies**",
+      "char_count": 90,
+      "token_estimate": 22,
+      "section_title": "**Nutritional Supplement or Special/Snack Extras Prior to Move-in:**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p1001-t1nutrition-move-inprofile_5f269a3ac28b_chunk_005_1db106af",
+      "doc_id": "care17-p1001-t1nutrition-move-inprofile_5f269a3ac28b",
+      "chunk_index": 5,
+      "text": "11. **Food/Fluid Intolerance and Consequences of Consumption:**----*Page 1 of 2*# Nutrition - Move-in Profile## Resident Information1. **Previous OR Recommended Assistive Feeding Devices:**2. **Previous OR Suggested Level of Assistance Required:**3. **Dining Room Table Assignment:**\n- Intake4. **Usual Eating and Drinking Pattern:**5. **Religious, Cultural and/or Language Requirements:**6. **Food/Fluid Preferences:**7. **Food/Fluid Dislikes/Refusal:**\n- Other8. **Comments, Noted Concerns and Recommendations (including Resident and Family):**----## B. Signature1. **Signature and Designation:**2. **Date:**Signature: ________________________Date: ____________________________----**Page 2 of 2**",
+      "char_count": 698,
+      "token_estimate": 174,
+      "section_title": "**Food/Fluid Intolerance and Consequences of Consumption:**----*Page 1 of 2*# Nutrition - Move-in Profile## Resident Information1. **Previous OR Recommended Assistive Feeding Devices:**2. **Previous OR Suggested Level of Assistance Required:**3. **Dining Room Table Assignment:**",
+      "chunk_type": "content",
+      "start_line": 28,
+      "end_line": 30
+    }
+  ]
+}

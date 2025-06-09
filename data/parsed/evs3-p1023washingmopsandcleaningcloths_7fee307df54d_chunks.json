@@ -1,0 +1,42 @@
+{
+  "doc_id": "evs3-p1023washingmopsandcleaningcloths_7fee307df54d",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "evs3-p1023washingmopsandcleaningcloths_7fee307df54d_chunk_000_6b3b9c2b",
+      "doc_id": "evs3-p1023washingmopsandcleaningcloths_7fee307df54d",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE\n- **MANUAL:** Environmental Services\n- **INDEX:** EVS3-P10.23\n- **SECTION:** Personal Clothing and Linen Processes-Laundry\n- **EFFECTIVE DATE:** March 18, 2025\n- **REVIEWED DATE:** March 7, 2025\n- **APPROVED BY:** Senior Director, Operational Quality and Professional Practice\n- **MODIFIED DATE:** May 14, 2025----## POLICY\n\n### Personal Clothing and Linen Processes## PROCEDURE### Manager or Designate:\n- Purchase galvanized metal containers for the storage of dust mops and cleaning cloths. More than one container per item may be required. - Place the container in the clean area of the Laundry Department, accessible to both Laundry and Housekeeping staff. - Set up an area in or close to the laundry room to allow staff to hang wet mops for drying. Hooks, hanging bars, or similar devices may be used to hang wet mops for this purpose. Area should be accessible to housekeeping staff. - Educate laundry staff on the proper procedures for processing mops and cleaning cloths.### Laundry Staff:\n- Do not wash or dry mops or cleaning cloths that have been used with solvents, degreasers, or oil. These items must be discarded to an outside garbage container. - Ensure that mop heads and cleaning cloths are washed separately from other soiled products. - Unless otherwise indicated by manufacturer’s instructions, do not dry wet (continuous loop) mops in the laundry dryers. Hang wet mops to dry in the area provided for this purpose.",
+      "char_count": 1462,
+      "token_estimate": 365,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs3-p1023washingmopsandcleaningcloths_7fee307df54d_chunk_002_781579ee",
+      "doc_id": "evs3-p1023washingmopsandcleaningcloths_7fee307df54d",
+      "chunk_index": 2,
+      "text": "- Unless otherwise indicated by manufacturer’s instructions, do not dry wet (continuous loop) mops in the laundry dryers. Hang wet mops to dry in the area provided for this purpose. If using hooks, hang mops from the bottom band that provides the continuous loop at the bottom of the mop. If using a hanging bar, the mop will go over the bar and rest on the centre of the mop. - When storing mops to air dry, do not allow them to come into contact with walls or equipment. - Dry non-disposable dust mops and cleaning cloths in the dryer on medium temperature (150 °F) for approximately 20 minutes, with a 10-minute cool-down cycle. Strict compliance to cool-down instructions is required by all Laundry staff.----> This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 2# PROCEDURE## SECTION: Personal Clothing and Linen Processes - Laundry",
+      "char_count": 1123,
+      "token_estimate": 280,
+      "section_title": "Personal Clothing and Linen Processes## PROCEDURE### Manager or Designate:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs3-p1023washingmopsandcleaningcloths_7fee307df54d_chunk_003_643b7f55",
+      "doc_id": "evs3-p1023washingmopsandcleaningcloths_7fee307df54d",
+      "chunk_index": 3,
+      "text": "### DESCRIPTION: Washing Mops and Cleaning Cloths\n\n### INDEX: EVS3-P10.23After these items have been laundered, store dried dust mops and cleaning cloths in a galvanized metal container complete with a lid. The lid must be on the container at all times.- Dry microfibre mops and cleaning cloths at a maximum drying temperature of medium-low (120°F to 130°F), with a 10-minute cool-down cycle.\n- Ensure microfibre cloths and floor pads have completed the cool-down cycle before they are taken from the dryer.\n- Never machine wash finish mops or floor pads.----> This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\n> Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 2 of 2",
+      "char_count": 901,
+      "token_estimate": 225,
+      "section_title": "DESCRIPTION: Washing Mops and Cleaning Cloths",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

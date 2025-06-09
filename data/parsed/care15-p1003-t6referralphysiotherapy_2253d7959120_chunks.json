@@ -1,0 +1,30 @@
+{
+  "doc_id": "care15-p1003-t6referralphysiotherapy_2253d7959120",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "care15-p1003-t6referralphysiotherapy_2253d7959120_chunk_000_70722d9c",
+      "doc_id": "care15-p1003-t6referralphysiotherapy_2253d7959120",
+      "chunk_index": 0,
+      "text": "# Referral - Physiotherapy| Resident: | Effective Date: | Location: |\n|-----------|----------------|-----------|\n| Initial Admission: | Admission: | Date of Birth: |\n| Score: NA | Category: NA | Physician: |## A. Reason for Referral1. **Reason for Referral**\n- a. Balance training\n- b. Gait training\n- c. Enhance mobility/endurance\n- d. Muscle strengthening\n- e. ROM Exercises\n- f. Prevention of contractures\n- g. Prevention of deterioration\n- h. Chest physiotherapy\n- i. Posture education/position in sitting/lying\n- j. Mobility/seating devices\n- k. Power-wheelchair driving assessment\n- l. Pain management\n- m. Post fall assessment\n- n. Post stroke\n- o. Restraint/PASD review\n- p. Wound management\n- q. Recent fracture\n- r. Transfer status\n- s. Neuro-developmental techniques\n- t. Other1b. **Date and time of fall:** (refer to risk management/incident report/post fall analysis for details) (S)2. **Indicate relevant diagnosis:**\n- Document any other information that may assist the Physiotherapist in addressing the issue.3. **Referral Details:**4. **Name and designation/position of staff completing the referral:**\n- SAVE referral, do NOT lock.",
+      "char_count": 1149,
+      "token_estimate": 287,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care15-p1003-t6referralphysiotherapy_2253d7959120_chunk_001_10917640",
+      "doc_id": "care15-p1003-t6referralphysiotherapy_2253d7959120",
+      "chunk_index": 1,
+      "text": "**Referral Details:**4. **Name and designation/position of staff completing the referral:**\n- SAVE referral, do NOT lock. Physiotherapist will lock referral after assessment is completed.## B. Physiotherapist referral response1. **Name of Physiotherapist responding to referral:**2. **Date and Time of Physiotherapy response to referral:**3. **Physiotherapist referral response details:**\n- A progress note will populate the Resident chart when this assessment is locked for the date and time that the referral was opened.----**Page 1 of 1**",
+      "char_count": 541,
+      "token_estimate": 135,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

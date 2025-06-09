@@ -1,0 +1,18 @@
+{
+  "doc_id": "ipc2-p10-e17-agmpinprogresssign_2ee3402f1ea4",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "ipc2-p10-e17-agmpinprogresssign_2ee3402f1ea4_chunk_000_3de05cc2",
+      "doc_id": "ipc2-p10-e17-agmpinprogresssign_2ee3402f1ea4",
+      "chunk_index": 0,
+      "text": "# AEROSOL-GENERATING MEDICAL PROCEDURES (AGMP) IN PROGRESS## N95 RESPIRATOR REQUIRED IN ADDITION TO PPE FOR CONTACT AND DROPLET PRECAUTIONS- **Wear long-sleeved gown**\n- **Wear goggles** within 2 metres of resident\n- **Wear gloves**\n- **N95**: Wear N95 or equivalent, fit-tested and seal-checked respirator# AGMP Completed At:\n- **Time:**\n- AM\n- PM# Settle Time:\n- **Minutes:**\n- (If settle time not identified use 180 minutes)# Safe to Enter Room At:\n- **Time:**\n- AM\n- PM",
+      "char_count": 473,
+      "token_estimate": 118,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 11
+    }
+  ]
+}

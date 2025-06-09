@@ -1,0 +1,30 @@
+{
+  "doc_id": "prv1-p1004-t1releaseofinfotopolice_c7e6daf0181a",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "prv1-p1004-t1releaseofinfotopolice_c7e6daf0181a_chunk_000_06197cd2",
+      "doc_id": "prv1-p1004-t1releaseofinfotopolice_c7e6daf0181a",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Release of Information to PoliceUtilize the chart below to help determine when information can be provided to police and when a production order may be required.| **Release** | **Request** | **Production Order** |\n|-------------|-------------|----------------------|\n| **NO ACTIVE POLICE INVESTIGATION** | | |\n| Police ask for information about our employees, residents, clients, or business | X | |\n| **ACTIVE POLICE INVESTIGATION** | | |\n| **IMMINENT RISK** (of death or serious bodily injury to a person) | X | |\n| **NO IMMINENT RISK** | | |\n| Staff information – of non-sensitive nature (e.g. name, address, when they will be working next, license plate) | X | |\n| Staff information – of a sensitive nature (e.g. employment records) | | X |\n| Resident/Client information | | X |\n| Business records and information – about the home/office/or corporate entity | | X |*In all cases, promptly inform the Legal department (legal@extendicare.com) and the Privacy Office (Privacy_officer@extendicare.com) upon release of information.*----This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1122,
+      "token_estimate": 280,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv1-p1004-t1releaseofinfotopolice_c7e6daf0181a_chunk_002_409f27a8",
+      "doc_id": "prv1-p1004-t1releaseofinfotopolice_c7e6daf0181a",
+      "chunk_index": 2,
+      "text": "employment records) | | X |\n| Resident/Client information | | X |\n| Business records and information – about the home/office/or corporate entity | | X |*In all cases, promptly inform the Legal department (legal@extendicare.com) and the Privacy Office (Privacy_officer@extendicare.com) upon release of information.*----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**----**Page 1 of 1**",
+      "char_count": 662,
+      "token_estimate": 165,
+      "section_title": "Release of Information to PoliceUtilize the chart below to help determine when information can be provided to police and when a production order may be required.| **Release** | **Request** | **Production Order** |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

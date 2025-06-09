@@ -1,0 +1,11 @@
+{
+  "doc_id": "care17-p1001-t2nutrition-assessment_8a106d4909fa",
+  "category": "Care",
+  "schema_used": "GenericDocumentMeta",
+  "extraction_success": true,
+  "metadata": {
+    "title": "Nutrition - Assessment"
+  },
+  "error": null,
+  "fallback_metadata": null
+}

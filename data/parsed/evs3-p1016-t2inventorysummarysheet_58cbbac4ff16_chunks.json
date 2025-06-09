@@ -1,0 +1,42 @@
+{
+  "doc_id": "evs3-p1016-t2inventorysummarysheet_58cbbac4ff16",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "evs3-p1016-t2inventorysummarysheet_58cbbac4ff16_chunk_000_fed40bbf",
+      "doc_id": "evs3-p1016-t2inventorysummarysheet_58cbbac4ff16",
+      "chunk_index": 0,
+      "text": "# Extendicare Inventory Summary Sheet**Dept.:** Bedding, Linen & Towel\n**Date:** Enter date\n**Floor Number:** ☐ ALL\n**Counter’s Initial:**\n**Dept.",
+      "char_count": 146,
+      "token_estimate": 36,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs3-p1016-t2inventorysummarysheet_58cbbac4ff16_chunk_001_93f57afd",
+      "doc_id": "evs3-p1016-t2inventorysummarysheet_58cbbac4ff16",
+      "chunk_index": 1,
+      "text": "Head Signature:**| BRAND NAME                       | UNIT | # OF UNITS (A) | PRICE PER UNIT (B) | GST/HST % (C) | EXTENSION (AxB)x(1+C) |\n|----------------------------------|------|----------------|--------------------|----------------|-----------------------|\n| Bath Towels                      | EA   |                |                    |                |                       |\n| Bedspreads                       | EA   |                |                    |                |                       |\n| Blankets                         | EA   |                |                    |                |                       |\n| Blankets – Thermal               | EA   |                |                    |                |                       |\n| Face Cloths                     | EA   |                |                    |                |                       |\n| Hand Towels                      | EA   |                |                    |                |                       |\n| Hand Towels (Beautician)        | EA   |                |                    |                |                       |\n| Housekeeping Cloths (Hospital)   | EA   |                |                    |                |                       |\n| Peri-Care Face Cloths           | EA   |                |                    |                |                       |\n| Peri-Care Striped PC 15x25      | EA   |                |                    |                |                       |\n| Pillowcases                      | EA   |                |                    |                |                       |\n| Pillows                          | EA   |                |                    |                |                       |\n| Sleep Knit Bottom                | EA   |                |                    |                |                       |\n| Sleep Knit Top                   | EA   |                |                    |                |                       |**Comments:**\n_______________________________________________________________________________________________\n___________________________________________________________________________________________________________\n_______________________________________________________________________________________________----*Helping people Iva better*\nThis document is uncontrolled when printed.",
+      "char_count": 2367,
+      "token_estimate": 591,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs3-p1016-t2inventorysummarysheet_58cbbac4ff16_chunk_002_298d0200",
+      "doc_id": "evs3-p1016-t2inventorysummarysheet_58cbbac4ff16",
+      "chunk_index": 2,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 1 of 1",
+      "char_count": 290,
+      "token_estimate": 72,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

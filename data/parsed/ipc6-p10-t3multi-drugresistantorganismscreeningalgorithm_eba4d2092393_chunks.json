@@ -1,0 +1,42 @@
+{
+  "doc_id": "ipc6-p10-t3multi-drugresistantorganismscreeningalgorithm_eba4d2092393",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "ipc6-p10-t3multi-drugresistantorganismscreeningalgorithm_eba4d2092393_chunk_000_f02c1786",
+      "doc_id": "ipc6-p10-t3multi-drugresistantorganismscreeningalgorithm_eba4d2092393",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Multi-Drug Resistant Organism (MDRO) Screening Algorithm### Decision Flow```",
+      "char_count": 94,
+      "token_estimate": 23,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p10-t3multi-drugresistantorganismscreeningalgorithm_eba4d2092393_chunk_002_7040cac5",
+      "doc_id": "ipc6-p10-t3multi-drugresistantorganismscreeningalgorithm_eba4d2092393",
+      "chunk_index": 2,
+      "text": "YESNO\n\nNONO                                    YES",
+      "char_count": 50,
+      "token_estimate": 12,
+      "section_title": "YESNO",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p10-t3multi-drugresistantorganismscreeningalgorithm_eba4d2092393_chunk_004_7b50c6f6",
+      "doc_id": "ipc6-p10-t3multi-drugresistantorganismscreeningalgorithm_eba4d2092393",
+      "chunk_index": 4,
+      "text": "YES\n```----Helping people live better> This document is uncontrolled when printed.\n> Extendicare (Canada) Inc will provide, on request, information in an accessible format or with communication supports to people with disabilities; in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc © 2025",
+      "char_count": 361,
+      "token_estimate": 90,
+      "section_title": "YES",
+      "chunk_type": "content",
+      "start_line": 4,
+      "end_line": 6
+    }
+  ]
+}

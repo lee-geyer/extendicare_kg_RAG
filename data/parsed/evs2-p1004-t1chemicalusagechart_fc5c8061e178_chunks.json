@@ -1,0 +1,18 @@
+{
+  "doc_id": "evs2-p1004-t1chemicalusagechart_fc5c8061e178",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "evs2-p1004-t1chemicalusagechart_fc5c8061e178_chunk_000_da51834b",
+      "doc_id": "evs2-p1004-t1chemicalusagechart_fc5c8061e178",
+      "chunk_index": 0,
+      "text": "# Extendicare Chemical Usage Chart| PRODUCT NAME | DESCRIPTION | CONCENTRATION (DILUTED) |\n|--------------|-------------|--------------------------|\n|              |             |                          |----> **Note:** This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\n> Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 1",
+      "char_count": 562,
+      "token_estimate": 140,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 5
+    }
+  ]
+}

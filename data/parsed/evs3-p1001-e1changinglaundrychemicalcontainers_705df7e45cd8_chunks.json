@@ -1,0 +1,54 @@
+{
+  "doc_id": "evs3-p1001-e1changinglaundrychemicalcontainers_705df7e45cd8",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "evs3-p1001-e1changinglaundrychemicalcontainers_705df7e45cd8_chunk_000_2e51eed2",
+      "doc_id": "evs3-p1001-e1changinglaundrychemicalcontainers_705df7e45cd8",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Changing Laundry Chemical Containers### Manager or Designate:\n- Train staff on the proper procedure for changing laundry chemicals and monitor activity to ensure procedure is followed.### Maintenance and Laundry Staff will understand to:",
+      "char_count": 255,
+      "token_estimate": 63,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs3-p1001-e1changinglaundrychemicalcontainers_705df7e45cd8_chunk_002_89a01bc0",
+      "doc_id": "evs3-p1001-e1changinglaundrychemicalcontainers_705df7e45cd8",
+      "chunk_index": 2,
+      "text": "1. Wear appropriate protective personal equipment (PPE) as per the manufacturer’s instructions.\n\n2. Transport the laundry chemical container(s) to the designated area.",
+      "char_count": 167,
+      "token_estimate": 41,
+      "section_title": "Wear appropriate protective personal equipment (PPE) as per the manufacturer’s instructions.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs3-p1001-e1changinglaundrychemicalcontainers_705df7e45cd8_chunk_004_b99614f1",
+      "doc_id": "evs3-p1001-e1changinglaundrychemicalcontainers_705df7e45cd8",
+      "chunk_index": 4,
+      "text": "3. Remove the cap from the new container. Replace only one chemical container at a time.\n\n4. Remove the probe from the old container using a rag to catch drips under the probe. Use a different rag for each chemical replaced.",
+      "char_count": 224,
+      "token_estimate": 56,
+      "section_title": "Remove the cap from the new container. Replace only one chemical container at a time.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs3-p1001-e1changinglaundrychemicalcontainers_705df7e45cd8_chunk_006_0fcc1d67",
+      "doc_id": "evs3-p1001-e1changinglaundrychemicalcontainers_705df7e45cd8",
+      "chunk_index": 6,
+      "text": "5. Insert the probe in the new container.\n\n6. Rinse out the old container with cold water and then dispose of the container in the appropriate waste stream.\n- **Note:** To avoid discarding unused laundry chemical, tip the container on its side and support it with a wedge when near empty to siphon any remaining chemical.----**Helplng people**\n**Iva better**\nThis document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n**Page 1 of 1**",
+      "char_count": 697,
+      "token_estimate": 174,
+      "section_title": "Insert the probe in the new container.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

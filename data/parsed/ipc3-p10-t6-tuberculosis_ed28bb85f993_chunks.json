@@ -1,0 +1,30 @@
+{
+  "doc_id": "ipc3-p10-t6-tuberculosis_ed28bb85f993",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "ipc3-p10-t6-tuberculosis_ed28bb85f993_chunk_000_058b7946",
+      "doc_id": "ipc3-p10-t6-tuberculosis_ed28bb85f993",
+      "chunk_index": 0,
+      "text": "# IPAC - Tuberculosis Active Screening Tool| Client: | Effective Date: | Location: |\n|---------|-----------------|-----------|\n| Initial Admission: | Admission: | Date of Birth: |\n| Score: NA | Category: NA | Physician: |## 1. Assessment of Risk for TB infectionInterview Resident to determine risk:1. Has the Resident previously had TB? - 1. Yes\n- 0. No\n- 3. Unknown\n- **1b.** If the Resident has previously had TB, document when, where and how it was treated. (S)\nExamples of endemic countries include but are not limited to: Africa, China, India, Latin America, Philippines, and Vietnam.2. Was the resident born in or have they travelled to an endemic country? - 1. Yes\n- 0. No\n- 3. Unknown3. Has the Resident worked as a healthcare provider or professional? - 1. Yes\n- 0. No\n- 3. Unknown4. Has the resident had a previous 'significant' Tuberculin skin test? - 1. Yes\n- 0. No\n- 3. Unknown\n- **4b.** If the Resident has had a previous 'significant' skin test document when and where.5. Has the Resident had recent (last 2 yrs) contact with a person with TB infection? - 1. Yes\n- 0. No\n- 3. Unknown## 2.",
+      "char_count": 1104,
+      "token_estimate": 276,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p10-t6-tuberculosis_ed28bb85f993_chunk_001_efa4337b",
+      "doc_id": "ipc3-p10-t6-tuberculosis_ed28bb85f993",
+      "chunk_index": 1,
+      "text": "No\n- 3. Unknown## 2. Symptom InquiryIf the Resident has one or more symptoms refer to policy and/or the Home Infection Control Lead:1. Persistent Cough\n- 1. Yes\n- 0. No\n- **1b.** If the Resident has had a persistent cough document the duration.2. Fever\n- 1. Yes\n- 0. No\n- **2b.** If the Resident has had a fever document the duration.----\n\n# IPAC - Tuberculosis Active Screening Tool## Client:### 3. Night Sweats\n- **1. Yes**\n- **0. No**#### 3b. If the Resident has had night sweats document the duration### 4. Hemoptysis or Blood in sputum\n- **1. Yes**\n- **0. No**#### 4b. If the Resident has had blood in sputum document the duration### 5. Weight Loss / Anorexia\n- **1. Yes**\n- **0. No**#### 5b. If the Resident has had weight loss / anorexia document the duration### 6. Fatigue\n- **1. Yes**\n- **0. No**#### 6b. If the Resident has had fatigue document the duration### 7. Dyspnea\n- **1. Yes**\n- **0. No**#### 7b. If the Resident has had dyspnea document the duration## FOLLOW UP\nIf 'YES' to any question, for any symptom:\n- Three (3) sputum for Acid-Fast Bacilli (AFB) and culture must be ordered for collection at least 8 hours apart to rule out active TB.\n- Consult the attending physician for prompt follow-up and a possible chest x-ray if one has not been completed in the past 90 days.\n- All active TB cases must be reported to the local Health Unit.----**Signature**: ________________________**Date**: ________________________----**Page 2 of 2**",
+      "char_count": 1453,
+      "token_estimate": 363,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

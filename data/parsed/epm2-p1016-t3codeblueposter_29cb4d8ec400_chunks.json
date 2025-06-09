@@ -1,0 +1,30 @@
+{
+  "doc_id": "epm2-p1016-t3codeblueposter_29cb4d8ec400",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "epm2-p1016-t3codeblueposter_29cb4d8ec400_chunk_000_2ec3707a",
+      "doc_id": "epm2-p1016-t3codeblueposter_29cb4d8ec400",
+      "chunk_index": 0,
+      "text": "# CODE BLUE\n\n## Emergency response - Medical emergency### What does it mean? Code Blue is the designated phrase used to alert personnel and provide clear guidelines and direction on how to respond to any person experiencing an acute medical emergency, airway threat, respiratory and/or cardiac arrest.### What do I do? - CPR-Certified staff are responsible to support resuscitation until EMS arrives unless the individual is known to have a Do Not Resuscitate Order. - Ensure 9-1-1 has been called. - Direct EMS to the location of the emergency. - Assist as directed throughout the resuscitation. - If a resident, ensure the resident’s records are available for EMS. - Clear away any excess equipment or supplies; assist other residents away from the area. - If involving a resident, notify resident’s family/SDM if EMS transfer is necessary.### Review it before you need it:\n- Familiarize yourself with any equipment you are responsible to use and its location. - Know how to alert others; by call bell, overhead page, walkie-talkie, etc. - Refer to your Home’s Emergency Planning and Management Manual, Code Blue.",
+      "char_count": 1115,
+      "token_estimate": 278,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1016-t3codeblueposter_29cb4d8ec400_chunk_002_9e1beb40",
+      "doc_id": "epm2-p1016-t3codeblueposter_29cb4d8ec400",
+      "chunk_index": 2,
+      "text": "- Know how to alert others; by call bell, overhead page, walkie-talkie, etc. - Refer to your Home’s Emergency Planning and Management Manual, Code Blue. - Review the Code Blue procedure and checklists that describe your area’s role if a medical emergency occurs.",
+      "char_count": 262,
+      "token_estimate": 65,
+      "section_title": "Emergency response - Medical emergency### What does it mean?",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t5icompressorpneumaticcontinspec_2bdbacd56838_chunk_000_c9a863ab",
+      "doc_id": "maint1-o1002-t5icompressorpneumaticcontinspec_2bdbacd56838",
+      "chunk_index": 0,
+      "text": "# Extendicare Maintenance Inspection Checklist## Equipment\n**Compressor For Pneumatic**- **Name:** Controls\n- **Year:**\n- **Manufacturer:** All\n- **Model:** All### Legend/Key\n| Code | Meaning          |\n|------|------------------|\n| W    | Weekly           |\n| M    | Monthly          |\n| O    | Ok               |\n| R    | Repair           |\n| Q    | Quarterly        |\n| N    | Replace          |\n| S    | Semi-Annual      |\n| A    | Annual           |### Maintenance Checks\n> **NOTE:** Ensure proper lock-out/tag-out procedures are followed as required.| Frequency | Item                                                                 |\n|-----------|----------------------------------------------------------------------|\n| X         | 1. Clean air intake filter. |\n| X         | 2. Check oil level. Add oil as necessary. |\n| X         | 3. Check air outlet filter cartridge condition. |\n| X         | 4. Check coalescing filter cartridge condition. |\n|           | 5. Change oil as specified by manufacturer. |\n|           | 6. Lubricate motor. |\n|           | 7. Check belt and sheaves for proper tension, cracking and adjustment. Repair, replace or adjust as required. |\n|           | 8.",
+      "char_count": 1194,
+      "token_estimate": 298,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t5icompressorpneumaticcontinspec_2bdbacd56838_chunk_001_bcc23151",
+      "doc_id": "maint1-o1002-t5icompressorpneumaticcontinspec_2bdbacd56838",
+      "chunk_index": 1,
+      "text": "Repair, replace or adjust as required. |\n|           | 8. Replace air outlet filter cartridge. |\n|           | 9. Replace coalescing filter cartridge. |### Monthly Schedule\n| Month | M | Q | S | A | Month | M | Q | S | A | Month | M | Q | S | A | Month | M | Q | S | A |\n|-------|---|---|---|---|-------|---|---|---|---|-------|---|---|---|---|-------|---|---|---|---|\n| JAN   | W | W | W | W | JUL   | M | Q | S | A | APR   | M | Q | S | A | OCT   | M | Q | S | A |\n| FEB   | W | W | W | W | AUG   | M | Q | S | A | MAY   | M | Q | S | A | NOV   | M | Q | S | A |\n| MAR   | W | W | W | W | SEP   | M | Q | S | A | JUN   | M | Q | S | A | DEC   | M | Q | S | A |----> Helping people live better> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.> Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 1012,
+      "token_estimate": 253,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t5icompressorpneumaticcontinspec_2bdbacd56838_chunk_002_bb36b826",
+      "doc_id": "maint1-o1002-t5icompressorpneumaticcontinspec_2bdbacd56838",
+      "chunk_index": 2,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.> Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025> Page 1 of 2# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\nPage 2 of 2",
+      "char_count": 787,
+      "token_estimate": 196,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 3
+}

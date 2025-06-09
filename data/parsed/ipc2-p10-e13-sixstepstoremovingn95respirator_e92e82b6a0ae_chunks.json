@@ -1,0 +1,30 @@
+{
+  "doc_id": "ipc2-p10-e13-sixstepstoremovingn95respirator_e92e82b6a0ae",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "ipc2-p10-e13-sixstepstoremovingn95respirator_e92e82b6a0ae_chunk_000_b0368faa",
+      "doc_id": "ipc2-p10-e13-sixstepstoremovingn95respirator_e92e82b6a0ae",
+      "chunk_index": 0,
+      "text": "# Six Steps to Removing the N95 Respirator| Step 1                          | Step 2                          | Step 3                          |\n|---------------------------------|---------------------------------|---------------------------------|\n| Perform hand hygiene. | Grasp the bottom band of the    | Grasp the top band of the       |\n|                                 | respirator, and gently pull     | respirator, and gently pull     |\n|                                 | over the top of the head. | over the top of the head. || Step 4                          | Step 5                          | Step 6                          |\n|---------------------------------|---------------------------------|---------------------------------|\n| Lean slightly forward and       | Dispose of the respirator into  | Perform hand hygiene. |\n| remove the respirator from      | an appropriate waste container.",
+      "char_count": 908,
+      "token_estimate": 227,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-e13-sixstepstoremovingn95respirator_e92e82b6a0ae_chunk_001_7df0b024",
+      "doc_id": "ipc2-p10-e13-sixstepstoremovingn95respirator_e92e82b6a0ae",
+      "chunk_index": 1,
+      "text": "|| Step 4                          | Step 5                          | Step 6                          |\n|---------------------------------|---------------------------------|---------------------------------|\n| Lean slightly forward and       | Dispose of the respirator into  | Perform hand hygiene. |\n| remove the respirator from      | an appropriate waste container. |                                 |\n| the face handling only the      |                                 |                                 |\n| bands and avoiding all contact  |                                 |                                 |\n| with the front of the respirator.|                                 |                                 |",
+      "char_count": 719,
+      "token_estimate": 179,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

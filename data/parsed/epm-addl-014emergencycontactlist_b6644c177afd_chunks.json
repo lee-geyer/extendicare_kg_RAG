@@ -1,0 +1,30 @@
+{
+  "doc_id": "epm-addl-014emergencycontactlist_b6644c177afd",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "epm-addl-014emergencycontactlist_b6644c177afd_chunk_000_e9125038",
+      "doc_id": "epm-addl-014emergencycontactlist_b6644c177afd",
+      "chunk_index": 0,
+      "text": "# Extendicare Emergency Contact List## Position and Contact Information| Position                          | Name | Contact Information |\n|-----------------------------------|------|---------------------|\n| Administrator / Executive Director |      |                     |\n| Director of Care                  |      |                     |\n| Social Worker                     |      |                     |\n| Office or Operations Manager      |      |                     |\n| Dietary Manager                   |      |                     |\n| Maintenance Person                |      |                     |\n| Resident Program Manager          |      |                     |\n| Support Services Manager          |      |                     |\n| LTC Consultant                    |      |                     |\n| Regional Director                 |      |                     |## Emergency Services Contact Information| Service                          | Name | Contact Information |\n|----------------------------------|------|---------------------|\n| Fire/Ambulance/Police            |      | 911                 |\n| Ambulance                        |      | 911                 |\n| Police                           |      | 911                 |\n| Fire Department                  |      | 911                 |\n| Health Department                |      |                     |\n| Poison Control                   |      |                     |\n| Medical Doctor:                  |      |                     |\n| Local Hospital                   |      |                     |\n| Regional Health Authority         |      |                     |\n| Security Monitoring Company       |      |                     |\n| Corporate Communications          |      | communications@extendicare.com |\n| Corporate Risk Team              |      | riskmanagement@extendicare.com |----*This document is uncontrolled when printed.*Extendicare (Canada) Inc.",
+      "char_count": 1938,
+      "token_estimate": 484,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-014emergencycontactlist_b6644c177afd_chunk_001_92a1884c",
+      "doc_id": "epm-addl-014emergencycontactlist_b6644c177afd",
+      "chunk_index": 1,
+      "text": "will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----*Page 1 of 1*# Emergency Contact List> This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 1",
+      "char_count": 634,
+      "token_estimate": 158,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

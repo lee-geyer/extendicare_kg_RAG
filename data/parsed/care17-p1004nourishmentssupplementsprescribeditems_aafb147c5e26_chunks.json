@@ -1,0 +1,114 @@
+{
+  "doc_id": "care17-p1004nourishmentssupplementsprescribeditems_aafb147c5e26",
+  "total_chunks": 9,
+  "chunks": [
+    {
+      "chunk_id": "care17-p1004nourishmentssupplementsprescribeditems_aafb147c5e26_chunk_000_9c1aa4a0",
+      "doc_id": "care17-p1004nourishmentssupplementsprescribeditems_aafb147c5e26",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE MANUAL: CARE\n\n### INDEX: CARE17-P10.04",
+      "char_count": 64,
+      "token_estimate": 16,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p1004nourishmentssupplementsprescribeditems_aafb147c5e26_chunk_002_11d4eed1",
+      "doc_id": "care17-p1004nourishmentssupplementsprescribeditems_aafb147c5e26",
+      "chunk_index": 2,
+      "text": "### SECTION: Nutritional Care and Hydration\n\n### DESCRIPTION: Nourishments Supplements Prescribed Items",
+      "char_count": 103,
+      "token_estimate": 25,
+      "section_title": "SECTION: Nutritional Care and Hydration",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p1004nourishmentssupplementsprescribeditems_aafb147c5e26_chunk_004_6506a45d",
+      "doc_id": "care17-p1004nourishmentssupplementsprescribeditems_aafb147c5e26",
+      "chunk_index": 4,
+      "text": "### APPROVED BY: Senior Director, Allied Health and Support Services\n\n### EFFECTIVE DATE: June 16, 2025",
+      "char_count": 103,
+      "token_estimate": 25,
+      "section_title": "APPROVED BY: Senior Director, Allied Health and Support Services",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p1004nourishmentssupplementsprescribeditems_aafb147c5e26_chunk_006_c4375302",
+      "doc_id": "care17-p1004nourishmentssupplementsprescribeditems_aafb147c5e26",
+      "chunk_index": 6,
+      "text": "### REVIEWED DATE: June 9, 2025\n\n### MODIFIED DATE:----## POLICY",
+      "char_count": 64,
+      "token_estimate": 16,
+      "section_title": "REVIEWED DATE: June 9, 2025",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p1004nourishmentssupplementsprescribeditems_aafb147c5e26_chunk_008_7714b8be",
+      "doc_id": "care17-p1004nourishmentssupplementsprescribeditems_aafb147c5e26",
+      "chunk_index": 8,
+      "text": "### Nutritional Care and Hydration## PROCEDURE\nBetween meals, nourishments will be provided as outlined in the snack menu. Nutritional supplements and prescribed food and beverages are provided to residents based on individual needs and preferences.### Between Meal Nourishments\n- The nourishment/snack menu cycle and delivery times are developed according to:\n- provincial regulations\n- Resident’s Council/Food Committee feedback and suggestions\n- The nourishment/snack menu cycle is approved and signed off by the Registered Dietitian (RD). - The nourishment/snack menu and resident Nutrition Profiles are available for reference during the delivery of nourishments. - Assistance and encouragement with consuming the nourishment/snack are provided to the resident as outlined in their plan of care. - The care staff documents the intake of the nourishment/snack.### Nutritional Supplements\n- A nutritional supplement is initiated, modified, discontinued, or reordered based on a nutritional assessment and a written order from a physician, nurse practitioner, or RD.",
+      "char_count": 1068,
+      "token_estimate": 267,
+      "section_title": "Nutritional Care and Hydration## PROCEDURE",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p1004nourishmentssupplementsprescribeditems_aafb147c5e26_chunk_009_57796621",
+      "doc_id": "care17-p1004nourishmentssupplementsprescribeditems_aafb147c5e26",
+      "chunk_index": 9,
+      "text": "- Assistance and encouragement with consuming the nourishment/snack are provided to the resident as outlined in their plan of care. - The care staff documents the intake of the nourishment/snack.### Nutritional Supplements\n- A nutritional supplement is initiated, modified, discontinued, or reordered based on a nutritional assessment and a written order from a physician, nurse practitioner, or RD. - A prescribed item is initiated, modified, discontinued, or reordered based on a nutritional assessment or resident/substitute decision maker (SDM)/Power of Attorney (POA) request by an RD/designate. - The RD can recommend vitamin/mineral supplements and nutritional supplements, along with a recommended dose, without co-signature by a physician, provided the supplement is not listed under the National Association of Pharmacy Regulatory Authorities (NAPRA) Schedules.----**Helplng People Ilve better**This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.",
+      "char_count": 1150,
+      "token_estimate": 287,
+      "section_title": "Nutritional Care and Hydration## PROCEDURE",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p1004nourishmentssupplementsprescribeditems_aafb147c5e26_chunk_010_bbbb5728",
+      "doc_id": "care17-p1004nourishmentssupplementsprescribeditems_aafb147c5e26",
+      "chunk_index": 10,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 2**# PROCEDURE## SECTION: Nutritional Care\n\n### DESCRIPTION: Nourishments and Hydration",
+      "char_count": 381,
+      "token_estimate": 95,
+      "section_title": "Nutritional Care and Hydration## PROCEDURE",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p1004nourishmentssupplementsprescribeditems_aafb147c5e26_chunk_012_a77d84b3",
+      "doc_id": "care17-p1004nourishmentssupplementsprescribeditems_aafb147c5e26",
+      "chunk_index": 12,
+      "text": "### INDEX: CARE17-P10.04----### Manitoba Specific:- Order writing privileges for initiating, changing, or discontinuing of vitamin and mineral supplements requires delegation of function.- Any nutritional supplement order must indicate the type, flavour (if specific), amount, and frequency (day and time) of the supplement to be provided.- Vitamin and mineral supplements are dispensed with the medication distribution and documented in the Medication Administration Record (MAR).- When possible, oral nutritional supplements are dispensed with the medication distribution and documented in the MAR.- Consumption of prescribed items is recorded as part of the food and fluid intake monitoring as indicated by the RD.- The nurse will document in the progress notes resident refusals or unconsumed nutrition supplements or prescribed items, and will communicate the concerns to the Culinary Manager (CM) or designate through the Nutrition – Communication Culinary Department tool or the RD through the Referral – Registered Dietitian tool.- The RD reassesses the need, tolerance, and acceptance for nutritional supplement and updates the resident’s plan of care.- The RD and/or CM/designate will reassess the need, tolerance, and acceptance for prescribed items, and the RD will update the resident’s plan of care accordingly.- Unused, labeled individual portions should be returned to Nutrition and Culinary Services.- Opened nutritional supplements will be covered, labeled, and dated.- Items must be stored and discarded as per manufacturer’s instructions.----### TOOLS1.",
+      "char_count": 1573,
+      "token_estimate": 393,
+      "section_title": "INDEX: CARE17-P10.04----### Manitoba Specific:- Order writing privileges for initiating, changing, or discontinuing of vitamin and mineral supplements requires delegation of function.- Any nutritional supplement order must indicate the type, flavour (if specific), amount, and frequency (day and time) of the supplement to be provided.- Vitamin and mineral supplements are dispensed with the medication distribution and documented in the Medication Administration Record (MAR).- When possible, oral nutritional supplements are dispensed with the medication distribution and documented in the MAR.- Consumption of prescribed items is recorded as part of the food and fluid intake monitoring as indicated by the RD.- The nurse will document in the progress notes resident refusals or unconsumed nutrition supplements or prescribed items, and will communicate the concerns to the Culinary Manager (CM) or designate through the Nutrition – Communication Culinary Department tool or the RD through the Referral – Registered Dietitian tool.- The RD reassesses the need, tolerance, and acceptance for nutritional supplement and updates the resident’s plan of care.- The RD and/or CM/designate will reassess the need, tolerance, and acceptance for prescribed items, and the RD will update the resident’s plan of care accordingly.- Unused, labeled individual portions should be returned to Nutrition and Culinary Services.- Opened nutritional supplements will be covered, labeled, and dated.- Items must be stored and discarded as per manufacturer’s instructions.----### TOOLS1. Nutrition – Communication to Culinary Department",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p1004nourishmentssupplementsprescribeditems_aafb147c5e26_chunk_013_8405a4c7",
+      "doc_id": "care17-p1004nourishmentssupplementsprescribeditems_aafb147c5e26",
+      "chunk_index": 13,
+      "text": "Nutrition – Communication to Culinary Department\n\n2. Referral – Registered Dietitian----> **Note:** This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 2 of 2**",
+      "char_count": 443,
+      "token_estimate": 110,
+      "section_title": "INDEX: CARE17-P10.04----### Manitoba Specific:- Order writing privileges for initiating, changing, or discontinuing of vitamin and mineral supplements requires delegation of function.- Any nutritional supplement order must indicate the type, flavour (if specific), amount, and frequency (day and time) of the supplement to be provided.- Vitamin and mineral supplements are dispensed with the medication distribution and documented in the Medication Administration Record (MAR).- When possible, oral nutritional supplements are dispensed with the medication distribution and documented in the MAR.- Consumption of prescribed items is recorded as part of the food and fluid intake monitoring as indicated by the RD.- The nurse will document in the progress notes resident refusals or unconsumed nutrition supplements or prescribed items, and will communicate the concerns to the Culinary Manager (CM) or designate through the Nutrition – Communication Culinary Department tool or the RD through the Referral – Registered Dietitian tool.- The RD reassesses the need, tolerance, and acceptance for nutritional supplement and updates the resident’s plan of care.- The RD and/or CM/designate will reassess the need, tolerance, and acceptance for prescribed items, and the RD will update the resident’s plan of care accordingly.- Unused, labeled individual portions should be returned to Nutrition and Culinary Services.- Opened nutritional supplements will be covered, labeled, and dated.- Items must be stored and discarded as per manufacturer’s instructions.----### TOOLS1. Nutrition – Communication to Culinary Department",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

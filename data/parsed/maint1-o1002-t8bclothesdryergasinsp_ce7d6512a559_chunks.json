@@ -1,0 +1,65 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t8bclothesdryergasinsp_ce7d6512a559_chunk_000_4a5d60c5",
+      "doc_id": "maint1-o1002-t8bclothesdryergasinsp_ce7d6512a559",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## MAINTENANCE INSPECTION CHECKLIST### Equipment\n- **Clothes Dryer**\n- **Name:**\n- **Year:**\n- **Unit No.:**\n- **Manufacturer:** Hubsche, Hoyt, American, Unimac\n- **Model:** Gas### LEGEND/KEY\n| Legend | Key         |\n|--------|-------------|\n| W      | Weekly      |\n| M      | Monthly     |\n| Q      | Quarterly   |\n| S      | Semi-Annual |\n| A      | Annual      |\n| O      | Ok          |\n| R      | Repair      |\n| N      | Replace     |### CHECKS\n| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   |   | 1 | Check that the lint screen is in place, fabric is not torn and the frame is tight to the exhaust box. |\n|   | X |   |   | 2 | Clean lint from the thermostat sensors and probes. |\n|   | X |   |   | 3 | Check that the combustion air-inlet is clear and free of obstructions. |\n|   | X |   |   | 4 | Check that door interlock operates properly. |\n|   | X |   |   | 5 | Check that door gasket is in good condition. |\n|   | X |   |   | 6 | Check that drive belt or chain and sheave are in good adjustment.",
+      "char_count": 1174,
+      "token_estimate": 293,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t8bclothesdryergasinsp_ce7d6512a559_chunk_002_ee10d269",
+      "doc_id": "maint1-o1002-t8bclothesdryergasinsp_ce7d6512a559",
+      "chunk_index": 2,
+      "text": "|\n|   | X |   |   | 5 | Check that door gasket is in good condition. |\n|   | X |   |   | 6 | Check that drive belt or chain and sheave are in good adjustment. |\n|   | X |   |   | 7 | Check that all screws and bolts are secure. |\n|   | X |   |   | 8 | Check that duct joints are taped sealed, access doors are in place and ductwork is free of leaks. Ensure that ductwork is not connected using screws that penetrate the duct. |\n|   | X |   |   | 9 | Check inside drum for lint built-up. |\n|   | X |   |   | 10| Check the Exhaust Duct at the thimble and remove lint. |\n|   | X |   |   | 11| Lubricate motor and bearings. |\n|   |   | X |   | 12| Ensure that all drive covers and guards are in place. |\n|   |   | X |   | 13| Lubricate drive components. |\n|   |   | X |   | 14| Clean burner and control box with a vacuum cleaner. |\n|   |   | X |   | 15| Clean lint from air-vents of drive motors with a vacuum cleaner. |\n|   |   | X |   | 16| Open exhaust duct and clean out lint deposits. |\n|   |   | X |   | 17| Clean lint deposits from drum outer shell. |\n|   |   | X |   | 18| Check that dryer exhaust air temperature does not exceed 160F.",
+      "char_count": 1138,
+      "token_estimate": 284,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t8bclothesdryergasinsp_ce7d6512a559_chunk_003_7eef597d",
+      "doc_id": "maint1-o1002-t8bclothesdryergasinsp_ce7d6512a559",
+      "chunk_index": 3,
+      "text": "|\n|   |   | X |   | 17| Clean lint deposits from drum outer shell. |\n|   |   | X |   | 18| Check that dryer exhaust air temperature does not exceed 160F. Adjust or replace control components to meet temperature restrictions. * |\n|   |   | X |   | 19| Check Gas connection for leak using a mild soap solution. If leaks are detected have a qualified technician carry out repairs.* |\n|   |   | X |   | 20| Check electrical connection and grounding for proper torque*       |**NOTE:** *The services of qualified personnel may be required.### Monthly Schedule\n| Month | M | Q | S | A |\n|-------|---|---|---|---|\n| JAN   | W | W | W | W |\n| FEB   | W | W | W | W |\n| MAR   | W | W | W | W |\n| APR   | W | W | W | W |\n| MAY   | W | W | W | W |\n| JUN   | W | W | W | W |\n| JUL   | W | W | W | W |\n| AUG   | W | W | W | W |\n| SEP   | W | W | W | W |\n| OCT   | W | W | W | W |\n| NOV   | W | W | W | W |\n| DEC   | W | W | W | W |----**Helping people live better.**This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1022,
+      "token_estimate": 255,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t8bclothesdryergasinsp_ce7d6512a559_chunk_004_923d932d",
+      "doc_id": "maint1-o1002-t8bclothesdryergasinsp_ce7d6512a559",
+      "chunk_index": 4,
+      "text": "If leaks are detected have a qualified technician carry out repairs.* |\n|   |   | X |   | 20| Check electrical connection and grounding for proper torque*       |**NOTE:** *The services of qualified personnel may be required.### Monthly Schedule\n| Month | M | Q | S | A |\n|-------|---|---|---|---|\n| JAN   | W | W | W | W |\n| FEB   | W | W | W | W |\n| MAR   | W | W | W | W |\n| APR   | W | W | W | W |\n| MAY   | W | W | W | W |\n| JUN   | W | W | W | W |\n| JUL   | W | W | W | W |\n| AUG   | W | W | W | W |\n| SEP   | W | W | W | W |\n| OCT   | W | W | W | W |\n| NOV   | W | W | W | W |\n| DEC   | W | W | W | W |----**Helping people live better.**This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed.",
+      "char_count": 1186,
+      "token_estimate": 296,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t8bclothesdryergasinsp_ce7d6512a559_chunk_005_8ae9e96c",
+      "doc_id": "maint1-o1002-t8bclothesdryergasinsp_ce7d6512a559",
+      "chunk_index": 5,
+      "text": "will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 2 of 2**",
+      "char_count": 770,
+      "token_estimate": 192,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 5
+}

@@ -1,0 +1,17 @@
+# Extendicare
+## ACP Protective Sleeve Tip Sheet
+
+1. An "ACP Protective Sleeve" is a plastic sleeve that holds advance care planning documents. When a resident moves throughout the healthcare system, the ACP Protective Sleeve and documents may go with the resident, as required so that healthcare providers may know about the decisions they have made including their advance care planning documentation, including personal health care directives, goals of care designation, and wishes for end-of-life care. Some homes choose to just copy these documents and send them with the resident on transfer to hospital.
+**NOTE:** Alberta Health Services (AHS) identifies that homes should use a Green Sleeve. All other provinces may choose to use clear protective sheets or any other color, but make sure it is a consistent color within your home.
+
+2. All advance care planning records located in the ACP Protective Sleeve should reflect one source of truth and be current and reflective of the residents’ personal wishes and directives.
+
+3. Out of date advance care planning records should have a line drawn through, indicate "NO LONGER IN EFFECT" and be filed at the back of the health care record.
+
+4. Supplies for ACP Protective Sleeves may be obtained through the home's usual office supply purchasing process.
+
+----
+
+**Helping people live better**
+This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025
+**Page 1 of 1**

@@ -1,0 +1,173 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-equipmentinspectionandmaintenancelists_6a3ea94b5087_chunk_000_4406edbd",
+      "doc_id": "maint1-o1002-equipmentinspectionandmaintenancelists_6a3ea94b5087",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Maintenance\n**INDEX:** MAINT1-O10.02\n**SECTION:** Preventative Maintenance Program\n**EFFECTIVE DATE:**\n**REVIEWED DATE:**\n**APPROVED BY:** VP LTC Operations\n**MODIFIED DATE:**----## POLICY### Preventative Maintenance Program### PROCEDURE- Once a list of key equipment and systems has been created, the Maintenance Department shall develop a program of daily, weekly, monthly, quarterly, semi-annual, and annual tasks that are required to properly maintain each piece of equipment or each system. - This list of tasks can be obtained from many sources:\n- Recommendations from the equipment manufacturer\n- Recommendations from the equipment supplier\n- Recommendations from tradesmen skilled in maintaining this type of equipment\n- Recommendations of best practice from trade magazines and books\n- Recommendations of best practice from course instructors in technical schools\n- Sample lists of recommended procedures from reliable sources. - Within this Preventative Maintenance policy, there are sample Inspection Checklists that would be typical for much of the equipment listed above.",
+      "char_count": 1121,
+      "token_estimate": 280,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-equipmentinspectionandmaintenancelists_6a3ea94b5087_chunk_001_f2d07c6e",
+      "doc_id": "maint1-o1002-equipmentinspectionandmaintenancelists_6a3ea94b5087",
+      "chunk_index": 1,
+      "text": "- This list of tasks can be obtained from many sources:\n- Recommendations from the equipment manufacturer\n- Recommendations from the equipment supplier\n- Recommendations from tradesmen skilled in maintaining this type of equipment\n- Recommendations of best practice from trade magazines and books\n- Recommendations of best practice from course instructors in technical schools\n- Sample lists of recommended procedures from reliable sources. - Within this Preventative Maintenance policy, there are sample Inspection Checklists that would be typical for much of the equipment listed above. These inspection checklists can be used to develop an effective preventive maintenance program for most of the systems and equipment found in a typical Extendicare long-term care home. All checklists/tools will provide direction and guidance to maintenance staff.> **Note:** Some of the equipment listed in the Inspection Checklists may be mutually exclusive and may not be provided in some buildings.- Some of the features that should be noticed about the sample “Inspection Checklists” listed in the section are:",
+      "char_count": 1103,
+      "token_estimate": 275,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-equipmentinspectionandmaintenancelists_6a3ea94b5087_chunk_002_55f2c8a6",
+      "doc_id": "maint1-o1002-equipmentinspectionandmaintenancelists_6a3ea94b5087",
+      "chunk_index": 2,
+      "text": "1. Each piece of equipment is uniquely identified at the top of the page indicating what the equipment is (e.g. \"Boiler\").\n\n2. Each piece of equipment is uniquely identified (e.g. \"Unit No.\"). If there are two or more similar pieces of equipment, each would have its own page of information.",
+      "char_count": 291,
+      "token_estimate": 72,
+      "section_title": "Each piece of equipment is uniquely identified at the top of the page indicating what the equipment is (e.g. \"Boiler\").",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-equipmentinspectionandmaintenancelists_6a3ea94b5087_chunk_004_dbaa2b44",
+      "doc_id": "maint1-o1002-equipmentinspectionandmaintenancelists_6a3ea94b5087",
+      "chunk_index": 4,
+      "text": "3. A description of what tasks are to be done (e.g. \"test operation of the following...\") and how frequently (e.g. 'W' for weekly, 'M' for monthly, etc.);\n\n4. A brief calendar that provides a visual reference to determine whether the weekly, monthly, quarterly, semi-annual and annual tasks have been done for that piece of equipment.",
+      "char_count": 334,
+      "token_estimate": 83,
+      "section_title": "A description of what tasks are to be done (e.g. \"test operation of the following...\") and how frequently (e.g. 'W' for weekly, 'M' for monthly, etc.);",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-equipmentinspectionandmaintenancelists_6a3ea94b5087_chunk_006_6fb15a5c",
+      "doc_id": "maint1-o1002-equipmentinspectionandmaintenancelists_6a3ea94b5087",
+      "chunk_index": 6,
+      "text": "5. A place on the back of the page where it can be recorded that a series of tasks were done (e.g. item numbers), the condition of the equipment (e.g. “key”), the date the tasks were performed and the signature of the person performing them.\n\n6. Although other systems can be developed to schedule and record this type of maintenance, the selected system should have the attributes described above. At present, there are several computerized maintenance management programs available; however, many of them do not have adequately detailed work descriptions, are difficult to modify to include new pieces of equipment and take more effort to support than a simple paper system.----### Helping people live betterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\nConfidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 3**```markdown",
+      "char_count": 1062,
+      "token_estimate": 265,
+      "section_title": "A place on the back of the page where it can be recorded that a series of tasks were done (e.g. item numbers), the condition of the equipment (e.g. “key”), the date the tasks were performed and the signature of the person performing them.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-equipmentinspectionandmaintenancelists_6a3ea94b5087_chunk_008_b5ba85e3",
+      "doc_id": "maint1-o1002-equipmentinspectionandmaintenancelists_6a3ea94b5087",
+      "chunk_index": 8,
+      "text": "# PROCEDURE## SECTION: Preventative Maintenance\n\n### DESCRIPTION: Equipment Inspection and Maintenance",
+      "char_count": 102,
+      "token_estimate": 25,
+      "section_title": "PROCEDURE## SECTION: Preventative Maintenance",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-equipmentinspectionandmaintenancelists_6a3ea94b5087_chunk_010_8b3fd011",
+      "doc_id": "maint1-o1002-equipmentinspectionandmaintenancelists_6a3ea94b5087",
+      "chunk_index": 10,
+      "text": "### INDEX: MAINT1-O10.02Most computerized systems work well for large maintenance departments with many maintenance workers but become overly bureaucratic for departments with only two or three workers. In general, these systems appear to be designed to be more supportive of non-routine Demand Maintenance than regular Preventive Maintenance.## EDUCATION\n\n1. How To Complete the Inspection Checklists## TOOLS",
+      "char_count": 409,
+      "token_estimate": 102,
+      "section_title": "INDEX: MAINT1-O10.02Most computerized systems work well for large maintenance departments with many maintenance workers but become overly bureaucratic for departments with only two or three workers. In general, these systems appear to be designed to be more supportive of non-routine Demand Maintenance than regular Preventive Maintenance.## EDUCATION",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-equipmentinspectionandmaintenancelists_6a3ea94b5087_chunk_012_7e361a30",
+      "doc_id": "maint1-o1002-equipmentinspectionandmaintenancelists_6a3ea94b5087",
+      "chunk_index": 12,
+      "text": "1. Vacant Building Checklists\n- A. Vacant Building Inspection\n- B. Vacant Building Set-up\n\n2. Building Exterior and Grounds Checklist",
+      "char_count": 133,
+      "token_estimate": 33,
+      "section_title": "Vacant Building Checklists",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-equipmentinspectionandmaintenancelists_6a3ea94b5087_chunk_014_31553ab4",
+      "doc_id": "maint1-o1002-equipmentinspectionandmaintenancelists_6a3ea94b5087",
+      "chunk_index": 14,
+      "text": "3. Resident Area Checklists\n- A. Annual Resident Room\n- B. Annual Resident Area\n\n4. Life Safety Equipment and Systems Inspection Checklists\n- A. Carbon Monoxide Detectors\n- B. Door Surveillance\n- C. Emergency Lighting\n- D. Exit Lighting\n- E. Fire Alarm System\n- F. Fire Blankets\n- G. Fire Extinguishers\n- H. Fire Sprinkler System\n- I. Kitchen Hood Fire Suppression\n- J. Nurse Call System\n- K. Standpipe System\n- L. Stand-by Generator",
+      "char_count": 433,
+      "token_estimate": 108,
+      "section_title": "Resident Area Checklists",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-equipmentinspectionandmaintenancelists_6a3ea94b5087_chunk_016_f0c36158",
+      "doc_id": "maint1-o1002-equipmentinspectionandmaintenancelists_6a3ea94b5087",
+      "chunk_index": 16,
+      "text": "5. Environmental Controls Inspection Checklists\n- A. Air Conditioner Condenser Units Serving\n- B. Air Conditioner\n- C. Air Dryer\n- D. Air Handling Unit\n- E. Air Handling Unit with Glycol Coil\n- F. Boiler Building Heating Gas Fired\n- G. Boiler Domestic Hot Water\n- H. Building Heating System\n- I. Compressor for Pneumatic Controls\n- J. Cooling Tower\n- K. Exhaust Fans Belt Driven\n- L. Exhaust Fans Direct Driven\n- M. Expansion Compensation Tanks\n- N. Fan Forced Heaters\n- O. Portable Electric Heater\n- P. Heat Exchanger Water Glycol\n- Q. Incremental Heating Cooling Unit\n- R. Make Up Air Unit Rooftop Direct Gas Fired\n- S. Make Up Air Unit Rooftop Indirect Gas Fired\n- T. Make Up Air Unit Steam Humidifier\n- U. Make Up Air Unit with Hot Water Coil\n- V. Non-Atmospheric Boiler\n- W. Portable Electric Heaters\n- X. Pumps\n- Y. Split System Air Conditioner\n- Z. Starter Switches\n- AA. Steam Boiler\n- BB. Thermostats Temperature Controllers\n- CC. Timer Controls",
+      "char_count": 954,
+      "token_estimate": 238,
+      "section_title": "Environmental Controls Inspection Checklists",
+      "chunk_type": "content",
+      "start_line": 46,
+      "end_line": 75
+    },
+    {
+      "chunk_id": "maint1-o1002-equipmentinspectionandmaintenancelists_6a3ea94b5087_chunk_017_b91fe23d",
+      "doc_id": "maint1-o1002-equipmentinspectionandmaintenancelists_6a3ea94b5087",
+      "chunk_index": 17,
+      "text": "6. Building Mechanical and Electrical Systems Inspection Checklists----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n``````markdown",
+      "char_count": 407,
+      "token_estimate": 101,
+      "section_title": "Building Mechanical and Electrical Systems Inspection Checklists----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025",
+      "chunk_type": "content",
+      "start_line": 76,
+      "end_line": 77
+    },
+    {
+      "chunk_id": "maint1-o1002-equipmentinspectionandmaintenancelists_6a3ea94b5087_chunk_018_b5ba85e3",
+      "doc_id": "maint1-o1002-equipmentinspectionandmaintenancelists_6a3ea94b5087",
+      "chunk_index": 18,
+      "text": "# PROCEDURE## SECTION: Preventative Maintenance\n\n### DESCRIPTION: Equipment Inspection and Maintenance",
+      "char_count": 102,
+      "token_estimate": 25,
+      "section_title": "PROCEDURE## SECTION: Preventative Maintenance",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-equipmentinspectionandmaintenancelists_6a3ea94b5087_chunk_020_f938804d",
+      "doc_id": "maint1-o1002-equipmentinspectionandmaintenancelists_6a3ea94b5087",
+      "chunk_index": 20,
+      "text": "### INDEX: MAINT1-O10.02### 1. Building Systems\n- A. Building Drains\n- B. Cold Water Supply\n- C. Domestic Hot Water Heater Boiler\n- D. Domestic Hot Water System\n- E. Domestic Water Heater Storage Tank\n- F. Electrical Building Heating System\n- G. Electrical Device\n- H. Electrical System\n- I. Elevator\n- J. Hot Water Storage Tank Concrete Lined\n- K. Hot Water Storage Tank Glass Lined\n- L. Sump Pump\n- M. Water Softener\n- N. Water Treatment System### 2. Kitchen Equipment Checklists\n- A. Compressor Refrigeration Air Cooled\n- B. Compressor Refrigeration Water Cooled\n- C. Dishwasher Booster Electric\n- D. Dishwasher Door Type\n- E. Dishwasher Conveyor Type\n- F. Electric Boiler-less Steamer\n- G. Food Truck\n- H. Garburator\n- I. Grease Trap\n- J. Ice Machines\n- K. Kitchen Carts\n- L. Kitchen Drainage\n- M. Kitchen Range Hood\n- N. Range Grill Oven Electric\n- O. Range Grill Oven Gas Propane\n- P. Refrigerator Freezer Air Cooled\n- Q. Steam Cooker Countertop\n- R. Steam Cooker Floor Model\n- S. Steam Table Portable\n- T. Steam Table Stationary### 3. Laundry and Housekeeping Inspection Checklists\n- A. Auto Scrubber\n- B. Clothes Dryer Gas\n- C. Floor Buffer Swing Machine\n- D. Floor Burnisher\n- E.",
+      "char_count": 1188,
+      "token_estimate": 297,
+      "section_title": "INDEX: MAINT1-O10.02### 1. Building Systems",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-equipmentinspectionandmaintenancelists_6a3ea94b5087_chunk_021_ebfb5f60",
+      "doc_id": "maint1-o1002-equipmentinspectionandmaintenancelists_6a3ea94b5087",
+      "chunk_index": 21,
+      "text": "Floor Buffer Swing Machine\n- D. Floor Burnisher\n- E. Laundry Carts\n- F. Vacuum Cleaner Walk Behind\n- G. Washing Machine### 4. Nursing Equipment Inspection Checklists\n- A. Resident Lift Ceiling\n- B. Resident Lift Mobile Bath Lift\n- C. Resident Lift Mobile Electric\n- D. Resident Lift Mobile\n- E. Therapeutic Tub----> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n```",
+      "char_count": 644,
+      "token_estimate": 161,
+      "section_title": "INDEX: MAINT1-O10.02### 1. Building Systems",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 14
+}

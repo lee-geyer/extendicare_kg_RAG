@@ -1,0 +1,114 @@
+{
+  "doc_id": "epm2-p1008codegrey-essentialservices_a1b7ad3fab84",
+  "total_chunks": 9,
+  "chunks": [
+    {
+      "chunk_id": "epm2-p1008codegrey-essentialservices_a1b7ad3fab84_chunk_000_71834046",
+      "doc_id": "epm2-p1008codegrey-essentialservices_a1b7ad3fab84",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE\n**MANUAL:** Emergency Planning and Management\n**INDEX:** EPM2-P10.08\n**SECTION:** Emergency Response Codes\n**EFFECTIVE DATE:** January 13, 2025\n**REVIEWED DATE:** January 6, 2025\n**APPROVED BY:** Senior Director, Corporate Quality and Risk\n**MODIFIED DATE:** May 30, 2025----## POLICY\n\n### Emergency Response Codes## PROCEDURE",
+      "char_count": 352,
+      "token_estimate": 88,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1008codegrey-essentialservices_a1b7ad3fab84_chunk_002_f770aa6c",
+      "doc_id": "epm2-p1008codegrey-essentialservices_a1b7ad3fab84",
+      "chunk_index": 2,
+      "text": "### Code Grey - Essential Services\nCode Grey - Essential Services is announced when any of the home's essential services are not functioning (essential services include but are not limited to, telephones, computer systems, fire alarm system, mag lock systems, wanderguard systems, life safety systems, call bells, elevators, HVAC systems, power, etc.).### Prepare\nThe Executive Director/Designate will:\n- Be familiar with the procedures for disconnecting the automatic operation of doors, if applicable. Ensure instructions are included in the home’s Emergency Response Plan. - Ensure the home is equipped with a stand-by generator or has access to one quickly, with little notice. - Ensure the home’s Emergency Response Plan includes (printed) schematics of air exchange controls, ventilation, and/or HVAC equipment including each of their locations. - Keep flashlights at each nursing station to assist in the event of a power failure. - Consider purchasing inverter battery packs to allow beds to continue to be raised and lowered during a power outage.",
+      "char_count": 1056,
+      "token_estimate": 264,
+      "section_title": "Code Grey - Essential Services",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1008codegrey-essentialservices_a1b7ad3fab84_chunk_003_238230cb",
+      "doc_id": "epm2-p1008codegrey-essentialservices_a1b7ad3fab84",
+      "chunk_index": 3,
+      "text": "- Keep flashlights at each nursing station to assist in the event of a power failure. - Consider purchasing inverter battery packs to allow beds to continue to be raised and lowered during a power outage. - Ensure an adequate supply of extension cords is kept in a designated area of the home (for example a cabinet in each nursing station/Emergency Operations Centre) to have at least 2 extension cords for every 10 beds.> **Note:** Improper extension cord use can be a potential fire hazard:\n> - Avoid octopus electrical connections (multiple extension cords plugged into a single power outlet). > - Use extension cords capable of carrying the intended load (i.e., do not use an extension cord for a window A/C unit that is meant for a desk lamp). > - Do not plug a power bar into an extension cord (power bars should be plugged directly into the wall outlet).- Conduct a monthly review of the eMAR backup system to ensure it is backing up the files hourly. Refer to PointClickCare eMAR Backup System SOP for instructions on file backup. - Ensure laptops, tablets, and work phones are charged.",
+      "char_count": 1095,
+      "token_estimate": 273,
+      "section_title": "Code Grey - Essential Services",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1008codegrey-essentialservices_a1b7ad3fab84_chunk_004_3e68cb84",
+      "doc_id": "epm2-p1008codegrey-essentialservices_a1b7ad3fab84",
+      "chunk_index": 4,
+      "text": "Refer to PointClickCare eMAR Backup System SOP for instructions on file backup. - Ensure laptops, tablets, and work phones are charged. - Be aware of which printer is connected to the stand-by generator.----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025",
+      "char_count": 529,
+      "token_estimate": 132,
+      "section_title": "Code Grey - Essential Services",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1008codegrey-essentialservices_a1b7ad3fab84_chunk_005_1fd752c5",
+      "doc_id": "epm2-p1008codegrey-essentialservices_a1b7ad3fab84",
+      "chunk_index": 5,
+      "text": "# PROCEDURE## SECTION: Emergency\n\n## DESCRIPTION: Code Grey - Essential Services",
+      "char_count": 80,
+      "token_estimate": 20,
+      "section_title": "PROCEDURE## SECTION: Emergency",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1008codegrey-essentialservices_a1b7ad3fab84_chunk_007_301c9d12",
+      "doc_id": "epm2-p1008codegrey-essentialservices_a1b7ad3fab84",
+      "chunk_index": 7,
+      "text": "## INDEX: EPM1-P10.08Ensure the home has flow sheets for documentation of resident care in the event of a power failure.### Respond\n- Announce Code Grey, Essential Services when any of the home's essential services are not functioning.\n- Do not turn on any electrical equipment.\n- Be alert to the potential of elevator shutdown during a power failure. If the power has been \"flickering”, avoid the use of elevators.\n- Ensure non-functioning maglock outdoor and stairwell doors are monitored.\n- Refer to applicable policy/procedure, Preventing Cold-Related Illnesses or Preventing Heat-Related Illnesses if there is an HVAC system failure.\n- Follow the procedures for a loss of essential services as per the designated Job Action checklists and follow direction from the Incident Manager.\n- Direct Care Staff, complete and document resident checks every 15 minutes when the nurse call bell system is not working using the 24-hour Resident Check Log.\n- Direct Care Staff, use a designated cellular phone to notify families, as applicable and if required.### TOOLS",
+      "char_count": 1061,
+      "token_estimate": 265,
+      "section_title": "INDEX: EPM1-P10.08Ensure the home has flow sheets for documentation of resident care in the event of a power failure.### Respond",
+      "chunk_type": "content",
+      "start_line": 26,
+      "end_line": 34
+    },
+    {
+      "chunk_id": "epm2-p1008codegrey-essentialservices_a1b7ad3fab84_chunk_008_a631ea49",
+      "doc_id": "epm2-p1008codegrey-essentialservices_a1b7ad3fab84",
+      "chunk_index": 8,
+      "text": "1. Code Grey - Essential Services Incident Manager Job Action Checklist\n\n2. Code Grey - Essential Services Maintenance Job Action Checklist",
+      "char_count": 139,
+      "token_estimate": 34,
+      "section_title": "Code Grey - Essential Services Incident Manager Job Action Checklist",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1008codegrey-essentialservices_a1b7ad3fab84_chunk_010_52772837",
+      "doc_id": "epm2-p1008codegrey-essentialservices_a1b7ad3fab84",
+      "chunk_index": 10,
+      "text": "3. Code Grey - Essential Services Dietary Job Action Checklist\n\n4. Code Grey - Essential Services Nursing Staff Job Action Checklist",
+      "char_count": 132,
+      "token_estimate": 33,
+      "section_title": "Code Grey - Essential Services Dietary Job Action Checklist",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1008codegrey-essentialservices_a1b7ad3fab84_chunk_012_07b5d1b6",
+      "doc_id": "epm2-p1008codegrey-essentialservices_a1b7ad3fab84",
+      "chunk_index": 12,
+      "text": "5. Code Grey - Executive Director/Designate Job Action Checklist\n\n6. 24 Hour Resident Check Log----This document is uncontrolled when printed.Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----Page 2 of 2",
+      "char_count": 435,
+      "token_estimate": 108,
+      "section_title": "Code Grey - Executive Director/Designate Job Action Checklist",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

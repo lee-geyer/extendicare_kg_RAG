@@ -1,0 +1,66 @@
+{
+  "doc_id": "rc-16-01-15_a2selfadministrationmedicationagreement_c28b7577db4e",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": "rc-16-01-15_a2selfadministrationmedicationagreement_c28b7577db4e_chunk_000_fbaf090c",
+      "doc_id": "rc-16-01-15_a2selfadministrationmedicationagreement_c28b7577db4e",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Self-Administration of Medication Agreement**Date:** Enter dateI, __________________________, residing at\n**Resident Name:** __________________________\n**Name of Home:** __________________________ (the “Home”)agree, that in order to maintain safe self-administration of medication practice:1. A Pharmacist/Physician/Nurse at the Home has provided me with instruction on self-administering medications, and I am aware of the use of my medications, the need for my medications, the need for monitoring and documenting the use of my medications, and the importance of safekeeping my medications.",
+      "char_count": 610,
+      "token_estimate": 152,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "rc-16-01-15_a2selfadministrationmedicationagreement_c28b7577db4e_chunk_002_7a34e412",
+      "doc_id": "rc-16-01-15_a2selfadministrationmedicationagreement_c28b7577db4e",
+      "chunk_index": 2,
+      "text": "2. I will self-administer only specific medications prescribed by my attending Physician.\n\n3. I will self-administer medications as prescribed by my attending Physician.",
+      "char_count": 169,
+      "token_estimate": 42,
+      "section_title": "I will self-administer only specific medications prescribed by my attending Physician.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "rc-16-01-15_a2selfadministrationmedicationagreement_c28b7577db4e_chunk_004_d058ce2d",
+      "doc_id": "rc-16-01-15_a2selfadministrationmedicationagreement_c28b7577db4e",
+      "chunk_index": 4,
+      "text": "4. I will be re-assessed on a regular basis by the Nurse/Physician/NP and/or with any change in my current health status to determine my ability to continue to self-administer my medications.\n\n5. I must store all of my medications in a secure locked drawer/cabinet. A duplicate key will be given to the Nurse with the narcotic keys.I will tell the Nurse:1. When I take a PRN medication (medication that is not prescribed on a regular schedule).",
+      "char_count": 444,
+      "token_estimate": 111,
+      "section_title": "I will be re-assessed on a regular basis by the Nurse/Physician/NP and/or with any change in my current health status to determine my ability to continue to self-administer my medications.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "rc-16-01-15_a2selfadministrationmedicationagreement_c28b7577db4e_chunk_006_86868ed3",
+      "doc_id": "rc-16-01-15_a2selfadministrationmedicationagreement_c28b7577db4e",
+      "chunk_index": 6,
+      "text": "2. When I have not taken/or have altered the way I take my medication.\n\n3. If I notice any side effects from my medication.",
+      "char_count": 123,
+      "token_estimate": 30,
+      "section_title": "When I have not taken/or have altered the way I take my medication.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "rc-16-01-15_a2selfadministrationmedicationagreement_c28b7577db4e_chunk_008_8b4de73c",
+      "doc_id": "rc-16-01-15_a2selfadministrationmedicationagreement_c28b7577db4e",
+      "chunk_index": 8,
+      "text": "4. When I need a refill of my medication.----**Signature of Resident:** __________________________\n**Signature of Physician:** __________________________\n**Signature of Nurse:** __________________________**Date:** __________________________\n**Date:** __________________________\n**Date:** __________________________----**LAST UPDATED:** June 2025\n**Policy Number:** RC-16-01-15 A2\n**Page:** 1 of 1",
+      "char_count": 396,
+      "token_estimate": 99,
+      "section_title": "When I need a refill of my medication.----**Signature of Resident:** __________________________",
+      "chunk_type": "content",
+      "start_line": 10,
+      "end_line": 16
+    }
+  ]
+}

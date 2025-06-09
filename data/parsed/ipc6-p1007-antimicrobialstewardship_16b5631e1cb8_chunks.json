@@ -1,0 +1,30 @@
+{
+  "doc_id": "ipc6-p1007-antimicrobialstewardship_16b5631e1cb8",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "ipc6-p1007-antimicrobialstewardship_16b5631e1cb8_chunk_000_a50d50d5",
+      "doc_id": "ipc6-p1007-antimicrobialstewardship_16b5631e1cb8",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Infection Prevention and Control\n**INDEX:** IPC6-P10.07\n**SECTION:** Multi-Drug Resistant Organisms (MDROs)\n**DESCRIPTION:** Antimicrobial Stewardship\n**EFFECTIVE DATE:** February 18, 2025\n**REVIEWED DATE:** February 11, 2025\n**APPROVED BY:** Chief Medical Officer\n**MODIFIED DATE:** May 30, 2025----## POLICY### Multi-Drug Resistant Organisms (MDROs)## PROCEDURE### Reports\n- Receive a detailed summary report of antimicrobial use in the home from the contracted pharmacy. - Receive a summary report from the laboratory with organism growth/identification, where available. - Provide a copy of these reports to the Infection Control Professional/Designate.### Evaluation\n- Review the antimicrobial usage report in comparison to the summary of the month’s infection statistics and look for:\n- Similarities\n- Discrepancies\n- Increases in rates of infections and/or antimicrobial use\n- Congruence between infections diagnosed with antimicrobials ordered\n- Present a summary of the analysis at applicable infection control meetings.",
+      "char_count": 1066,
+      "token_estimate": 266,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p1007-antimicrobialstewardship_16b5631e1cb8_chunk_001_e0d40306",
+      "doc_id": "ipc6-p1007-antimicrobialstewardship_16b5631e1cb8",
+      "chunk_index": 1,
+      "text": "- Receive a summary report from the laboratory with organism growth/identification, where available. - Provide a copy of these reports to the Infection Control Professional/Designate.### Evaluation\n- Review the antimicrobial usage report in comparison to the summary of the month’s infection statistics and look for:\n- Similarities\n- Discrepancies\n- Increases in rates of infections and/or antimicrobial use\n- Congruence between infections diagnosed with antimicrobials ordered\n- Present a summary of the analysis at applicable infection control meetings. - Develop an action plan based on the input from these meetings, if required, to address areas of concern.----**Helplng people Iva better**\nThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 1 of 1",
+      "char_count": 1030,
+      "token_estimate": 257,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

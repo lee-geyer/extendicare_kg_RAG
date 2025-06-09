@@ -1,0 +1,53 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t4jnursecallsystinspec_d96302f988b2_chunk_000_30a15261",
+      "doc_id": "maint1-o1002-t4jnursecallsystinspec_d96302f988b2",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## MAINTENANCE INSPECTION CHECKLIST### Equipment: Nurse Call System\n- **Name:**\n- **Year:**\n- **Unit No.:**\n- **Manufacturer:** All\n- **Model:** All### LEGEND/KEY\n| LEGEND | KEY       |\n|--------|-----------|\n| W      | Weekly    |\n| M      | Monthly   |\n| Q      | Quarterly |\n| S      | Semi-Annual |\n| A      | Annual    |### CHECKS\n| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   |   |   | 1. Check that all call cords are in place. |\n| X |   |   |   |   | 2.",
+      "char_count": 628,
+      "token_estimate": 157,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t4jnursecallsystinspec_d96302f988b2_chunk_002_89f655d7",
+      "doc_id": "maint1-o1002-t4jnursecallsystinspec_d96302f988b2",
+      "chunk_index": 2,
+      "text": "Check that all call cords are in place. |\n| X |   |   |   |   | 2. Check the function of the following:                             |\n|   |   |   |   |   |    - Lamps                                                          |\n|   |   |   |   |   |    - Control panel                                                  |\n|   |   |   |   |   |    - Remote panel(s)                                               |\n|   |   |   |   |   |    - Corridor display panels                                        |\n|   |   |   |   |   |    - Dome lamps                                                    |\n|   |   |   |   |   |    - Zone lamps                                                    |\n|   |   |   |   |   |    - Initiating devices                                            |\n|   |   |   |   |   |    - Audible devices                                               |\n|   | X |   |   |   | 3. Check for system audibility. |\n|   | X |   |   |   | 4. Replace defective components as necessary. |\n|   |   | X |   |   | 5. Operate system on stand-by battery power.",
+      "char_count": 1057,
+      "token_estimate": 264,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment: Nurse Call System",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t4jnursecallsystinspec_d96302f988b2_chunk_003_430c4753",
+      "doc_id": "maint1-o1002-t4jnursecallsystinspec_d96302f988b2",
+      "chunk_index": 3,
+      "text": "|\n|   |   | X |   |   | 5. Operate system on stand-by battery power. |### Monthly Schedule\n| Month | M | Q | S | A |\n|-------|---|---|---|---|\n| JAN   | W | W | W | W |\n| FEB   | W | W | W | W |\n| MAR   | W | W | W | W |\n| APR   | W | W | W | W |\n| MAY   | W | W | W | W |\n| JUN   | W | W | W | W |\n| JUL   | W | W | W | W |\n| AUG   | W | W | W | W |\n| SEP   | W | W | W | W |\n| OCT   | W | W | W | W |\n| NOV   | W | W | W | W |\n| DEC   | W | W | W | W |----*Helping people live better*> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1056,
+      "token_estimate": 264,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment: Nurse Call System",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t4jnursecallsystinspec_d96302f988b2_chunk_004_ae3e525e",
+      "doc_id": "maint1-o1002-t4jnursecallsystinspec_d96302f988b2",
+      "chunk_index": 4,
+      "text": "© 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 2 of 2",
+      "char_count": 515,
+      "token_estimate": 128,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment: Nurse Call System",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 4
+}

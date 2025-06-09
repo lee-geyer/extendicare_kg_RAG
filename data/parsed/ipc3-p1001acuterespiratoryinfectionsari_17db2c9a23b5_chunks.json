@@ -1,0 +1,78 @@
+{
+  "doc_id": "ipc3-p1001acuterespiratoryinfectionsari_17db2c9a23b5",
+  "total_chunks": 6,
+  "chunks": [
+    {
+      "chunk_id": "ipc3-p1001acuterespiratoryinfectionsari_17db2c9a23b5_chunk_000_cfe85528",
+      "doc_id": "ipc3-p1001acuterespiratoryinfectionsari_17db2c9a23b5",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE- **MANUAL:** Infection Prevention and Control\n- **INDEX:** IPC3-P10.01\n- **SECTION:** Communicable Diseases\n- **EFFECTIVE DATE:** February 18, 2025\n- **REVIEWED DATE:** February 11, 2025\n- **APPROVED BY:** Chief Medical Officer\n- **MODIFIED DATE:** May 30, 2025----## POLICY### Communicable Diseases### PROCEDURE#### Prevention- Residents will be assessed on admission for acute respiratory infections (ARIs). - The Home will follow all public health authority directives and any further direction from the Outbreak Management Team related to visitors, volunteers, and home operations. - Strongly encourage Residents and staff to be up to date on their immunizations against respiratory pathogens. - Check nasopharyngeal swab kits to ensure that they are not expired. - Ensure all Residents have up-to-date creatinine clearance to calculate antiviral dosages. Co-ordinate with Pharmacy or applicable provincial resource management to ensure availability of antivirals.#### Management- Staff will report any Resident signs and symptoms of respiratory infection to the registered staff.",
+      "char_count": 1110,
+      "token_estimate": 277,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p1001acuterespiratoryinfectionsari_17db2c9a23b5_chunk_001_99ac287a",
+      "doc_id": "ipc3-p1001acuterespiratoryinfectionsari_17db2c9a23b5",
+      "chunk_index": 1,
+      "text": "- Ensure all Residents have up-to-date creatinine clearance to calculate antiviral dosages. Co-ordinate with Pharmacy or applicable provincial resource management to ensure availability of antivirals.#### Management- Staff will report any Resident signs and symptoms of respiratory infection to the registered staff. - Resident who shows signs and symptoms of an ARI will be placed on additional precautions and Infection Control Professional (ICP)/Designate and the Director of Care/Director of Health and Wellness will be notified. - Socialization, spiritual and recreational needs will be met in the Resident’s room. - Additional precautions will be discontinued based on identified organism or resolution of symptoms. - Staff to remain off work for at least 24 hrs after symptoms improving and afebrile or as directed by the health authority. - Roommates and or close contacts of a Resident with a suspect or confirmed ARI should be monitored for signs and symptoms of respiratory illness and placed on additional precautions as required and as directed by health authority. - Socialization, spiritual and recreational needs will be met in the Resident’s room.",
+      "char_count": 1164,
+      "token_estimate": 291,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p1001acuterespiratoryinfectionsari_17db2c9a23b5_chunk_002_05342441",
+      "doc_id": "ipc3-p1001acuterespiratoryinfectionsari_17db2c9a23b5",
+      "chunk_index": 2,
+      "text": "- Roommates and or close contacts of a Resident with a suspect or confirmed ARI should be monitored for signs and symptoms of respiratory illness and placed on additional precautions as required and as directed by health authority. - Socialization, spiritual and recreational needs will be met in the Resident’s room. - Contact the physician/nurse practitioner for medication orders if required. - Perform laboratory testing as per health authority and/or physician’s direction. - If possible, reschedule non-essential appointments and visits. - If possible, dedicate equipment to the ill Resident. If equipment is shared, it must be cleaned and disinfected prior to use by another Resident.#### Communication and Reporting----**Helping people live better**This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 2**# PROCEDURE## SECTION: Communicable Diseases",
+      "char_count": 1142,
+      "token_estimate": 285,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p1001acuterespiratoryinfectionsari_17db2c9a23b5_chunk_003_ad76f642",
+      "doc_id": "ipc3-p1001acuterespiratoryinfectionsari_17db2c9a23b5",
+      "chunk_index": 3,
+      "text": "### DESCRIPTION: Acute Respiratory Infection (ARI)\n\n### INDEX: IPC3-P10.01When transferring a resident is necessary, alert both the transporting personnel as well as the receiving facility personnel that the Resident has a respiratory infection. Alert the physician/nurse practitioner of any resident with an ARI infection. All reportable diseases will be reported to public health authority as per regulations.## TOOLS",
+      "char_count": 419,
+      "token_estimate": 104,
+      "section_title": "DESCRIPTION: Acute Respiratory Infection (ARI)",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p1001acuterespiratoryinfectionsari_17db2c9a23b5_chunk_005_a9aa5d81",
+      "doc_id": "ipc3-p1001acuterespiratoryinfectionsari_17db2c9a23b5",
+      "chunk_index": 5,
+      "text": "1. IPC3-P10-T4 - Acute Respiratory Illness Assessment\n\n2. IPC3-P10-T5 - Resident Infection Report",
+      "char_count": 97,
+      "token_estimate": 24,
+      "section_title": "IPC3-P10-T4 - Acute Respiratory Illness Assessment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p1001acuterespiratoryinfectionsari_17db2c9a23b5_chunk_007_ad44cbfb",
+      "doc_id": "ipc3-p1001acuterespiratoryinfectionsari_17db2c9a23b5",
+      "chunk_index": 7,
+      "text": "3. IPC3-P10-T7 - Shift Symptom Surveillance----*Helping people live better*This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----Page 2 of 2",
+      "char_count": 412,
+      "token_estimate": 103,
+      "section_title": "IPC3-P10-T7 - Shift Symptom Surveillance----*Helping people live better*This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----Page 2 of 2",
+      "chunk_type": "content",
+      "start_line": 25,
+      "end_line": 25
+    }
+  ]
+}

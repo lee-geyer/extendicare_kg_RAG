@@ -1,0 +1,65 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t4acarbonmonodetinspchecklist_0ff926578f02_chunk_000_638d297c",
+      "doc_id": "maint1-o1002-t4acarbonmonodetinspchecklist_0ff926578f02",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## MAINTENANCE INSPECTION CHECKLIST### Equipment: Carbon Monoxide Detectors#### LEGEND/KEY\n| Legend | Key          |\n|--------|--------------|\n| W      | Weekly       |\n| M      | Monthly      |\n| Q      | Quarterly    |\n| S      | Semi-Annual  |\n| A      | Annual       |\n| O      | Ok           |\n| R      | Repair       |\n| N      | Replace      |#### CHECKS\n| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   |   | 1 | Check that all CO detectors are in their proper location. (See list below) |\n| X |   |   |   | 2 | Check that LED indicates “0” level of CO.                          |\n| X |   |   |   | 3 | Press the Test button to ensure the detector operates properly.     |\n|   | X |   |   | 4 | Inspect for damage.                                                |\n|   |   |   |   | 5 | Change battery as required (some units have non-replaceable batteries. In this case, the complete unit must be replaced). |\n|   |   |   | X | 6 | Check age of detector – Replace CO detector when 7 years old.     |### LOCATION OF DETECTORS\n**NOTE:**",
+      "char_count": 1206,
+      "token_estimate": 301,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t4acarbonmonodetinspchecklist_0ff926578f02_chunk_002_941ff44a",
+      "doc_id": "maint1-o1002-t4acarbonmonodetinspchecklist_0ff926578f02",
+      "chunk_index": 2,
+      "text": "W W W W W W W W W W W W W W W W W W W W W W W W\n\nJAN         FEB               MAR        APR      MAY              JUN",
+      "char_count": 119,
+      "token_estimate": 29,
+      "section_title": "W W W W W W W W W W W W W W W W W W W W W W W W",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t4acarbonmonodetinspchecklist_0ff926578f02_chunk_004_2992ea16",
+      "doc_id": "maint1-o1002-t4acarbonmonodetinspchecklist_0ff926578f02",
+      "chunk_index": 4,
+      "text": "M   Q  S  A  M  Q  S  A  M  Q  S  A  M  Q  S  A  M  Q  S  A\n\nW W W W W W W W W W W W W W W W W W W W W W W W",
+      "char_count": 108,
+      "token_estimate": 27,
+      "section_title": "M   Q  S  A  M  Q  S  A  M  Q  S  A  M  Q  S  A  M  Q  S  A",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t4acarbonmonodetinspchecklist_0ff926578f02_chunk_006_30d34118",
+      "doc_id": "maint1-o1002-t4acarbonmonodetinspchecklist_0ff926578f02",
+      "chunk_index": 6,
+      "text": "JUL         AUG         SEP              OCT            NOV        DEC\nM   Q  S  A  M  Q  S  A  M  Q  S  A  M  Q  S  A  M  Q  S  A----Helping people\nLive betterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\nConfidential and Proprietary Information of Extendicare (Canada) Inc. © 2025",
+      "char_count": 482,
+      "token_estimate": 120,
+      "section_title": "JUL         AUG         SEP              OCT            NOV        DEC",
+      "chunk_type": "content",
+      "start_line": 25,
+      "end_line": 28
+    },
+    {
+      "chunk_id": "maint1-o1002-t4acarbonmonodetinspchecklist_0ff926578f02_chunk_007_ded22458",
+      "doc_id": "maint1-o1002-t4acarbonmonodetinspchecklist_0ff926578f02",
+      "chunk_index": 7,
+      "text": "# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 2 of 2**",
+      "char_count": 499,
+      "token_estimate": 124,
+      "section_title": "INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |",
+      "chunk_type": "content",
+      "start_line": 29,
+      "end_line": 32
+    }
+  ],
+  "total_chunks": 5
+}

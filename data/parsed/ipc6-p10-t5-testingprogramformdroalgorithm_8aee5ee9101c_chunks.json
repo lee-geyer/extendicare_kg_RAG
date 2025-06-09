@@ -1,0 +1,42 @@
+{
+  "doc_id": "ipc6-p10-t5-testingprogramformdroalgorithm_8aee5ee9101c",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "ipc6-p10-t5-testingprogramformdroalgorithm_8aee5ee9101c_chunk_000_1669c178",
+      "doc_id": "ipc6-p10-t5-testingprogramformdroalgorithm_8aee5ee9101c",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Testing Program for Multi-Drug Resistant Organism (MDRO) Algorithm### Week 1\nSwab all sites and track results on MDRO Tracking Sheet| Any Positive Result                       | All Negative Results                     |\n|-------------------------------------------|------------------------------------------|\n| ► Discontinue testing.",
+      "char_count": 352,
+      "token_estimate": 88,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p10-t5-testingprogramformdroalgorithm_8aee5ee9101c_chunk_002_bc560836",
+      "doc_id": "ipc6-p10-t5-testingprogramformdroalgorithm_8aee5ee9101c",
+      "chunk_index": 2,
+      "text": "| ► Repeat one week after last test       |\n| ► Schedule for retesting in 6 months     |                                          |### Week 2\nSwab all sites and track results on appropriate MDRO tracking form| Any Positive Result                       | All Negative Results                     |\n|-------------------------------------------|------------------------------------------|\n| ► Discontinue testing                     | ► Repeat one week after last test       |\n| ► Schedule for retesting in 6 months     |                                          |### Week 3\nSwab all sites and track results on appropriate MDRO tracking form| Any Positive Results                      | All Negative Results                     |\n|-------------------------------------------|------------------------------------------|\n| ► Schedule for retesting in 6 months     | ► Resolved                               |\n|                                           | No further action required               |Consult with Physician / IPAC Consultant / IPC Lead / DOC to determine need for ongoing surveillance cultures (excluding admission/re-admission) after 1-year.----**Helping people live better***This document is uncontrolled when printed.*\nExtendicare (Canada) Inc.",
+      "char_count": 1255,
+      "token_estimate": 313,
+      "section_title": "Testing Program for Multi-Drug Resistant Organism (MDRO) Algorithm### Week 1",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p10-t5-testingprogramformdroalgorithm_8aee5ee9101c_chunk_003_b539b052",
+      "doc_id": "ipc6-p10-t5-testingprogramformdroalgorithm_8aee5ee9101c",
+      "chunk_index": 3,
+      "text": "will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary",
+      "char_count": 204,
+      "token_estimate": 51,
+      "section_title": "Testing Program for Multi-Drug Resistant Organism (MDRO) Algorithm### Week 1",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

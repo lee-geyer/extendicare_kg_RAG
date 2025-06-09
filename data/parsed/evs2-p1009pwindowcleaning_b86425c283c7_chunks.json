@@ -1,0 +1,90 @@
+{
+  "doc_id": "evs2-p1009pwindowcleaning_b86425c283c7",
+  "total_chunks": 7,
+  "chunks": [
+    {
+      "chunk_id": "evs2-p1009pwindowcleaning_b86425c283c7_chunk_000_51df3844",
+      "doc_id": "evs2-p1009pwindowcleaning_b86425c283c7",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Environmental Services\n**INDEX:** EVS2-P10.09P\n**SECTION:** Cleaning and Organization - Housekeeping\n**EFFECTIVE DATE:** March 18, 2025\n**REVIEWED DATE:** March 7, 2025\n**APPROVED BY:** Senior Director, Operational Quality and Professional Practice\n**MODIFIED DATE:** May 14, 2025----## POLICY### Cleaning and Organization## PROCEDURE### Frequency:\n- Clean windows on an annual or semi-annual (spring and/or fall) basis both inside and out as per cleaning schedule.\n- Resident rooms or general washrooms: **DAILY**.### Collect the following items:\n- Window washing bucket with vinegar and water diluted 1:20 and/or dish detergent (small drop) or glass cleaner.\n- Window washing tool.\n- Disposable gloves.\n- Squeegees (12” and/or 8”).\n- Painters’ ladder.\n- Clean, lint-free cloths or lint-free paper towels.\n- Scraper.### Resident Rooms/General Washrooms:",
+      "char_count": 891,
+      "token_estimate": 222,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 15
+    },
+    {
+      "chunk_id": "evs2-p1009pwindowcleaning_b86425c283c7_chunk_001_6e3e8ddb",
+      "doc_id": "evs2-p1009pwindowcleaning_b86425c283c7",
+      "chunk_index": 1,
+      "text": "1. Clear away any items in or on window areas.\n\n2. Wipe inside of window frame removing all dust and soil.",
+      "char_count": 106,
+      "token_estimate": 26,
+      "section_title": "Clear away any items in or on window areas.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1009pwindowcleaning_b86425c283c7_chunk_003_8cc6ac03",
+      "doc_id": "evs2-p1009pwindowcleaning_b86425c283c7",
+      "chunk_index": 3,
+      "text": "3. Wet window washing tool.\n\n4. Wash window in a back and forth and up and down motion.",
+      "char_count": 87,
+      "token_estimate": 21,
+      "section_title": "Wet window washing tool.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1009pwindowcleaning_b86425c283c7_chunk_005_c1df21da",
+      "doc_id": "evs2-p1009pwindowcleaning_b86425c283c7",
+      "chunk_index": 5,
+      "text": "5. Using your squeegee, start at the top left corner and pull squeegee down the window to the bottom of the frame. Wipe squeegee blade and repeat. Overlap slightly the last area. For windows too small for the squeegee, use a lint-free cloth to dry window completely.\n\n6. Remove hard soils with scraper (i.e., food, paint, etc.).",
+      "char_count": 328,
+      "token_estimate": 82,
+      "section_title": "Using your squeegee, start at the top left corner and pull squeegee down the window to the bottom of the frame. Wipe squeegee blade and repeat. Overlap slightly the last area. For windows too small for the squeegee, use a lint-free cloth to dry window completely.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1009pwindowcleaning_b86425c283c7_chunk_007_25f4c2af",
+      "doc_id": "evs2-p1009pwindowcleaning_b86425c283c7",
+      "chunk_index": 7,
+      "text": "7. Wipe frame to remove excess water left behind.\n\n8. Change cleaning solution when soiled.",
+      "char_count": 91,
+      "token_estimate": 22,
+      "section_title": "Wipe frame to remove excess water left behind.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1009pwindowcleaning_b86425c283c7_chunk_009_0b9fc553",
+      "doc_id": "evs2-p1009pwindowcleaning_b86425c283c7",
+      "chunk_index": 9,
+      "text": "9. Clean and put all equipment away in designated area after job is completed.\n\n10. Replace items back on the windowsill as appropriate.",
+      "char_count": 136,
+      "token_estimate": 34,
+      "section_title": "Clean and put all equipment away in designated area after job is completed.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1009pwindowcleaning_b86425c283c7_chunk_011_dcbfb0ab",
+      "doc_id": "evs2-p1009pwindowcleaning_b86425c283c7",
+      "chunk_index": 11,
+      "text": "11. Spot cleaning of windows and screens is done on regular cleaning schedule.----**Helping people live better**\nThis document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n**Page 1 of 1**",
+      "char_count": 451,
+      "token_estimate": 112,
+      "section_title": "Spot cleaning of windows and screens is done on regular cleaning schedule.----**Helping people live better**",
+      "chunk_type": "content",
+      "start_line": 26,
+      "end_line": 29
+    }
+  ]
+}

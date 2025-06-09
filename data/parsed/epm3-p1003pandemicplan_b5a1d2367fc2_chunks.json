@@ -1,0 +1,30 @@
+{
+  "doc_id": "epm3-p1003pandemicplan_b5a1d2367fc2",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "epm3-p1003pandemicplan_b5a1d2367fc2_chunk_000_db956938",
+      "doc_id": "epm3-p1003pandemicplan_b5a1d2367fc2",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE\n**MANUAL:** Emergency Planning and Management\n**INDEX:** EPM3-P10.03\n**SECTION:** Emergency Plans\n**EFFECTIVE DATE:** January 13, 2025\n**REVIEWED DATE:** January 6, 2025\n**APPROVED BY:** Senior Director, Corporate Quality and Risk\n**MODIFIED DATE:** May 30, 2025----## POLICY\n\n### Emergency Plans## PROCEDURE\nThe Executive Director/Designate must:- Deploy the Corporate Pandemic Plan when at least one health authority at the local, provincial, federal, or international level has declared an official state of Pandemic outbreak.\n- Ensure all staff are trained on pandemic management on orientation and annually.\n- Ensure the home has home specific outbreak plans in the event of a Pandemic outbreak.## TOOLS",
+      "char_count": 734,
+      "token_estimate": 183,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm3-p1003pandemicplan_b5a1d2367fc2_chunk_002_25a5ad8a",
+      "doc_id": "epm3-p1003pandemicplan_b5a1d2367fc2",
+      "chunk_index": 2,
+      "text": "1. Corporate Pandemic Plan----> This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 1",
+      "char_count": 370,
+      "token_estimate": 92,
+      "section_title": "Corporate Pandemic Plan----> This document is uncontrolled when printed.",
+      "chunk_type": "content",
+      "start_line": 12,
+      "end_line": 14
+    }
+  ]
+}

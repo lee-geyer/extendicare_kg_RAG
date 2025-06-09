@@ -1,0 +1,18 @@
+{
+  "doc_id": "ipc2-p10-e18-keepsafeposter_61f513d81abf",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "ipc2-p10-e18-keepsafeposter_61f513d81abf_chunk_000_450e408f",
+      "doc_id": "ipc2-p10-e18-keepsafeposter_61f513d81abf",
+      "chunk_index": 0,
+      "text": "# Extendicare## STAY SAFE\n\n### KEEP OUR RESIDENTS SAFER\n- **WEAR YOUR MASK**\n- **PRACTICE HAND HYGIENE**",
+      "char_count": 104,
+      "token_estimate": 26,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

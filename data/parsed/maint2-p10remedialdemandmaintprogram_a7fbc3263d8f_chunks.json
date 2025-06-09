@@ -1,0 +1,89 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint2-p10remedialdemandmaintprogram_a7fbc3263d8f_chunk_000_635ce6b0",
+      "doc_id": "maint2-p10remedialdemandmaintprogram_a7fbc3263d8f",
+      "chunk_index": 0,
+      "text": "# Extendjcare## POLICY MANUAL: Maintenance\n\n### INDEX: MAINT2-P10",
+      "char_count": 65,
+      "token_estimate": 16,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint2-p10remedialdemandmaintprogram_a7fbc3263d8f_chunk_002_d85a026a",
+      "doc_id": "maint2-p10remedialdemandmaintprogram_a7fbc3263d8f",
+      "chunk_index": 2,
+      "text": "### SECTION: Remedial (Demand) Maintenance Program\n\n### EFFECTIVE DATE:",
+      "char_count": 71,
+      "token_estimate": 17,
+      "section_title": "SECTION: Remedial (Demand) Maintenance Program",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint2-p10remedialdemandmaintprogram_a7fbc3263d8f_chunk_004_43f04b9b",
+      "doc_id": "maint2-p10remedialdemandmaintprogram_a7fbc3263d8f",
+      "chunk_index": 4,
+      "text": "### REVIEWED DATE:\n\n### APPROVED BY: VP LTC Operations",
+      "char_count": 54,
+      "token_estimate": 13,
+      "section_title": "REVIEWED DATE:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint2-p10remedialdemandmaintprogram_a7fbc3263d8f_chunk_006_bfa97ada",
+      "doc_id": "maint2-p10remedialdemandmaintprogram_a7fbc3263d8f",
+      "chunk_index": 6,
+      "text": "### MODIFIED DATE:----## POLICY\nAn important part of this type of maintenance is the development of a system that advises maintenance workers of the need to effect repairs. This policy establishes a requirement for a program that provides remedial maintenance for the building and for the equipment and systems that are part of the building.### STANDARD\n- All homes shall have a remedial (demand) maintenance program that provides a system of routine inspections and repairs to the building components including the equipment and systems that are part of the building. This shall include but not be limited to:\n- Electrical and non-electrical equipment\n- Mechanical lifts\n- Plumbing fixtures, washroom fixtures, toilets, sinks and grab-bars\n- Temperature of hot water serving bathtubs, showers and hand basins used by residents\n- Mechanical ventilation systems.\n- The Maintenance Manager/Lead will develop a program to provide remedial maintenance to equipment and systems.\n- When a piece of equipment presents a hazard to workers, it will be \"locked out\" until it is repaired. All staff will be informed of this procedure for any equipment requiring repair.## PROCEDURE",
+      "char_count": 1170,
+      "token_estimate": 292,
+      "section_title": "MODIFIED DATE:----## POLICY",
+      "chunk_type": "content",
+      "start_line": 6,
+      "end_line": 15
+    },
+    {
+      "chunk_id": "maint2-p10remedialdemandmaintprogram_a7fbc3263d8f_chunk_007_168eec3a",
+      "doc_id": "maint2-p10remedialdemandmaintprogram_a7fbc3263d8f",
+      "chunk_index": 7,
+      "text": "1. Demand Maintenance Program Development## EDUCATION\n\n1. Priority Level Response Resource Document----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025  Page 1 of 2# Extendjcare## POLICY**SECTION:** Remedial (Demand)\n**DESCRIPTION:** Remedial (Demand) Maintenance Program\n**INDEX:** MAINT2-P10### References- Ontario Ministry of Health: www.health.gov.on.ca\n- Ontario Fixing LTC Act, 2021 and Regulations: Fixing Long-Term Care Act, 2021, S.O. 2021, c. 39, Sched.",
+      "char_count": 736,
+      "token_estimate": 184,
+      "section_title": "Demand Maintenance Program Development## EDUCATION",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint2-p10remedialdemandmaintprogram_a7fbc3263d8f_chunk_009_0ec17b0d",
+      "doc_id": "maint2-p10remedialdemandmaintprogram_a7fbc3263d8f",
+      "chunk_index": 9,
+      "text": "2021, c. 39, Sched. 1\n- Alberta Health Services: www.albertahealthservices.ca\n- Alberta Continuing Care Accommodation and Health Service Standards: https://www.alberta.ca/continuing-care-accommodation-and-health-service-standards.aspx\n- Manitoba Health and Seniors Care: https://www.gov.mb.ca/health/\n- Manitoba Personal Care Homes Standards Regulation: http://web2.gov.mb.ca/laws/regs/current/_pdf-regs.php?reg=30/2005\n- Manitoba Health Services Insurance Act: https://web2.gov.mb.ca/laws/statutes/ccsm/h035e.php\n- Accreditation Canada: https://accreditation.ca/solutions/senior-residential-care/\n- Manitoba Workplace Safety & Health Legislation: https://www.gov.mb.ca/labour/safety/wshl.html\n- Ontario Health and Safety: https://www.labour.gov.on.ca/english/hs/\n- Canadian Standards Association – CSA: http://www.csagroup.org\n- Canadian Centre for Occupational Health & Safety: http://www.ccohs.ca----> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.",
+      "char_count": 1150,
+      "token_estimate": 287,
+      "section_title": "Priority Level Response Resource Document----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025  Page 1 of 2# Extendjcare## POLICY**SECTION:** Remedial (Demand)",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint2-p10remedialdemandmaintprogram_a7fbc3263d8f_chunk_010_261834ca",
+      "doc_id": "maint2-p10remedialdemandmaintprogram_a7fbc3263d8f",
+      "chunk_index": 10,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 2 of 2",
+      "char_count": 294,
+      "token_estimate": 73,
+      "section_title": "Priority Level Response Resource Document----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025  Page 1 of 2# Extendjcare## POLICY**SECTION:** Remedial (Demand)",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 7
+}

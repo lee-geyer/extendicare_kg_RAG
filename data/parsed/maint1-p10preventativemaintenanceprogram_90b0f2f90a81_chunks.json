@@ -1,0 +1,137 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-p10preventativemaintenanceprogram_90b0f2f90a81_chunk_000_e0d6960a",
+      "doc_id": "maint1-p10preventativemaintenanceprogram_90b0f2f90a81",
+      "chunk_index": 0,
+      "text": "# Extendicare Policy Manual**INDEX:** MAINT1-P10\n**SECTION:** Preventative Maintenance Program\n**EFFECTIVE DATE:**\n**REVIEWED DATE:**\n**APPROVED BY:** VP LTC Operations\n**MODIFIED DATE:**## POLICYPreventive Maintenance is intended to keep equipment working and/or extend the life of the equipment. It is a scheduled program where key systems and equipment are regularly and systematically inspected and, if required, adjusted and/or provided with additional care to prevent failure or premature deterioration.## STANDARDAll homes shall have a preventive maintenance program that provides a scheduled system of routine inspections and maintenance of the building’s major equipment and systems. In your Preventative Maintenance Program, the Maintenance Manager/Designate will need to schedule and carry out regular inspections for all major equipment in the home. This shall include but not be limited to:- Building heating, ventilation and air-conditioning equipment and systems.",
+      "char_count": 978,
+      "token_estimate": 244,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-p10preventativemaintenanceprogram_90b0f2f90a81_chunk_001_d2e20ae0",
+      "doc_id": "maint1-p10preventativemaintenanceprogram_90b0f2f90a81",
+      "chunk_index": 1,
+      "text": "In your Preventative Maintenance Program, the Maintenance Manager/Designate will need to schedule and carry out regular inspections for all major equipment in the home. This shall include but not be limited to:- Building heating, ventilation and air-conditioning equipment and systems. - Building hot water heaters and hot water storage tanks.After identifying key equipment and systems, the Maintenance Department will create a program outlining daily, weekly, monthly, quarterly, semi-annual, and annual tasks for proper maintenance. Preventive maintenance tasks are cyclical and can be scheduled in advance based on the facility’s characteristics and job responsibilities. The Maintenance Department will create a daily routine and Monthly Calendar after developing checklists for key equipment and systems.## PROCEDURE1. Preventative Maintenance Program Development",
+      "char_count": 869,
+      "token_estimate": 217,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-p10preventativemaintenanceprogram_90b0f2f90a81_chunk_002_e37e977e",
+      "doc_id": "maint1-p10preventativemaintenanceprogram_90b0f2f90a81",
+      "chunk_index": 2,
+      "text": "2. Equipment Inspection and Maintenance Lists\n\n3. Calendar Scheduling## EDUCATION1. How To Complete the Inspection Checklists## TOOLS1. Monthly Maintenance Calendar",
+      "char_count": 164,
+      "token_estimate": 41,
+      "section_title": "Equipment Inspection and Maintenance Lists",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-p10preventativemaintenanceprogram_90b0f2f90a81_chunk_004_a7cb6446",
+      "doc_id": "maint1-p10preventativemaintenanceprogram_90b0f2f90a81",
+      "chunk_index": 4,
+      "text": "2. Annual Maintenance Calendar\n\n3. Vacant Building Checklists (2 checklists)",
+      "char_count": 76,
+      "token_estimate": 19,
+      "section_title": "Annual Maintenance Calendar",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-p10preventativemaintenanceprogram_90b0f2f90a81_chunk_006_2fcb7ab0",
+      "doc_id": "maint1-p10preventativemaintenanceprogram_90b0f2f90a81",
+      "chunk_index": 6,
+      "text": "4. Building Exterior and Grounds Checklist\n\n5. Resident Area Checklists (2 checklists)",
+      "char_count": 86,
+      "token_estimate": 21,
+      "section_title": "Building Exterior and Grounds Checklist",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-p10preventativemaintenanceprogram_90b0f2f90a81_chunk_008_c0a74640",
+      "doc_id": "maint1-p10preventativemaintenanceprogram_90b0f2f90a81",
+      "chunk_index": 8,
+      "text": "6. Life Safety Equipment and Systems Inspection Checklists (12 checklists)\n\n7. Building Mechanical and Electrical Systems Inspection Checklists (14 checklists)",
+      "char_count": 159,
+      "token_estimate": 39,
+      "section_title": "Life Safety Equipment and Systems Inspection Checklists (12 checklists)",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-p10preventativemaintenanceprogram_90b0f2f90a81_chunk_010_8d231843",
+      "doc_id": "maint1-p10preventativemaintenanceprogram_90b0f2f90a81",
+      "chunk_index": 10,
+      "text": "8. Environmental Controls Inspection Checklists (29 checklists)\n\n9. Kitchen Equipment Checklists (20 checklists)",
+      "char_count": 112,
+      "token_estimate": 28,
+      "section_title": "Environmental Controls Inspection Checklists (29 checklists)",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-p10preventativemaintenanceprogram_90b0f2f90a81_chunk_012_4f8ee6c6",
+      "doc_id": "maint1-p10preventativemaintenanceprogram_90b0f2f90a81",
+      "chunk_index": 12,
+      "text": "10. Laundry and Housekeeping Inspection Checklists (7 checklists)\n\n11. Nursing Equipment Inspection (5 checklists)----**Helping People Live Better**\nThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\nConfidential and Proprietary Information of Extendicare (Canada) Inc. © 2025",
+      "char_count": 471,
+      "token_estimate": 117,
+      "section_title": "Laundry and Housekeeping Inspection Checklists (7 checklists)",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-p10preventativemaintenanceprogram_90b0f2f90a81_chunk_014_6d7d72e1",
+      "doc_id": "maint1-p10preventativemaintenanceprogram_90b0f2f90a81",
+      "chunk_index": 14,
+      "text": "# Extendicare## POLICY**SECTION:** Preventative\n**DESCRIPTION:** Preventative Maintenance Program\n**INDEX:** MAINT1-P10### REFERENCES- Ontario Ministry of Health\nwww.health.gov.on.ca- Ontario Fixing LTC Act, 2021 and Regulations\nFixing Long-Term Care Act, 2021, S.O. 2021, c. 39, Sched. 1- Alberta Health Services\nwww.albertahealthservices.ca- Alberta Continuing Care Accommodation and Health Service Standards\nhttps://www.alberta.ca/continuing-care-accommodation-and-health-service-standards.aspx- Manitoba Health and Seniors Care\nhttps://www.gov.mb.ca/health/- Manitoba Personal Care Homes Standards Regulation\nhttp://web2.gov.mb.ca/laws/regs/current/_pdf-regs.php?reg=30/2005- Manitoba Health Services Insurance Act\nhttps://web2.gov.mb.ca/laws/statutes/ccsm/h035e.php- Accreditation Canada\nhttps://accreditation.ca/solutions/senior-residential-care/- Manitoba Workplace Safety & Health Legislation\nhttps://www.gov.mb.ca/labour/safety/wshl.html- Ontario Health and Safety\nhttps://www.labour.gov.on.ca/english/hs/- Canadian Standards Association – CSA\nhttp://www.csagroup.org- Canadian Centre for Occupational Health & Safety\nhttp://www.ccohs.ca----This document is uncontrolled when printed.",
+      "char_count": 1193,
+      "token_estimate": 298,
+      "section_title": "Extendicare## POLICY**SECTION:** Preventative",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-p10preventativemaintenanceprogram_90b0f2f90a81_chunk_015_ecd3e4ac",
+      "doc_id": "maint1-p10preventativemaintenanceprogram_90b0f2f90a81",
+      "chunk_index": 15,
+      "text": "39, Sched. 1- Alberta Health Services\nwww.albertahealthservices.ca- Alberta Continuing Care Accommodation and Health Service Standards\nhttps://www.alberta.ca/continuing-care-accommodation-and-health-service-standards.aspx- Manitoba Health and Seniors Care\nhttps://www.gov.mb.ca/health/- Manitoba Personal Care Homes Standards Regulation\nhttp://web2.gov.mb.ca/laws/regs/current/_pdf-regs.php?reg=30/2005- Manitoba Health Services Insurance Act\nhttps://web2.gov.mb.ca/laws/statutes/ccsm/h035e.php- Accreditation Canada\nhttps://accreditation.ca/solutions/senior-residential-care/- Manitoba Workplace Safety & Health Legislation\nhttps://www.gov.mb.ca/labour/safety/wshl.html- Ontario Health and Safety\nhttps://www.labour.gov.on.ca/english/hs/- Canadian Standards Association – CSA\nhttp://www.csagroup.org- Canadian Centre for Occupational Health & Safety\nhttp://www.ccohs.ca----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 1190,
+      "token_estimate": 297,
+      "section_title": "Extendicare## POLICY**SECTION:** Preventative",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-p10preventativemaintenanceprogram_90b0f2f90a81_chunk_016_08f332f0",
+      "doc_id": "maint1-p10preventativemaintenanceprogram_90b0f2f90a81",
+      "chunk_index": 16,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\nPage 2 of 2",
+      "char_count": 293,
+      "token_estimate": 73,
+      "section_title": "Extendicare## POLICY**SECTION:** Preventative",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 11
+}

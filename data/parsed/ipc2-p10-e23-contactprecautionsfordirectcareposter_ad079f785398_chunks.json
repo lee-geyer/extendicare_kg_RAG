@@ -1,0 +1,18 @@
+{
+  "doc_id": "ipc2-p10-e23-contactprecautionsfordirectcareposter_ad079f785398",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "ipc2-p10-e23-contactprecautionsfordirectcareposter_ad079f785398_chunk_000_325497dd",
+      "doc_id": "ipc2-p10-e23-contactprecautionsfordirectcareposter_ad079f785398",
+      "chunk_index": 0,
+      "text": "# VISITORS - GET INSTRUCTIONS FROM STAFF BEFORE ENTERING## CONTACT PRECAUTIONS### FOR DIRECT CARE AND CONTINUED CONTACT WITH ENVIRONMENT- **Wear long-sleeved gown**- **Wear gloves**- Dedicate equipment to resident or disinfect before use with another",
+      "char_count": 250,
+      "token_estimate": 62,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 0
+    }
+  ]
+}

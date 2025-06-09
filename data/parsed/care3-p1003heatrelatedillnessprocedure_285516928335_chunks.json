@@ -1,0 +1,114 @@
+{
+  "doc_id": "care3-p1003heatrelatedillnessprocedure_285516928335",
+  "total_chunks": 9,
+  "chunks": [
+    {
+      "chunk_id": "care3-p1003heatrelatedillnessprocedure_285516928335_chunk_000_537671dd",
+      "doc_id": "care3-p1003heatrelatedillnessprocedure_285516928335",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE MANUAL: CARE\n\n### INDEX: CARE3-P10.03",
+      "char_count": 63,
+      "token_estimate": 15,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p1003heatrelatedillnessprocedure_285516928335_chunk_002_f6e1cf7f",
+      "doc_id": "care3-p1003heatrelatedillnessprocedure_285516928335",
+      "chunk_index": 2,
+      "text": "#### SECTION: Resident Safety\n\n#### EFFECTIVE DATE: June 16, 2025",
+      "char_count": 65,
+      "token_estimate": 16,
+      "section_title": "SECTION: Resident Safety",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p1003heatrelatedillnessprocedure_285516928335_chunk_004_3755e3ed",
+      "doc_id": "care3-p1003heatrelatedillnessprocedure_285516928335",
+      "chunk_index": 4,
+      "text": "#### REVIEWED DATE: June 9, 2025\n\n#### APPROVED BY: Director, Education and Resident Services",
+      "char_count": 93,
+      "token_estimate": 23,
+      "section_title": "REVIEWED DATE: June 9, 2025",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p1003heatrelatedillnessprocedure_285516928335_chunk_006_1f8aa997",
+      "doc_id": "care3-p1003heatrelatedillnessprocedure_285516928335",
+      "chunk_index": 6,
+      "text": "#### MODIFIED DATE:----## POLICY\n\n### Safe Resident Protocols## PROCEDURE- Heat-related illness prevention and management will be prioritized during the high temperature period, from May 15ᵗʰ to September 15ᵗʰ.",
+      "char_count": 210,
+      "token_estimate": 52,
+      "section_title": "MODIFIED DATE:----## POLICY",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p1003heatrelatedillnessprocedure_285516928335_chunk_008_7ef9cb47",
+      "doc_id": "care3-p1003heatrelatedillnessprocedure_285516928335",
+      "chunk_index": 8,
+      "text": "- During the high temperature period, the interdisciplinary team will develop and implement the annual Interdisciplinary Heat Response Plan to mitigate associated risk, and will include:\n- Risk factors for heat-related illness\n- Prevention strategies\n- Response protocols for heat alerts\n- Temperature checks will be conducted daily, and the Interdisciplinary Heat Response Plan enacted for thresholds according to provincial standards and regulations.### Temperature Thresholds for Action:| Province | Indoor Temperature               | Outdoor Temperature               |\n|----------|----------------------------------|-----------------------------------|\n| Ontario  | 26°C or higher                   | 26°C or higher (forecasted)      |\n| Alberta  | 26°C or higher (recommendation) | 30°C or higher (recommendation)   |\n| Manitoba | 26°C or higher                   | 30°C or higher (forecasted)      |- The home's specific Interdisciplinary Heat Response Plan will be communicated to:\n- Residents and their Substitute Decision-Makers (SDMs)\n- Staff, volunteers, and visitors\n- Residents' and Family Councils (if applicable)\n- Any other relevant individuals\n- The nurse will complete a Heat-Illness Risk Screen for all residents annually between March 1 to April 30 to assess individual risk and develop an individualized plan of care.",
+      "char_count": 1339,
+      "token_estimate": 334,
+      "section_title": "Safe Resident Protocols## PROCEDURE- Heat-related illness prevention and management will be prioritized during the high temperature period, from May 15ᵗʰ to September 15ᵗʰ.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p1003heatrelatedillnessprocedure_285516928335_chunk_009_6410f60a",
+      "doc_id": "care3-p1003heatrelatedillnessprocedure_285516928335",
+      "chunk_index": 9,
+      "text": "- Residents not previously screened as high risk, who experience significant health changes between April 30 to September 15, will be rescreened. - The nurse will monitor residents, including temperatures as part of routine clinical assessments during hot weather.----**Helping people live better**This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 2**# PROCEDURE## SECTION: Resident Safety",
+      "char_count": 677,
+      "token_estimate": 169,
+      "section_title": "Safe Resident Protocols## PROCEDURE- Heat-related illness prevention and management will be prioritized during the high temperature period, from May 15ᵗʰ to September 15ᵗʰ.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p1003heatrelatedillnessprocedure_285516928335_chunk_010_aac91fca",
+      "doc_id": "care3-p1003heatrelatedillnessprocedure_285516928335",
+      "chunk_index": 10,
+      "text": "### DESCRIPTION: Heat Related Illness\n\n### INDEX: CARE3-P10.03----- The Heat Stress Alert Poster will be displayed throughout the home to inform residents, families, and staff about heat illness prevention and management, including warning signs and strategies.## EDUCATION",
+      "char_count": 273,
+      "token_estimate": 68,
+      "section_title": "DESCRIPTION: Heat Related Illness",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p1003heatrelatedillnessprocedure_285516928335_chunk_012_da68a5be",
+      "doc_id": "care3-p1003heatrelatedillnessprocedure_285516928335",
+      "chunk_index": 12,
+      "text": "1. Resident Safety Education## TOOLS\n\n1. Safety – Heat Illness Risk Screen",
+      "char_count": 74,
+      "token_estimate": 18,
+      "section_title": "Resident Safety Education## TOOLS",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p1003heatrelatedillnessprocedure_285516928335_chunk_014_45d902f2",
+      "doc_id": "care3-p1003heatrelatedillnessprocedure_285516928335",
+      "chunk_index": 14,
+      "text": "2. Interdisciplinary Heat Response Plan\n\n3. Heat Stress Alert Poster----*This document is uncontrolled when printed.*\n*Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.*\n*Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025*----*Page 2 of 2*",
+      "char_count": 417,
+      "token_estimate": 104,
+      "section_title": "Interdisciplinary Heat Response Plan",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

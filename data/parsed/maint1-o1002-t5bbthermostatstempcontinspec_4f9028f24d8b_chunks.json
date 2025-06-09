@@ -1,0 +1,41 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t5bbthermostatstempcontinspec_4f9028f24d8b_chunk_000_3f7bdc93",
+      "doc_id": "maint1-o1002-t5bbthermostatstempcontinspec_4f9028f24d8b",
+      "chunk_index": 0,
+      "text": "# Extendicare Maintenance Inspection Checklist## Equipment: Thermostats/Temperature Controllers### LEGEND/KEY\n- **W** – Weekly\n- **M** – Monthly\n- **Q** – Quarterly\n- **S** – Semi-Annual\n- **A** – Annual\n- **O** – Ok\n- **R** – Repair\n- **N** – Replace| W | M | Q | S | A | Item | CHECKS |\n|---|---|---|---|---|------|--------|\n| X |   |   |   |   | 1    | Check operation to ensure that they:  |\n|   |   |   |   |   |      | - control operating devices              |\n|   |   |   |   |   |      | - are calibrated (pneumatic controls). |\n| X |   |   |   |   | 2    | Protective covers are in place and secure. |\n| X |   |   |   |   | 3    | Remove cover and clean lint and dust from inner compartment. |\n|   |   |   |   |   |      | (Excessive air pressure can damage delicate components; be careful).",
+      "char_count": 801,
+      "token_estimate": 200,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t5bbthermostatstempcontinspec_4f9028f24d8b_chunk_001_2a506747",
+      "doc_id": "maint1-o1002-t5bbthermostatstempcontinspec_4f9028f24d8b",
+      "chunk_index": 1,
+      "text": "|\n| X |   |   |   |   | 3    | Remove cover and clean lint and dust from inner compartment. |\n|   |   |   |   |   |      | (Excessive air pressure can damage delicate components; be careful). |### Monthly Schedule\n|     | JAN | FEB | MAR | APR | MAY | JUN | |\n|-----|-----|-----|-----|-----|-----|-----|---|\n| M   | Q   | S   | A   | M   | Q   | S   | A   |\n| W   | W   | W   | W   | W   | W   | W   | W   ||     | JUL | AUG | SEP | OCT | NOV | DEC | |\n|-----|-----|-----|-----|-----|-----|-----|---|\n| M   | Q   | S   | A   | M   | Q   | S   | A   |\n| W   | W   | W   | W   | W   | W   | W   | W   |----**Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1182,
+      "token_estimate": 295,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t5bbthermostatstempcontinspec_4f9028f24d8b_chunk_002_ae3e525e",
+      "doc_id": "maint1-o1002-t5bbthermostatstempcontinspec_4f9028f24d8b",
+      "chunk_index": 2,
+      "text": "© 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 2 of 2",
+      "char_count": 515,
+      "token_estimate": 128,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 3
+}

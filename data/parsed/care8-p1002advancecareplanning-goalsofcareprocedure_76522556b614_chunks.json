@@ -1,0 +1,162 @@
+{
+  "doc_id": "care8-p1002advancecareplanning-goalsofcareprocedure_76522556b614",
+  "total_chunks": 13,
+  "chunks": [
+    {
+      "chunk_id": "care8-p1002advancecareplanning-goalsofcareprocedure_76522556b614_chunk_000_3fc87445",
+      "doc_id": "care8-p1002advancecareplanning-goalsofcareprocedure_76522556b614",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE MANUAL: CARE\n\n### INDEX: CARE8-P10.02",
+      "char_count": 63,
+      "token_estimate": 15,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care8-p1002advancecareplanning-goalsofcareprocedure_76522556b614_chunk_002_f4c2c638",
+      "doc_id": "care8-p1002advancecareplanning-goalsofcareprocedure_76522556b614",
+      "chunk_index": 2,
+      "text": "### SECTION: Palliative Care\n\n### EFFECTIVE DATE: June 16, 2025",
+      "char_count": 63,
+      "token_estimate": 15,
+      "section_title": "SECTION: Palliative Care",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care8-p1002advancecareplanning-goalsofcareprocedure_76522556b614_chunk_004_bb962520",
+      "doc_id": "care8-p1002advancecareplanning-goalsofcareprocedure_76522556b614",
+      "chunk_index": 4,
+      "text": "### DESCRIPTION: Advance Care Planning - Goals of Care\n\n### REVIEWED DATE: June 9, 2025",
+      "char_count": 87,
+      "token_estimate": 21,
+      "section_title": "DESCRIPTION: Advance Care Planning - Goals of Care",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care8-p1002advancecareplanning-goalsofcareprocedure_76522556b614_chunk_006_9ae6d8f5",
+      "doc_id": "care8-p1002advancecareplanning-goalsofcareprocedure_76522556b614",
+      "chunk_index": 6,
+      "text": "### APPROVED BY: Director, Education and Resident Services\n\n### MODIFIED DATE:----## POLICY",
+      "char_count": 91,
+      "token_estimate": 22,
+      "section_title": "APPROVED BY: Director, Education and Resident Services",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care8-p1002advancecareplanning-goalsofcareprocedure_76522556b614_chunk_008_09d5d5c5",
+      "doc_id": "care8-p1002advancecareplanning-goalsofcareprocedure_76522556b614",
+      "chunk_index": 8,
+      "text": "### Palliative and End of Life Care## PROCEDURE\nAll residents are to be supported and encouraged to participate in advance care planning, including naming a substitute decision maker (SDM), communicating care preferences (spiritual, religious, resuscitation, goals of care), and creating advanced directives in accordance with regional/provincial regulations and standards, ensuring care aligns with their values and beliefs.1. Upon move-in, a member of the interdisciplinary team must ask the resident/SDM about any existing advance care plan or written health care directives reflecting their goals of care or end-of-life care preferences in care treatments. If unavailable, verbal wishes related to CPR and Goals of Care must be obtained and documented in the resident's health record and reviewed annually during the resident’s care conference.2. Residents who are cognitively intact will be encouraged to participate in the “My Care My Voice” advance care planning discussion within the Palliative Assessment to express their values and beliefs, informing their plan of care prior to the 6-week interdisciplinary team conference (IDTC).3.",
+      "char_count": 1143,
+      "token_estimate": 285,
+      "section_title": "Palliative and End of Life Care## PROCEDURE",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care8-p1002advancecareplanning-goalsofcareprocedure_76522556b614_chunk_009_67d08b82",
+      "doc_id": "care8-p1002advancecareplanning-goalsofcareprocedure_76522556b614",
+      "chunk_index": 9,
+      "text": "If unavailable, verbal wishes related to CPR and Goals of Care must be obtained and documented in the resident's health record and reviewed annually during the resident’s care conference.2. Residents who are cognitively intact will be encouraged to participate in the “My Care My Voice” advance care planning discussion within the Palliative Assessment to express their values and beliefs, informing their plan of care prior to the 6-week interdisciplinary team conference (IDTC).3. Advance care planning documents, including Substitute Decision Makers (SDM) or Powers of Attorney for Personal Care, must be documented in the resident's health record and filed in a clear protective sleeve at the front of the chart, which will be referred to as the ACP Protective Sleeve. These documents must be reviewed during the initial 6-week IDTC to ensure alignment with the residents’ wishes. If not yet addressed, the physician/Nurse Practitioner (NP) must discuss CPR and goals of care with the resident/SDM/POA, explain options, and obtain informed consent, documenting the decisions in the resident’s health record in accordance with regional/provincial regulations and standards.",
+      "char_count": 1176,
+      "token_estimate": 294,
+      "section_title": "Palliative and End of Life Care## PROCEDURE",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care8-p1002advancecareplanning-goalsofcareprocedure_76522556b614_chunk_010_bfd88cd4",
+      "doc_id": "care8-p1002advancecareplanning-goalsofcareprocedure_76522556b614",
+      "chunk_index": 10,
+      "text": "These documents must be reviewed during the initial 6-week IDTC to ensure alignment with the residents’ wishes. If not yet addressed, the physician/Nurse Practitioner (NP) must discuss CPR and goals of care with the resident/SDM/POA, explain options, and obtain informed consent, documenting the decisions in the resident’s health record in accordance with regional/provincial regulations and standards. - **Note:** Alberta Health Services (AHS) indicates that homes are to use a Green Sleeve at the front of the chart to hold all ACP and Goals of Care documents.4. The interdisciplinary team will provide the resident/SDM/POA with clear, unbiased information on treatment options, prognosis, and expected outcomes to support informed decision-making.5. Goals of Care and CPR preferences must be reviewed annually or sooner if there is a significant change in status, treatment plan, or at the resident/SDM/POA’s request. Updates or reversals of wishes will be fully respected.6. Trained staff in the home must provide Cardiopulmonary Resuscitation (CPR) to all residents who have requested it according to their advanced care planning-goals of care.----### Helplng people",
+      "char_count": 1172,
+      "token_estimate": 293,
+      "section_title": "Palliative and End of Life Care## PROCEDURE",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care8-p1002advancecareplanning-goalsofcareprocedure_76522556b614_chunk_011_e99793ec",
+      "doc_id": "care8-p1002advancecareplanning-goalsofcareprocedure_76522556b614",
+      "chunk_index": 11,
+      "text": "### Ilve batterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 2**# Extendjcare## PROCEDURE### SECTION: Palliative Care",
+      "char_count": 409,
+      "token_estimate": 102,
+      "section_title": "Ilve batterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 2**# Extendjcare## PROCEDURE### SECTION: Palliative Care",
+      "chunk_type": "content",
+      "start_line": 11,
+      "end_line": 11
+    },
+    {
+      "chunk_id": "care8-p1002advancecareplanning-goalsofcareprocedure_76522556b614_chunk_012_03901dec",
+      "doc_id": "care8-p1002advancecareplanning-goalsofcareprocedure_76522556b614",
+      "chunk_index": 12,
+      "text": "### DESCRIPTION: Advance Care Planning - Goals of Care\n\n### INDEX: CARE8-P10.02----- Upon transferring residents to hospital or elsewhere, the nurse must send a copy of the advanced care plan, goals of care, plan of treatment and/or Do Not Resuscitate (DNR) form.**Note:** In Manitoba and Alberta, options for goals of care must be provided to the resident, and the necessary documentation must be completed as per provincial health authority requirements.- **AB** - Download from: AHS Advanced Care Planning-Goals of Care Health Care Professionals Resources\n- Goals of Care Designation Order Form and Advance Care Planning/Goals of Care\n- Designation Tracking Record must be used by health care professionals\n- **MB WRHA** - Winnipeg Regional Health Authority Advanced Care Planning-Goals of Care Form",
+      "char_count": 802,
+      "token_estimate": 200,
+      "section_title": "DESCRIPTION: Advance Care Planning - Goals of Care",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care8-p1002advancecareplanning-goalsofcareprocedure_76522556b614_chunk_014_5dcfee0b",
+      "doc_id": "care8-p1002advancecareplanning-goalsofcareprocedure_76522556b614",
+      "chunk_index": 14,
+      "text": "Link\n- **MB IERHA** - Goals of Care Form\n\nLink\n- **MB PMH** - Advanced Care Planning Workbook\nLink**NOTE:** Ontario has no legal requirement for a resident to identify their wishes or personal health care directives. All residents must still be asked on move-in if they have an advance care plan or any written document reflecting their wishes regarding CPR.### Ontario ONLY:\n- If the resident/SDM/POA does not have any document reflecting their wishes for CPR or no CPR, the nurse must complete a Plan of Treatment Form with the resident/SDM/POA. - If the resident/SDM/POA requests No CPR (verbal or written), the nurse must verify the decision, inform the physician, and obtain a DNR order. The Ministry of Health (MOH) Do Not Resuscitate (DNR) form must be completed and the decision must be documented in the resident’s health record. - The Do Not Resuscitate (DNR) form specifically numbered for the home must be ordered by completing the MOH “Forms Order Request” (form # 014-0350-93) by emailing OSSDistribution@ontario.ca, faxing 416-679-8192, calling 416-679-8657, or visiting http://www.forms.ssb.gov.on.ca.",
+      "char_count": 1117,
+      "token_estimate": 279,
+      "section_title": "Link",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care8-p1002advancecareplanning-goalsofcareprocedure_76522556b614_chunk_016_fb914f98",
+      "doc_id": "care8-p1002advancecareplanning-goalsofcareprocedure_76522556b614",
+      "chunk_index": 16,
+      "text": "The Ministry of Health (MOH) Do Not Resuscitate (DNR) form must be completed and the decision must be documented in the resident’s health record. - The Do Not Resuscitate (DNR) form specifically numbered for the home must be ordered by completing the MOH “Forms Order Request” (form # 014-0350-93) by emailing OSSDistribution@ontario.ca, faxing 416-679-8192, calling 416-679-8657, or visiting http://www.forms.ssb.gov.on.ca. - If there is disagreement between the nurse/physician/NP and the resident/SDM/POA(s) regarding the risks and benefits of CPR, conflict resolution must be initiated, following the Plan of Treatment CPR/DNR Algorithm.----## EDUCATION",
+      "char_count": 657,
+      "token_estimate": 164,
+      "section_title": "Link",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care8-p1002advancecareplanning-goalsofcareprocedure_76522556b614_chunk_017_1fd42660",
+      "doc_id": "care8-p1002advancecareplanning-goalsofcareprocedure_76522556b614",
+      "chunk_index": 17,
+      "text": "1. Advanced Care Planning Protective Sleeve Tip Sheet## TOOLS\n\n1. Ontario Plan of Treatment Form",
+      "char_count": 96,
+      "token_estimate": 24,
+      "section_title": "Advanced Care Planning Protective Sleeve Tip Sheet## TOOLS",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care8-p1002advancecareplanning-goalsofcareprocedure_76522556b614_chunk_019_7130b4f3",
+      "doc_id": "care8-p1002advancecareplanning-goalsofcareprocedure_76522556b614",
+      "chunk_index": 19,
+      "text": "2. Ontario Plan of Treatment CPR/DNR Algorithm\n\n3. Ontario Do Not Resuscitate Confirmation Form-Sample----This document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 2 of 2**",
+      "char_count": 447,
+      "token_estimate": 111,
+      "section_title": "Ontario Plan of Treatment CPR/DNR Algorithm",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

@@ -7,13 +7,35 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - Run FastAPI app: `uv run uvicorn scripts.api:app --reload`
 - Install dependencies: `uv sync` or `uv pip install -r requirements.txt`
 
+## Primary Workflow Commands
+- **Complete sync and process**: `uv run python sync_and_process.py`
+- **Quick status check**: `uv run python quick_status.py`
+- **Process discovered files**: `uv run python process_discovered_simple.py`
+- Monitor processing: `uv run uvicorn scripts.api:app --reload --host 127.0.0.1 --port 8080`
+- Generate HTML report: `uv run python generate_html_report.py`
+
 ## Document Processing Commands
 - Test small batch: `uv run python scripts/test_care_docs.py`
 - Process all CARE docs: `uv run python scripts/process_all_care.py`
 - Process expanded categories: `uv run python scripts/process_expanded_simple.py`
 - Test rate limits: `uv run python scripts/test_rate_limits.py`
-- Generate HTML report: `uv run python generate_html_report.py`
-- Monitor processing: `uv run uvicorn scripts.api:app --reload --host 127.0.0.1 --port 8080`
+
+## File Change Detection
+- Check for changes: `uv run python detect_changes.py`
+- Auto-sync changes: `uv run python detect_changes.py --sync`
+- Full file tracker sync: `uv run python scripts/file_tracker.py`
+
+## Sync and Process Options
+- Complete workflow: `uv run python sync_and_process.py`
+- Sync only (no processing): `uv run python sync_and_process.py --sync-only`
+- Process only (no sync): `uv run python sync_and_process.py --process-only`
+- Preview changes: `uv run python sync_and_process.py --dry-run`
+
+## Orphaned File Cleanup
+- Show orphaned files: `uv run python cleanup_orphaned.py`
+- Full cleanup (DB + processed files): `uv run python cleanup_orphaned.py --full-clean`
+- Database cleanup only: `uv run python cleanup_orphaned.py --clean`
+- Dry run (preview): `uv run python cleanup_orphaned.py --dry-run`
 
 ## Architecture Overview
 This is a hybrid RAG system for Extendicare policy documents that combines:

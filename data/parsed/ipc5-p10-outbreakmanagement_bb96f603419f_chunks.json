@@ -1,0 +1,102 @@
+{
+  "doc_id": "ipc5-p10-outbreakmanagement_bb96f603419f",
+  "total_chunks": 8,
+  "chunks": [
+    {
+      "chunk_id": "ipc5-p10-outbreakmanagement_bb96f603419f_chunk_000_612fe4dd",
+      "doc_id": "ipc5-p10-outbreakmanagement_bb96f603419f",
+      "chunk_index": 0,
+      "text": "# Extendicare Policy Manual: Infection Prevention and Control## INDEX: IPC5-P10### SECTION: Outbreak Management- **EFFECTIVE DATE:** February 18, 2025\n- **REVIEWED DATE:** February 11, 2025\n- **APPROVED BY:** Chief Medical Officer\n- **MODIFIED DATE:** May 30, 2025----## POLICYHomes will be proactive in the identification and prevention of outbreaks.## STANDARDIn the event of an outbreak, a home-specific outbreak management plan will be in place and will be implemented as expeditiously as possible to interrupt further transmission of the etiological agent.- Outbreaks will be reported to the Regional Director for the home, Extendicare Head Office, and health authority, as required.\n- All homes will have an annually reviewed home-specific outbreak plan in place to guide infection prevention and control practices and interventions in the event of an active outbreak.\n- All homes will follow the provincial/regional outbreak management protocols as applicable.## PROCEDURE1. IPC5-O10.01 - Outbreak Management## EDUCATION1. IPC5-P10-E1 - Outbreak Guide",
+      "char_count": 1058,
+      "token_estimate": 264,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 5
+    },
+    {
+      "chunk_id": "ipc5-p10-outbreakmanagement_bb96f603419f_chunk_001_8d7f4e5c",
+      "doc_id": "ipc5-p10-outbreakmanagement_bb96f603419f",
+      "chunk_index": 1,
+      "text": "2. IPC5-P10-E2 - Laundry Guidelines\n\n3. IPC5-P10-E3 - Tray Service Guidelines",
+      "char_count": 77,
+      "token_estimate": 19,
+      "section_title": "IPC5-P10-E2 - Laundry Guidelines",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc5-p10-outbreakmanagement_bb96f603419f_chunk_003_588e9cfc",
+      "doc_id": "ipc5-p10-outbreakmanagement_bb96f603419f",
+      "chunk_index": 3,
+      "text": "4. IPC5-P10-E4 - Outbreak Sign## TOOLS1. IPC5-P10-T1 - Home Specific Outbreak Plan\n\n2. IPC5-P10-T2 - Initial Meeting Minutes - Outbreak Management Team",
+      "char_count": 151,
+      "token_estimate": 37,
+      "section_title": "IPC5-P10-E4 - Outbreak Sign## TOOLS1. IPC5-P10-T1 - Home Specific Outbreak Plan",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc5-p10-outbreakmanagement_bb96f603419f_chunk_005_5c63655f",
+      "doc_id": "ipc5-p10-outbreakmanagement_bb96f603419f",
+      "chunk_index": 5,
+      "text": "3. IPC5-P10-T3 - Daily Outbreak Meeting Minutes - Outbreak Management Team\n\n4. IPC5-P10-T4 - Final Outbreak Meeting Minutes - Debrief Tool",
+      "char_count": 138,
+      "token_estimate": 34,
+      "section_title": "IPC5-P10-T3 - Daily Outbreak Meeting Minutes - Outbreak Management Team",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc5-p10-outbreakmanagement_bb96f603419f_chunk_007_a0d11875",
+      "doc_id": "ipc5-p10-outbreakmanagement_bb96f603419f",
+      "chunk_index": 7,
+      "text": "5. IPC5-P10-T5 - Outbreak Roles and Responsibilities\n\n6. IPC5-P10-T6 - Outbreak-Management Cheat Sheet",
+      "char_count": 102,
+      "token_estimate": 25,
+      "section_title": "IPC5-P10-T5 - Outbreak Roles and Responsibilities",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc5-p10-outbreakmanagement_bb96f603419f_chunk_009_7572ecd4",
+      "doc_id": "ipc5-p10-outbreakmanagement_bb96f603419f",
+      "chunk_index": 9,
+      "text": "7. IPC5-P10-T7 - Sales Consultant Outbreak Playbook - RET\n\n8. IPC5-P10-T8 - PPE Burn Rate Calculator## EXTERNAL**Manitoba only:**\n- Manitoba Shared Health LTC Antiviral Dosing & Vaccination Tracking Spreadsheet## REFERENCESHelping people live better----> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----",
+      "char_count": 581,
+      "token_estimate": 145,
+      "section_title": "IPC5-P10-T7 - Sales Consultant Outbreak Playbook - RET",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc5-p10-outbreakmanagement_bb96f603419f_chunk_011_13547e2c",
+      "doc_id": "ipc5-p10-outbreakmanagement_bb96f603419f",
+      "chunk_index": 11,
+      "text": "# POLICY## SECTION: Outbreak\n\n### DESCRIPTION: Outbreak",
+      "char_count": 55,
+      "token_estimate": 13,
+      "section_title": "POLICY## SECTION: Outbreak",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc5-p10-outbreakmanagement_bb96f603419f_chunk_013_46576bc1",
+      "doc_id": "ipc5-p10-outbreakmanagement_bb96f603419f",
+      "chunk_index": 13,
+      "text": "### INDEX: IPC5-P10----### Shared Health Manitoba Infection Prevention and Control Respiratory and Gastrointestinal Outbreak Management Guidelines### Shared Health Manitoba Infection Prevention & Control – Outbreak Management, LTC, Respiratory Season Preparedness### Ontario Ministry of Health Recommendations for Outbreak Prevention and Control in Institutions and Congregate Living Settings### Alberta Health Services Guide for Outbreak Prevention & Control in Long Term Care, Designated Supportive Living & Hospice Sites### Interim Guidance for Influenza Outbreak Management in Long-Term Care and Post-Acute Care Facilities | CDC----### Helping people live betterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 2 of 2**",
+      "char_count": 1007,
+      "token_estimate": 251,
+      "section_title": "INDEX: IPC5-P10----### Shared Health Manitoba Infection Prevention and Control Respiratory and Gastrointestinal Outbreak Management Guidelines### Shared Health Manitoba Infection Prevention & Control – Outbreak Management, LTC, Respiratory Season Preparedness### Ontario Ministry of Health Recommendations for Outbreak Prevention and Control in Institutions and Congregate Living Settings### Alberta Health Services Guide for Outbreak Prevention & Control in Long Term Care, Designated Supportive Living & Hospice Sites### Interim Guidance for Influenza Outbreak Management in Long-Term Care and Post-Acute Care Facilities | CDC----### Helping people live betterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 2 of 2**",
+      "chunk_type": "content",
+      "start_line": 19,
+      "end_line": 19
+    }
+  ]
+}

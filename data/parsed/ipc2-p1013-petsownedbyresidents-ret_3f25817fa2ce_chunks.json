@@ -1,0 +1,90 @@
+{
+  "doc_id": "ipc2-p1013-petsownedbyresidents-ret_3f25817fa2ce",
+  "total_chunks": 7,
+  "chunks": [
+    {
+      "chunk_id": "ipc2-p1013-petsownedbyresidents-ret_3f25817fa2ce_chunk_000_c5f8e784",
+      "doc_id": "ipc2-p1013-petsownedbyresidents-ret_3f25817fa2ce",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Infection Prevention and Control\n**INDEX:** IPC2-P10.13\n**SECTION:** Infection Prevention\n**EFFECTIVE DATE:** February 18, 2025\n**REVIEWED DATE:** February 11, 2025\n**APPROVED BY:** Chief Medical Officer\n**MODIFIED DATE:** May 30, 2025----## POLICY### Infection Prevention### PROCEDURE- Residents will be responsible for the health and welfare of their pets. - Pets must be healthy and current with immunizations, including rabies vaccination and others required in the province in which the home is located. An annual physical examination by a licensed veterinarian should include dental and dermatological evaluation. Pets should be free of communicable diseases and parasites and be on a flea control program. - The following animals (not an all-inclusive list) are not permitted to live in or visit the home (dependent on provincial/regional requirements):\n- Reptiles and amphibians (e.g., lizards, snakes, iguanas, turtles, frogs, and salamanders). - Non-human primates. - Hamsters, gerbils, mice, and rats. - Hedgehogs, prairie dogs or any other recently domesticated animal species.",
+      "char_count": 1126,
+      "token_estimate": 281,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p1013-petsownedbyresidents-ret_3f25817fa2ce_chunk_001_8510959b",
+      "doc_id": "ipc2-p1013-petsownedbyresidents-ret_3f25817fa2ce",
+      "chunk_index": 1,
+      "text": "- Hamsters, gerbils, mice, and rats. - Hedgehogs, prairie dogs or any other recently domesticated animal species. - Other animals not litter-trained or for which measures cannot be taken to prevent resident exposure to animal excrement. - Other animals with behavioural or disease risks (e.g., raccoons, skunks, ferrets, and bats). - Injuries caused by an animal shall be:\n- Assessed and first aid provided by medical personnel. - Reported to the owner/person responsible for the home’s pet program. - Reported to the local Animal Control Authority and/or public health authority, as per local requirements and regulations. - Recorded in the resident’s health record, as applicable. - Recorded (follow the Adverse Event process to record the event) and reviewed by the home’s leadership team and Resident/Family Councils. It is the responsibility of the Administrator/Executive Director to act in the best interests of the resident and animal in the event of an incident.",
+      "char_count": 971,
+      "token_estimate": 242,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p1013-petsownedbyresidents-ret_3f25817fa2ce_chunk_002_7ed90389",
+      "doc_id": "ipc2-p1013-petsownedbyresidents-ret_3f25817fa2ce",
+      "chunk_index": 2,
+      "text": "- Recorded (follow the Adverse Event process to record the event) and reviewed by the home’s leadership team and Resident/Family Councils. It is the responsibility of the Administrator/Executive Director to act in the best interests of the resident and animal in the event of an incident. - Any animal that causes injury to any person in the home will be assessed for its appropriateness of living in or visiting the home.----**During outbreaks**\n**Helping people**\n**Iva better**This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----",
+      "char_count": 806,
+      "token_estimate": 201,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p1013-petsownedbyresidents-ret_3f25817fa2ce_chunk_003_f6f99539",
+      "doc_id": "ipc2-p1013-petsownedbyresidents-ret_3f25817fa2ce",
+      "chunk_index": 3,
+      "text": "# PROCEDURE## SECTION: Infection Prevention\n\n### DESCRIPTION: Pets Owned by Residents",
+      "char_count": 85,
+      "token_estimate": 21,
+      "section_title": "PROCEDURE## SECTION: Infection Prevention",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p1013-petsownedbyresidents-ret_3f25817fa2ce_chunk_005_597299f5",
+      "doc_id": "ipc2-p1013-petsownedbyresidents-ret_3f25817fa2ce",
+      "chunk_index": 5,
+      "text": "### INDEX: IPC2-P10.13- The pet should remain in the resident room/suite at all times except for being leashed to go outdoors.\n- DHW/Delegate may create a schedule for outdoor pet walks/care that allow for adherence to all infection prevention and control practices.## TOOLS\n\n1. IPC2-P10-T7 - Pet Care Record",
+      "char_count": 308,
+      "token_estimate": 77,
+      "section_title": "INDEX: IPC2-P10.13- The pet should remain in the resident room/suite at all times except for being leashed to go outdoors.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p1013-petsownedbyresidents-ret_3f25817fa2ce_chunk_007_44bb4021",
+      "doc_id": "ipc2-p1013-petsownedbyresidents-ret_3f25817fa2ce",
+      "chunk_index": 7,
+      "text": "2. IPC2-P10-T8 - Pet Medication Tracking Sheet\n\n3. IPC2-P10-T9 - Pet Veterinary Record",
+      "char_count": 86,
+      "token_estimate": 21,
+      "section_title": "IPC2-P10-T8 - Pet Medication Tracking Sheet",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p1013-petsownedbyresidents-ret_3f25817fa2ce_chunk_009_50867c8f",
+      "doc_id": "ipc2-p1013-petsownedbyresidents-ret_3f25817fa2ce",
+      "chunk_index": 9,
+      "text": "4. IPC2-P10-T10 - Pet Plan of Care----> This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 2 of 2",
+      "char_count": 378,
+      "token_estimate": 94,
+      "section_title": "IPC2-P10-T10 - Pet Plan of Care----> This document is uncontrolled when printed.",
+      "chunk_type": "content",
+      "start_line": 32,
+      "end_line": 34
+    }
+  ]
+}

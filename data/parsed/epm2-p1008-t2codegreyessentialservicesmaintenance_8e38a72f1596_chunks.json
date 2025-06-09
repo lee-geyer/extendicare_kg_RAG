@@ -1,0 +1,30 @@
+{
+  "doc_id": "epm2-p1008-t2codegreyessentialservicesmaintenance_8e38a72f1596",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "epm2-p1008-t2codegreyessentialservicesmaintenance_8e38a72f1596_chunk_000_37af7c21",
+      "doc_id": "epm2-p1008-t2codegreyessentialservicesmaintenance_8e38a72f1596",
+      "chunk_index": 0,
+      "text": "# Extendicare Code Grey – Essential Services\n\n## Maintenance Job Action Checklist**Date:** Enter date\n**Maintenance:**\n*Note, you may edit this job action checklist to be home specific.*### Respond- **Loss of Power**\n- Record the time action was initiated. - Determine the:\n- Cause of the power failure:\n- Extent of the power failure:\n- Approximate time frame for power outage:\n- Report above information back to the Incident Manager. - Ensure that the generator is operating and providing emergency electrical power to all life safety and other systems on emergency back-up, where applicable. - Check the generator and fuel levels every 4 hours to ensure it is operating within normal parameters and that there is adequate fuel, where applicable. - Ensure the fuel tank for the generator is refilled when it approaches 50% capacity. - Contact a fuel vendor to deliver fuel to the home.### Recover- When the power returns, ensure all electrical equipment is on and functioning appropriately. - Participate in the analysis and debrief session.----**Helping people**\n**Iva better**> This document is uncontrolled when printed. > Extendicare (Canada) Inc.",
+      "char_count": 1152,
+      "token_estimate": 288,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1008-t2codegreyessentialservicesmaintenance_8e38a72f1596_chunk_002_3f7c02f0",
+      "doc_id": "epm2-p1008-t2codegreyessentialservicesmaintenance_8e38a72f1596",
+      "chunk_index": 2,
+      "text": "- Participate in the analysis and debrief session.----**Helping people**\n**Iva better**> This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 1",
+      "char_count": 429,
+      "token_estimate": 107,
+      "section_title": "Maintenance Job Action Checklist**Date:** Enter date",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

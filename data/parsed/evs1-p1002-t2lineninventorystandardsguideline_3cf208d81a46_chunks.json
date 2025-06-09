@@ -1,0 +1,102 @@
+{
+  "doc_id": "evs1-p1002-t2lineninventorystandardsguideline_3cf208d81a46",
+  "total_chunks": 8,
+  "chunks": [
+    {
+      "chunk_id": "evs1-p1002-t2lineninventorystandardsguideline_3cf208d81a46_chunk_000_baa52a59",
+      "doc_id": "evs1-p1002-t2lineninventorystandardsguideline_3cf208d81a46",
+      "chunk_index": 0,
+      "text": "# Extendicare Linen Inventory Standards GuidelinesExtendicare recommends linen inventory standards that take into account a 2.5 to 3-day supply of quotas. The inventory standards will only work if the linen quota guidelines are followed.## Recommended Inventory LevelsSome standards will have to be calculated and others just followed directly. The following is a breakdown:- Items 1, 2, 3, 4, 5, 6, 7, 12, 13, 18, and 21 will be calculated by the number of facility beds multiplied by the standard. - Items 8, 9, 10, 11, 14, 16, 17, 19, and 20 will require calculation based on the need to set facility standard.| ITEM                                             | QUANTITY                                           |\n|--------------------------------------------------|---------------------------------------------------|\n| 1. Sheets top                                   | 2 per bed                                         |\n| 2. Sheets bottom                                | 2 per bed                                         |\n| 3. Pillow, if using average of 1 per bed       | 1 per bed                                         |\n| 4.",
+      "char_count": 1139,
+      "token_estimate": 284,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs1-p1002-t2lineninventorystandardsguideline_3cf208d81a46_chunk_001_c25a70e6",
+      "doc_id": "evs1-p1002-t2lineninventorystandardsguideline_3cf208d81a46",
+      "chunk_index": 1,
+      "text": "Sheets bottom                                | 2 per bed                                         |\n| 3. Pillow, if using average of 1 per bed       | 1 per bed                                         |\n| 4. Pillowcases, if using average of 2 per bed  | 3 per bed                                         |\n| 5. Blanket                                       | 1.5 per bed                                       |\n| 6. Bedspread/comforter                           | 1.25 per bed                                      |\n| 7. Face Cloth (Personal Care)                   | 7.5 to 11 per bed                                 |\n| 8. Hand Towel (Personal Care)                   | 7.5 to 11 per bed                                 |\n| 9. Peri Towel (reusable) if not using          | 3-day supply                                      |\n|    disposable peri-cloth system                  | 2 per shift per incontinent resident multiplied by 3-day supply. Example: 100 incontinent residents x 2 x 3 shifts x 3 days = 1800 |\n| 10. Bath Towel                                   | 2-3 per scheduled bath per day x 2.5-day supply  |\n| 11.",
+      "char_count": 1121,
+      "token_estimate": 280,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs1-p1002-t2lineninventorystandardsguideline_3cf208d81a46_chunk_002_c92fbacd",
+      "doc_id": "evs1-p1002-t2lineninventorystandardsguideline_3cf208d81a46",
+      "chunk_index": 2,
+      "text": "Example: 100 incontinent residents x 2 x 3 shifts x 3 days = 1800 |\n| 10. Bath Towel                                   | 2-3 per scheduled bath per day x 2.5-day supply  |\n| 11. Protective Garments (clothing protectors)   | 3 meals/resident home area x demand               |\n| 12. Isolation Gowns (yellow for nursing staff)  | 1 per bed                                         |----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025",
+      "char_count": 705,
+      "token_estimate": 176,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs1-p1002-t2lineninventorystandardsguideline_3cf208d81a46_chunk_003_56c3e0cc",
+      "doc_id": "evs1-p1002-t2lineninventorystandardsguideline_3cf208d81a46",
+      "chunk_index": 3,
+      "text": "# Linen Inventory Standards Guidelines| ITEM                                       | QUANTITY                                                                                     |\n|--------------------------------------------|----------------------------------------------------------------------------------------------|\n| 13. Dietary Aprons (White)                | As determined by Dietary Department Lead                                                    |\n| 14. Nursing Aprons                         | 1 per staff per meal x 1.5-to-2-day supply                                                  |\n|                                            | 1 per round for                                                                             |\n| 15.",
+      "char_count": 749,
+      "token_estimate": 187,
+      "section_title": "Linen Inventory Standards Guidelines| ITEM                                       | QUANTITY                                                                                     |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs1-p1002-t2lineninventorystandardsguideline_3cf208d81a46_chunk_004_1a53ef7e",
+      "doc_id": "evs1-p1002-t2lineninventorystandardsguideline_3cf208d81a46",
+      "chunk_index": 4,
+      "text": "Dietary Aprons (White)                | As determined by Dietary Department Lead                                                    |\n| 14. Nursing Aprons                         | 1 per staff per meal x 1.5-to-2-day supply                                                  |\n|                                            | 1 per round for                                                                             |\n| 15. Nylon Laundry Bags (each cart in a    | personals 1 per round                                                                       |\n|    4-bag system)                          | for towels                                                                                   |\n|                                            | 1 per round for peri towel/ bed pads                                                        |\n|                                            | 1 per round for bed linen                                                                    |\n|                                            | Base calculation on 8 rounds in 24 hours x 2 days                                           |\n| 16.",
+      "char_count": 1126,
+      "token_estimate": 281,
+      "section_title": "Linen Inventory Standards Guidelines| ITEM                                       | QUANTITY                                                                                     |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs1-p1002-t2lineninventorystandardsguideline_3cf208d81a46_chunk_005_eedf93f8",
+      "doc_id": "evs1-p1002-t2lineninventorystandardsguideline_3cf208d81a46",
+      "chunk_index": 5,
+      "text": "Nursing Aprons                         | 1 per staff per meal x 1.5-to-2-day supply                                                  |\n|                                            | 1 per round for                                                                             |\n| 15. Nylon Laundry Bags (each cart in a    | personals 1 per round                                                                       |\n|    4-bag system)                          | for towels                                                                                   |\n|                                            | 1 per round for peri towel/ bed pads                                                        |\n|                                            | 1 per round for bed linen                                                                    |\n|                                            | Base calculation on 8 rounds in 24 hours x 2 days                                           |\n| 16. Tablecloths (if using)                | As determined by Dietary Department Lead                                                    |\n| 17.",
+      "char_count": 1126,
+      "token_estimate": 281,
+      "section_title": "Linen Inventory Standards Guidelines| ITEM                                       | QUANTITY                                                                                     |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs1-p1002-t2lineninventorystandardsguideline_3cf208d81a46_chunk_006_4743a492",
+      "doc_id": "evs1-p1002-t2lineninventorystandardsguideline_3cf208d81a46",
+      "chunk_index": 6,
+      "text": "Nylon Laundry Bags (each cart in a    | personals 1 per round                                                                       |\n|    4-bag system)                          | for towels                                                                                   |\n|                                            | 1 per round for peri towel/ bed pads                                                        |\n|                                            | 1 per round for bed linen                                                                    |\n|                                            | Base calculation on 8 rounds in 24 hours x 2 days                                           |\n| 16. Tablecloths (if using)                | As determined by Dietary Department Lead                                                    |\n| 17. Placemats (if using)                  | As determined by Dietary Department Lead                                                    |\n| 18. Flannel sheets                         | Specialty product only, i.e., palliative care, special care.",
+      "char_count": 1086,
+      "token_estimate": 271,
+      "section_title": "Linen Inventory Standards Guidelines| ITEM                                       | QUANTITY                                                                                     |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs1-p1002-t2lineninventorystandardsguideline_3cf208d81a46_chunk_007_b006ba47",
+      "doc_id": "evs1-p1002-t2lineninventorystandardsguideline_3cf208d81a46",
+      "chunk_index": 7,
+      "text": "Placemats (if using)                  | As determined by Dietary Department Lead                                                    |\n| 18. Flannel sheets                         | Specialty product only, i.e., palliative care, special care. If used for top sheet on all   |\n|                                            | resident beds, use 2.5 and eliminate standard top sheet. |----> **Note:** This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 2 of 2",
+      "char_count": 736,
+      "token_estimate": 184,
+      "section_title": "Linen Inventory Standards Guidelines| ITEM                                       | QUANTITY                                                                                     |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

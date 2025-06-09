@@ -1,0 +1,11 @@
+{
+  "doc_id": "maint3-o1001-t2doorlog_7e5079b779fe",
+  "category": "Maintenance",
+  "metadata": {
+    "title": "Extendicare DOOR LOG"
+  },
+  "schema_used": "GenericDocumentMeta",
+  "extraction_success": true,
+  "error": null,
+  "fallback_metadata": null
+}

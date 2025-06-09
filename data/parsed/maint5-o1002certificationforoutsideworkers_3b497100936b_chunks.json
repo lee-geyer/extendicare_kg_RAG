@@ -1,0 +1,41 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint5-o1002certificationforoutsideworkers_3b497100936b_chunk_000_3797da84",
+      "doc_id": "maint5-o1002certificationforoutsideworkers_3b497100936b",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE- **MANUAL:** Maintenance\n- **INDEX:** MAINT5-O10.02\n- **SECTION:** Certified Inspections\n- **EFFECTIVE DATE:**\n- **REVIEWED DATE:**\n- **APPROVED BY:** VP LTC Operations\n- **MODIFIED DATE:**----## POLICY### Certified Inspection Work#### PROCEDURE- Special trade certification to perform some work which will be completed by outside contractors who have the required certificates, licenses, or permits that allow them to perform this work. People who do not have these certificates, licenses, or permits shall not perform this work. Examples of this include but are not limited to repairs to:\n- Elevators\n- Fire alarm systems\n- Fire protection sprinkler systems\n- Gas trains on combustible-gas fired equipment\n- High-voltage electrical systems.- If there is doubt about when a special permit or license is required, the Extendicare Asset Management Department may be contacted to help clarify the need.- Generally, all maintenance activities, aside from those that require special certificates, permits, or licenses, shall be carried out by the home’s maintenance staff.",
+      "char_count": 1094,
+      "token_estimate": 273,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint5-o1002certificationforoutsideworkers_3b497100936b_chunk_001_8b97ec67",
+      "doc_id": "maint5-o1002certificationforoutsideworkers_3b497100936b",
+      "chunk_index": 1,
+      "text": "People who do not have these certificates, licenses, or permits shall not perform this work. Examples of this include but are not limited to repairs to:\n- Elevators\n- Fire alarm systems\n- Fire protection sprinkler systems\n- Gas trains on combustible-gas fired equipment\n- High-voltage electrical systems.- If there is doubt about when a special permit or license is required, the Extendicare Asset Management Department may be contacted to help clarify the need.- Generally, all maintenance activities, aside from those that require special certificates, permits, or licenses, shall be carried out by the home’s maintenance staff. However, in certain cases, physical circumstances or time constraints may dictate the use of part-time help or outside contractors. Examples of activities in this category include, but are not limited to:\n- Construction or building projects\n- Specialized work (such as laying flooring)\n- Work requiring specialized equipment or instruments\n- Heavy repairs that require the collaboration of several individuals.----> **Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1126,
+      "token_estimate": 281,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint5-o1002certificationforoutsideworkers_3b497100936b_chunk_002_070459aa",
+      "doc_id": "maint5-o1002certificationforoutsideworkers_3b497100936b",
+      "chunk_index": 2,
+      "text": "Examples of activities in this category include, but are not limited to:\n- Construction or building projects\n- Specialized work (such as laying flooring)\n- Work requiring specialized equipment or instruments\n- Heavy repairs that require the collaboration of several individuals.----> **Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 1",
+      "char_count": 632,
+      "token_estimate": 158,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 3
+}

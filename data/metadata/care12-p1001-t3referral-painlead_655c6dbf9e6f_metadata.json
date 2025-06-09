@@ -1,0 +1,11 @@
+{
+  "doc_id": "care12-p1001-t3referral-painlead_655c6dbf9e6f",
+  "category": "Care",
+  "schema_used": "GenericDocumentMeta",
+  "extraction_success": true,
+  "metadata": {
+    "title": "Referral - Pain Lead"
+  },
+  "error": null,
+  "fallback_metadata": null
+}

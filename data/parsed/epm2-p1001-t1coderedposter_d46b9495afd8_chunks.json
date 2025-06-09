@@ -1,0 +1,54 @@
+{
+  "doc_id": "epm2-p1001-t1coderedposter_d46b9495afd8",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "epm2-p1001-t1coderedposter_d46b9495afd8_chunk_000_c9634bc0",
+      "doc_id": "epm2-p1001-t1coderedposter_d46b9495afd8",
+      "chunk_index": 0,
+      "text": "# CODE RED\n\n## Emergency Response### What does it mean?\nCode Red is the designated phrase used to alert staff to smoke and/or fire and to initiate an appropriate response in the case of a fire, fire alarm, or smell of smoke.### What do I do?\nInitiate the R.E.A.C.T sequence:",
+      "char_count": 274,
+      "token_estimate": 68,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1001-t1coderedposter_d46b9495afd8_chunk_002_417e6f92",
+      "doc_id": "epm2-p1001-t1coderedposter_d46b9495afd8",
+      "chunk_index": 2,
+      "text": "1. **Remove** persons from immediate danger\n\n2. **E** if possible (evacuate)\n- Ensure doors and windows are closed to confine fire and smoke",
+      "char_count": 140,
+      "token_estimate": 35,
+      "section_title": "**Remove** persons from immediate danger",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1001-t1coderedposter_d46b9495afd8_chunk_004_5629ccb3",
+      "doc_id": "epm2-p1001-t1coderedposter_d46b9495afd8",
+      "chunk_index": 4,
+      "text": "3. **Activate** the fire alarm system/use nearest pull station\n\n4. **Call** the Fire Department - Dial 9-1-1",
+      "char_count": 108,
+      "token_estimate": 27,
+      "section_title": "**Activate** the fire alarm system/use nearest pull station",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1001-t1coderedposter_d46b9495afd8_chunk_006_8261d9e4",
+      "doc_id": "epm2-p1001-t1coderedposter_d46b9495afd8",
+      "chunk_index": 6,
+      "text": "5. **Try to contain** (contain/extinguish) fire or concentrate on further evacuation\n\n6. **Announce** 3 times, “Code Red + Location of fire”### Review it before you need it:\n- Refer to your Home’s Emergency Planning and Management Manual, Code Red and Fire Safety Plan\n- Review the Code Red policy and Fire Safety Plan for procedures that describe your role if a fire occurs",
+      "char_count": 374,
+      "token_estimate": 93,
+      "section_title": "**Try to contain** (contain/extinguish) fire or concentrate on further evacuation",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "doc_id": "epm3-p1001-t4firedrillevaluationformsceneoffirealarm_9c232e43d320",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": "epm3-p1001-t4firedrillevaluationformsceneoffirealarm_9c232e43d320_chunk_000_73375bdb",
+      "doc_id": "epm3-p1001-t4firedrillevaluationformsceneoffirealarm_9c232e43d320",
+      "chunk_index": 0,
+      "text": "# Extendicare Fire Drill Evaluation Form – Scene of Fire Alarm**Date:** Enter date\n**Shift:**\n**Time:**\n**Location:**\n**Floor:**\n**Pull Station/Smoke Detector:**\n**Type of Fire Simulated:**\n**Unannounced Drill:** Y  N## Section 1 – Immediate Staff Response| Competently Performed | Scored |\n|-----------------------|--------|\n| R – Removed person(s) from immediate danger (4pts.) | Y  N |\n| E – Ensured doors and windows are closed (4pts.) | Y  N |\n| A – Activated the fire alarm using the nearest pull station (4pts.) | Y  N |\n| C – Called 9-1-1 / Inform Reception with exact location of fire (4pts.) | Y  N |\n| T – Tried to extinguish and/or further evacuate (4pts.) | Y  N |\n| Did the Charge Nurse wear Orange Vest and assume role of Incident Manager? (4pts.) | Y  N |\n| Were the adjacent rooms & opposite room searched & evacuated? (4pts.) | Y  N |\n| Did the staff use the evac-alert tag on the doors after evacuating the rooms? (4pts.) | Y  N |\n| Were the corridors cleared (equipment in proper place) in the drill area? (4pts.) | Y  N |\n| Staff acted in a calm manner, took instructions and acted as a team?",
+      "char_count": 1113,
+      "token_estimate": 278,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm3-p1001-t4firedrillevaluationformsceneoffirealarm_9c232e43d320_chunk_001_59acc067",
+      "doc_id": "epm3-p1001-t4firedrillevaluationformsceneoffirealarm_9c232e43d320",
+      "chunk_index": 1,
+      "text": "(4pts.) | Y  N |\n| Were the corridors cleared (equipment in proper place) in the drill area? (4pts.) | Y  N |\n| Staff acted in a calm manner, took instructions and acted as a team? (4pts.) | Y  N |**(40 points possible) Sub-Section Total:**## Section 2 – Staff Knowledge| Competently Performed | Scored |\n|-----------------------|--------|\n| Does staff know location of fire exits in the drill area? (4pts.) | Y  N |\n| Does staff know location of pull stations in the drill area? (4pts.) | Y  N |\n| Does staff know location of fire extinguishers & fire hose reels in the drill area? (4pts.) | Y  N |\n| Does staff know where adjacent smoke compartments are in the fire drill area? (4pts.) | Y  N |\n| Did staff switch off all electrical equipment in the rooms that were evacuated? (4pts.) | Y  N |\n| Did staff shut off all oxygen equipment in the rooms that were evacuated? (4pts.) | Y  N |\n| Does staff know the proper sequence & procedures to evacuate residents? (4pts.) | Y  N |\n| Did secondary teams (e.g. PSWs from other nursing units) report to the fire unit? (4pts.) | Y  N |\n| Did staff account for all residents on the floor by checking off the resident list?",
+      "char_count": 1166,
+      "token_estimate": 291,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm3-p1001-t4firedrillevaluationformsceneoffirealarm_9c232e43d320_chunk_002_9fa46ae3",
+      "doc_id": "epm3-p1001-t4firedrillevaluationformsceneoffirealarm_9c232e43d320",
+      "chunk_index": 2,
+      "text": "PSWs from other nursing units) report to the fire unit? (4pts.) | Y  N |\n| Did staff account for all residents on the floor by checking off the resident list? (4pts.) | Y  N |----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025",
+      "char_count": 501,
+      "token_estimate": 125,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm3-p1001-t4firedrillevaluationformsceneoffirealarm_9c232e43d320_chunk_003_f87a11ec",
+      "doc_id": "epm3-p1001-t4firedrillevaluationformsceneoffirealarm_9c232e43d320",
+      "chunk_index": 3,
+      "text": "# Fire Drill Evaluation Form – Scene of Fire Alarm## Were all fire exits manned and/or in case of locked unit, both doors manned? (4pts.)\n- **Y**\n- **N**### (40 points possible) Sub-Section Total:## Unit Scoring Grid:\n| Score Range         | Description               |\n|---------------------|---------------------------|\n| 70 – 80 points      | Excellent                 |\n| 60 – 70 points      | Acceptable                |\n| 50 – 60 points      | In-service Required        |\n| < 50 points         | In-service & Re-Drill     |**Score:** Add Sections 1 & 2 (80 points possible)----## Section 3 – Fire Alarm Equipment & Emergency Response Performance| Competently Performed | Points Scored |\n|-----------------------|---------------|\n| Were “CODE RED” & “Correct Location” paged three times (clear & audible)? (5pts.) | **Y** / **N** |\n| Were fire alarm devices functioning properly in the drill area (audible tone)? (3pts.) | **Y** / **N** |\n| Did the Nursing Unit Fire Panel indicate the correct location of the fire alarm? (3pts.) | **Y** / **N** |\n| Did the automatic fire separation doors close and latch in drill area?",
+      "char_count": 1126,
+      "token_estimate": 281,
+      "section_title": "Fire Drill Evaluation Form – Scene of Fire Alarm## Were all fire exits manned and/or in case of locked unit, both doors manned? (4pts.)",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm3-p1001-t4firedrillevaluationformsceneoffirealarm_9c232e43d320_chunk_004_760127c7",
+      "doc_id": "epm3-p1001-t4firedrillevaluationformsceneoffirealarm_9c232e43d320",
+      "chunk_index": 4,
+      "text": "(3pts.) | **Y** / **N** |\n| Did the Nursing Unit Fire Panel indicate the correct location of the fire alarm? (3pts.) | **Y** / **N** |\n| Did the automatic fire separation doors close and latch in drill area? (3pts.) | **Y** / **N** |\n| Did the mag-locks release automatically during the fire alarm in drill area? (3pts.) | **Y** / **N** |\n| Was the response from other nursing units and departments to the fire scene immediate? (3pts.) | **Y** / **N** |### (20 points possible) Sub-Section Total:----## Overall Drill Total\n**Sections 1, 2, and 3**\n**100 points possible**----### Signatures\n- **Floor Coordinator Name:** ______________________\n- **Floor Coordinator Signature:** __________________\n- **Observer Conducting Drill Name:** _______________\n- **Observer Conducting Signature:** _________________----> This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 2 of 2",
+      "char_count": 1151,
+      "token_estimate": 287,
+      "section_title": "Fire Drill Evaluation Form – Scene of Fire Alarm## Were all fire exits manned and/or in case of locked unit, both doors manned? (4pts.)",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

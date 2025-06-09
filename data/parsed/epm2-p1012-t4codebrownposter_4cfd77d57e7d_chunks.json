@@ -1,0 +1,18 @@
+{
+  "doc_id": "epm2-p1012-t4codebrownposter_4cfd77d57e7d",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "epm2-p1012-t4codebrownposter_4cfd77d57e7d_chunk_000_eed6bda9",
+      "doc_id": "epm2-p1012-t4codebrownposter_4cfd77d57e7d",
+      "chunk_index": 0,
+      "text": "# CODE BROWN\n\n## Emergency Response - Chemical Spill/Hazardous Material### What does it mean?\nCode Brown is the phrase used to alert staff to a spill or leak involving a chemical, biological, or radioactive material that may pose a threat to your health or to the environment. This includes noxious odours/vapours.### What do I do?\nWhen a spill is discovered do not touch:\n- Announce 3 times, “Code brown + location”\n- Move people away from the spill to prevent exposure\n- Isolate the area and deny entry\n- Seek/provide medical attention if there are injuries\n- Evaluate the spill:\n- Assess for hazards such as fire, explosion or chemical fumes\n- Stop source of spill if it can be done quickly and safely\n- Notify your supervisor/the Incident Manager\n- Contain the spill if possible; if not and the spill is unsafe, CALL 9-1-1### Review it before you need it:\n- Refer to your Home’s Emergency Planning and Management Manual, Code Brown\n- Review the Code Brown procedures and checklist that best describes your role in a Code Brown situation",
+      "char_count": 1040,
+      "token_estimate": 260,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

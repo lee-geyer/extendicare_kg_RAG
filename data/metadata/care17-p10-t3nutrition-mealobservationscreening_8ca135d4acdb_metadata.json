@@ -1,0 +1,11 @@
+{
+  "doc_id": "care17-p10-t3nutrition-mealobservationscreening_8ca135d4acdb",
+  "category": "Care",
+  "schema_used": "GenericDocumentMeta",
+  "extraction_success": true,
+  "metadata": {
+    "title": "Nutrition - Meal Observation Screening"
+  },
+  "error": null,
+  "fallback_metadata": null
+}

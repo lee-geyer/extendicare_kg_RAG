@@ -1,0 +1,42 @@
+{
+  "doc_id": "epm2-p1007-t3codegrey-air-exclusion-staff-checklist_97f8e3602cee",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "epm2-p1007-t3codegrey-air-exclusion-staff-checklist_97f8e3602cee_chunk_000_3a835e45",
+      "doc_id": "epm2-p1007-t3codegrey-air-exclusion-staff-checklist_97f8e3602cee",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Code Grey – Air Exclusion",
+      "char_count": 43,
+      "token_estimate": 10,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1007-t3codegrey-air-exclusion-staff-checklist_97f8e3602cee_chunk_002_16f8f24e",
+      "doc_id": "epm2-p1007-t3codegrey-air-exclusion-staff-checklist_97f8e3602cee",
+      "chunk_index": 2,
+      "text": "### All Staff Job Action Checklist**Date:** Enter date\n*Note, you may edit this job action checklist to be home specific.*----### Respond- Record the time action was initiated\n- Notification received from:\n- Known information:\n- Notify the Incident Manager upon discovery of contaminated air external to the home. - Bring residents inside and close doors and windows upon hearing a Code Grey – Air Exclusion announcement. - Follow the directions of the Incident Manager. - Do not disrupt work procedures under a Code Grey – Air Exclusion alert; continue to provide quality care to residents. - Turn off all exhaust fans including cooking hoods, dryers in laundry, tub room exhaust fans, and air exchange systems within the department. - Do not initiate any new procedures that would use air exchange systems. - Turn off any window air conditioner units in residents’ rooms and around the home. - Place towels or linens around the units where there are gaps between the units and the window to seal out any external contaminated air. - Await further instruction from Incident Manager or designate.",
+      "char_count": 1096,
+      "token_estimate": 274,
+      "section_title": "All Staff Job Action Checklist**Date:** Enter date",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1007-t3codegrey-air-exclusion-staff-checklist_97f8e3602cee_chunk_003_247dba66",
+      "doc_id": "epm2-p1007-t3codegrey-air-exclusion-staff-checklist_97f8e3602cee",
+      "chunk_index": 3,
+      "text": "- Place towels or linens around the units where there are gaps between the units and the window to seal out any external contaminated air. - Await further instruction from Incident Manager or designate. - Assist in turning off any surrounding air exchange systems outside the department and/or unit, if required.----> **Note:** This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 1",
+      "char_count": 668,
+      "token_estimate": 167,
+      "section_title": "All Staff Job Action Checklist**Date:** Enter date",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

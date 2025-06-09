@@ -1,0 +1,41 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t4ikitchenhoodfiresuppsysinspec_612bde54004c_chunk_000_fe38ba6d",
+      "doc_id": "maint1-o1002-t4ikitchenhoodfiresuppsysinspec_612bde54004c",
+      "chunk_index": 0,
+      "text": "# Extendicare Maintenance Inspection Checklist## Equipment\n**Kitchen Hood Fire Suppression System**\n**Name:** All\n**Year:**\n**Unit No.:**\n**Manufacturer:** All\n**Model:** All## Legend/Key\n| LEGEND | KEY       |\n|--------|-----------|\n| W      | Weekly    |\n| M      | Monthly   |\n| Q      | Quarterly |\n| S      | Semi-Annual |\n| A      | Annual    |\n| O      | Ok       |\n| R      | Repair    |\n| N      | Replace   |## Checks\n| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   |   |   | 1. Check that discharge nozzles are clean and unobstructed. |\n| X |   |   |   |   | 2. Check that the shutdown mechanism for the natural gas supply valve is unobstructed and labelled. |\n| X |   |   |   |   | 3. Inspect fusible link and wire for grease and lint accumulations. Clean as required. |\n| X |   |   |   |   | 4. Initial Monthly Inspection Tag. |\n|   | X | X |   |   | 5. Refer to “Fire Extinguisher and Fire Hose Inspection SPECIFICATIONS” for semi-annual requirements.",
+      "char_count": 1115,
+      "token_estimate": 278,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t4ikitchenhoodfiresuppsysinspec_612bde54004c_chunk_001_892cd4f9",
+      "doc_id": "maint1-o1002-t4ikitchenhoodfiresuppsysinspec_612bde54004c",
+      "chunk_index": 1,
+      "text": "|\n|   | X | X |   |   | 5. Refer to “Fire Extinguisher and Fire Hose Inspection SPECIFICATIONS” for semi-annual requirements. * |**Note:**\n*The services of qualified personnel may be required.*## Monthly Schedule\n| Month | M | Q | S | A |\n|-------|---|---|---|---|\n| JAN   |   |   |   |   |\n| FEB   |   |   |   |   |\n| MAR   |   |   |   |   |\n| APR   |   |   |   |   |\n| MAY   |   |   |   |   |\n| JUN   |   |   |   |   |\n| JUL   |   |   |   |   |\n| AUG   |   |   |   |   |\n| SEP   |   |   |   |   |\n| OCT   |   |   |   |   |\n| NOV   |   |   |   |   |\n| DEC   |   |   |   |   |----**Helping people live better.**\nThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025",
+      "char_count": 934,
+      "token_estimate": 233,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t4ikitchenhoodfiresuppsysinspec_612bde54004c_chunk_002_ded22458",
+      "doc_id": "maint1-o1002-t4ikitchenhoodfiresuppsysinspec_612bde54004c",
+      "chunk_index": 2,
+      "text": "# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 2 of 2**",
+      "char_count": 499,
+      "token_estimate": 124,
+      "section_title": "INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |",
+      "chunk_type": "content",
+      "start_line": 41,
+      "end_line": 44
+    }
+  ],
+  "total_chunks": 3
+}

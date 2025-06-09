@@ -1,0 +1,138 @@
+{
+  "doc_id": "ipc6-p10-multi-drug-resistantorganismsmdros_35d842800d88",
+  "total_chunks": 11,
+  "chunks": [
+    {
+      "chunk_id": "ipc6-p10-multi-drug-resistantorganismsmdros_35d842800d88_chunk_000_90dd7438",
+      "doc_id": "ipc6-p10-multi-drug-resistantorganismsmdros_35d842800d88",
+      "chunk_index": 0,
+      "text": "# Extendicare Policy Manual## Infection Prevention and Control- **INDEX:** IPC6-P10\n- **SECTION:** Multi-Drug-Resistant Organisms (MDROs)\n- **DESCRIPTION:** Multi-Drug-Resistant Organisms (MDROs)\n- **EFFECTIVE DATE:** February 18, 2025\n- **REVIEWED DATE:** February 11, 2025\n- **MODIFIED DATE:** May 30, 2025\n- **APPROVED BY:** Chief Medical Officer----## POLICYScreening, surveillance, management, and reporting of Multi-Drug-Resistant Organisms (MDROs) will take place according to provincial/regional requirements. These practices will apply to colonized and infected cases.## STANDARD- Follow provincial/regional requirements for the screening, surveillance, management, and reporting of Multi-Drug-Resistant Organisms (MDROs).\n- Routine decolonization is not recommended.\n- Review antimicrobial use and infection rates regularly to determine if changes in practice are needed to reduce antibiotic-resistant infections.\n- The IPAC - MDROs Screening Tool (Multi Drug Resistant Organism) in PCC will be completed within 24 hours of admission or readmission from hospital where stay was greater than 12 hours.## PROCEDURE1. IPC6-O10.01 - Multi-Drug-Resistant Organisms (MDROs)",
+      "char_count": 1177,
+      "token_estimate": 294,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 9
+    },
+    {
+      "chunk_id": "ipc6-p10-multi-drug-resistantorganismsmdros_35d842800d88_chunk_001_88aa9abf",
+      "doc_id": "ipc6-p10-multi-drug-resistantorganismsmdros_35d842800d88",
+      "chunk_index": 1,
+      "text": "2. IPC6-O10.02 - Vancomycin-Resistant Enterococci (VRE)\n\n3. IPC6-O10.03 - Methicillin-Resistant Staphylococcus Aureus (MRSA)",
+      "char_count": 124,
+      "token_estimate": 31,
+      "section_title": "IPC6-O10.02 - Vancomycin-Resistant Enterococci (VRE)",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p10-multi-drug-resistantorganismsmdros_35d842800d88_chunk_003_bef401f3",
+      "doc_id": "ipc6-p10-multi-drug-resistantorganismsmdros_35d842800d88",
+      "chunk_index": 3,
+      "text": "4. IPC6-O10.04 - Extended-Spectrum Beta-Lactamase (ESBL)\n\n5. IPC6-O10.05 - Carbapenemase-producing Enterobacteriales (CPE)",
+      "char_count": 122,
+      "token_estimate": 30,
+      "section_title": "IPC6-O10.04 - Extended-Spectrum Beta-Lactamase (ESBL)",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p10-multi-drug-resistantorganismsmdros_35d842800d88_chunk_005_e1291de2",
+      "doc_id": "ipc6-p10-multi-drug-resistantorganismsmdros_35d842800d88",
+      "chunk_index": 5,
+      "text": "6. IPC6-O10.06 - Candida auris\n\n7. IPC6-O10.07 - Antimicrobial Stewardship",
+      "char_count": 74,
+      "token_estimate": 18,
+      "section_title": "IPC6-O10.06 - Candida auris",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p10-multi-drug-resistantorganismsmdros_35d842800d88_chunk_007_bf6d09f8",
+      "doc_id": "ipc6-p10-multi-drug-resistantorganismsmdros_35d842800d88",
+      "chunk_index": 7,
+      "text": "8. IPC6-O10.08 - Clostridioides difficile## EDUCATION1. IPC6-P10-E1 - MDRO Guide\n\n2. IPC6-P10-E2 - Vancomycin Resistant Enterococci (VRE) Fact Sheet",
+      "char_count": 148,
+      "token_estimate": 37,
+      "section_title": "IPC6-O10.08 - Clostridioides difficile## EDUCATION1. IPC6-P10-E1 - MDRO Guide",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p10-multi-drug-resistantorganismsmdros_35d842800d88_chunk_009_1d8fee1f",
+      "doc_id": "ipc6-p10-multi-drug-resistantorganismsmdros_35d842800d88",
+      "chunk_index": 9,
+      "text": "3. IPC6-P10-E3 - Methicillin Resistant Staphylococcus aureus (MRSA) Fact Sheet\n\n4. IPC6-P10-E4 - Extended Spectrum Beta Lactamase (ESBL) Fact Sheet",
+      "char_count": 147,
+      "token_estimate": 36,
+      "section_title": "IPC6-P10-E3 - Methicillin Resistant Staphylococcus aureus (MRSA) Fact Sheet",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p10-multi-drug-resistantorganismsmdros_35d842800d88_chunk_011_6291c52d",
+      "doc_id": "ipc6-p10-multi-drug-resistantorganismsmdros_35d842800d88",
+      "chunk_index": 11,
+      "text": "5. IPC6-P10-E5 - Carbapenemase Producing Enterobacterales (CPE) Fact Sheet\n\n6. IPC6-P10-E6 - Candida auris (C. auris) Fact Sheet",
+      "char_count": 128,
+      "token_estimate": 32,
+      "section_title": "IPC6-P10-E5 - Carbapenemase Producing Enterobacterales (CPE) Fact Sheet",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p10-multi-drug-resistantorganismsmdros_35d842800d88_chunk_013_02d606bf",
+      "doc_id": "ipc6-p10-multi-drug-resistantorganismsmdros_35d842800d88",
+      "chunk_index": 13,
+      "text": "7. IPC6-P10-E7 - Clostridioides difficile (C. difficile) Fact Sheet## TOOLS1. IPC6-P10-T1 - MDRO Screening Tool\n\n2. IPC6-P10-T2 - MDRO Risk Assessment Tool",
+      "char_count": 155,
+      "token_estimate": 38,
+      "section_title": "IPC6-P10-E7 - Clostridioides difficile (C. difficile) Fact Sheet## TOOLS1. IPC6-P10-T1 - MDRO Screening Tool",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p10-multi-drug-resistantorganismsmdros_35d842800d88_chunk_015_6601ddfd",
+      "doc_id": "ipc6-p10-multi-drug-resistantorganismsmdros_35d842800d88",
+      "chunk_index": 15,
+      "text": "3. IPC6-P10-T3 - Multi-Drug-Resistant Organism (MDRO) Screening Algorithm\n\n4. IPC6-P10-T4 - Multi-Drug-Resistant Organism (MDRO) Tracking Sheet----Helping people live betterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----",
+      "char_count": 499,
+      "token_estimate": 124,
+      "section_title": "IPC6-P10-T3 - Multi-Drug-Resistant Organism (MDRO) Screening Algorithm",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p10-multi-drug-resistantorganismsmdros_35d842800d88_chunk_017_aca2ba2c",
+      "doc_id": "ipc6-p10-multi-drug-resistantorganismsmdros_35d842800d88",
+      "chunk_index": 17,
+      "text": "# POLICY## SECTION: Multi-Drug-Resistant Organisms (MDROs)### DESCRIPTION: Multi-Drug-Resistant Organisms (MDROs)### INDEX: IPC6-P101. **IPC6-P10-T5** - Testing Program for Multi-Drug-Resistant Organism (MDRO) Algorithm\n\n2. **IPC6-P10-T6** - CPE Risk Assessment## REFERENCES1. Alberta Health Services – Additional Precautions for ARO Positive Residents in Continuing Care in Addition to Routine Practices\nLink2. Antimicrobial Stewardship in Long Term Care | Public Health Ontario3. Manitoba Health. (2018). Guidelines for the Prevention and Control of Antimicrobial-Resistant Organisms4. Manitoba Health. Manitoba Health, Seniors and Active Living ARO Definitions5. Public Health Agency of Canada: Guidance: Infection Prevention and Control Measures for Healthcare Workers in All Healthcare Settings – Carbapenem-resistant Gram-negative Bacilli\nLink6. Public Health Ontario – Frequently Asked Questions Carbapenemase-Producing Enterobacteriaceae (CPE)\nLink7. Public Health Ontario – Provincial Infectious Diseases Advisory Committee (PIDAC): Annex A – Screening, Testing and Surveillance for Antibiotic-Resistant Organisms (ARO) February 2013\nLink----Helping people live betterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.",
+      "char_count": 1422,
+      "token_estimate": 355,
+      "section_title": "POLICY## SECTION: Multi-Drug-Resistant Organisms (MDROs)### DESCRIPTION: Multi-Drug-Resistant Organisms (MDROs)### INDEX: IPC6-P101. **IPC6-P10-T5** - Testing Program for Multi-Drug-Resistant Organism (MDRO) Algorithm",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p10-multi-drug-resistantorganismsmdros_35d842800d88_chunk_019_c9efc8b5",
+      "doc_id": "ipc6-p10-multi-drug-resistantorganismsmdros_35d842800d88",
+      "chunk_index": 19,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----Page 2 of 2",
+      "char_count": 293,
+      "token_estimate": 73,
+      "section_title": "**IPC6-P10-T6** - CPE Risk Assessment## REFERENCES1. Alberta Health Services – Additional Precautions for ARO Positive Residents in Continuing Care in Addition to Routine Practices",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

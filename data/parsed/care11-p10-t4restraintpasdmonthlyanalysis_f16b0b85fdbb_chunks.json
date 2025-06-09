@@ -1,0 +1,54 @@
+{
+  "doc_id": "care11-p10-t4restraintpasdmonthlyanalysis_f16b0b85fdbb",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "care11-p10-t4restraintpasdmonthlyanalysis_f16b0b85fdbb_chunk_000_5c0ed1c0",
+      "doc_id": "care11-p10-t4restraintpasdmonthlyanalysis_f16b0b85fdbb",
+      "chunk_index": 0,
+      "text": "# Extendicare Restraint & PASD Monthly Analysis## Floor\n**Date:** Enter date### ORDERED RESTRAINTS / APPROVED PASD| Reason for Restraint / PASD | Ongoing Need | Consent Obtained | Care Plan | MD Order / Approved | Additional Info. |\n|------------------------------|---------------|------------------|-----------|---------------------|-------------------|\n|                              | Yes           | No               | Y/N       | Y/N                 | Y/N               |\n| **Enviro.**                 |               |                  |           |                     |                   |\n| **Chemical**                |               |                  |           |                     |                   |\n| **Physical**                |               |                  |           |                     |                   |### EMERGENCY RESTRAINTS| Reason for Restraint | Ongoing Need | Consent Obtained | Care Plan | MD Order | Additional Info.",
+      "char_count": 961,
+      "token_estimate": 240,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care11-p10-t4restraintpasdmonthlyanalysis_f16b0b85fdbb_chunk_001_96d8dcc8",
+      "doc_id": "care11-p10-t4restraintpasdmonthlyanalysis_f16b0b85fdbb",
+      "chunk_index": 1,
+      "text": "# Extendicare Restraint & PASD Monthly Analysis## Floor\n**Date:** Enter date### ORDERED RESTRAINTS / APPROVED PASD| Reason for Restraint / PASD | Ongoing Need | Consent Obtained | Care Plan | MD Order / Approved | Additional Info. |\n|------------------------------|---------------|------------------|-----------|---------------------|-------------------|\n|                              | Yes           | No               | Y/N       | Y/N                 | Y/N               |\n| **Enviro.**                 |               |                  |           |                     |                   |\n| **Chemical**                |               |                  |           |                     |                   |\n| **Physical**                |               |                  |           |                     |                   |### EMERGENCY RESTRAINTS| Reason for Restraint | Ongoing Need | Consent Obtained | Care Plan | MD Order | Additional Info. |\n|----------------------|---------------|------------------|-----------|----------|-------------------|\n|                      | Yes           | No               | Y/N       | Y/N      | Y/N               |\n| **Enviro.**         |               |                  |           |          |                   |\n| **Chemical**        |               |                  |           |          |                   |\n| **Physical**        |               |                  |           |          |                   |**Completed by:** Enter date\n**Monthly Analysis and Review:**\n**Signature:** Enter date----Helping people live betterThis document is uncontrolled when printed.",
+      "char_count": 1635,
+      "token_estimate": 408,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care11-p10-t4restraintpasdmonthlyanalysis_f16b0b85fdbb_chunk_002_da96bea2",
+      "doc_id": "care11-p10-t4restraintpasdmonthlyanalysis_f16b0b85fdbb",
+      "chunk_index": 2,
+      "text": "|\n|------------------------------|---------------|------------------|-----------|---------------------|-------------------|\n|                              | Yes           | No               | Y/N       | Y/N                 | Y/N               |\n| **Enviro.**                 |               |                  |           |                     |                   |\n| **Chemical**                |               |                  |           |                     |                   |\n| **Physical**                |               |                  |           |                     |                   |### EMERGENCY RESTRAINTS| Reason for Restraint | Ongoing Need | Consent Obtained | Care Plan | MD Order | Additional Info. |\n|----------------------|---------------|------------------|-----------|----------|-------------------|\n|                      | Yes           | No               | Y/N       | Y/N      | Y/N               |\n| **Enviro.**         |               |                  |           |          |                   |\n| **Chemical**        |               |                  |           |          |                   |\n| **Physical**        |               |                  |           |          |                   |**Completed by:** Enter date\n**Monthly Analysis and Review:**\n**Signature:** Enter date----Helping people live betterThis document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1430,
+      "token_estimate": 357,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care11-p10-t4restraintpasdmonthlyanalysis_f16b0b85fdbb_chunk_003_b4264704",
+      "doc_id": "care11-p10-t4restraintpasdmonthlyanalysis_f16b0b85fdbb",
+      "chunk_index": 3,
+      "text": "|\n|----------------------|---------------|------------------|-----------|----------|-------------------|\n|                      | Yes           | No               | Y/N       | Y/N      | Y/N               |\n| **Enviro.**         |               |                  |           |          |                   |\n| **Chemical**        |               |                  |           |          |                   |\n| **Physical**        |               |                  |           |          |                   |**Completed by:** Enter date\n**Monthly Analysis and Review:**\n**Signature:** Enter date----Helping people live betterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 1 of 1",
+      "char_count": 964,
+      "token_estimate": 241,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

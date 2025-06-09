@@ -1,0 +1,18 @@
+{
+  "doc_id": "epm2-p10-t1emergencycodesposter_298fcf0709f5",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "epm2-p10-t1emergencycodesposter_298fcf0709f5_chunk_000_dd339836",
+      "doc_id": "epm2-p10-t1emergencycodesposter_298fcf0709f5",
+      "chunk_index": 0,
+      "text": "```markdown\n\n# Extendicare Emergency Preparedness## Colour Codes| Colour  | Description                     |\n|---------|---------------------------------|\n| Red     | Fire                            |\n| Blue    | Medical Emergency               |\n| White   | Violent Situation               |\n| Orange  | External Disaster               |\n| Black   | Bomb Threat                     |\n| Green   | Evacuation                      |\n| Yellow  | Missing Resident                |\n| Grey    |                                 |\n| Brown   | Hazardous/Chemical Spill       |\n| Silver  | Active Assailant                |\n| Purple  | Hostage Situation               |## ... helping people live better\n```",
+      "char_count": 697,
+      "token_estimate": 174,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

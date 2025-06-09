@@ -1,0 +1,42 @@
+{
+  "doc_id": "prv2-p1001-t1cullingtrackingrecord_c26a668c8419",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "prv2-p1001-t1cullingtrackingrecord_c26a668c8419_chunk_000_028b12df",
+      "doc_id": "prv2-p1001-t1cullingtrackingrecord_c26a668c8419",
+      "chunk_index": 0,
+      "text": "# Extendicare",
+      "char_count": 13,
+      "token_estimate": 3,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chunk_id": "prv2-p1001-t1cullingtrackingrecord_c26a668c8419_chunk_001_d39a10a5",
+      "doc_id": "prv2-p1001-t1cullingtrackingrecord_c26a668c8419",
+      "chunk_index": 1,
+      "text": "## Culling Tracking Record\n*Place in resident’s health care record.*### Resident Name and Identification Number:- Pre-assessment admission form\n- Admission assessment forms (including the Initial Resident Assessment)\n- Advance Directives Forms – current ONLY (placed in a green sleeve at the front of the chart)\n- Annual History and Physical Examination (x2yrs)\n- Physical Order Forms (x6-12 months)\n- Inventory of personal belongings (current)\n- Medication Administration Records (x6-12 months)\n- Lab Reports (x1yr)\n- Resident Progress Notes (x6-12 months)\n- Initial 72hr post-admission progress notes\n- IDTC Conference Records (x2yrs)| Item Culled | Date | From Date | To Date | Staff Name (print) | Staff Signature |\n|-------------|------|------------|---------|---------------------|------------------|\n| Enter date  | Enter date | Enter date | Enter date | Enter name | Enter signature |\n| Enter date  | Enter date | Enter date | Enter date | Enter name | Enter signature |\n| Enter date  | Enter date | Enter date | Enter date | Enter name | Enter signature |\n| Enter date  | Enter date | Enter date | Enter date | Enter name | Enter signature |\n| Enter date  | Enter date | Enter date | Enter date | Enter name | Enter signature |\n| Enter date  | Enter date | Enter date | Enter date | Enter name | Enter signature |\n| Enter date  | Enter date | Enter date | Enter date | Enter name | Enter signature |\n| Enter date  | Enter date | Enter date | Enter date | Enter name | Enter signature |\n| Enter date  | Enter date | Enter date | Enter date | Enter name | Enter signature |\n| Enter date  | Enter date | Enter date | Enter date | Enter name | Enter signature |\n| Enter date  | Enter date | Enter date | Enter date | Enter name | Enter signature |\n| Enter date  | Enter date | Enter date | Enter date | Enter name | Enter signature |\n| Enter date  | Enter date | Enter date | Enter date | Enter name | Enter signature |\n| Enter date  | Enter date | Enter date | Enter date | Enter name | Enter signature |\n| Enter date  | Enter date | Enter date | Enter date | Enter name | Enter signature |----*Helping people live better*This document is uncontrolled when printed.",
+      "char_count": 2171,
+      "token_estimate": 542,
+      "section_title": "Culling Tracking Record",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv2-p1001-t1cullingtrackingrecord_c26a668c8419_chunk_002_298d0200",
+      "doc_id": "prv2-p1001-t1cullingtrackingrecord_c26a668c8419",
+      "chunk_index": 2,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 1 of 1",
+      "char_count": 290,
+      "token_estimate": 72,
+      "section_title": "Culling Tracking Record",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

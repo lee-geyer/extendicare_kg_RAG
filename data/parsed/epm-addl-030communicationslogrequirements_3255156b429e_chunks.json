@@ -1,0 +1,150 @@
+{
+  "doc_id": "epm-addl-030communicationslogrequirements_3255156b429e",
+  "total_chunks": 12,
+  "chunks": [
+    {
+      "chunk_id": "epm-addl-030communicationslogrequirements_3255156b429e_chunk_000_21d9e1c5",
+      "doc_id": "epm-addl-030communicationslogrequirements_3255156b429e",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Communications Protocol for Emergencies### Stage 1 Emergencies: Low Risk\nPrepare Communication Log which must include:",
+      "char_count": 136,
+      "token_estimate": 34,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-030communicationslogrequirements_3255156b429e_chunk_002_c059e4fb",
+      "doc_id": "epm-addl-030communicationslogrequirements_3255156b429e",
+      "chunk_index": 2,
+      "text": "1. Catalogue of communications materials released during the emergency situation;\n\n2. A complete briefing note; and,",
+      "char_count": 116,
+      "token_estimate": 29,
+      "section_title": "Catalogue of communications materials released during the emergency situation;",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-030communicationslogrequirements_3255156b429e_chunk_004_61110dd0",
+      "doc_id": "epm-addl-030communicationslogrequirements_3255156b429e",
+      "chunk_index": 4,
+      "text": "3. Any media coverage about the emergency situation.### Stage 2 Emergencies: Moderate Risk\nPrepare Communication Log which must include:\n\n1. Catalogue of communications materials released during the emergency situation;",
+      "char_count": 219,
+      "token_estimate": 54,
+      "section_title": "Any media coverage about the emergency situation.### Stage 2 Emergencies: Moderate Risk",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-030communicationslogrequirements_3255156b429e_chunk_006_78150576",
+      "doc_id": "epm-addl-030communicationslogrequirements_3255156b429e",
+      "chunk_index": 6,
+      "text": "2. Any internal memos released during the emergency situation;\n\n3. A complete briefing note; and,",
+      "char_count": 97,
+      "token_estimate": 24,
+      "section_title": "Any internal memos released during the emergency situation;",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-030communicationslogrequirements_3255156b429e_chunk_008_fef602b9",
+      "doc_id": "epm-addl-030communicationslogrequirements_3255156b429e",
+      "chunk_index": 8,
+      "text": "4. Any media coverage about the emergency situation.### Stage 3 Emergencies: High Risk\nPrepare Communication Log which must include:\n\n1. Catalogue of communications materials released during the emergency situation;",
+      "char_count": 215,
+      "token_estimate": 53,
+      "section_title": "Any media coverage about the emergency situation.### Stage 3 Emergencies: High Risk",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-030communicationslogrequirements_3255156b429e_chunk_010_058ab60c",
+      "doc_id": "epm-addl-030communicationslogrequirements_3255156b429e",
+      "chunk_index": 10,
+      "text": "2. Any internal memos released during the emergency situation;\n\n3. All risk alerts;",
+      "char_count": 83,
+      "token_estimate": 20,
+      "section_title": "Any internal memos released during the emergency situation;",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-030communicationslogrequirements_3255156b429e_chunk_012_d0de0ae0",
+      "doc_id": "epm-addl-030communicationslogrequirements_3255156b429e",
+      "chunk_index": 12,
+      "text": "4. All IMS meeting minutes that occurred during the emergency situation;\n\n5. Debriefing results;",
+      "char_count": 96,
+      "token_estimate": 24,
+      "section_title": "All IMS meeting minutes that occurred during the emergency situation;",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-030communicationslogrequirements_3255156b429e_chunk_014_d5f23d39",
+      "doc_id": "epm-addl-030communicationslogrequirements_3255156b429e",
+      "chunk_index": 14,
+      "text": "6. A complete briefing note; and,\n\n7. Any media coverage about the emergency situation.Prepare a final update document that outlines the details of the emergency situation, any final actions that must take place, and appreciation for cooperation from all parties involved.----**Helping People Live Better**This document is uncontrolled when printed.Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 2**```markdown",
+      "char_count": 657,
+      "token_estimate": 164,
+      "section_title": "A complete briefing note; and,",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-030communicationslogrequirements_3255156b429e_chunk_016_f17158f5",
+      "doc_id": "epm-addl-030communicationslogrequirements_3255156b429e",
+      "chunk_index": 16,
+      "text": "# Communications Protocol for Emergencies## Stage 4 Emergencies: Critical Risk### Prepare Communication Log which must include:\n\n1. Catalogue of communications materials released during the emergency situation;",
+      "char_count": 210,
+      "token_estimate": 52,
+      "section_title": "Communications Protocol for Emergencies## Stage 4 Emergencies: Critical Risk### Prepare Communication Log which must include:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-030communicationslogrequirements_3255156b429e_chunk_018_058ab60c",
+      "doc_id": "epm-addl-030communicationslogrequirements_3255156b429e",
+      "chunk_index": 18,
+      "text": "2. Any internal memos released during the emergency situation;\n\n3. All risk alerts;",
+      "char_count": 83,
+      "token_estimate": 20,
+      "section_title": "Any internal memos released during the emergency situation;",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-030communicationslogrequirements_3255156b429e_chunk_020_d0de0ae0",
+      "doc_id": "epm-addl-030communicationslogrequirements_3255156b429e",
+      "chunk_index": 20,
+      "text": "4. All IMS meeting minutes that occurred during the emergency situation;\n\n5. Debriefing results;",
+      "char_count": 96,
+      "token_estimate": 24,
+      "section_title": "All IMS meeting minutes that occurred during the emergency situation;",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-030communicationslogrequirements_3255156b429e_chunk_022_0a580ed7",
+      "doc_id": "epm-addl-030communicationslogrequirements_3255156b429e",
+      "chunk_index": 22,
+      "text": "6. A complete briefing note; and,\n\n7. Any media coverage about the emergency situation.### Prepare a final update document that outlines:\n- The details of the emergency situation\n- Any final actions that must take place\n- Appreciation for cooperation from all parties involvedThis document is uncontrolled when printed.Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n```",
+      "char_count": 600,
+      "token_estimate": 150,
+      "section_title": "A complete briefing note; and,",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

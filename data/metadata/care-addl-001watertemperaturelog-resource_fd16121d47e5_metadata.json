@@ -1,0 +1,11 @@
+{
+  "doc_id": "care-addl-001watertemperaturelog-resource_fd16121d47e5",
+  "category": "Care",
+  "schema_used": "GenericDocumentMeta",
+  "extraction_success": true,
+  "metadata": {
+    "title": "Extendicare Water Temperature Log"
+  },
+  "error": null,
+  "fallback_metadata": null
+}

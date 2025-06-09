@@ -1,0 +1,18 @@
+{
+  "doc_id": "epm-addl-001transportationresourceslist_cc52008645b1",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "epm-addl-001transportationresourceslist_cc52008645b1_chunk_000_8f98de63",
+      "doc_id": "epm-addl-001transportationresourceslist_cc52008645b1",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Transportation Resources List| COMPANY/ AGENCY NAME | RESOURCE           | CONTACT NUMBER(S) | 24-HOUR NUMBER | NOTES/COMMENTS: |\n|----------------------|--------------------|--------------------|----------------|------------------|\n| Helplng people       |                    |                    |                |                  |----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----Page 1 of 1",
+      "char_count": 694,
+      "token_estimate": 173,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "doc_id": "care1-p1001-t2returnchecklist_8f142d6541d0",
+  "total_chunks": 10,
+  "chunks": [
+    {
+      "chunk_id": "care1-p1001-t2returnchecklist_8f142d6541d0_chunk_000_145a3b89",
+      "doc_id": "care1-p1001-t2returnchecklist_8f142d6541d0",
+      "chunk_index": 0,
+      "text": "# Extendicare Return Checklist**Resident:**                        **Room:**                             **Return Date:**| PCC | Day of Return | Initial as | Action Required/Follow-up |\n|-----|---------------|------------|---------------------------|\n|     |               |            |                           |## Staff Introduction- Resident photo ID in medication administration record pouch porter (if applicable)\n- Apply wander guard (if applicable)### Obtain and Record:- Vital Signs\n- Height & Weight\n- Resident health status and transition into interdisciplinary progress notes under ‘move-in/return’ category### Contact physician/NP for:1. Medi-systems Collaborative Medication Reconciliation-MCMR",
+      "char_count": 709,
+      "token_estimate": 177,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 5
+    },
+    {
+      "chunk_id": "care1-p1001-t2returnchecklist_8f142d6541d0_chunk_001_565a89b1",
+      "doc_id": "care1-p1001-t2returnchecklist_8f142d6541d0",
+      "chunk_index": 1,
+      "text": "OR\n\nMedication Reconciliation",
+      "char_count": 29,
+      "token_estimate": 7,
+      "section_title": "OR",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care1-p1001-t2returnchecklist_8f142d6541d0_chunk_003_f7e39e6b",
+      "doc_id": "care1-p1001-t2returnchecklist_8f142d6541d0",
+      "chunk_index": 3,
+      "text": "2. Update Changes:\n- Allergies (if applicable)\n- Code Status (if applicable)\n- Diet (complete diet requisition in PCC, print and provide directly to kitchen)### Review discharge records AND assessment outcomes and revise plan of care and task list as applicable:- Communicate to staff and family as required### Complete the following UDAs upon return:- Pain – Integrated Screen & Assessment\n- Skin Assessments (UDA’s not finalized as of yet- may be Skin- Total Body Assessment and Lower Leg and Foot Assessment and a reassessment of any)----**Helplng people Iva better**\nThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 886,
+      "token_estimate": 221,
+      "section_title": "Update Changes:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care1-p1001-t2returnchecklist_8f142d6541d0_chunk_004_02f504a4",
+      "doc_id": "care1-p1001-t2returnchecklist_8f142d6541d0",
+      "chunk_index": 4,
+      "text": "will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 3**# Return Checklist## Skin Integrity Issues\n- Skin integrity issues that the resident may have had upon transfer## Continence\n- 3-day continence monitoring (if required)## Restraint and PASD Assessment & Evaluation\n- Restraint and PASD Assessment & Evaluation (if required)## Safe Resident Handling Risk Assessment\n- Safe Resident Handling Risk Assessment (if required)### Initiate Referrals as Needed:\n- Dietician\n- Physiotherapy\n- Behavioural Support Lead/Team\n- Other----## PCC Day 1 Post Return| Initial as | Action Required/Follow-up |\n|------------|---------------------------|\n| √          | Obtain and Record:        |\n|            | - Vital Signs             |\n|            | - Resident health status and transition into interdisciplinary progress notes under ‘move-in/return’ category |\n| √          | Update resident diagnoses tab (if applicable) |\n| √          | Complete:                |\n|            | - MDRO Screening Tool     |\n|            | - ARI Screening Tool      |\n| √          | Continue 72-hour pain monitoring (if triggered) |\n| √          | Continue Continence – 3 Day Monitoring |----## PCC Day 2 Post Return| Initial as | Action Required/Follow-up |\n|------------|---------------------------|\n| √          | Obtain and Record:        |\n|            | - Vital Signs             |\n|            | - Resident health status and transition into interdisciplinary progress notes under ‘move-in/return’ category |\n| √          | Continue 72-hour pain monitoring (if triggered) |\n| √          | Continue Continence – 3 Day Monitoring |----> **Note:** This document is uncontrolled when printed.",
+      "char_count": 1884,
+      "token_estimate": 471,
+      "section_title": "Update Changes:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care1-p1001-t2returnchecklist_8f142d6541d0_chunk_005_d0d0b100",
+      "doc_id": "care1-p1001-t2returnchecklist_8f142d6541d0",
+      "chunk_index": 5,
+      "text": "Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 3**# Return Checklist## Skin Integrity Issues\n- Skin integrity issues that the resident may have had upon transfer## Continence\n- 3-day continence monitoring (if required)## Restraint and PASD Assessment & Evaluation\n- Restraint and PASD Assessment & Evaluation (if required)## Safe Resident Handling Risk Assessment\n- Safe Resident Handling Risk Assessment (if required)### Initiate Referrals as Needed:\n- Dietician\n- Physiotherapy\n- Behavioural Support Lead/Team\n- Other----## PCC Day 1 Post Return| Initial as | Action Required/Follow-up |\n|------------|---------------------------|\n| √          | Obtain and Record:        |\n|            | - Vital Signs             |\n|            | - Resident health status and transition into interdisciplinary progress notes under ‘move-in/return’ category |\n| √          | Update resident diagnoses tab (if applicable) |\n| √          | Complete:                |\n|            | - MDRO Screening Tool     |\n|            | - ARI Screening Tool      |\n| √          | Continue 72-hour pain monitoring (if triggered) |\n| √          | Continue Continence – 3 Day Monitoring |----## PCC Day 2 Post Return| Initial as | Action Required/Follow-up |\n|------------|---------------------------|\n| √          | Obtain and Record:        |\n|            | - Vital Signs             |\n|            | - Resident health status and transition into interdisciplinary progress notes under ‘move-in/return’ category |\n| √          | Continue 72-hour pain monitoring (if triggered) |\n| √          | Continue Continence – 3 Day Monitoring |----> **Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1734,
+      "token_estimate": 433,
+      "section_title": "Update Changes:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care1-p1001-t2returnchecklist_8f142d6541d0_chunk_006_8fab7060",
+      "doc_id": "care1-p1001-t2returnchecklist_8f142d6541d0",
+      "chunk_index": 6,
+      "text": "© 2025----**Page 1 of 3**# Return Checklist## Skin Integrity Issues\n- Skin integrity issues that the resident may have had upon transfer## Continence\n- 3-day continence monitoring (if required)## Restraint and PASD Assessment & Evaluation\n- Restraint and PASD Assessment & Evaluation (if required)## Safe Resident Handling Risk Assessment\n- Safe Resident Handling Risk Assessment (if required)### Initiate Referrals as Needed:\n- Dietician\n- Physiotherapy\n- Behavioural Support Lead/Team\n- Other----## PCC Day 1 Post Return| Initial as | Action Required/Follow-up |\n|------------|---------------------------|\n| √          | Obtain and Record:        |\n|            | - Vital Signs             |\n|            | - Resident health status and transition into interdisciplinary progress notes under ‘move-in/return’ category |\n| √          | Update resident diagnoses tab (if applicable) |\n| √          | Complete:                |\n|            | - MDRO Screening Tool     |\n|            | - ARI Screening Tool      |\n| √          | Continue 72-hour pain monitoring (if triggered) |\n| √          | Continue Continence – 3 Day Monitoring |----## PCC Day 2 Post Return| Initial as | Action Required/Follow-up |\n|------------|---------------------------|\n| √          | Obtain and Record:        |\n|            | - Vital Signs             |\n|            | - Resident health status and transition into interdisciplinary progress notes under ‘move-in/return’ category |\n| √          | Continue 72-hour pain monitoring (if triggered) |\n| √          | Continue Continence – 3 Day Monitoring |----> **Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.",
+      "char_count": 1840,
+      "token_estimate": 460,
+      "section_title": "Update Changes:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care1-p1001-t2returnchecklist_8f142d6541d0_chunk_007_3450a894",
+      "doc_id": "care1-p1001-t2returnchecklist_8f142d6541d0",
+      "chunk_index": 7,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc.\n\nwill provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 2 of 3**# Return Checklist## PCC Day 3 Post Return| Initial as | Action Required/Follow-up |\n|------------|---------------------------|\n| √          | Obtain and Record:        |\n|            | - Vital Signs             |\n|            | - Resident health status and transition into interdisciplinary progress notes under ‘move-in/return’ category |\n|            |                           |\n| √          | Interdisciplinary Huddle (held within 72 hours of resident return) |\n|            | - Plan of care is reviewed and revised as required |\n|            |                           |\n| √          | Finalize 72-hour pain monitoring (if triggered) |\n|            |                           |\n| √          | Finalize Continence - 3 Day Monitoring: |\n|            | - Resolve POC task if applicable |\n|            | - Print completed monitoring record |\n|            | - Complete summary of Continence - 3 Day Monitoring |\n|            | - Complete Continence-Bladder & Bowel Assessment |\n|            |                           |\n| √          | Notify RAI Coordinator/designate to initiate interRAI significant change in status assessment (as applicable) |\n|            | - Forward Checklist to DOC for review and signoff |### Signature of DOC/Designate completing checklist review:\n**Date of Review:**----> This document is uncontrolled when printed.",
+      "char_count": 1890,
+      "token_estimate": 472,
+      "section_title": "Update Changes:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care1-p1001-t2returnchecklist_8f142d6541d0_chunk_009_1c153ec1",
+      "doc_id": "care1-p1001-t2returnchecklist_8f142d6541d0",
+      "chunk_index": 9,
+      "text": "Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 2 of 3**# Return Checklist## PCC Day 3 Post Return| Initial as | Action Required/Follow-up |\n|------------|---------------------------|\n| √          | Obtain and Record:        |\n|            | - Vital Signs             |\n|            | - Resident health status and transition into interdisciplinary progress notes under ‘move-in/return’ category |\n|            |                           |\n| √          | Interdisciplinary Huddle (held within 72 hours of resident return) |\n|            | - Plan of care is reviewed and revised as required |\n|            |                           |\n| √          | Finalize 72-hour pain monitoring (if triggered) |\n|            |                           |\n| √          | Finalize Continence - 3 Day Monitoring: |\n|            | - Resolve POC task if applicable |\n|            | - Print completed monitoring record |\n|            | - Complete summary of Continence - 3 Day Monitoring |\n|            | - Complete Continence-Bladder & Bowel Assessment |\n|            |                           |\n| √          | Notify RAI Coordinator/designate to initiate interRAI significant change in status assessment (as applicable) |\n|            | - Forward Checklist to DOC for review and signoff |### Signature of DOC/Designate completing checklist review:\n**Date of Review:**----> This document is uncontrolled when printed. > Extendicare (Canada) Inc.",
+      "char_count": 1469,
+      "token_estimate": 367,
+      "section_title": "Update Changes:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care1-p1001-t2returnchecklist_8f142d6541d0_chunk_010_f915d351",
+      "doc_id": "care1-p1001-t2returnchecklist_8f142d6541d0",
+      "chunk_index": 10,
+      "text": "© 2025----**Page 2 of 3**# Return Checklist## PCC Day 3 Post Return| Initial as | Action Required/Follow-up |\n|------------|---------------------------|\n| √          | Obtain and Record:        |\n|            | - Vital Signs             |\n|            | - Resident health status and transition into interdisciplinary progress notes under ‘move-in/return’ category |\n|            |                           |\n| √          | Interdisciplinary Huddle (held within 72 hours of resident return) |\n|            | - Plan of care is reviewed and revised as required |\n|            |                           |\n| √          | Finalize 72-hour pain monitoring (if triggered) |\n|            |                           |\n| √          | Finalize Continence - 3 Day Monitoring: |\n|            | - Resolve POC task if applicable |\n|            | - Print completed monitoring record |\n|            | - Complete summary of Continence - 3 Day Monitoring |\n|            | - Complete Continence-Bladder & Bowel Assessment |\n|            |                           |\n| √          | Notify RAI Coordinator/designate to initiate interRAI significant change in status assessment (as applicable) |\n|            | - Forward Checklist to DOC for review and signoff |### Signature of DOC/Designate completing checklist review:\n**Date of Review:**----> This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.",
+      "char_count": 1575,
+      "token_estimate": 393,
+      "section_title": "Update Changes:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care1-p1001-t2returnchecklist_8f142d6541d0_chunk_011_94cdbc7a",
+      "doc_id": "care1-p1001-t2returnchecklist_8f142d6541d0",
+      "chunk_index": 11,
+      "text": "> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 3 of 3",
+      "char_count": 294,
+      "token_estimate": 73,
+      "section_title": "Update Changes:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

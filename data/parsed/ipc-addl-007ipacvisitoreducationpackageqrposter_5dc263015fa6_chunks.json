@@ -1,0 +1,18 @@
+{
+  "doc_id": "ipc-addl-007ipacvisitoreducationpackageqrposter_5dc263015fa6",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "ipc-addl-007ipacvisitoreducationpackageqrposter_5dc263015fa6_chunk_000_b0f99cba",
+      "doc_id": "ipc-addl-007ipacvisitoreducationpackageqrposter_5dc263015fa6",
+      "chunk_index": 0,
+      "text": "```markdown\n\n# IPAC Visitor Education Package## IPAC Visitor Education PackageBecome familiar with our home’s infection prevention and control practices.Scan the QR code or use the link to learn about our home's infection prevention and control practices.If you can't access the link, ask a team member for help.\n```",
+      "char_count": 316,
+      "token_estimate": 79,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

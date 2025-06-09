@@ -1,0 +1,78 @@
+{
+  "doc_id": "ipc3-p1006-scabies_584c15000f85",
+  "total_chunks": 6,
+  "chunks": [
+    {
+      "chunk_id": "ipc3-p1006-scabies_584c15000f85_chunk_000_37bc13b1",
+      "doc_id": "ipc3-p1006-scabies_584c15000f85",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Infection Prevention and Control\n**INDEX:** IPC3-P10.06\n**SECTION:** Communicable Diseases\n**EFFECTIVE DATE:** February 18, 2025\n**REVIEWED DATE:** February 11, 2025\n**APPROVED BY:** Chief Medical Officer\n**MODIFIED DATE:** May 30, 2025----## POLICY### Communicable Diseases## PROCEDURE### Assessment- Assess the resident for evidence of scabies, including completion of a head-to-toe skin assessment and history or clinical findings consistent upon admission/readmission to the home and as required. - Inquire/observe for intense itching, especially at night or after a hot bath or shower. - Examine warm areas of the skin, such as the groin, elbows, armpits, and finger web spaces, for a rash, red bumps, or burrows. Scabies can also spread to other areas of the body such as the torso, buttocks, arms, and legs. - A skin scraping or Burrows Ink Test may assist in the clinical identification of scabies—consult physician.### Management- As soon as scabies is suspected or confirmed, implement contact precautions. - Isolate resident(s) to their room(s) until 24 hours after the start of effective treatment.",
+      "char_count": 1147,
+      "token_estimate": 286,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p1006-scabies_584c15000f85_chunk_001_ebf38c5e",
+      "doc_id": "ipc3-p1006-scabies_584c15000f85",
+      "chunk_index": 1,
+      "text": "- A skin scraping or Burrows Ink Test may assist in the clinical identification of scabies—consult physician.### Management- As soon as scabies is suspected or confirmed, implement contact precautions. - Isolate resident(s) to their room(s) until 24 hours after the start of effective treatment. - For crusted scabies, precautions must remain in place until the resident’s rash resolves. - As soon as a case of scabies is identified, a line listing for both residents and staff will be developed. - Identify close contacts, including roommates transferred to other home areas or to another facility within the previous 6 weeks. Assess close contacts for evidence of scabies. - If a resident was transferred to another health care facility for treatment (i.e., dialysis) within the past 6 weeks, notify the other facility. - Determine if there are symptomatic residents on other units. - Determine the extent of intervention (i.e., treatment, environmental cleaning) required and develop an action plan. - Continue to monitor all residents for signs and symptoms of scabies for 6 weeks following identification of the last case. - Refer to Scabies Management Checklist.",
+      "char_count": 1168,
+      "token_estimate": 292,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p1006-scabies_584c15000f85_chunk_002_4bef79b2",
+      "doc_id": "ipc3-p1006-scabies_584c15000f85",
+      "chunk_index": 2,
+      "text": "- Continue to monitor all residents for signs and symptoms of scabies for 6 weeks following identification of the last case. - Refer to Scabies Management Checklist. - Adhere to jurisdictional recommendations as applicable.### Treatment----**Helping people live better**\nThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025",
+      "char_count": 593,
+      "token_estimate": 148,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p1006-scabies_584c15000f85_chunk_003_b649b903",
+      "doc_id": "ipc3-p1006-scabies_584c15000f85",
+      "chunk_index": 3,
+      "text": "# PROCEDURE## SECTION: Communicable Diseases\n\n### DESCRIPTION: Scabies",
+      "char_count": 70,
+      "token_estimate": 17,
+      "section_title": "PROCEDURE## SECTION: Communicable Diseases",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p1006-scabies_584c15000f85_chunk_005_e3ab2c4f",
+      "doc_id": "ipc3-p1006-scabies_584c15000f85",
+      "chunk_index": 5,
+      "text": "### INDEX: IPC3-P10.06Notify physician/nurse practitioner of suspect or confirmed cases of scabies and obtain any treatment or medication orders. Treatment with Ivermectin may be considered for treatment of crusted scabies and in outbreak situations.- Treat all residents and their contacts, including roommates and staff at the same time.\n- Symptomatic case(s) may be treated twice, 1 week apart, and asymptomatic contacts once (prophylaxis treatment) based on the direction of a physician/nurse practitioner.### Environmental Services\nRefer to IPC3-P10-T5 - Scabies Management Checklist### EXTERNAL\n- Ontario\n- Report all staff cases to Ministry of Labour, Training and Skills Development.### EDUCATION",
+      "char_count": 704,
+      "token_estimate": 176,
+      "section_title": "INDEX: IPC3-P10.06Notify physician/nurse practitioner of suspect or confirmed cases of scabies and obtain any treatment or medication orders. Treatment with Ivermectin may be considered for treatment of crusted scabies and in outbreak situations.- Treat all residents and their contacts, including roommates and staff at the same time.",
+      "chunk_type": "content",
+      "start_line": 24,
+      "end_line": 28
+    },
+    {
+      "chunk_id": "ipc3-p1006-scabies_584c15000f85_chunk_006_d63bc790",
+      "doc_id": "ipc3-p1006-scabies_584c15000f85",
+      "chunk_index": 6,
+      "text": "1. IPC3-P10-E7 - Scabies Fact Sheet### TOOLS\n\n1. IPC3-P10-T2 - Scabies Management Checklist----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----Page 2 of 2",
+      "char_count": 432,
+      "token_estimate": 108,
+      "section_title": "IPC3-P10-E7 - Scabies Fact Sheet### TOOLS",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "doc_id": "ipc-addl-016symptoms_2025en_fr_d1fd8eeee50e",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "ipc-addl-016symptoms_2025en_fr_d1fd8eeee50e_chunk_000_b1fa4064",
+      "doc_id": "ipc-addl-016symptoms_2025en_fr_d1fd8eeee50e",
+      "chunk_index": 0,
+      "text": "```markdown\n\n# Health Guidelines for Visitors## Symptoms to Watch ForDo you have any of the symptoms listed below?| **Symptom**                          | **Description**                     |\n|--------------------------------------|-------------------------------------|\n| Fever and/or Chills                  |                                     |\n| Cough (Dry or Barking/Croup)        |                                     |\n| Runny or Stuffy/Congested Nose      | Sneezing                            |\n| Headache                              |                                     |\n| Extreme Tiredness                    |                                     |\n| Sore Throat, Hoarse Voice            |                                     |\n| Shortness of Breath                  |                                     |\n| Loss of Taste or Smell               |                                     |\n| Muscle Aches or Joint Pain           |                                     |\n| Nausea, Vomiting, Diarrhea          |                                     |If you have any of the above symptoms, or you are ill, or feel sick, please do not visit today.For the health and safety of residents, staff, families, and visitors, please stay home if you're sick or have symptoms.Family and/or Visitors who become ill while visiting should promptly separate themselves from others and go home.## Hygiene Practices- Clean your hands upon arrival and frequently during your visit.",
+      "char_count": 1472,
+      "token_estimate": 368,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc-addl-016symptoms_2025en_fr_d1fd8eeee50e_chunk_002_dc7a4c49",
+      "doc_id": "ipc-addl-016symptoms_2025en_fr_d1fd8eeee50e",
+      "chunk_index": 2,
+      "text": "- Practice respiratory etiquette. ```# ARRÊT## Présentez-vous des symptômes suivants?| Symptômes                                   |\n|---------------------------------------------|\n| Fièvre ou frissons                          |\n| Toux ou toux persistante (toux ressemblant à un aboiement) |\n| Nez qui coule ou nez bouché ou congestionné |\n| Maux de tête                                |\n| Fatigue                                     |\n| Mal de gorge                                |\n| Essoufflement                               |\n| Diminution ou perte de l’odorat ou du goût |\n| Douleurs musculaires ou douleurs articulaires|\n| Nausée, vomissements ou diarrhée           |Si vous présentez l’un des symptômes ci-dessus, si vous êtes malade ou ne vous sentez pas bien, veuillez ne pas nous rendre visite aujourd’hui.Pour la santé et la sécurité des résidents, du personnel, des familles et des visiteurs, restez à la maison si vous êtes malade ou présentez des symptômes.Les membres de la famille et les visiteurs qui tombent malades pendant une visite doivent rapidement s’isoler des autres et rentrer chez eux.- Lavez-vous les mains dès votre arrivée et fréquemment durant votre visite.",
+      "char_count": 1189,
+      "token_estimate": 297,
+      "section_title": "Health Guidelines for Visitors## Symptoms to Watch ForDo you have any of the symptoms listed below?| **Symptom**                          | **Description**                     |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc-addl-016symptoms_2025en_fr_d1fd8eeee50e_chunk_003_f205de1c",
+      "doc_id": "ipc-addl-016symptoms_2025en_fr_d1fd8eeee50e",
+      "chunk_index": 3,
+      "text": "- Practice respiratory etiquette. ```# ARRÊT## Présentez-vous des symptômes suivants?| Symptômes                                   |\n|---------------------------------------------|\n| Fièvre ou frissons                          |\n| Toux ou toux persistante (toux ressemblant à un aboiement) |\n| Nez qui coule ou nez bouché ou congestionné |\n| Maux de tête                                |\n| Fatigue                                     |\n| Mal de gorge                                |\n| Essoufflement                               |\n| Diminution ou perte de l’odorat ou du goût |\n| Douleurs musculaires ou douleurs articulaires|\n| Nausée, vomissements ou diarrhée           |Si vous présentez l’un des symptômes ci-dessus, si vous êtes malade ou ne vous sentez pas bien, veuillez ne pas nous rendre visite aujourd’hui.Pour la santé et la sécurité des résidents, du personnel, des familles et des visiteurs, restez à la maison si vous êtes malade ou présentez des symptômes.Les membres de la famille et les visiteurs qui tombent malades pendant une visite doivent rapidement s’isoler des autres et rentrer chez eux.- Lavez-vous les mains dès votre arrivée et fréquemment durant votre visite. - Respectez les règles d’hygiène respiratoire.",
+      "char_count": 1236,
+      "token_estimate": 309,
+      "section_title": "Health Guidelines for Visitors## Symptoms to Watch ForDo you have any of the symptoms listed below?| **Symptom**                          | **Description**                     |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

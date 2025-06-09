@@ -1,0 +1,54 @@
+{
+  "doc_id": "evs3-p1002-e1reducingfireriskinthelaundry_e3fe45bd1062",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "evs3-p1002-e1reducingfireriskinthelaundry_e3fe45bd1062_chunk_000_612bc1a3",
+      "doc_id": "evs3-p1002-e1reducingfireriskinthelaundry_e3fe45bd1062",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Reducing Fire Risks in the Laundry### Manager or Designate:\n- Monitor activity to ensure fire precautions are being followed. - Monitor surfaces in the laundry to ensure cleaning routines are effective at preventing dust build-up.### Maintenance Staff:\n- When necessary and/or as scheduled, use a vacuum to remove lint build-up from inside the lint catch area in the dryer. Follow preventive maintenance program described in Policy – Cleaning Dryer Lint Screens. - Routinely inspect the lint screen for damage and replace as necessary. - **Note:** It is recommended to have two additional lint screens per machine available in the home to replace damaged lint screens.### Laundry Staff:\n- Remove lint build-up from the lint screen according to Cleaning Dryer Lint Screens procedure a minimum of 3 times per shift or as needed. - Always complete the cool-down cycle before removing items from the dryer. - Do not leave the washers or dryers running after the laundry has closed down or between shifts. - Do not start a drying or washing cycle if you will not have enough time to complete the load before closing the laundry room.",
+      "char_count": 1146,
+      "token_estimate": 286,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs3-p1002-e1reducingfireriskinthelaundry_e3fe45bd1062_chunk_002_38d46b79",
+      "doc_id": "evs3-p1002-e1reducingfireriskinthelaundry_e3fe45bd1062",
+      "chunk_index": 2,
+      "text": "- Do not leave the washers or dryers running after the laundry has closed down or between shifts. - Do not start a drying or washing cycle if you will not have enough time to complete the load before closing the laundry room. - When leaving the laundry room for breaks/lunch (when the laundry is unattended):\n- Put dryers on maximum cool down; and\n- Close and lock the doors to the laundry area. - Do not leave linens or clothing in bins after drying. Fold all items before leaving your shift and leaving the laundry room for the day. - Do not use flammable cleaners and solvents in the laundry area. - Turn off the heat seal label maker at the end of the day. - Do not wash or dry microfibre mops or cleaning cloths that have been used with solvents or degreasers. Cloths used with these chemicals must be discarded to the outside garbage container. - Store clean microfibre mops and microfibre cloths according to Policy. - **Note:** It is not recommended that discarded linens be used to make cleaning cloths. Cleaning cloths should be purchased through linen supply vendors.### DURING A FIRE DRILL\n- Close the laundry chute door. - Turn off all washers. - Place all dryers on maximum cool-down.",
+      "char_count": 1198,
+      "token_estimate": 299,
+      "section_title": "Reducing Fire Risks in the Laundry### Manager or Designate:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs3-p1002-e1reducingfireriskinthelaundry_e3fe45bd1062_chunk_003_d1d6d1db",
+      "doc_id": "evs3-p1002-e1reducingfireriskinthelaundry_e3fe45bd1062",
+      "chunk_index": 3,
+      "text": "- Turn off all washers. - Place all dryers on maximum cool-down. - Move all carts inside the laundry room away from doorways. - Turn off all equipment, including heat seal machine, labeller, iron, and steamer. - Close all laundry room doors. - **Note:** Follow fire safety procedure as outlined in the home’s Fire Safety Plan once laundry is secured.----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----",
+      "char_count": 680,
+      "token_estimate": 170,
+      "section_title": "Reducing Fire Risks in the Laundry### Manager or Designate:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs3-p1002-e1reducingfireriskinthelaundry_e3fe45bd1062_chunk_004_b4eb6cc9",
+      "doc_id": "evs3-p1002-e1reducingfireriskinthelaundry_e3fe45bd1062",
+      "chunk_index": 4,
+      "text": "# Reducing Fire Risks in the Laundry## IF FIRE STARTS IN DRYER\n- Pull the nearest fire alarm.\n- Shut down dryers at the disconnect switches.\n- Close the laundry chute door.\n- Follow the home’s procedure as outlined in the home’s Fire Safety Plan.> **Note:** Do not open the door of the dryer to remove smoldering or flaming linens/clothing.\n> Never open the door of the dryer to remove smoldering or flaming linens/clothing.----This document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 2 of 2",
+      "char_count": 762,
+      "token_estimate": 190,
+      "section_title": "Reducing Fire Risks in the Laundry## IF FIRE STARTS IN DRYER",
+      "chunk_type": "content",
+      "start_line": 27,
+      "end_line": 34
+    }
+  ]
+}

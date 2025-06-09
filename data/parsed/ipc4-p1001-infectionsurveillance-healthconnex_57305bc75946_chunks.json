@@ -1,0 +1,114 @@
+{
+  "doc_id": "ipc4-p1001-infectionsurveillance-healthconnex_57305bc75946",
+  "total_chunks": 9,
+  "chunks": [
+    {
+      "chunk_id": "ipc4-p1001-infectionsurveillance-healthconnex_57305bc75946_chunk_000_0d0c3374",
+      "doc_id": "ipc4-p1001-infectionsurveillance-healthconnex_57305bc75946",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Infection Prevention and Control\n**INDEX:** IPC4-P10.01\n**SECTION:** Infection Surveillance\n**EFFECTIVE DATE:** February 18, 2025\n**REVIEWED DATE:** February 11, 2025\n**APPROVED BY:** Chief Medical Officer\n**MODIFIED DATE:** May 30, 2025----## POLICY### Infection Surveillance and Disease Reporting### PROCEDURE- There shall be an infection surveillance program that is consistent throughout the home/residence. - An Infection Control Professional/designate shall be designated responsible for infection surveillance. - Each home shall submit infection surveillance reports to their health authority as per jurisdictional requirements. - The infection data for surveillance purposes shall be collected using the recommended case definitions from:\n- Best Practices for Surveillance of Health Care associated Infections (PIDAC) July 2014\n- Surveillance Definitions of Infections in Canadian Long Term Care Facilities 2023 CJIC. - Infection data shall be reviewed daily for trending patterns of symptoms suggesting a suspected outbreak based on established baselines – HealthConnex dashboard.",
+      "char_count": 1126,
+      "token_estimate": 281,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc4-p1001-infectionsurveillance-healthconnex_57305bc75946_chunk_001_60506e05",
+      "doc_id": "ipc4-p1001-infectionsurveillance-healthconnex_57305bc75946",
+      "chunk_index": 1,
+      "text": "- The infection data for surveillance purposes shall be collected using the recommended case definitions from:\n- Best Practices for Surveillance of Health Care associated Infections (PIDAC) July 2014\n- Surveillance Definitions of Infections in Canadian Long Term Care Facilities 2023 CJIC. - Infection data shall be reviewed daily for trending patterns of symptoms suggesting a suspected outbreak based on established baselines – HealthConnex dashboard. - Incidence rates and new cases of infections shall be calculated and reviewed quarterly (completed in HealthConnex, Infections related to devices can be calculated using Formula for Calculation of Infection Rates). - The surveillance data results shall be communicated to all stakeholders on an ongoing basis. - All health care workers must report resident signs and symptoms of infection such as rashes, diarrhea, vomiting, fever, respiratory symptoms, etc. to a nurse.#### The unit nurse/designate will:- Document signs and symptoms of infection in the electronic health record each shift until symptoms are resolved. - Document resident infections including signs, symptoms and any lab specimens collected into HealthConnex.",
+      "char_count": 1182,
+      "token_estimate": 295,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc4-p1001-infectionsurveillance-healthconnex_57305bc75946_chunk_002_a9edec30",
+      "doc_id": "ipc4-p1001-infectionsurveillance-healthconnex_57305bc75946",
+      "chunk_index": 2,
+      "text": "to a nurse.#### The unit nurse/designate will:- Document signs and symptoms of infection in the electronic health record each shift until symptoms are resolved. - Document resident infections including signs, symptoms and any lab specimens collected into HealthConnex. - Ensure additional precautions are implemented, and signage is posted as appropriate. - Collect appropriate specimens for testing. - Communicate with the Infection Control Professional/designate (e.g., lab specimens sent).#### The Infection Control Professional/designate will:- Collect, verify, and organize data received from the unit nurse regarding all infections. - Review HealthConnex at the beginning of each shift and observe for patterns of symptoms suggesting an infection or potential outbreak and ensuring accurate data completion. - Review the resident health record for any signs or pattern of symptoms suggesting an infection or potential outbreak. - Ensure additional precautions are implemented immediately should any signs or symptoms suggest an infection or potential outbreak.----*Helping people live a better life*\n*This document is uncontrolled when printed.*\n*Extendicare (Canada) Inc.",
+      "char_count": 1178,
+      "token_estimate": 294,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc4-p1001-infectionsurveillance-healthconnex_57305bc75946_chunk_003_4775d4c2",
+      "doc_id": "ipc4-p1001-infectionsurveillance-healthconnex_57305bc75946",
+      "chunk_index": 3,
+      "text": "- Review the resident health record for any signs or pattern of symptoms suggesting an infection or potential outbreak. - Ensure additional precautions are implemented immediately should any signs or symptoms suggest an infection or potential outbreak.----*Helping people live a better life*\n*This document is uncontrolled when printed.*\n*Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.*\n*Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025*\n*Page 1 of 2*# PROCEDURE## SECTION: Infection Surveillance",
+      "char_count": 679,
+      "token_estimate": 169,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc4-p1001-infectionsurveillance-healthconnex_57305bc75946_chunk_004_c3774399",
+      "doc_id": "ipc4-p1001-infectionsurveillance-healthconnex_57305bc75946",
+      "chunk_index": 4,
+      "text": "### DESCRIPTION: HealthConnex\n\n### INDEX: IPC4-P10.01- Analyze and interpret the data collected to establish baselines and trends. - Infection trends that may be detected include:\n- Types and rates of infections. - Areas within the home that may be experiencing a rise in the baseline number of residents with a certain type of infection. - Infections caused by a similar microorganism. - Infections that have occurred in a similar timeframe or associated with certain procedures or equipment. - Decreases in the number of cases of a particular type of infection due to the infection prevention and control strategies. - The analysis shall be done as frequently as necessary, but at least monthly, to intervene as appropriate (e.g., interview employees, provide education, review policies, and communicate to appropriate stakeholders and employees). - Complete HealthConnex Data Checklist and Audit monthly.",
+      "char_count": 907,
+      "token_estimate": 226,
+      "section_title": "DESCRIPTION: HealthConnex",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc4-p1001-infectionsurveillance-healthconnex_57305bc75946_chunk_006_4fe69d65",
+      "doc_id": "ipc4-p1001-infectionsurveillance-healthconnex_57305bc75946",
+      "chunk_index": 6,
+      "text": "- The analysis shall be done as frequently as necessary, but at least monthly, to intervene as appropriate (e.g., interview employees, provide education, review policies, and communicate to appropriate stakeholders and employees). - Complete HealthConnex Data Checklist and Audit monthly. - The home’s senior management (Executive Director/Administrator, Director of Care, Director of Health and Wellness) in collaboration with the Infection Control Professional/designate will ensure infection control rates and reports are communicated to the employees.### Targeted Surveillance\nTargeted surveillance may be implemented in addition to total surveillance. It may include:\n- Specific types of infections, such as urinary tract or those caused by a particular organism. - Types of infections in high-risk groups such as individuals with predisposing factors as identified in PIDAC definitions. - Infections occurring during selected time frames.",
+      "char_count": 944,
+      "token_estimate": 236,
+      "section_title": "INDEX: IPC4-P10.01- Analyze and interpret the data collected to establish baselines and trends.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc4-p1001-infectionsurveillance-healthconnex_57305bc75946_chunk_007_92fde24a",
+      "doc_id": "ipc4-p1001-infectionsurveillance-healthconnex_57305bc75946",
+      "chunk_index": 7,
+      "text": "- Types of infections in high-risk groups such as individuals with predisposing factors as identified in PIDAC definitions. - Infections occurring during selected time frames. - Infections occurring in a selected geographic area of the facility for a given time frame.### External References\n- Ontario: Best Practices for Surveillance of Health Care-associated Infections\n- Manitoba: Healthcare Associated Infections Monitoring Reporting\n- Alberta: Surveillance & Reporting## EDUCATION",
+      "char_count": 485,
+      "token_estimate": 121,
+      "section_title": "INDEX: IPC4-P10.01- Analyze and interpret the data collected to establish baselines and trends.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc4-p1001-infectionsurveillance-healthconnex_57305bc75946_chunk_008_cd8910bd",
+      "doc_id": "ipc4-p1001-infectionsurveillance-healthconnex_57305bc75946",
+      "chunk_index": 8,
+      "text": "1. IPC4-P10-E1 - Formula for Calculation of Infection Rates## TOOLS\n\n1. IPC4-P10-T1 - Infection Rates for Devices",
+      "char_count": 113,
+      "token_estimate": 28,
+      "section_title": "IPC4-P10-E1 - Formula for Calculation of Infection Rates## TOOLS",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc4-p1001-infectionsurveillance-healthconnex_57305bc75946_chunk_010_d2f21665",
+      "doc_id": "ipc4-p1001-infectionsurveillance-healthconnex_57305bc75946",
+      "chunk_index": 10,
+      "text": "2. IPC4-P10-T5 - Daily IPAC Huddle\n\n3. IPC4-P10-T6 - HealthConnex Data Checklist and Audit----Helping people live betterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. ©2025----Page 2 of 2",
+      "char_count": 456,
+      "token_estimate": 114,
+      "section_title": "IPC4-P10-T5 - Daily IPAC Huddle",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

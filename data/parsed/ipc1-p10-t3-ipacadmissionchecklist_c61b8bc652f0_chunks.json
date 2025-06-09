@@ -1,0 +1,102 @@
+{
+  "doc_id": "ipc1-p10-t3-ipacadmissionchecklist_c61b8bc652f0",
+  "total_chunks": 8,
+  "chunks": [
+    {
+      "chunk_id": "ipc1-p10-t3-ipacadmissionchecklist_c61b8bc652f0_chunk_000_c9b7b66d",
+      "doc_id": "ipc1-p10-t3-ipacadmissionchecklist_c61b8bc652f0",
+      "chunk_index": 0,
+      "text": "# Extendicare IPAC Resident Admission Checklist**IPAC Manager/Infection Control Support Associate Name:**\n**Date of Admission:**\n**Form Complete By:**## TOPICS| Action Required Y/N | Date           | Completion Date |\n|---------------------|----------------|------------------|\n| **ADMISSION PACKAGE REVIEW:** Prior to admission |                |                  |\n| Chest Xray/TB symptom screening as per provincial direction | Enter date |                  |\n| MDRO status (MRSA, VRE, CPE) | Enter date |                  |\n| Immunization history: Refer to the links to provincial vaccine eligibility criteria for most up-to-date information: Alberta, Manitoba, Ontario | | |\n| - Tetanus, diphtheria and acellular pertussis | | |\n| - Pneumococcal (PCV15, PCV20, PPSV23): | | |\n| - Shingles (Herpes Zoster) | Enter date |                  |\n| - Influenza | Enter date |                  |\n| - COVID-19 | Enter date |                  |\n| - Respiratory Syncytial Virus (RSV) | | |> **Note:** Consider a resident who reports incomplete immunization or lacking adequate documentation of immunization as unimmunized and confer with physician to start the resident on an immunization schedule appropriate for their age and risk factors.## Post Admission Day 1: Review| Action Required Y/N | Date           | Completion Date |\n|---------------------|----------------|------------------|\n| TB symptom screening as per provincial direction | Enter date |                  |\n| ARO screening and swabbing as per provincial legislation/guidance | Enter date |                  |\n| ARI screening | Enter date |                  |\n| Immunization TAB in PCC is reflective of vaccination history, consents obtained and vaccine refusals on admission | Enter date |                  |## Post Admission Week 2| Action Required Y/N | Date           | Completion Date |\n|---------------------|----------------|------------------|\n| Immunizations completed as per consent | Enter date |                  |\n| - Health care providers have a responsibility to ensure that adults under their care have continuing and updated protection against | | |----> Helping people live a better life.",
+      "char_count": 2167,
+      "token_estimate": 541,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc1-p10-t3-ipacadmissionchecklist_c61b8bc652f0_chunk_001_d6e4b0b2",
+      "doc_id": "ipc1-p10-t3-ipacadmissionchecklist_c61b8bc652f0",
+      "chunk_index": 1,
+      "text": "> This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 4# IPAC Resident Admission Checklist| TOPICS                                                     | Date          | Action       | Completion Required Y/N | Date        |\n|-----------------------------------------------------------|---------------|--------------|------------------------|-------------|\n| Vaccine preventable diseases through appropriate immunization.",
+      "char_count": 707,
+      "token_estimate": 176,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc1-p10-t3-ipacadmissionchecklist_c61b8bc652f0_chunk_002_d743ba60",
+      "doc_id": "ipc1-p10-t3-ipacadmissionchecklist_c61b8bc652f0",
+      "chunk_index": 2,
+      "text": "> Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 4# IPAC Resident Admission Checklist| TOPICS                                                     | Date          | Action       | Completion Required Y/N | Date        |\n|-----------------------------------------------------------|---------------|--------------|------------------------|-------------|\n| Vaccine preventable diseases through appropriate immunization. |               |              |                        |             |\n| Ensure the Immunization TAB in PCC is reflective of vaccination status | Enter date    |              |                        |             |\n| Provide relevant IPAC education to residents and family i.e., IPAC information boards | Enter date    |              |                        |             |\n|                                                           | Enter date    |              |                        |             |\n|                                                           | Enter date    |              |                        |             |\n|                                                           | Enter date    |              |                        |             |\n|                                                           | Enter date    |              |                        |             |\n|                                                           | Enter date    |              |                        |             |\n|                                                           | Enter date    |              |                        |             |----> This document is uncontrolled when printed.",
+      "char_count": 1675,
+      "token_estimate": 418,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc1-p10-t3-ipacadmissionchecklist_c61b8bc652f0_chunk_003_1b0d0689",
+      "doc_id": "ipc1-p10-t3-ipacadmissionchecklist_c61b8bc652f0",
+      "chunk_index": 3,
+      "text": "© 2025\n> Page 1 of 4# IPAC Resident Admission Checklist| TOPICS                                                     | Date          | Action       | Completion Required Y/N | Date        |\n|-----------------------------------------------------------|---------------|--------------|------------------------|-------------|\n| Vaccine preventable diseases through appropriate immunization. |               |              |                        |             |\n| Ensure the Immunization TAB in PCC is reflective of vaccination status | Enter date    |              |                        |             |\n| Provide relevant IPAC education to residents and family i.e., IPAC information boards | Enter date    |              |                        |             |\n|                                                           | Enter date    |              |                        |             |\n|                                                           | Enter date    |              |                        |             |\n|                                                           | Enter date    |              |                        |             |\n|                                                           | Enter date    |              |                        |             |\n|                                                           | Enter date    |              |                        |             |\n|                                                           | Enter date    |              |                        |             |----> This document is uncontrolled when printed. > Extendicare (Canada) Inc.",
+      "char_count": 1631,
+      "token_estimate": 407,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc1-p10-t3-ipacadmissionchecklist_c61b8bc652f0_chunk_004_0a892df9",
+      "doc_id": "ipc1-p10-t3-ipacadmissionchecklist_c61b8bc652f0",
+      "chunk_index": 4,
+      "text": "|               |              |                        |             |\n| Ensure the Immunization TAB in PCC is reflective of vaccination status | Enter date    |              |                        |             |\n| Provide relevant IPAC education to residents and family i.e., IPAC information boards | Enter date    |              |                        |             |\n|                                                           | Enter date    |              |                        |             |\n|                                                           | Enter date    |              |                        |             |\n|                                                           | Enter date    |              |                        |             |\n|                                                           | Enter date    |              |                        |             |\n|                                                           | Enter date    |              |                        |             |\n|                                                           | Enter date    |              |                        |             |----> This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.",
+      "char_count": 1421,
+      "token_estimate": 355,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc1-p10-t3-ipacadmissionchecklist_c61b8bc652f0_chunk_005_2edaac55",
+      "doc_id": "ipc1-p10-t3-ipacadmissionchecklist_c61b8bc652f0",
+      "chunk_index": 5,
+      "text": "> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 2 of 4# IPAC Resident Admission Checklist## INSTRUCTIONS:\n| Specific | Measurable | Achievable | Realistic | Timely |\n|----------|------------|------------|-----------|--------|\n| S        | MIA        | R          | T         |        |If deficiencies in the program or learning needs are identified, the IPAC Champions alongside the IPAC Manager can create an action plan with SMART goals.### SMART Goals\n- **Specific**: What do I want to accomplish? - **Measurable**: How will I know it is accomplished? - **Achievable**: Is it in your power to accomplish your goal? - **Realistic/Relevant**: Can this realistically happen; does it make sense to set this goal? - **Timely**: When will this goal be accomplished, set a time limit?> This document is uncontrolled when printed.Extendicare (Canada) Inc.",
+      "char_count": 1092,
+      "token_estimate": 273,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc1-p10-t3-ipacadmissionchecklist_c61b8bc652f0_chunk_006_2978284c",
+      "doc_id": "ipc1-p10-t3-ipacadmissionchecklist_c61b8bc652f0",
+      "chunk_index": 6,
+      "text": "- **Realistic/Relevant**: Can this realistically happen; does it make sense to set this goal? - **Timely**: When will this goal be accomplished, set a time limit?> This document is uncontrolled when printed.Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**----**Page 3 of 4**# IPAC Resident Admission Checklist## DEFICIENCY / LEARNING NEED:",
+      "char_count": 572,
+      "token_estimate": 143,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc1-p10-t3-ipacadmissionchecklist_c61b8bc652f0_chunk_007_f085ca46",
+      "doc_id": "ipc1-p10-t3-ipacadmissionchecklist_c61b8bc652f0",
+      "chunk_index": 7,
+      "text": "### SMART GOALS’ ACTION PLAN:\n- **S:**\n- **M:**\n- **A:**\n- **R:**\n- **T:**\n- **S:**\n- **M:**\n- **A:**\n- **R:**\n- **T:**\n- **S:**\n- **M:**\n- **A:**\n- **R:**\n- **T:**----> This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\n> Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 4 of 4",
+      "char_count": 510,
+      "token_estimate": 127,
+      "section_title": "SMART GOALS’ ACTION PLAN:",
+      "chunk_type": "content",
+      "start_line": 47,
+      "end_line": 65
+    }
+  ]
+}

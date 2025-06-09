@@ -1,0 +1,162 @@
+{
+  "doc_id": "ipc4-p1002-infectionsurveillance-manualdocumentation_eff4c796b97e",
+  "total_chunks": 13,
+  "chunks": [
+    {
+      "chunk_id": "ipc4-p1002-infectionsurveillance-manualdocumentation_eff4c796b97e_chunk_000_503f9bd4",
+      "doc_id": "ipc4-p1002-infectionsurveillance-manualdocumentation_eff4c796b97e",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Infection Prevention and Control\n**INDEX:** IPC4-P10.02\n**SECTION:** Infection Surveillance\n**EFFECTIVE DATE:** February 18, 2025\n**REVIEWED DATE:** February 11, 2025\n**APPROVED BY:** Chief Medical Officer\n**MODIFIED DATE:** May 30, 2025----## POLICY### Infection Surveillance### PROCEDURE- There shall be an infection surveillance program that is consistent throughout the home/residence. - An Infection Control Professional/designate shall be designated responsible for infection surveillance. - Each home shall submit infection surveillance reports to their local health authority as per jurisdictional requirements. - The infection data for surveillance purposes shall be collected using the recommended case definitions from **Best Practices for Surveillance of Health Care associated Infections (PIDAC) July 2014** and **Surveillance Definitions of Infections in Canadian Long Term Care Facilities 2023 CJIC**. - Infection data shall be reviewed daily for trending of pattern for symptoms suggesting a potential outbreak based on established baselines – **24-Hour Symptom Surveillance Form**.",
+      "char_count": 1135,
+      "token_estimate": 283,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc4-p1002-infectionsurveillance-manualdocumentation_eff4c796b97e_chunk_001_a110ee4f",
+      "doc_id": "ipc4-p1002-infectionsurveillance-manualdocumentation_eff4c796b97e",
+      "chunk_index": 1,
+      "text": "- The infection data for surveillance purposes shall be collected using the recommended case definitions from **Best Practices for Surveillance of Health Care associated Infections (PIDAC) July 2014** and **Surveillance Definitions of Infections in Canadian Long Term Care Facilities 2023 CJIC**. - Infection data shall be reviewed daily for trending of pattern for symptoms suggesting a potential outbreak based on established baselines – **24-Hour Symptom Surveillance Form**. - Incidence rates and new cases of infections shall be calculated and reviewed quarterly at a minimum. - Infection Surveillance data will be analyzed quarterly at a corporate level. - The surveillance data results shall be communicated to all stakeholders on an ongoing basis.All health care workers must report resident signs and symptoms of infection such as:\n- rashes\n- diarrhea\n- vomiting\n- fever\n- respiratory symptoms, etc. to a nurse.The unit Nurse/designate will:\n- Be responsible for documenting the signs and symptoms of the resident infection in the electronic health record each shift until symptoms are resolved.",
+      "char_count": 1104,
+      "token_estimate": 276,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc4-p1002-infectionsurveillance-manualdocumentation_eff4c796b97e_chunk_002_a381db45",
+      "doc_id": "ipc4-p1002-infectionsurveillance-manualdocumentation_eff4c796b97e",
+      "chunk_index": 2,
+      "text": "- The surveillance data results shall be communicated to all stakeholders on an ongoing basis.All health care workers must report resident signs and symptoms of infection such as:\n- rashes\n- diarrhea\n- vomiting\n- fever\n- respiratory symptoms, etc. to a nurse.The unit Nurse/designate will:\n- Be responsible for documenting the signs and symptoms of the resident infection in the electronic health record each shift until symptoms are resolved. - Be responsible for documenting the resident infections including signs, symptoms and any lab specimens into the electronic health record and the Monthly Infection Surveillance Form. - Ensure the appropriate transmission-based precautions and signage are implemented. - Collect appropriate specimens for testing. - Communicate with the Infection Control Professional/designate i.e., labs specimens sent.The Infection Control Professional/designate will:\n- Collect, verify, and organize data received from the unit Nurse regarding all types of infections.----**Helping people**\n**Iva better**\nThis document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1106,
+      "token_estimate": 276,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc4-p1002-infectionsurveillance-manualdocumentation_eff4c796b97e_chunk_003_ea575440",
+      "doc_id": "ipc4-p1002-infectionsurveillance-manualdocumentation_eff4c796b97e",
+      "chunk_index": 3,
+      "text": "- Communicate with the Infection Control Professional/designate i.e., labs specimens sent.The Infection Control Professional/designate will:\n- Collect, verify, and organize data received from the unit Nurse regarding all types of infections.----**Helping people**\n**Iva better**\nThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n```markdown",
+      "char_count": 613,
+      "token_estimate": 153,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc4-p1002-infectionsurveillance-manualdocumentation_eff4c796b97e_chunk_004_ffd0e813",
+      "doc_id": "ipc4-p1002-infectionsurveillance-manualdocumentation_eff4c796b97e",
+      "chunk_index": 4,
+      "text": "# PROCEDURE## SECTION: Infection\n\n### DESCRIPTION: Infection Surveillance",
+      "char_count": 73,
+      "token_estimate": 18,
+      "section_title": "PROCEDURE## SECTION: Infection",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc4-p1002-infectionsurveillance-manualdocumentation_eff4c796b97e_chunk_006_9febfae7",
+      "doc_id": "ipc4-p1002-infectionsurveillance-manualdocumentation_eff4c796b97e",
+      "chunk_index": 6,
+      "text": "### INDEX: IPC4-P10.02- Review 24-Hour Symptom Surveillance Form at the beginning of each shift and observe for any sign of pattern of symptoms suggesting an infection or potential outbreak and ensuring data completion for accuracy. - Review the Resident health record for any signs or pattern of symptoms suggesting an infection or potential outbreak. - Ensure the appropriate transmission-based precautions are implemented immediately should any signs of pattern of symptoms suggest an infection or potential outbreak. - Analyze and interpret the data collected to establish baselines and trends.Infection trends that may be detected include:\n- Types and rates of infections\n- Areas within the Home that may be experiencing a rise in the baseline number of Residents with a certain type of infection. - Infections caused by a similar microorganism. - Infections that have occurred in a similar timeframe or associated with certain procedures or equipment.",
+      "char_count": 957,
+      "token_estimate": 239,
+      "section_title": "INDEX: IPC4-P10.02- Review 24-Hour Symptom Surveillance Form at the beginning of each shift and observe for any sign of pattern of symptoms suggesting an infection or potential outbreak and ensuring data completion for accuracy.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc4-p1002-infectionsurveillance-manualdocumentation_eff4c796b97e_chunk_007_bc70ac16",
+      "doc_id": "ipc4-p1002-infectionsurveillance-manualdocumentation_eff4c796b97e",
+      "chunk_index": 7,
+      "text": "- Infections caused by a similar microorganism. - Infections that have occurred in a similar timeframe or associated with certain procedures or equipment. - Decreases in the number of cases of a particular type of infection may be due to the infection prevention and control modifications put into place.The Analysis shall be done as frequently as necessary, but at least monthly, using the Monthly Infection Surveillance Form data, to intervene as appropriate (e.g., interview employees, provide education, review policies, perform appropriate audits, and communicate to appropriate stakeholders and employees).- Use the analysis from the Monthly Infection Surveillance Form to complete the Monthly Infection Electronic Workbook to identify education and training needs. - Total the number of infections by category and review infection rates monthly. - Compare the current month’s statistics to the previous two (2) months’ statistics as well as the same month of the previous year. If there is a significant difference in infection rates, develop an action plan to address the findings.",
+      "char_count": 1089,
+      "token_estimate": 272,
+      "section_title": "INDEX: IPC4-P10.02- Review 24-Hour Symptom Surveillance Form at the beginning of each shift and observe for any sign of pattern of symptoms suggesting an infection or potential outbreak and ensuring data completion for accuracy.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc4-p1002-infectionsurveillance-manualdocumentation_eff4c796b97e_chunk_008_db53354f",
+      "doc_id": "ipc4-p1002-infectionsurveillance-manualdocumentation_eff4c796b97e",
+      "chunk_index": 8,
+      "text": "- Compare the current month’s statistics to the previous two (2) months’ statistics as well as the same month of the previous year. If there is a significant difference in infection rates, develop an action plan to address the findings. Actions in the plan must include a process for investigation, education, and ongoing monitoring of infection rates. - Present monthly infection statistics with any required action plan(s) to the Infection Prevention and Control (IPAC) Committee and/or the Medical/Professional Advisory Committee. - Upload the completed Monthly Infection Electronic Workbook quarterly to the OneDrive folder.The Homes senior management (Executive Director/Administrator, Director Of Care, Director of Health and Wellness) in collaboration with the Infection Control Professional/designate will ensure infection control rates and reports are communicated to the employees.- Targeted surveillance may be implemented in addition to total surveillance. It may include:\n- Specific types of infections, such as urinary tract or those caused by a particular organism.----**Helping people live better**This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1183,
+      "token_estimate": 295,
+      "section_title": "INDEX: IPC4-P10.02- Review 24-Hour Symptom Surveillance Form at the beginning of each shift and observe for any sign of pattern of symptoms suggesting an infection or potential outbreak and ensuring data completion for accuracy.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc4-p1002-infectionsurveillance-manualdocumentation_eff4c796b97e_chunk_009_d5c482de",
+      "doc_id": "ipc4-p1002-infectionsurveillance-manualdocumentation_eff4c796b97e",
+      "chunk_index": 9,
+      "text": "It may include:\n- Specific types of infections, such as urinary tract or those caused by a particular organism.----**Helping people live better**This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n```# PROCEDURE## SECTION: Infection",
+      "char_count": 503,
+      "token_estimate": 125,
+      "section_title": "INDEX: IPC4-P10.02- Review 24-Hour Symptom Surveillance Form at the beginning of each shift and observe for any sign of pattern of symptoms suggesting an infection or potential outbreak and ensuring data completion for accuracy.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc4-p1002-infectionsurveillance-manualdocumentation_eff4c796b97e_chunk_010_1169acdf",
+      "doc_id": "ipc4-p1002-infectionsurveillance-manualdocumentation_eff4c796b97e",
+      "chunk_index": 10,
+      "text": "### DESCRIPTION: Infection Surveillance\n\n### INDEX: IPC4-P10.02### Types of Infections\n- Types of infections in high-risk groups such as those individuals with predisposing factors as identified in PIDAC definitions.\n- Infections occurring in selected time frames.\n- Infections occurring in a selected geographic area of the facility for a given time frame.## EXTERNAL\n- Ontario: Best Practices for Surveillance of Health Care-associated Infections\n- Manitoba: Healthcare Associated Infections Monitoring Reporting\n- Alberta: Surveillance & Reporting## EDUCATION",
+      "char_count": 562,
+      "token_estimate": 140,
+      "section_title": "DESCRIPTION: Infection Surveillance",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc4-p1002-infectionsurveillance-manualdocumentation_eff4c796b97e_chunk_012_cd8910bd",
+      "doc_id": "ipc4-p1002-infectionsurveillance-manualdocumentation_eff4c796b97e",
+      "chunk_index": 12,
+      "text": "1. IPC4-P10-E1 - Formula for Calculation of Infection Rates## TOOLS\n\n1. IPC4-P10-T1 - Infection Rates for Devices",
+      "char_count": 113,
+      "token_estimate": 28,
+      "section_title": "IPC4-P10-E1 - Formula for Calculation of Infection Rates## TOOLS",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc4-p1002-infectionsurveillance-manualdocumentation_eff4c796b97e_chunk_014_83d631a6",
+      "doc_id": "ipc4-p1002-infectionsurveillance-manualdocumentation_eff4c796b97e",
+      "chunk_index": 14,
+      "text": "2. IPC4-P10-T2 - Daily 24-Hour Symptom Surveillance Form\n\n3. IPC4-P10-T3 - Monthly Infection Surveillance Form",
+      "char_count": 110,
+      "token_estimate": 27,
+      "section_title": "IPC4-P10-T2 - Daily 24-Hour Symptom Surveillance Form",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc4-p1002-infectionsurveillance-manualdocumentation_eff4c796b97e_chunk_016_a0386cc3",
+      "doc_id": "ipc4-p1002-infectionsurveillance-manualdocumentation_eff4c796b97e",
+      "chunk_index": 16,
+      "text": "4. IPC4-P10-T4 - Monthly Infection Electronic Workbook\n\n5. IPC4-P10-T5 - Daily IPAC Huddle----> This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 3 of 3",
+      "char_count": 434,
+      "token_estimate": 108,
+      "section_title": "IPC4-P10-T4 - Monthly Infection Electronic Workbook",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

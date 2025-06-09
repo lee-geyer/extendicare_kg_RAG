@@ -1,0 +1,90 @@
+{
+  "doc_id": "ipc4-p10-t5-dailyipachuddle_c10f29ad590c",
+  "total_chunks": 7,
+  "chunks": [
+    {
+      "chunk_id": "ipc4-p10-t5-dailyipachuddle_c10f29ad590c_chunk_000_92b5da4b",
+      "doc_id": "ipc4-p10-t5-dailyipachuddle_c10f29ad590c",
+      "chunk_index": 0,
+      "text": "# Extendicare Daily IPAC Huddle| Home: | Area: | Date: _____________ |\n|-------|-------|---------------------|\n| Topics To Be Covered | Signature | Additional Comments |\n|----------------------|-----------|---------------------|## Nights\n\n1. Update on outbreak (if required).",
+      "char_count": 275,
+      "token_estimate": 68,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc4-p10-t5-dailyipachuddle_c10f29ad590c_chunk_002_4a445405",
+      "doc_id": "ipc4-p10-t5-dailyipachuddle_c10f29ad590c",
+      "chunk_index": 2,
+      "text": "2. Line listed residents.\n\n3. Residents/Rooms in isolation.\nNurse: ______________\n- Hand Hygiene audits to be completed.",
+      "char_count": 120,
+      "token_estimate": 30,
+      "section_title": "Line listed residents.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc4-p10-t5-dailyipachuddle_c10f29ad590c_chunk_004_176beaff",
+      "doc_id": "ipc4-p10-t5-dailyipachuddle_c10f29ad590c",
+      "chunk_index": 4,
+      "text": "4. PPE Donning/Doffing audits to be completed.\n\n5. Cohorting expectations.",
+      "char_count": 74,
+      "token_estimate": 18,
+      "section_title": "PPE Donning/Doffing audits to be completed.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc4-p10-t5-dailyipachuddle_c10f29ad590c_chunk_006_b8398c38",
+      "doc_id": "ipc4-p10-t5-dailyipachuddle_c10f29ad590c",
+      "chunk_index": 6,
+      "text": "6. Update on any new IPAC changes.\nPSW’s to report ANY new symptoms to registered staff.\n\n7. Registered staff to monitor their residents at medication pass times.\nNurse: ______________\n- High touch cleaning – everyone is responsible.",
+      "char_count": 233,
+      "token_estimate": 58,
+      "section_title": "Update on any new IPAC changes.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc4-p10-t5-dailyipachuddle_c10f29ad590c_chunk_008_c25cccd7",
+      "doc_id": "ipc4-p10-t5-dailyipachuddle_c10f29ad590c",
+      "chunk_index": 8,
+      "text": "8. Ensure PPE carts/caddies are stocked – identify staff responsible.\n\n9. Laundry delivery – no entrance into the isolation rooms.\n- Teamwork",
+      "char_count": 141,
+      "token_estimate": 35,
+      "section_title": "Ensure PPE carts/caddies are stocked – identify staff responsible.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc4-p10-t5-dailyipachuddle_c10f29ad590c_chunk_010_ccae9281",
+      "doc_id": "ipc4-p10-t5-dailyipachuddle_c10f29ad590c",
+      "chunk_index": 10,
+      "text": "10. Showers/baths - donning and doffing, blue isolation gowns for tub rooms, last ones in the tub rooms.\n\n11. Meal service trays.",
+      "char_count": 129,
+      "token_estimate": 32,
+      "section_title": "Showers/baths - donning and doffing, blue isolation gowns for tub rooms, last ones in the tub rooms.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc4-p10-t5-dailyipachuddle_c10f29ad590c_chunk_012_710bbec7",
+      "doc_id": "ipc4-p10-t5-dailyipachuddle_c10f29ad590c",
+      "chunk_index": 12,
+      "text": "12. Surge Learning.----> Helping people live a better life.----**Note:** This document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\nConfidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n\n# Daily IPAC HuddleReviewed Daily by IPAC lead/designate\nSignature of IPAC lead/designate (ED/DOC/ADOC)\nSignature: ___________________\nDate: ______________________----> **Note:** This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\n> Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 1",
+      "char_count": 916,
+      "token_estimate": 229,
+      "section_title": "Surge Learning.----> Helping people live a better life.----**Note:** This document is uncontrolled when printed.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

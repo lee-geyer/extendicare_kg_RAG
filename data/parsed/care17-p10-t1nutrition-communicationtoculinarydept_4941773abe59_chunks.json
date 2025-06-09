@@ -1,0 +1,162 @@
+{
+  "doc_id": "care17-p10-t1nutrition-communicationtoculinarydept_4941773abe59",
+  "total_chunks": 13,
+  "chunks": [
+    {
+      "chunk_id": "care17-p10-t1nutrition-communicationtoculinarydept_4941773abe59_chunk_000_2e256b77",
+      "doc_id": "care17-p10-t1nutrition-communicationtoculinarydept_4941773abe59",
+      "chunk_index": 0,
+      "text": "# Nutrition - Communication to Culinary Department| Resident: | Effective Date: | Location: |\n|-----------|-----------------|-----------|\n| Initial Admission: | Admission: | Date of Birth: |\n| Physician: | | |## A. New/Change in Diet Type\n\n1. Regular",
+      "char_count": 250,
+      "token_estimate": 62,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p10-t1nutrition-communicationtoculinarydept_4941773abe59_chunk_002_978e64d3",
+      "doc_id": "care17-p10-t1nutrition-communicationtoculinarydept_4941773abe59",
+      "chunk_index": 2,
+      "text": "2. Vegetarian\n\n3. Low Potassium",
+      "char_count": 31,
+      "token_estimate": 7,
+      "section_title": "Vegetarian",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p10-t1nutrition-communicationtoculinarydept_4941773abe59_chunk_004_63723fdf",
+      "doc_id": "care17-p10-t1nutrition-communicationtoculinarydept_4941773abe59",
+      "chunk_index": 4,
+      "text": "4. Gluten Restricted\n\n5. Other:## B. New/Change in Diet Texture",
+      "char_count": 63,
+      "token_estimate": 15,
+      "section_title": "Gluten Restricted",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p10-t1nutrition-communicationtoculinarydept_4941773abe59_chunk_006_360c3e28",
+      "doc_id": "care17-p10-t1nutrition-communicationtoculinarydept_4941773abe59",
+      "chunk_index": 6,
+      "text": "1. Regular\n\n2. Minced Meat",
+      "char_count": 26,
+      "token_estimate": 6,
+      "section_title": "Regular",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p10-t1nutrition-communicationtoculinarydept_4941773abe59_chunk_008_033750fb",
+      "doc_id": "care17-p10-t1nutrition-communicationtoculinarydept_4941773abe59",
+      "chunk_index": 8,
+      "text": "3. Minced\n\n4. Pureed",
+      "char_count": 20,
+      "token_estimate": 5,
+      "section_title": "Minced",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p10-t1nutrition-communicationtoculinarydept_4941773abe59_chunk_010_44668935",
+      "doc_id": "care17-p10-t1nutrition-communicationtoculinarydept_4941773abe59",
+      "chunk_index": 10,
+      "text": "5. Other:## C. New/Change in Fluid Order\n\n1. Thin Level 0 (TN0)/Regular",
+      "char_count": 71,
+      "token_estimate": 17,
+      "section_title": "Other:## C. New/Change in Fluid Order",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p10-t1nutrition-communicationtoculinarydept_4941773abe59_chunk_012_86a2bda5",
+      "doc_id": "care17-p10-t1nutrition-communicationtoculinarydept_4941773abe59",
+      "chunk_index": 12,
+      "text": "2. Mildly Thick Level 2 (MT2)/Nectar-Like\n\n3. Moderately Thick Level 3 (MO3)/Honey-Like",
+      "char_count": 87,
+      "token_estimate": 21,
+      "section_title": "Mildly Thick Level 2 (MT2)/Nectar-Like",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p10-t1nutrition-communicationtoculinarydept_4941773abe59_chunk_014_f7042fd9",
+      "doc_id": "care17-p10-t1nutrition-communicationtoculinarydept_4941773abe59",
+      "chunk_index": 14,
+      "text": "4. Extremely Thick Level 4 (EX4)/Pudding-Like## D. New/Change in Supplement Order\n\n1. Supplement Name",
+      "char_count": 101,
+      "token_estimate": 25,
+      "section_title": "Extremely Thick Level 4 (EX4)/Pudding-Like## D. New/Change in Supplement Order",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p10-t1nutrition-communicationtoculinarydept_4941773abe59_chunk_016_9e3236ae",
+      "doc_id": "care17-p10-t1nutrition-communicationtoculinarydept_4941773abe59",
+      "chunk_index": 16,
+      "text": "2. Amount\n\n3. Frequency## E. New/Change in Dining Room/Table",
+      "char_count": 60,
+      "token_estimate": 15,
+      "section_title": "Amount",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p10-t1nutrition-communicationtoculinarydept_4941773abe59_chunk_018_41a77a70",
+      "doc_id": "care17-p10-t1nutrition-communicationtoculinarydept_4941773abe59",
+      "chunk_index": 18,
+      "text": "1. New dining area\n\n2. New table / seat## F. Other",
+      "char_count": 50,
+      "token_estimate": 12,
+      "section_title": "New dining area",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p10-t1nutrition-communicationtoculinarydept_4941773abe59_chunk_020_5808c415",
+      "doc_id": "care17-p10-t1nutrition-communicationtoculinarydept_4941773abe59",
+      "chunk_index": 20,
+      "text": "1. Other: (preferences, snacks, adaptive aids)## G. Staff\n\n1. Name of staff initiating the referral (required):",
+      "char_count": 111,
+      "token_estimate": 27,
+      "section_title": "Other: (preferences, snacks, adaptive aids)## G. Staff",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p10-t1nutrition-communicationtoculinarydept_4941773abe59_chunk_022_6e8492a7",
+      "doc_id": "care17-p10-t1nutrition-communicationtoculinarydept_4941773abe59",
+      "chunk_index": 22,
+      "text": "2. Additional comments/observations from staff initiating the referral:\n\n3. Summary of Dietary Department Follow Up (required)",
+      "char_count": 126,
+      "token_estimate": 31,
+      "section_title": "Additional comments/observations from staff initiating the referral:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p10-t1nutrition-communicationtoculinarydept_4941773abe59_chunk_024_e22a2a60",
+      "doc_id": "care17-p10-t1nutrition-communicationtoculinarydept_4941773abe59",
+      "chunk_index": 24,
+      "text": "4. Name of staff addressing the referral----**Page 1 of 2**# Nutrition - Communication to Culinary Department## Resident:\n- Signature: __________________________\n- Date: _______________________________----**Page 2 of 2**",
+      "char_count": 220,
+      "token_estimate": 55,
+      "section_title": "Name of staff addressing the referral----**Page 1 of 2**# Nutrition - Communication to Culinary Department## Resident:",
+      "chunk_type": "content",
+      "start_line": 27,
+      "end_line": 29
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "doc_id": "care11-p10-t2restraintutilizationandshiftresponsetool_7a8cc701105c",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "care11-p10-t2restraintutilizationandshiftresponsetool_7a8cc701105c_chunk_000_acdbf9cf",
+      "doc_id": "care11-p10-t2restraintutilizationandshiftresponsetool_7a8cc701105c",
+      "chunk_index": 0,
+      "text": "# Restraint Utilization and SHIFT Response Tool| Resident: | Effective Date: | Location: |\n|-----------|------------------|-----------|\n| Initial Admission: | Admission: | Date of Birth: |\n| Score: NA | Category: NA | Physician: |## A. Safe Use Determination1. **Type of Device in Use:**\n- a. Physical / Mechanical restraint\n- b. Chemical restraint2. **Select Type of Physical / Mechanical Device: (S)**\n- a. Seatbelt (front facing)\n- b. Tabletop tray on wheelchair\n- c. Chair that prevents rising (e.g. tilted wheelchair)\n- d. Wheelchair Footrests\n- e. Bed rails3. **Drug Classification:**\n- a. Antipsychotic\n- b. Sedative\n- c. Anxiolytic\n- d. Hypnotic\n- e. Antidepressant4. **DRUG NAME/DOSE:**5. **Observe Resident response:**\n- a. Calm and comfortable\n- b. Agitated or distressed\n- c. Physically uncomfortable or in pain\n- d. Dizziness\n- e. Disorientation/ increased confusion\n- f. Sedated or altered level of consciousness\n- g. Increased dependence in ADLs\n- h. Decrease in level of continence\n- i. Decreased appetite\n- j. No change since last evaluation\n- k. Other6. **Sedation Scale**\n- S. Sleeping, easy to arouse\n- 1. Awake and Alert\n- 2. Slightly drowsy, easy to arouse\n- 3.",
+      "char_count": 1183,
+      "token_estimate": 295,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care11-p10-t2restraintutilizationandshiftresponsetool_7a8cc701105c_chunk_001_157fdf37",
+      "doc_id": "care11-p10-t2restraintutilizationandshiftresponsetool_7a8cc701105c",
+      "chunk_index": 1,
+      "text": "Awake and Alert\n- 2. Slightly drowsy, easy to arouse\n- 3. Change in functional level, confusion\n- 4. Frequently drowsy, difficult to arouse, drifts off to sleep during conversation\n- 5. Somnolent, minimal or no response to physical stimulation7. **Describe any additional Resident response and actions taken as a result of Resident's negative or ineffective response to restraint:**\n- Observe application of device and review restraint utilization task documentation8. **Resident Response and Safe Use:**\n- a. Restraint is applied as per manufacturer requirements\n- b. Restraint is utilized as per plan of care\n- c. Restraint monitoring completed----**Page 1 of 2**# Restraint Utilization and SHIFT Response Tool## Resident Information\n- **Resident:**## Restraint Monitoring",
+      "char_count": 774,
+      "token_estimate": 193,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care11-p10-t2restraintutilizationandshiftresponsetool_7a8cc701105c_chunk_002_d3d7fc4b",
+      "doc_id": "care11-p10-t2restraintutilizationandshiftresponsetool_7a8cc701105c",
+      "chunk_index": 2,
+      "text": "1. Resident repositioned as required\n\n2. Restraint released as required## Concerns Raised",
+      "char_count": 89,
+      "token_estimate": 22,
+      "section_title": "Resident repositioned as required",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care11-p10-t2restraintutilizationandshiftresponsetool_7a8cc701105c_chunk_004_599f3fe3",
+      "doc_id": "care11-p10-t2restraintutilizationandshiftresponsetool_7a8cc701105c",
+      "chunk_index": 4,
+      "text": "3. Any concerns raised or discussed with the Resident or SDM related to restraint use this shift?\n- a. YES\n- b. No### 3b. Provide details:## Overall Recommendations\n\n4. Overall Recommendations:\n- a. No concerns; restraint to continue as currently applied\n- b. Alternative interventions to be trialed\n- c. Restraint discontinuation should be considered due to adverse effects## Action Required\n- 4b. Restraint and PASD - Assessment & Evaluation schedule triggered. To complete, open under 'next assessment due' section of the assessment tab of the resident's health record.----**Signature**: ______________________\n**Date**: ______________________----**Page 2 of 2**",
+      "char_count": 665,
+      "token_estimate": 166,
+      "section_title": "Any concerns raised or discussed with the Resident or SDM related to restraint use this shift?",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

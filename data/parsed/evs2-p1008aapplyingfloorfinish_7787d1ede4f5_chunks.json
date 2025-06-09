@@ -1,0 +1,78 @@
+{
+  "doc_id": "evs2-p1008aapplyingfloorfinish_7787d1ede4f5",
+  "total_chunks": 6,
+  "chunks": [
+    {
+      "chunk_id": "evs2-p1008aapplyingfloorfinish_7787d1ede4f5_chunk_000_62042c54",
+      "doc_id": "evs2-p1008aapplyingfloorfinish_7787d1ede4f5",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE- **MANUAL:** Environmental Services\n- **INDEX:** EVS2-P10.08A\n- **SECTION:** Cleaning and Organization - Housekeeping\n- **EFFECTIVE DATE:** March 18, 2025\n- **REVIEWED DATE:** March 7, 2025\n- **APPROVED BY:** Senior Director, Operational Quality and Professional Practice\n- **MODIFIED DATE:** May 14, 2025----## POLICY### Cleaning and Organization## PROCEDURE### Frequency:- Apply in two to three coats to new floors after sealing or after stripping off all old floor finish.\n- Apply in one to two coats when completing a light scrub and resurfacing.\n- Follow schedule as per manager/designate.\n- Collect the following items:\n- Appropriate personal protective equipment (PPE) as per manufacturer instructions on products and equipment and any infection control directives.\n- CAUTION WET FLOOR signs (2 – 4) depending on area.\n- Two mop buckets and wringers – one with floor finish and one containing cold water.\n- Floor finish bucket can be lined with a garbage bag to make clean up easier.\n- Floor finish mop. Use only mop specially made for floor finish application.### Applying Floor Finish:1. Place wet floor signs at the beginning and end of the work area.",
+      "char_count": 1187,
+      "token_estimate": 296,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 14
+    },
+    {
+      "chunk_id": "evs2-p1008aapplyingfloorfinish_7787d1ede4f5_chunk_001_075053a2",
+      "doc_id": "evs2-p1008aapplyingfloorfinish_7787d1ede4f5",
+      "chunk_index": 1,
+      "text": "2. Inspect the floor to make sure that it is thoroughly dry and clean.\n\n3. Wet mop in cold water and wring until just dry.",
+      "char_count": 122,
+      "token_estimate": 30,
+      "section_title": "Inspect the floor to make sure that it is thoroughly dry and clean.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1008aapplyingfloorfinish_7787d1ede4f5_chunk_003_80e4a90f",
+      "doc_id": "evs2-p1008aapplyingfloorfinish_7787d1ede4f5",
+      "chunk_index": 3,
+      "text": "4. Immerse mop in finish, wring mop to eliminate dripping.\n\n5. Apply a thin coat one inch away from and parallel to the baseboards. Avoid splashing. Cover the remaining floor using the figure eight stroke. Add floor finish to the mop as needed.",
+      "char_count": 244,
+      "token_estimate": 61,
+      "section_title": "Immerse mop in finish, wring mop to eliminate dripping.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1008aapplyingfloorfinish_7787d1ede4f5_chunk_005_f1a7d49e",
+      "doc_id": "evs2-p1008aapplyingfloorfinish_7787d1ede4f5",
+      "chunk_index": 5,
+      "text": "6. Allow the first coat to dry.\n\n7. Apply the second coat, this time keeping three inches away from the baseboard.",
+      "char_count": 114,
+      "token_estimate": 28,
+      "section_title": "Allow the first coat to dry.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1008aapplyingfloorfinish_7787d1ede4f5_chunk_007_a6459856",
+      "doc_id": "evs2-p1008aapplyingfloorfinish_7787d1ede4f5",
+      "chunk_index": 7,
+      "text": "8. Allow the second coat to dry. Let dry as long as possible before allowing traffic in the area.\n\n9. Buff the floor with cold water using a white or red pad 48 hours after application.",
+      "char_count": 185,
+      "token_estimate": 46,
+      "section_title": "Allow the second coat to dry. Let dry as long as possible before allowing traffic in the area.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1008aapplyingfloorfinish_7787d1ede4f5_chunk_009_321efd2b",
+      "doc_id": "evs2-p1008aapplyingfloorfinish_7787d1ede4f5",
+      "chunk_index": 9,
+      "text": "10. When the job is completed, clean and put away equipment. Do not pour unused floor finish back in the container. Unused floor finish is to be discarded. To clean spills, spot wipe only for the first 48 hours.----### Helping people live betterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 1**",
+      "char_count": 586,
+      "token_estimate": 146,
+      "section_title": "When the job is completed, clean and put away equipment. Do not pour unused floor finish back in the container. Unused floor finish is to be discarded. To clean spills, spot wipe only for the first 48 hours.----### Helping people live betterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 1**",
+      "chunk_type": "content",
+      "start_line": 23,
+      "end_line": 23
+    }
+  ]
+}

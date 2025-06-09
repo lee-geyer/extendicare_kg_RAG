@@ -1,0 +1,18 @@
+{
+  "doc_id": "ipc-addl-020symptoms_french_2025_37fa6fe10765",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "ipc-addl-020symptoms_french_2025_37fa6fe10765_chunk_000_de34861f",
+      "doc_id": "ipc-addl-020symptoms_french_2025_37fa6fe10765",
+      "chunk_index": 0,
+      "text": "# ARRÊT## Présentez-vous des symptômes suivants?| Symptômes                                   |\n|---------------------------------------------|\n| Fièvre ou frissons                          |\n| Toux ou toux persistante (toux ressemblant à un aboiement) |\n| Nez qui coule ou nez bouché ou congestionné |\n| Maux de tête                                |\n| Fatigue                                     |\n| Mal de gorge                                |\n| Essoufflement                               |\n| Diminution ou perte de l’odorat ou du goût |\n| Douleurs musculaires ou douleurs articulaires|\n| Nausée, vomissements ou diarrhée           |Si vous présentez l’un des symptômes ci-dessus, si vous êtes malade ou ne vous sentez pas bien, veuillez ne pas nous rendre visite aujourd’hui.Pour la santé et la sécurité des résidents, du personnel, des familles et des visiteurs, restez à la maison si vous êtes malade ou présentez des symptômes.Les membres de la famille et les visiteurs qui tombent malades pendant une visite doivent rapidement s’isoler des autres et rentrer chez eux.Lavez-vous les mains dès votre arrivée et fréquemment durant votre visite.Respectez les règles d’hygiène respiratoire.",
+      "char_count": 1194,
+      "token_estimate": 298,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 11
+    }
+  ]
+}

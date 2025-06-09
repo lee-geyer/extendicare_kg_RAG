@@ -1,0 +1,78 @@
+{
+  "doc_id": "evs2-p1008ffloorspraybuffing_abc3d0d82c09",
+  "total_chunks": 6,
+  "chunks": [
+    {
+      "chunk_id": "evs2-p1008ffloorspraybuffing_abc3d0d82c09_chunk_000_c4faf2dc",
+      "doc_id": "evs2-p1008ffloorspraybuffing_abc3d0d82c09",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Environmental Services\n**INDEX:** EVS2-P10.08F\n**SECTION:** Cleaning and Organization - Housekeeping\n**EFFECTIVE DATE:** March 18, 2025\n**REVIEWED DATE:** March 7, 2025\n**APPROVED BY:** Senior Director, Operational Quality and Professional Practice\n**MODIFIED DATE:** May 14, 2025----## POLICY### Cleaning and Organization## PROCEDURE- Understand that spray buffing extends the length of time between stripping and scrubbing floors. It restores shine, removes surface soil, removes marks, patches, and repairs scratches.### Frequency- Buffing will depend on the amount of traffic in any given area. In humid conditions, spray buffing might be required more often. - Guidelines of once a week for low traffic and 2-3 times for high traffic are recommended. - Resident rooms can be on a monthly schedule for traffic lanes, if suitable.",
+      "char_count": 870,
+      "token_estimate": 217,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1008ffloorspraybuffing_abc3d0d82c09_chunk_001_eb818ab7",
+      "doc_id": "evs2-p1008ffloorspraybuffing_abc3d0d82c09",
+      "chunk_index": 1,
+      "text": "- Guidelines of once a week for low traffic and 2-3 times for high traffic are recommended. - Resident rooms can be on a monthly schedule for traffic lanes, if suitable. Obtain direction from manager/designate.### Collect the following items:- CAUTION WET FLOOR signs (2-4) depending on area\n- Floor machine\n- Cold water in sprayer bottle or spray buff solution\n- Scraper/scrub pad\n- Buffing floor machine pads (white or red)\n- Dust mop\n- Cleaning solution or auto scrapper\n- Garbage bag\n- Cleaning cloths\n- Rubber soled shoes### Floor Spray Buffing:1. Remove furniture and equipment if required from area being buffed.",
+      "char_count": 619,
+      "token_estimate": 154,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1008ffloorspraybuffing_abc3d0d82c09_chunk_002_d5a30b2c",
+      "doc_id": "evs2-p1008ffloorspraybuffing_abc3d0d82c09",
+      "chunk_index": 2,
+      "text": "2. Place CAUTION WET FLOOR signs at beginning and end of work area.\n\n3. Dust mop and damp mop/auto scrub floor area being buffed. Let floor dry.",
+      "char_count": 144,
+      "token_estimate": 36,
+      "section_title": "Place CAUTION WET FLOOR signs at beginning and end of work area.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1008ffloorspraybuffing_abc3d0d82c09_chunk_004_7c047861",
+      "doc_id": "evs2-p1008ffloorspraybuffing_abc3d0d82c09",
+      "chunk_index": 4,
+      "text": "4. Using cold water or spray buff solution, lightly spray on the floor and buff while still moist.\n\n5. Use side to side and overlapping motion with machine and advance forward.----**Helping people live better**\nThis document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025",
+      "char_count": 533,
+      "token_estimate": 133,
+      "section_title": "Using cold water or spray buff solution, lightly spray on the floor and buff while still moist.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1008ffloorspraybuffing_abc3d0d82c09_chunk_006_06c0bf74",
+      "doc_id": "evs2-p1008ffloorspraybuffing_abc3d0d82c09",
+      "chunk_index": 6,
+      "text": "# PROCEDURE## SECTION: Cleaning and Organization - Housekeeping\n\n### DESCRIPTION: Floor Maintenance - Spray Buffing",
+      "char_count": 115,
+      "token_estimate": 28,
+      "section_title": "PROCEDURE## SECTION: Cleaning and Organization - Housekeeping",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1008ffloorspraybuffing_abc3d0d82c09_chunk_008_601b0975",
+      "doc_id": "evs2-p1008ffloorspraybuffing_abc3d0d82c09",
+      "chunk_index": 8,
+      "text": "### INDEX: EVS2-P10.08F- Turn pad as build-up of soil and floor finish occurs. Change pad if required.\n- Use scraper and scrub pad as needed.\n- After the job is completed, clean and put away all equipment, replace furniture.## TOOLS\n\n1. Floor Care Tips----Helping people live betterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----Page 2 of 2",
+      "char_count": 619,
+      "token_estimate": 154,
+      "section_title": "INDEX: EVS2-P10.08F- Turn pad as build-up of soil and floor finish occurs. Change pad if required.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "doc_id": "care19-p2001-t1-incidentsthatmayconstituteacriminaloffencevf_c8e33c6d99c4",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "care19-p2001-t1-incidentsthatmayconstituteacriminaloffencevf_c8e33c6d99c4_chunk_000_6f06935a",
+      "doc_id": "care19-p2001-t1-incidentsthatmayconstituteacriminaloffencevf_c8e33c6d99c4",
+      "chunk_index": 0,
+      "text": "# Extendicare## Incidents That may Constitute a Criminal OffenceEvery home shall ensure that Police are immediately notified of any alleged, suspected or witnessed incident of abuse or neglect that the home suspects may constitute a criminal offence. Below is a list of criminal code offences that may apply.| **Financial Abuse** | **Physical Abuse** | **Sexual Abuse** | **Emotional Abuse** | **Verbal Abuse** | **Neglect** |\n|---------------------|--------------------|-------------------|---------------------|------------------|--------------|\n| Theft (Sec. 322 C.C.) | Assault (Sec. 265 C.C.) | Sexual Assault (Sec. 271 C.C.) | Intimidation (Sec. 423 C.C.) | Intimidation (Sec. 423 C.C.) | Criminal negligence causing bodily harm or death (Sec. 220-221 C.C.) |\n| Theft by holding Power of Attorney (Sec. 331 C.C.) | Assault with a Weapon or causing bodily harm (Sec. 267 C.C.) | Sexual Assault with a weapon, threats to a third party or causing bodily harm (Sec. 272 C.C.) | Uttering Threats (Sec. 264.1 C.C.) | Uttering Threats (Sec. 264.1 C.C.) | Breach of Duty to Provide necessities (Sec. 215 C.C.) |\n| Stopping Mail with Intent (Sec. 345 C.C.) | Forcible Confinement (Sec.",
+      "char_count": 1182,
+      "token_estimate": 295,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care19-p2001-t1-incidentsthatmayconstituteacriminaloffencevf_c8e33c6d99c4_chunk_001_0ea668e9",
+      "doc_id": "care19-p2001-t1-incidentsthatmayconstituteacriminaloffencevf_c8e33c6d99c4",
+      "chunk_index": 1,
+      "text": "215 C.C.) |\n| Stopping Mail with Intent (Sec. 345 C.C.) | Forcible Confinement (Sec. 279 C.C.) | Aggravated Sexual Assault (Sec. 273 C.C.) | Harassing Telephone Calls (Sec. 372.3 C.C.) | Harassing Telephone Calls (Sec. 372.3 C.C.) | |\n| Extortion (Sec. 346 C.C.) | Murder (Sec. 229 C.C.) | | | | |\n| Forgery (Sec. 365 C.C.) | Manslaughter (Sec. 234 C.C.) | | | | |\n| Fraud (Sec. 380 C.C.) | | | | | |**NOTE:** This chart is intended as a guide. Refer to federal legislation for complete requirements.----Helping people live betterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 1**",
+      "char_count": 871,
+      "token_estimate": 217,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

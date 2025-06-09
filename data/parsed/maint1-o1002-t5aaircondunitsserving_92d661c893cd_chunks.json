@@ -1,0 +1,41 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t5aaircondunitsserving_92d661c893cd_chunk_000_2e0ec4d1",
+      "doc_id": "maint1-o1002-t5aaircondunitsserving_92d661c893cd",
+      "chunk_index": 0,
+      "text": "# Extendicare Maintenance Inspection Checklist## LEGEND/KEY| Equipment                                   | Air Conditioner Condenser Units |\n|---------------------------------------------|---------------------------------|\n| **Name:**                                   | Serving DX-Coils                |\n| **Year:**                                   | Unit No.:                       |\n| **Manufacturer:**                           | All                             |\n| **Model:**                                  | All (DX coil, ductless systems) |### Inspection Frequency Key\n- **W** – Weekly\n- **M** – Monthly\n- **Q** – Quarterly\n- **S** – Semi-Annual\n- **A** – Annual### Item Checks| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   |   |   | 1. Check for damage or corrosion, presence of guards on fans etc. |\n| X |   |   |   |   | 2. Check for noise or vibration. |\n| X |   |   |   |   | 3. Check cleanliness of coil, proper air flow. |\n| X |   |   |   |   | 4. Check temperature drop across suction line filter. |\n| X |   |   |   |   | 5.",
+      "char_count": 1193,
+      "token_estimate": 298,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t5aaircondunitsserving_92d661c893cd_chunk_001_2070ee8d",
+      "doc_id": "maint1-o1002-t5aaircondunitsserving_92d661c893cd",
+      "chunk_index": 1,
+      "text": "Check temperature drop across suction line filter. |\n| X |   |   |   |   | 5. Check sight glass on liquid line. |\n| X |   |   |   |   | 6. Check the condition of piping (insulation, supports etc.). |\n|   | X |   |   |   | 7. Carry out the annual inspection (see “Semi-Annual Ventilation Inspection SPECIFICATIONS” for annual requirements). |### Monthly Schedule| Month | M | Q | S | A |\n|-------|---|---|---|---|\n| JAN   | W | W | W | W |\n| FEB   | W | W | W | W |\n| MAR   | W | W | W | W |\n| APR   | W | W | W | W |\n| MAY   | W | W | W | W |\n| JUN   | W | W | W | W |\n| JUL   | W | W | W | W |\n| AUG   | W | W | W | W |\n| SEP   | W | W | W | W |\n| OCT   | W | W | W | W |\n| NOV   | W | W | W | W |\n| DEC   | W | W | W | W |----**Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 1054,
+      "token_estimate": 263,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t5aaircondunitsserving_92d661c893cd_chunk_002_728c1f5f",
+      "doc_id": "maint1-o1002-t5aaircondunitsserving_92d661c893cd",
+      "chunk_index": 2,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 2 of 2**",
+      "char_count": 796,
+      "token_estimate": 199,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 3
+}

@@ -1,0 +1,78 @@
+{
+  "doc_id": "epm2-p1011codegrey-carbonmonoxide_4d220f8612a3",
+  "total_chunks": 6,
+  "chunks": [
+    {
+      "chunk_id": "epm2-p1011codegrey-carbonmonoxide_4d220f8612a3_chunk_000_2dc46ef3",
+      "doc_id": "epm2-p1011codegrey-carbonmonoxide_4d220f8612a3",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE\n**MANUAL:** Emergency Planning and Management\n**INDEX:** EPM2-P10.11\n**SECTION:** Emergency Response Codes\n**EFFECTIVE DATE:** January 13, 2025\n**REVIEWED DATE:** January 6, 2025\n**APPROVED BY:** Senior Director, Corporate Quality and Risk\n**MODIFIED DATE:** May 30, 2025----## POLICY\n\n### Emergency Response Codes## PROCEDURE### Prevent/Prepare\nThe Executive Director/Designate will:\n- Ensure preventive maintenance and inspections are conducted on all fuel-burning devices and equipment in the home such as furnaces, water heaters, kitchen equipment, etc. as per Preventive Maintenance program and manufacturer’s requirements. - Never use any generator inside the home. - Generators are run outdoors, at least 6 metres (20 feet) from any window, door, or vent. - Ensure carbon-monoxide detectors/alarms are installed in any room with a fuel burning appliance such as the kitchen, laundry, HVAC equipment rooms, etc. as well as at each nursing station. - If using battery-operated or battery backed-up detectors, replace the batteries every 6 months (typically when clocks change each spring and fall).",
+      "char_count": 1129,
+      "token_estimate": 282,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1011codegrey-carbonmonoxide_4d220f8612a3_chunk_002_13a2fdc0",
+      "doc_id": "epm2-p1011codegrey-carbonmonoxide_4d220f8612a3",
+      "chunk_index": 2,
+      "text": "as well as at each nursing station. - If using battery-operated or battery backed-up detectors, replace the batteries every 6 months (typically when clocks change each spring and fall). - Ensure the home’s Emergency Response Plan includes instructions on how to turn off the main gas supply and location of the main gas valve/switch, as well as instructions for shutting off other fuel/gas run equipment.All Staff will:\n- Report all damaged or suspicious equipment (including suspicious odours) immediately to maintenance staff.### Respond\n- Announce Code Grey, carbon monoxide when carbon monoxide is detected in the home. - Leave the affected area upon hearing a carbon monoxide detector alarm and/or upon an announcement of a Code Grey – Carbon Monoxide alert that identifies the area you are in. - Follow the procedures for carbon monoxide as per the designated Job Action checklists and follow direction from the Incident Manager.----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.",
+      "char_count": 1184,
+      "token_estimate": 296,
+      "section_title": "Emergency Response Codes## PROCEDURE### Prevent/Prepare",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1011codegrey-carbonmonoxide_4d220f8612a3_chunk_003_acab2f1d",
+      "doc_id": "epm2-p1011codegrey-carbonmonoxide_4d220f8612a3",
+      "chunk_index": 3,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n```markdown\n\n# PROCEDURE## SECTION: Emergency",
+      "char_count": 324,
+      "token_estimate": 81,
+      "section_title": "Emergency Response Codes## PROCEDURE### Prevent/Prepare",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1011codegrey-carbonmonoxide_4d220f8612a3_chunk_005_6424dfed",
+      "doc_id": "epm2-p1011codegrey-carbonmonoxide_4d220f8612a3",
+      "chunk_index": 5,
+      "text": "### DESCRIPTION: Code Grey - Carbon Monoxide\n\n### INDEX: EPM2-P10.11## TOOLS",
+      "char_count": 76,
+      "token_estimate": 19,
+      "section_title": "DESCRIPTION: Code Grey - Carbon Monoxide",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1011codegrey-carbonmonoxide_4d220f8612a3_chunk_007_c80cfc3a",
+      "doc_id": "epm2-p1011codegrey-carbonmonoxide_4d220f8612a3",
+      "chunk_index": 7,
+      "text": "1. Code Grey - Carbon Monoxide Incident Manager Job Action Checklist\n\n2. Code Grey - Carbon Monoxide All Staff Job Action Checklist",
+      "char_count": 131,
+      "token_estimate": 32,
+      "section_title": "Code Grey - Carbon Monoxide Incident Manager Job Action Checklist",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1011codegrey-carbonmonoxide_4d220f8612a3_chunk_009_768887f7",
+      "doc_id": "epm2-p1011codegrey-carbonmonoxide_4d220f8612a3",
+      "chunk_index": 9,
+      "text": "3. Code Grey - Carbon Monoxide Executive Director/Designate Job Action Checklist----**Helping People**\nThis document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\nConfidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n```",
+      "char_count": 429,
+      "token_estimate": 107,
+      "section_title": "Code Grey - Carbon Monoxide Executive Director/Designate Job Action Checklist----**Helping People**",
+      "chunk_type": "content",
+      "start_line": 27,
+      "end_line": 31
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint3-o1001-t9listofbudgetitemsfuturecon_0eef1b70e2c3_chunk_000_81bf9dd6",
+      "doc_id": "maint3-o1001-t9listofbudgetitemsfuturecon_0eef1b70e2c3",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## LIST OF BUDGET ITEMS FOR FUTURE CONSIDERATIONUse this form for your own reference to develop maintenance budget projections for the next fiscal year.| DATE ENTERED | ITEM NEEDED | TO REPLACE | ESTIMATED EQUIPMENT # | COST |\n|--------------|-------------|------------|-----------------------|------|\n|              |             |            |                       |      |### NOTES",
+      "char_count": 400,
+      "token_estimate": 100,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint3-o1001-t9listofbudgetitemsfuturecon_0eef1b70e2c3_chunk_002_0b12a6e9",
+      "doc_id": "maint3-o1001-t9listofbudgetitemsfuturecon_0eef1b70e2c3",
+      "chunk_index": 2,
+      "text": "1. When equipment or systems start to perform erratically or to display signs of deterioration, record it on this list.\n\n2. Keep track of non-routine expenses on the Maintenance Log or Equipment File Card to substantiate cases for budget consideration.----*Helping people live better*This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 1**",
+      "char_count": 625,
+      "token_estimate": 156,
+      "section_title": "When equipment or systems start to perform erratically or to display signs of deterioration, record it on this list.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 2
+}

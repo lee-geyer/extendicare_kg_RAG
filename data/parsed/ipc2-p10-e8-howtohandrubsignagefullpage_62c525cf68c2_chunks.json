@@ -1,0 +1,54 @@
+{
+  "doc_id": "ipc2-p10-e8-howtohandrubsignagefullpage_62c525cf68c2",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "ipc2-p10-e8-howtohandrubsignagefullpage_62c525cf68c2_chunk_000_748fee94",
+      "doc_id": "ipc2-p10-e8-howtohandrubsignagefullpage_62c525cf68c2",
+      "chunk_index": 0,
+      "text": "# How to Handrub## Handwashing Station### Steps to Handrub1. Apply 2 pumps of product to palms of dry hands.\n\n2. Rub hands together.",
+      "char_count": 132,
+      "token_estimate": 33,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-e8-howtohandrubsignagefullpage_62c525cf68c2_chunk_002_c95eb378",
+      "doc_id": "ipc2-p10-e8-howtohandrubsignagefullpage_62c525cf68c2",
+      "chunk_index": 2,
+      "text": "3. Rub in between fingers.\n\n4. Rub back of each hand with palm of the other hand.",
+      "char_count": 81,
+      "token_estimate": 20,
+      "section_title": "Rub in between fingers.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-e8-howtohandrubsignagefullpage_62c525cf68c2_chunk_004_56cb5105",
+      "doc_id": "ipc2-p10-e8-howtohandrubsignagefullpage_62c525cf68c2",
+      "chunk_index": 4,
+      "text": "5. Rub fingertips of each hand in opposite palm.\n\n6. Rub each thumb clasped in opposite palm.",
+      "char_count": 93,
+      "token_estimate": 23,
+      "section_title": "Rub fingertips of each hand in opposite palm.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-e8-howtohandrubsignagefullpage_62c525cf68c2_chunk_006_bdfe7540",
+      "doc_id": "ipc2-p10-e8-howtohandrubsignagefullpage_62c525cf68c2",
+      "chunk_index": 6,
+      "text": "7. Rub hands until product is dry.\n\n8. Once dry, your hands are safe. Do not use paper towels.\n```### Table Representation| Step | Action                                      |\n|------|---------------------------------------------|\n| 1    | Apply 2 pumps of product to palms of dry hands. |\n| 2    | Rub hands together.                         |\n| 3    | Rub in between fingers.                     |\n| 4    | Rub back of each hand with palm of the other hand. |\n| 5    | Rub fingertips of each hand in opposite palm. |\n| 6    | Rub each thumb clasped in opposite palm.   |\n| 7    | Rub hands until product is dry.            |\n| 8    | Once dry, your hands are safe. Do not use paper towels. |",
+      "char_count": 694,
+      "token_estimate": 173,
+      "section_title": "Rub hands until product is dry.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

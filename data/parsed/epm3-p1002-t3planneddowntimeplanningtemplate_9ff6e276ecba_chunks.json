@@ -1,0 +1,90 @@
+{
+  "doc_id": "epm3-p1002-t3planneddowntimeplanningtemplate_9ff6e276ecba",
+  "total_chunks": 7,
+  "chunks": [
+    {
+      "chunk_id": "epm3-p1002-t3planneddowntimeplanningtemplate_9ff6e276ecba_chunk_000_6fd0eeac",
+      "doc_id": "epm3-p1002-t3planneddowntimeplanningtemplate_9ff6e276ecba",
+      "chunk_index": 0,
+      "text": "# Extendicare Planned Downtime Planning and Checklist**Date:** Enter date## Planning for the Downtime1. **What service(s) is/are planned to be down?**\n\n2. **How long will it be down for?**",
+      "char_count": 188,
+      "token_estimate": 47,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm3-p1002-t3planneddowntimeplanningtemplate_9ff6e276ecba_chunk_002_c6a1b254",
+      "doc_id": "epm3-p1002-t3planneddowntimeplanningtemplate_9ff6e276ecba",
+      "chunk_index": 2,
+      "text": "3. **Who will lead the downtime and be the Incident Manager?**\n(may be more than 1 person if the downtime is planned to be over 1 shift)\n\n4. **How will this affect residents?**\n(consider your unique mix of residents, what are the risks?)",
+      "char_count": 237,
+      "token_estimate": 59,
+      "section_title": "**Who will lead the downtime and be the Incident Manager?**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm3-p1002-t3planneddowntimeplanningtemplate_9ff6e276ecba_chunk_004_c818ae00",
+      "doc_id": "epm3-p1002-t3planneddowntimeplanningtemplate_9ff6e276ecba",
+      "chunk_index": 4,
+      "text": "5. **What is your mitigation plan for the effects on the residents?**\n(supplies needed, extra staffing, medical requirements, etc.)\n\n6. **How will this affect staff?**",
+      "char_count": 167,
+      "token_estimate": 41,
+      "section_title": "**What is your mitigation plan for the effects on the residents?**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm3-p1002-t3planneddowntimeplanningtemplate_9ff6e276ecba_chunk_006_01ce69db",
+      "doc_id": "epm3-p1002-t3planneddowntimeplanningtemplate_9ff6e276ecba",
+      "chunk_index": 6,
+      "text": "7. **What is your mitigation plan for the effects on staff?**\n(extra staffing, more frequent breaks, education and reminders beforehand, etc.)\n\n8. **How will it affect operations?**\nWill this result in other downtimes? (for example, planned power outage may result in loss of cooking equipment, laundry, water supply, etc.)----**Helping people**\nIva better----> This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 4**# Planned Downtime Planning and Checklist## Mitigation Plan for Operations\n- What is your mitigation plan for the effect on operations? - If the downtime lasts longer than expected, how will your mitigation plans be affected (do you need alternative plans, do you continue with your plans, etc.)? - Are there contracted services that will be affected? Who and how? - How will this downtime affect visitors? - What is your mitigation plan for the effect on visitors?## Communication Plan\n- How will you communicate the planned downtime and mitigation plans to residents?----> **Note:** This document is uncontrolled when printed.",
+      "char_count": 1333,
+      "token_estimate": 333,
+      "section_title": "**What is your mitigation plan for the effects on staff?**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm3-p1002-t3planneddowntimeplanningtemplate_9ff6e276ecba_chunk_008_48ef6367",
+      "doc_id": "epm3-p1002-t3planneddowntimeplanningtemplate_9ff6e276ecba",
+      "chunk_index": 8,
+      "text": "- How will this downtime affect visitors? - What is your mitigation plan for the effect on visitors?## Communication Plan\n- How will you communicate the planned downtime and mitigation plans to residents?----> **Note:** This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 2 of 4# Planned Downtime Planning and Checklist## Communication Plan\n- How will you communicate the planned downtime and mitigation plans to staff? - How will you notify contracted services of the risks and their roles? - If you require corporate support or escalation, how will you communicate the planned downtime and mitigation plans to corporate or ask for assistance? - If there are external stakeholders that need to be notified, who will you notify and how will you communicate the planned downtime and mitigation plans to or ask for assistance (e.g., Fire dept, health authority, regulatory body, police services, area of refuge, etc.)?",
+      "char_count": 1198,
+      "token_estimate": 299,
+      "section_title": "**How will it affect operations?**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm3-p1002-t3planneddowntimeplanningtemplate_9ff6e276ecba_chunk_009_aec8c72c",
+      "doc_id": "epm3-p1002-t3planneddowntimeplanningtemplate_9ff6e276ecba",
+      "chunk_index": 9,
+      "text": "- If you require corporate support or escalation, how will you communicate the planned downtime and mitigation plans to corporate or ask for assistance? - If there are external stakeholders that need to be notified, who will you notify and how will you communicate the planned downtime and mitigation plans to or ask for assistance (e.g., Fire dept, health authority, regulatory body, police services, area of refuge, etc.)? - How will you communicate the planned downtime and mitigation plans to visitors? - Has your staff completed training related to the downtime and mitigation plan (e.g., Code Grey, Code Green, safe lifts and transfers, roles and responsibilities, etc.)?## Planned Downtime Checklist\n> This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 1026,
+      "token_estimate": 256,
+      "section_title": "**How will it affect operations?**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm3-p1002-t3planneddowntimeplanningtemplate_9ff6e276ecba_chunk_010_c2e9f8b0",
+      "doc_id": "epm3-p1002-t3planneddowntimeplanningtemplate_9ff6e276ecba",
+      "chunk_index": 10,
+      "text": "will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 3 of 4**# Planned Downtime Planning and Checklist## Mitigation Plans\n- Have you put mitigation plans in place to minimize the risks of the downtime?## Communication Plan\n- Have you enacted your communication plan?----> **Note:** This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 4 of 4",
+      "char_count": 832,
+      "token_estimate": 208,
+      "section_title": "**How will it affect operations?**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

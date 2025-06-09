@@ -1,0 +1,23 @@
+# CODE ORANGE
+## Emergency Response
+### External Disaster
+
+#### What does it mean?
+Code Orange is the designated phrase to alert and notify staff of the need to prepare for or respond to a disaster external to the home that is causing residents/patients from another facility to be relocated to this home, which is likely to exceed available resources, staffing levels, require additional or extraordinary assistance, or possible multi-site responses.
+
+#### What do I do?
+Once the home has been notified of additional incoming residents:
+- Use the Code Orange Incident Manager checklist to gather all pertinent information and prepare for their arrival.
+- Notify the Executive Director/Designate and Regional Director "Code Orange" (if residents are expected to arrive in less than 3 hours, announce 3 times; if they are arriving in more than 3 hours, no announcement is necessary).
+- Initiate the Incident Management System and assign roles.
+- Initiate the staff call back process if required.
+- Establish an in-home receiving area.
+- Set up a Family Information Support Centre.
+
+#### Review it before you need it:
+- Refer to your Home's Emergency Planning and Management Manual Code Orange.
+- Review the Code Orange plan and checklists that describe your area's role if an external disaster occurs and people are being evacuated into your long-term care home.
+
+----
+
+**Extendicare**

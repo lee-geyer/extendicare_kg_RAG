@@ -1,0 +1,30 @@
+{
+  "doc_id": "care1-p1001-t3informedtreatmentconsentform_c692ac83b6a5",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "care1-p1001-t3informedtreatmentconsentform_c692ac83b6a5_chunk_000_4b4e7fe4",
+      "doc_id": "care1-p1001-t3informedtreatmentconsentform_c692ac83b6a5",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Informed Treatment Consent FormThe following treatment(s) is/are proposed for ______________________ (resident name)### Proposed treatment(s):I, _____________________________________ (Resident/Substitute Decision-Maker) have discussed the above treatment(s) with the health practitioner(s) and understand and appreciate all aspects including:- The expected benefits, and\n- The risks and possible side effects, and\n- Alternative courses of action, and\n- The likely consequences of not having the treatment(s).The health practitioner(s) has satisfactorily answered questions relating to the treatment(s) and has informed me that I may make changes at any time to the treatment consent.| Signature of Resident/Power of Attorney/ Substitute Decision-Maker | Signature of Health Practitioner/Witness |\n|---------------------------------------------------------------------|-----------------------------------------|\n| ________________________________                                      | ________________________________        |\n| Date                                                                | Date                                   |----Helping people live betterThis document is uncontrolled when printed.",
+      "char_count": 1230,
+      "token_estimate": 307,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care1-p1001-t3informedtreatmentconsentform_c692ac83b6a5_chunk_002_9fb887dd",
+      "doc_id": "care1-p1001-t3informedtreatmentconsentform_c692ac83b6a5",
+      "chunk_index": 2,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 1**",
+      "char_count": 297,
+      "token_estimate": 74,
+      "section_title": "Informed Treatment Consent FormThe following treatment(s) is/are proposed for ______________________ (resident name)### Proposed treatment(s):I, _____________________________________ (Resident/Substitute Decision-Maker) have discussed the above treatment(s) with the health practitioner(s) and understand and appreciate all aspects including:- The expected benefits, and",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

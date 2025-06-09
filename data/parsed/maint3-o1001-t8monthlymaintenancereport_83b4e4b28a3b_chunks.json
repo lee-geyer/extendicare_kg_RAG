@@ -1,0 +1,53 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint3-o1001-t8monthlymaintenancereport_83b4e4b28a3b_chunk_000_c6fe2985",
+      "doc_id": "maint3-o1001-t8monthlymaintenancereport_83b4e4b28a3b",
+      "chunk_index": 0,
+      "text": "# Extendicare Monthly Maintenance Report## For The Month Of:\n**Facility:**### Meter Readings:\n- **Water:**\n- **Electricity:**\n- **Gas:**\n- **Date Reading Taken:**## Contractors Doing Work This Month:\n| Name | Reason | Cost (if known) & PO # |\n|------|--------|-------------------------|\n|      |        |                         |## Repair Cost Summary for In-House Work:\n| Item | Reason | Cost (if known) & PO # |\n|------|--------|-------------------------|\n|      |        |                         |----*Helping people live better*> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 852,
+      "token_estimate": 213,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint3-o1001-t8monthlymaintenancereport_83b4e4b28a3b_chunk_001_7569669a",
+      "doc_id": "maint3-o1001-t8monthlymaintenancereport_83b4e4b28a3b",
+      "chunk_index": 1,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 2**# MONTHLY MAINTENANCE REPORT## Preventive Maintenance ProceduresDid you complete all preventive maintenance procedures this month for the following?| Procedure                | Yes  | No   |\n|-------------------------|------|------|\n| Fire Alarm              | ❑    | ❑    |\n| Fire Suppression        | ❑    | ❑    |\n| Nurse Call              | ❑    | ❑    |\n| Door Surveillance       | ❑    | ❑    |\n| Emergency Lighting      | ❑    | ❑    |\n| Emergency Generator      | ❑    | ❑    |### Outstanding TasksIf not, what remains to be done, and when will it be completed?### Scheduled MaintenanceAre all other preventive maintenance procedures being done as scheduled? If not, please explain.### Regulatory InspectionsIf any regulatory inspectors have visited the facility this month, list who they were and what their recommendations, if any, were.",
+      "char_count": 1144,
+      "token_estimate": 286,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint3-o1001-t8monthlymaintenancereport_83b4e4b28a3b_chunk_002_428d446d",
+      "doc_id": "maint3-o1001-t8monthlymaintenancereport_83b4e4b28a3b",
+      "chunk_index": 2,
+      "text": "© 2025**\n**Page 1 of 2**# MONTHLY MAINTENANCE REPORT## Preventive Maintenance ProceduresDid you complete all preventive maintenance procedures this month for the following?| Procedure                | Yes  | No   |\n|-------------------------|------|------|\n| Fire Alarm              | ❑    | ❑    |\n| Fire Suppression        | ❑    | ❑    |\n| Nurse Call              | ❑    | ❑    |\n| Door Surveillance       | ❑    | ❑    |\n| Emergency Lighting      | ❑    | ❑    |\n| Emergency Generator      | ❑    | ❑    |### Outstanding TasksIf not, what remains to be done, and when will it be completed?### Scheduled MaintenanceAre all other preventive maintenance procedures being done as scheduled? If not, please explain.### Regulatory InspectionsIf any regulatory inspectors have visited the facility this month, list who they were and what their recommendations, if any, were. Attach copies of their reports if available.### Additional CommentsPlease list below any other items that you consider important, such as major breakdowns, comments, suggestions, recommendations, etc.Prepared by: ______________________________________## Executive Director CommentsThis document is uncontrolled when printed.",
+      "char_count": 1196,
+      "token_estimate": 299,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint3-o1001-t8monthlymaintenancereport_83b4e4b28a3b_chunk_003_d7100fcd",
+      "doc_id": "maint3-o1001-t8monthlymaintenancereport_83b4e4b28a3b",
+      "chunk_index": 3,
+      "text": "If not, please explain.### Regulatory InspectionsIf any regulatory inspectors have visited the facility this month, list who they were and what their recommendations, if any, were. Attach copies of their reports if available.### Additional CommentsPlease list below any other items that you consider important, such as major breakdowns, comments, suggestions, recommendations, etc.Prepared by: ______________________________________## Executive Director CommentsThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 2 of 2**",
+      "char_count": 803,
+      "token_estimate": 200,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 4
+}

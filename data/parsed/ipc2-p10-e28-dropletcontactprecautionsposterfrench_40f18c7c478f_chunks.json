@@ -1,0 +1,18 @@
+{
+  "doc_id": "ipc2-p10-e28-dropletcontactprecautionsposterfrench_40f18c7c478f",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "ipc2-p10-e28-dropletcontactprecautionsposterfrench_40f18c7c478f_chunk_000_1a2d9206",
+      "doc_id": "ipc2-p10-e28-dropletcontactprecautionsposterfrench_40f18c7c478f",
+      "chunk_index": 0,
+      "text": "# VISITEURS - AVANT D’ENTRER, OBTENEZ LES INSTRUCTIONS DU PERSONNEL## PRÉCAUTIONS CONTRE LES CONTACT ET L’EXPOSITION AUX GOUTTELETTES### EN PLUS DES PRATIQUES DE BASE- Portez une blouse à manches longues\n- Le résident doit porter un masque s’il quitte la chambre\n- Portez des gants\n- Portez masque et protection oculaire\n- Maintenez un rayon de 2 mètres du résident\n- Affectez l’équipement exclusivement à un résident ou désinfectez avant de l’utiliser pour un autre résident",
+      "char_count": 475,
+      "token_estimate": 118,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 5
+    }
+  ]
+}

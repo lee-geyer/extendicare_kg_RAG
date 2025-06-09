@@ -1,0 +1,11 @@
+{
+  "doc_id": "maint3-o1001-t7temperaturelog_2e3cedc43b20",
+  "category": "Maintenance",
+  "metadata": {
+    "title": "Extendicare Temperature Log"
+  },
+  "schema_used": "GenericDocumentMeta",
+  "extraction_success": true,
+  "error": null,
+  "fallback_metadata": null
+}

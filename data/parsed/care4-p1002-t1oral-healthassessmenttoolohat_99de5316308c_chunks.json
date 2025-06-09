@@ -1,0 +1,102 @@
+{
+  "doc_id": "care4-p1002-t1oral-healthassessmenttoolohat_99de5316308c",
+  "total_chunks": 8,
+  "chunks": [
+    {
+      "chunk_id": "care4-p1002-t1oral-healthassessmenttoolohat_99de5316308c_chunk_000_ffcb5fb6",
+      "doc_id": "care4-p1002-t1oral-healthassessmenttoolohat_99de5316308c",
+      "chunk_index": 0,
+      "text": "# Oral - Health Assessment Tool (OHAT)**Resident:**                                         **Score:** NA                                   **Category:** NA## A. Oral Health Assessment### A. Lips\n- **0. Healthy** - Smooth, pink, moist\n- **1. Changes** - Dry, chapped, or red at corners\n- **2. Unhealthy** - Swelling or lump, white/red/ulcerated patch; bleeding/ulcerated at corners### B. Tongue\n- **0. Healthy** - Normal, moist, roughness, pink\n- **1. Changes** - Patchy, fissured, red, coated\n- **2. Unhealthy** - Patch that is red and/or white, ulcerated, swollen### C. Gums and Tissues\n- **0. Healthy** - Pink, moist, smooth, no bleeding\n- **1. Changes** - Dry, shiny, rough, red, swollen, one ulcer or sore spot under dentures\n- **2. Unhealthy** - Swollen, bleeding gums, ulcers, white/red patches, generalized redness or ulcers under dentures### D. Saliva\n- **0. Healthy** - Moist tissues, watery and free flowing saliva\n- **1. Changes** - Dry, sticky tissues, little saliva present\n- **2. Unhealthy** - Tissues parched and red, very little/no saliva present, saliva very thick### E. Natural teeth\n- **0. Healthy** - No decayed or broken teeth/roots\n- **1.",
+      "char_count": 1161,
+      "token_estimate": 290,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care4-p1002-t1oral-healthassessmenttoolohat_99de5316308c_chunk_001_39332254",
+      "doc_id": "care4-p1002-t1oral-healthassessmenttoolohat_99de5316308c",
+      "chunk_index": 1,
+      "text": "Natural teeth\n- **0. Healthy** - No decayed or broken teeth/roots\n- **1. Changes** - 1-3 decayed or broken teeth/roots or teeth very worn down\n- **2. Unhealthy** - 4 or more decayed or broken teeth/roots, or fewer than 4 teeth or teeth very worn down### F. Dentures\n- **0. Healthy** - No broken areas or teeth, dentures regularly worn\n- **1. Changes** - 1 broken area/tooth or dentures only worn for 1-2 hrs daily, or loose dentures\n- **2. Unhealthy** - More than 1 broken area/tooth, denture missing or not worn, needs denture adhesive### G. Oral cleanliness\n- **0. Healthy** - Clean, no food particles or tartar in mouth or on dentures\n- **1. Changes** - Food particles/tartar/plaque in 1-2 areas of the mouth or on small area of dentures or bad breath\n- **2. Unhealthy** - Food particles/tartar/plaque in most areas of the mouth or on most of dentures or severe halitosis (bad breath)### H. Dental Pain\n- **0. Healthy** - No behavioral, verbal, or physical signs of dental pain\n- **1. Changes** - Verbal &/or behavioral signs of pain such as pulling at face, chewing lips, not eating, aggression\n- **2.",
+      "char_count": 1105,
+      "token_estimate": 276,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care4-p1002-t1oral-healthassessmenttoolohat_99de5316308c_chunk_002_b98b6bda",
+      "doc_id": "care4-p1002-t1oral-healthassessmenttoolohat_99de5316308c",
+      "chunk_index": 2,
+      "text": "Healthy** - No behavioral, verbal, or physical signs of dental pain\n- **1. Changes** - Verbal &/or behavioral signs of pain such as pulling at face, chewing lips, not eating, aggression\n- **2. Unhealthy** - Physical signs such as facial swelling, sinus on gum, broken teeth, large ulcers, and verbal and/or behavioral signs such as pulling at face, chewing lips, not eating, aggression## B. Plan\n\n1. Indicate if Resident has dentures/partial:\n- a. Upper Dental Appliance          (     Upper Partial        Upper Full )\n- b. Lower Dental Appliance          (     Lower Partial        Lower Full )",
+      "char_count": 596,
+      "token_estimate": 149,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care4-p1002-t1oral-healthassessmenttoolohat_99de5316308c_chunk_004_44630ea3",
+      "doc_id": "care4-p1002-t1oral-healthassessmenttoolohat_99de5316308c",
+      "chunk_index": 4,
+      "text": "2. Does Resident have any natural teeth or implants?\n- a. Natural teeth present\n- b. Implants present\n- c. No natural teeth or implants\n\n3. Ask, “What are your preferences during oral/dental care” (Teeth / Denture/Mouth)?----**Page 1 of 3**# Oral - Health Assessment Tool (OHAT)## Resident:\n- a. Brush teeth\n- b. Brush gums\n- c. Brush tongue\n- d. Floss\n- e. Soak / rinse dentures\n- f. Brush dentures\n- g. Mouthwash\n- h. Other## 3b. Preferred tools:\n- a. Regular manual toothbrush\n- b. Denture toothbrush\n- c. Interdental brush (e.g., Sulcabrush)\n- d. Electric toothbrush\n- e. Waterpik\n- f. Other## Focus: Dental Status/ Oral Care### 4. Plan for oral dental health preferences:\n- **Intervention:** (specify) resident specific routine for flossing teeth or try inter-dental brushes, proxi-brushes, and stimudents\n- **Intervention:** Brush teeth and oral tissues (specify frequency and time) Brush both the denture(s) and gums carefully. A soft toothbrush should be used for the gums. Be sure to clean and massage the gums. - **Intervention:** Brush tongue (specify) Clean tongue twice daily with soft toothbrush or tongue scraper\n- **Intervention:** Clean dentures after every meal\n- **Intervention:** Denture Care: After overnight soaking, rinse and brush the denture(s) as described above prior to wearing them for the day.",
+      "char_count": 1323,
+      "token_estimate": 330,
+      "section_title": "Does Resident have any natural teeth or implants?",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care4-p1002-t1oral-healthassessmenttoolohat_99de5316308c_chunk_006_a5c14f59",
+      "doc_id": "care4-p1002-t1oral-healthassessmenttoolohat_99de5316308c",
+      "chunk_index": 6,
+      "text": "Be sure to clean and massage the gums. - **Intervention:** Brush tongue (specify) Clean tongue twice daily with soft toothbrush or tongue scraper\n- **Intervention:** Clean dentures after every meal\n- **Intervention:** Denture Care: After overnight soaking, rinse and brush the denture(s) as described above prior to wearing them for the day. (specify)\n- **Intervention:** Denture Care: Soak dentures in warm water with a denture cleanser, or in a mix of warm water and vinegar 1:1 solution or (specify) Soak dentures in warm water without vinegar if there are metal clasps on the dentures. - **Intervention:** Denture Care: Take dentures out every night, and soak them overnight. Soaking dentures loosens plaque and tartar. Removing the dentures for several hours helps to prevent gingival irritation and possible candidiasis infections.",
+      "char_count": 837,
+      "token_estimate": 209,
+      "section_title": "Ask, “What are your preferences during oral/dental care” (Teeth / Denture/Mouth)?----**Page 1 of 3**# Oral - Health Assessment Tool (OHAT)## Resident:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care4-p1002-t1oral-healthassessmenttoolohat_99de5316308c_chunk_007_492bf5fc",
+      "doc_id": "care4-p1002-t1oral-healthassessmenttoolohat_99de5316308c",
+      "chunk_index": 7,
+      "text": "Soaking dentures loosens plaque and tartar. Removing the dentures for several hours helps to prevent gingival irritation and possible candidiasis infections. - **Intervention:** Describe toothbrush to use, label and replace q 6 months: Regular large handled toothbrush (specify) or small headed (pediatric) toothbrush or electric toothbrush or suction toothbrush or (other)\n- **Intervention:** Soft bristle or Collis curve toothbrush\n- **Intervention:** Chlorhexidine mouth rinse/wash or other as prescribed (specify rx by dentist or physician)\n- **Intervention:** Use fluoride varnish or other fluoride treatments as directed (Specify Rx by dentist or physician)## 5. Oral/Dental Care Abilities:\n- a. Independent or\n- b. Supervision required\n- c. Physical assistance required\n- d. Independent with setup## Focus: Personal Hygiene### 5a. Plan for independent oral care:\n- **Intervention:** Independent with or without setup (specify)### 5b. Plan for supervised oral care:\n- **Intervention:** Supervision: cue resident, break down activities into small tasks; (specify) resident and staff roles### 5c.",
+      "char_count": 1100,
+      "token_estimate": 275,
+      "section_title": "Ask, “What are your preferences during oral/dental care” (Teeth / Denture/Mouth)?----**Page 1 of 3**# Oral - Health Assessment Tool (OHAT)## Resident:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care4-p1002-t1oral-healthassessmenttoolohat_99de5316308c_chunk_008_cb89a784",
+      "doc_id": "care4-p1002-t1oral-healthassessmenttoolohat_99de5316308c",
+      "chunk_index": 8,
+      "text": "Plan for independent oral care:\n- **Intervention:** Independent with or without setup (specify)### 5b. Plan for supervised oral care:\n- **Intervention:** Supervision: cue resident, break down activities into small tasks; (specify) resident and staff roles### 5c. Plan for physical assistance with oral care:\n- **Intervention:** Limited assistance: staff provide guided maneuvering to complete (specify) tasks. - **Intervention:** Staff to provide extensive assistance with part of hygiene (specify) with (specify) assistance from staff\n- **Intervention:** Total assistance provided: 1 to 2 staff to perform all aspects of care## 6. Dental exam in LAST YEAR\n- 1. Yes\n- 0. No----**Page 2 of 3**# Oral - Health Assessment Tool (OHAT)## Resident:### 6a. Specify any known details (practitioner/provider name, date and outcomes): (S)### 6b. Referrals initiated:\n- a. Registered Dietitian\n- b. Dentist\n- c. Dental Hygienist\n- d. Occupational Therapist\n- e. Nurse Practitioner\n- f. Physician\n- g.",
+      "char_count": 989,
+      "token_estimate": 247,
+      "section_title": "Ask, “What are your preferences during oral/dental care” (Teeth / Denture/Mouth)?----**Page 1 of 3**# Oral - Health Assessment Tool (OHAT)## Resident:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care4-p1002-t1oral-healthassessmenttoolohat_99de5316308c_chunk_009_c54dbf1c",
+      "doc_id": "care4-p1002-t1oral-healthassessmenttoolohat_99de5316308c",
+      "chunk_index": 9,
+      "text": "Nurse Practitioner\n- f. Physician\n- g. Denturist## ACTION REQUIRED:\nA schedule for the selected referral has been triggered, go to the Resident 'next assessment due' section to open, complete the top half and leave 'in progress' for the referee.----**Signature**: ____________________\n**Date**: ____________________----**Page 3 of 3**",
+      "char_count": 334,
+      "token_estimate": 83,
+      "section_title": "Ask, “What are your preferences during oral/dental care” (Teeth / Denture/Mouth)?----**Page 1 of 3**# Oral - Health Assessment Tool (OHAT)## Resident:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

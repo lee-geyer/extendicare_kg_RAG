@@ -1,0 +1,18 @@
+{
+  "doc_id": "epm-addl-028stafffanoutlist_8c199e4687a7",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "epm-addl-028stafffanoutlist_8c199e4687a7_chunk_000_d220f87c",
+      "doc_id": "epm-addl-028stafffanoutlist_8c199e4687a7",
+      "chunk_index": 0,
+      "text": "|Staff Fan Out List| | | | |\n|---|---|---|---|---|\n| | | | | |\n|Last Name|First Name|Department|Phone Number|Distance from Home|",
+      "char_count": 128,
+      "token_estimate": 32,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 3
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "doc_id": "ipc2-p10-e12-ppedonningsequenceposter_634e6401bb28",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "ipc2-p10-e12-ppedonningsequenceposter_634e6401bb28_chunk_000_7dca552b",
+      "doc_id": "ipc2-p10-e12-ppedonningsequenceposter_634e6401bb28",
+      "chunk_index": 0,
+      "text": "# PPE DONNING Sequence1. Perform hand hygiene\n\n2. Put on a gown",
+      "char_count": 63,
+      "token_estimate": 15,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-e12-ppedonningsequenceposter_634e6401bb28_chunk_002_ac59d747",
+      "doc_id": "ipc2-p10-e12-ppedonningsequenceposter_634e6401bb28",
+      "chunk_index": 2,
+      "text": "3. Put on a mask or N95 Respirator\n\n4. Put on eye protection (goggles/face shield)",
+      "char_count": 82,
+      "token_estimate": 20,
+      "section_title": "Put on a mask or N95 Respirator",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-e12-ppedonningsequenceposter_634e6401bb28_chunk_004_902bb2d1",
+      "doc_id": "ipc2-p10-e12-ppedonningsequenceposter_634e6401bb28",
+      "chunk_index": 4,
+      "text": "5. Put on gloves*Follow Universal PPE Strategy principles when policy is in effect*----**Extendicare**\nHelping people live better",
+      "char_count": 129,
+      "token_estimate": 32,
+      "section_title": "Put on gloves*Follow Universal PPE Strategy principles when policy is in effect*----**Extendicare**",
+      "chunk_type": "content",
+      "start_line": 4,
+      "end_line": 5
+    }
+  ]
+}

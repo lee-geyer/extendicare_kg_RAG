@@ -1,0 +1,42 @@
+{
+  "doc_id": "care19-p1002-t1sbartool_f07326bb312f",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "care19-p1002-t1sbartool_f07326bb312f_chunk_000_ffcb1898",
+      "doc_id": "care19-p1002-t1sbartool_f07326bb312f",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## PRIVILEGED AND CONFIDENTIAL### SBAR (Situation, Background, Assessment, Recommendation) Tool| **Site:**          | HOME NAME               |\n|--------------------|-------------------------|\n| **Date of Incident:** |                         |\n| **Resident ID:**   |                         |----### Situation:\n- Example situation: Home alerted by staff that resident fell out of a lift during a mechanical transfer. - Describe what was done at the time of the incident, any internal or external notifications completed, and resident outcome.### Background/Chronology:\nInclude the following as appropriate:\n- Resident profile (MDS RAI scores, diagnoses, ADLs)\n- Any history of similar incidents\n- Intervention in place prior to the incident\n- Intervention added to mitigate the risk. - Provide a high-level chronological description of the events leading to the incident.### Assessment:\nInclude areas reviewed with the contributing factor:\n- **e.g.",
+      "char_count": 964,
+      "token_estimate": 241,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care19-p1002-t1sbartool_f07326bb312f_chunk_002_a782f9e6",
+      "doc_id": "care19-p1002-t1sbartool_f07326bb312f",
+      "chunk_index": 2,
+      "text": "- Describe what was done at the time of the incident, any internal or external notifications completed, and resident outcome.### Background/Chronology:\nInclude the following as appropriate:\n- Resident profile (MDS RAI scores, diagnoses, ADLs)\n- Any history of similar incidents\n- Intervention in place prior to the incident\n- Intervention added to mitigate the risk. - Provide a high-level chronological description of the events leading to the incident.### Assessment:\nInclude areas reviewed with the contributing factor:\n- **e.g. Equipment Failure**\n- Staff involved did not receive training on new lift equipment\n- Operating procedure not available on the units\n- Tag out of the lift did not occur### Recommendations:\nProvide a summary of recommendations to mitigate risks, e.g.:\n- Complete the lift training\n- Review process for equipment that fail----Helping people live better----> This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.",
+      "char_count": 1135,
+      "token_estimate": 283,
+      "section_title": "PRIVILEGED AND CONFIDENTIAL### SBAR (Situation, Background, Assessment, Recommendation) Tool| **Site:**          | HOME NAME               |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care19-p1002-t1sbartool_f07326bb312f_chunk_003_68c086cd",
+      "doc_id": "care19-p1002-t1sbartool_f07326bb312f",
+      "chunk_index": 3,
+      "text": "> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 1**",
+      "char_count": 299,
+      "token_estimate": 74,
+      "section_title": "PRIVILEGED AND CONFIDENTIAL### SBAR (Situation, Background, Assessment, Recommendation) Tool| **Site:**          | HOME NAME               |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "doc_id": "epm-addl-002recipricatingevacuationagreementtemplate_e05b911f3f5e",
+  "total_chunks": 7,
+  "chunks": [
+    {
+      "chunk_id": "epm-addl-002recipricatingevacuationagreementtemplate_e05b911f3f5e_chunk_000_829ce0b7",
+      "doc_id": "epm-addl-002recipricatingevacuationagreementtemplate_e05b911f3f5e",
+      "chunk_index": 0,
+      "text": "# Extendicare Emergency Accommodation Agreement**Date:** [Insert Date]This agreement is between **HOME NAME** and **FACILITY** for emergency accommodation services.## Emergency Evacuation Procedures### For HOME NAME\nIn the event of an emergency evacuation at **HOME NAME**, **FACILITY** agrees to temporarily accommodate **#** of our residents. Upon evacuation to **FACILITY**, the home will be required to supply the following:1. Resident Identification and medical information",
+      "char_count": 478,
+      "token_estimate": 119,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 1
+    },
+    {
+      "chunk_id": "epm-addl-002recipricatingevacuationagreementtemplate_e05b911f3f5e_chunk_001_ca7775f6",
+      "doc_id": "epm-addl-002recipricatingevacuationagreementtemplate_e05b911f3f5e",
+      "chunk_index": 1,
+      "text": "2. Resident medication\n\n3. Contact information for residents POA/SDM/primary contact",
+      "char_count": 84,
+      "token_estimate": 21,
+      "section_title": "Resident medication",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-002recipricatingevacuationagreementtemplate_e05b911f3f5e_chunk_003_19f4e82c",
+      "doc_id": "epm-addl-002recipricatingevacuationagreementtemplate_e05b911f3f5e",
+      "chunk_index": 3,
+      "text": "4. Staff (#/resident)\n\n5. Beds and linen",
+      "char_count": 40,
+      "token_estimate": 10,
+      "section_title": "Staff (#/resident)",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-002recipricatingevacuationagreementtemplate_e05b911f3f5e_chunk_005_502a2205",
+      "doc_id": "epm-addl-002recipricatingevacuationagreementtemplate_e05b911f3f5e",
+      "chunk_index": 5,
+      "text": "6. Required Medical equipmentIn the event of an evacuation, the home will contact **NAME** at **PHONE NUMBER** during regular business hours and **NAME** at **PHONE NUMBER** after hours on evenings and weekends.### For FACILITY\nIn the event of an emergency evacuation at **FACILITY**, **HOME NAME** agrees to temporarily accommodate **#** of our residents. Upon evacuation to **HOME NAME**, the facility will be required to supply the following:1. Resident Identification and medical information",
+      "char_count": 495,
+      "token_estimate": 123,
+      "section_title": "Required Medical equipmentIn the event of an evacuation, the home will contact **NAME** at **PHONE NUMBER** during regular business hours and **NAME** at **PHONE NUMBER** after hours on evenings and weekends.### For FACILITY",
+      "chunk_type": "content",
+      "start_line": 6,
+      "end_line": 7
+    },
+    {
+      "chunk_id": "epm-addl-002recipricatingevacuationagreementtemplate_e05b911f3f5e_chunk_006_ca7775f6",
+      "doc_id": "epm-addl-002recipricatingevacuationagreementtemplate_e05b911f3f5e",
+      "chunk_index": 6,
+      "text": "2. Resident medication\n\n3. Contact information for residents POA/SDM/primary contact",
+      "char_count": 84,
+      "token_estimate": 21,
+      "section_title": "Resident medication",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-002recipricatingevacuationagreementtemplate_e05b911f3f5e_chunk_008_19f4e82c",
+      "doc_id": "epm-addl-002recipricatingevacuationagreementtemplate_e05b911f3f5e",
+      "chunk_index": 8,
+      "text": "4. Staff (#/resident)\n\n5. Beds and linen",
+      "char_count": 40,
+      "token_estimate": 10,
+      "section_title": "Staff (#/resident)",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-002recipricatingevacuationagreementtemplate_e05b911f3f5e_chunk_010_7d6cb92f",
+      "doc_id": "epm-addl-002recipricatingevacuationagreementtemplate_e05b911f3f5e",
+      "chunk_index": 10,
+      "text": "6. Required Medical equipment## Agreement Duration\nThis agreement will be in effect until **DATE**, at which time another agreement can be signed.----**Signed by:**\n**NAME** on behalf of **HOME NAME**\n_______________________________          **Date** _______________________________\n**Name, Title****AND****Signed by:**\n**NAME** on behalf of **FACILITY**\n_______________________________          **Date** _______________________________\n**Iva better**----> This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 1# Name, Title> This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 1",
+      "char_count": 1148,
+      "token_estimate": 287,
+      "section_title": "Required Medical equipment## Agreement Duration",
+      "chunk_type": "content",
+      "start_line": 12,
+      "end_line": 23
+    }
+  ]
+}

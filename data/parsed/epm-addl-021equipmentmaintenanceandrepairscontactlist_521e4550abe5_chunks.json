@@ -1,0 +1,30 @@
+{
+  "doc_id": "epm-addl-021equipmentmaintenanceandrepairscontactlist_521e4550abe5",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "epm-addl-021equipmentmaintenanceandrepairscontactlist_521e4550abe5_chunk_000_bd24f5a0",
+      "doc_id": "epm-addl-021equipmentmaintenanceandrepairscontactlist_521e4550abe5",
+      "chunk_index": 0,
+      "text": "# Extendicare Equipment Maintenance and Repairs Contact List## Service Contact Information| Service                                   | Company          | Contact Information                          |\n|-------------------------------------------|------------------|---------------------------------------------|\n| Electrical Problems                       |                  |                                             |\n| Plumbing Problems                         |                  |                                             |\n| HVAC Problems                             |                  |                                             |\n| Elevators                                 |                  |                                             |\n| Fire Alarm System and fire panel         |                  |                                             |\n| Nurse call System                         |                  |                                             |\n| Door Alarms and Maglock system           |                  |                                             |\n| Phone Systems                             |                  |                                             |\n| Disaster Recovery                         | On Side OR       | 1-800-341-9399                              |\n|                                           | Service Master    | 1-888-753-5727 (reference account # 1020SGP) |\n| Kitchen/Gas Fired Cooking Equipment       |                  |                                             |\n| Kitchen/Juice/Coffee Machines             |                  |                                             |\n| Kitchen Refrigeration Units               |                  |                                             |\n| Laundry Dryers/Washers                   |                  |                                             |\n| Power Interruptions (generator, gas)     |                  |                                             |\n| Low Water Pressure                        |                  |                                             |\n| Outside Gas Lines/Leaks                   |                  |                                             |\n| Sewage/Backup                             |                  |                                             |\n| Boiler                                    |                  |                                             |\n| Sewage Back Up                           |                  |                                             |----**Note:** This document is uncontrolled when printed.",
+      "char_count": 2586,
+      "token_estimate": 646,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-021equipmentmaintenanceandrepairscontactlist_521e4550abe5_chunk_001_0da9aa91",
+      "doc_id": "epm-addl-021equipmentmaintenanceandrepairscontactlist_521e4550abe5",
+      "chunk_index": 1,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**----**Page 1 of 1**",
+      "char_count": 300,
+      "token_estimate": 75,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

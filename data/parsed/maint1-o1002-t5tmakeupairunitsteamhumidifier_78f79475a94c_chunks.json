@@ -1,0 +1,41 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t5tmakeupairunitsteamhumidifier_78f79475a94c_chunk_000_c38add44",
+      "doc_id": "maint1-o1002-t5tmakeupairunitsteamhumidifier_78f79475a94c",
+      "chunk_index": 0,
+      "text": "# Extendicare Maintenance Inspection Checklist## Equipment\n- **Make Up Air Unit Steam Humidifier**\n- **Year:**\n- **Unit No.:**\n- **Manufacturer:** All\n- **Model:** All## Legend/Key\n| Legend | Key        |\n|--------|------------|\n| W      | Weekly     |\n| M      | Monthly    |\n| Q      | Quarterly  |\n| S      | Semi-Annual|\n| A      | Annual     |\n| O      | Ok         |\n| R      | Repair     |\n| N      | Replace    |## Checks\n| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   |   | 1 | Clean spray nozzles. |\n| X |   |   |   | 2 | Clean make-up water line strainer. |\n| X |   |   |   | 3 | Check water supply. |\n|   | X |   |   | 4 | Check boiler chamber and de-lime as necessary. |\n|   |   | X |   | 5 | If the unit is gas-fired, check the boiler and venting. |\n|   |   | X |   | 6 | Check Drain Solenoid operation to ensure humidifier drains properly when heat fails.",
+      "char_count": 1021,
+      "token_estimate": 255,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t5tmakeupairunitsteamhumidifier_78f79475a94c_chunk_001_48df9728",
+      "doc_id": "maint1-o1002-t5tmakeupairunitsteamhumidifier_78f79475a94c",
+      "chunk_index": 1,
+      "text": "|\n|   |   | X |   | 5 | If the unit is gas-fired, check the boiler and venting. |\n|   |   | X |   | 6 | Check Drain Solenoid operation to ensure humidifier drains properly when heat fails. |## Monthly Schedule\n| Month | M | Q | S | A | Month | M | Q | S | A | Month | M | Q | S | A | Month | M | Q | S | A |\n|-------|---|---|---|---|-------|---|---|---|---|-------|---|---|---|---|-------|---|---|---|---|\n| JAN   | M | Q | S | A | JUL   | M | Q | S | A | APR   | M | Q | S | A | OCT   | M | Q | S | A |\n| FEB   | W | W | W | W | AUG   | M | Q | S | A | MAY   | M | Q | S | A | NOV   | M | Q | S | A |\n| MAR   | W | W | W | W | SEP   | M | Q | S | A | JUN   | M | Q | S | A | DEC   | M | Q | S | A |----**Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 1029,
+      "token_estimate": 257,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t5tmakeupairunitsteamhumidifier_78f79475a94c_chunk_002_728c1f5f",
+      "doc_id": "maint1-o1002-t5tmakeupairunitsteamhumidifier_78f79475a94c",
+      "chunk_index": 2,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 2 of 2**",
+      "char_count": 796,
+      "token_estimate": 199,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 3
+}

@@ -1,0 +1,54 @@
+{
+  "doc_id": "evs2-p1006cleaningfrequency_25ef199dcec6",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "evs2-p1006cleaningfrequency_25ef199dcec6_chunk_000_be1e8c5f",
+      "doc_id": "evs2-p1006cleaningfrequency_25ef199dcec6",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE- **MANUAL:** Environmental Services\n- **INDEX:** EVS2-P10.06\n- **SECTION:** Cleaning and Organization - Housekeeping\n- **DESCRIPTION:** Cleaning Frequency\n- **EFFECTIVE DATE:** March 18, 2025\n- **REVIEWED DATE:** March 7, 2025\n- **APPROVED BY:** Senior Director, Operational Quality and Professional Practice\n- **MODIFIED DATE:** May 14, 2025----## POLICY### Cleaning and Organization## PROCEDURE### Executive Director or Designate:\n- Ensure that scheduled de-cluttering is performed regularly to facilitate the cleaning needs of the home.### Manager/Designate:\n- Ensure cleaning schedule includes isolation, C. difficile, and high touch cleaning on:\n- DAILY\n- WEEKLY\n- BI-WEEKLY\n- MONTHLY\n- QUARTERLY\n- ANNUALLY\n- High touch areas are cleaned at least twice a day when in an outbreak. - Develop job routines, cleaning schedules, and calendars to meet the cleaning needs of the home using the following tools:\n- **Recommended Cleaning Frequencies** as a reference\n- **Risk Stratification Matrix (Cleaning Frequencies)** to identify specific areas of concern.",
+      "char_count": 1084,
+      "token_estimate": 271,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1006cleaningfrequency_25ef199dcec6_chunk_001_cb0b9855",
+      "doc_id": "evs2-p1006cleaningfrequency_25ef199dcec6",
+      "chunk_index": 1,
+      "text": "difficile, and high touch cleaning on:\n- DAILY\n- WEEKLY\n- BI-WEEKLY\n- MONTHLY\n- QUARTERLY\n- ANNUALLY\n- High touch areas are cleaned at least twice a day when in an outbreak. - Develop job routines, cleaning schedules, and calendars to meet the cleaning needs of the home using the following tools:\n- **Recommended Cleaning Frequencies** as a reference\n- **Risk Stratification Matrix (Cleaning Frequencies)** to identify specific areas of concern. - Monitor and revise frequencies of job routines, schedules, and calendars as required and based on available resources.### Housekeeping Staff:\n- Clean according to the cleaning schedule and include any additional cleaning needs specific to the home.## EDUCATION",
+      "char_count": 709,
+      "token_estimate": 177,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1006cleaningfrequency_25ef199dcec6_chunk_002_8c1dbbf6",
+      "doc_id": "evs2-p1006cleaningfrequency_25ef199dcec6",
+      "chunk_index": 2,
+      "text": "1. Cleaning and Disinfection Guide\n\n2. Duty and Task Practices## TOOLS",
+      "char_count": 70,
+      "token_estimate": 17,
+      "section_title": "Cleaning and Disinfection Guide",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1006cleaningfrequency_25ef199dcec6_chunk_004_1de62ee2",
+      "doc_id": "evs2-p1006cleaningfrequency_25ef199dcec6",
+      "chunk_index": 4,
+      "text": "1. Recommended Cleaning Frequencies\n\n2. Risk Stratification Matrix (Cleaning Frequencies)----> **Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 1**",
+      "char_count": 446,
+      "token_estimate": 111,
+      "section_title": "Recommended Cleaning Frequencies",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

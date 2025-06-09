@@ -1,0 +1,41 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t7hgarburatorinspectionchecklist_d53c75fd7dca_chunk_000_d43e8660",
+      "doc_id": "maint1-o1002-t7hgarburatorinspectionchecklist_d53c75fd7dca",
+      "chunk_index": 0,
+      "text": "# Extendicare Maintenance Inspection Checklist## Equipment\n**Name:** Garburator\n**Year:** All\n**Manufacturer:** All\n**Model:** All### Legend/Key\n| Legend | Key          |\n|--------|--------------|\n| W      | Weekly       |\n| M      | Monthly      |\n| Q      | Quarterly    |\n| S      | Semi-Annual  |\n| A      | Annual       |\n| O      | Ok           |\n| R      | Repair       |\n| N      | Replace      |### Checks\n| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   |   |   | 1. Check start/stop switch operation. |\n| X |   |   |   |   | 2. Check water flow control nozzle for obstructions during operation. |\n| X |   |   |   |   | 3. Check for unusual noises and/or vibrations during operation. |\n| X |   |   |   |   | 4. Check for proper flow of drain lines. |\n| X |   |   |   |   | 5. Clean the water supply line screen. |\n|   | X |   |   |   | 6. Check for wear on the cutting blocks. Adjust or replace as necessary. |\n|   |   | X |   |   | 7. Lubricate as called for in the manufacturer’s lubrication information.",
+      "char_count": 1165,
+      "token_estimate": 291,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t7hgarburatorinspectionchecklist_d53c75fd7dca_chunk_001_b8a67c6a",
+      "doc_id": "maint1-o1002-t7hgarburatorinspectionchecklist_d53c75fd7dca",
+      "chunk_index": 1,
+      "text": "|\n|   |   | X |   |   | 7. Lubricate as called for in the manufacturer’s lubrication information. |### Monthly Schedule\n| Month | M | Q | S | A |\n|-------|---|---|---|---|\n| JAN   | W | W | W | W |\n| FEB   | W | W | W | W |\n| MAR   | W | W | W | W |\n| APR   | W | W | W | W |\n| MAY   | W | W | W | W |\n| JUN   | W | W | W | W |\n| JUL   | W | W | W | W |\n| AUG   | W | W | W | W |\n| SEP   | W | W | W | W |\n| OCT   | W | W | W | W |\n| NOV   | W | W | W | W |\n| DEC   | W | W | W | W |----**Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1065,
+      "token_estimate": 266,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t7hgarburatorinspectionchecklist_d53c75fd7dca_chunk_002_ae3e525e",
+      "doc_id": "maint1-o1002-t7hgarburatorinspectionchecklist_d53c75fd7dca",
+      "chunk_index": 2,
+      "text": "© 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 2 of 2",
+      "char_count": 515,
+      "token_estimate": 128,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 3
+}

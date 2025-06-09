@@ -1,0 +1,42 @@
+{
+  "doc_id": "evs3-p1002cleaningdryerlintscreens_30b9f0810b2f",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "evs3-p1002cleaningdryerlintscreens_30b9f0810b2f_chunk_000_d668f637",
+      "doc_id": "evs3-p1002cleaningdryerlintscreens_30b9f0810b2f",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Environmental Services\n**INDEX:** EVS3-P10.02\n**SECTION:** Personal Clothing and Linen Processes-Laundry\n**EFFECTIVE DATE:** March 18, 2025\n**REVIEWED DATE:** March 7, 2025\n**APPROVED BY:** Senior Director, Operational Quality and Professional Practice\n**MODIFIED DATE:** May 14, 2025----## POLICY### Personal Clothing and Linen Processes## PROCEDURE### FrequencyScreens are to be cleaned according to:\n- manufacturers’ recommendations; or\n- at least after every third load; or\n- as required by local fire officials, whichever is most frequent; and\n- at the end of each shift.### Cleaning Dryer Lint Screens#### Laundry Staff:\n- Turn off the dryer. - Clean lint from lint screen and from the bottom of the dryer floor. - Regularly check for lint build-up around the temperature sensor (i.e., probe on top of lint screen holder). - Remove lint carefully while checking the lint screen for holes and tears. - Discontinue using the dryer if the lint screen is damaged and inform the Manager/or designate or Maintenance Head/designate.",
+      "char_count": 1068,
+      "token_estimate": 267,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs3-p1002cleaningdryerlintscreens_30b9f0810b2f_chunk_001_c85a2e63",
+      "doc_id": "evs3-p1002cleaningdryerlintscreens_30b9f0810b2f",
+      "chunk_index": 1,
+      "text": "- Remove lint carefully while checking the lint screen for holes and tears. - Discontinue using the dryer if the lint screen is damaged and inform the Manager/or designate or Maintenance Head/designate. Place “Out of Service” sign on the equipment until lint screen is replaced.#### Maintenance Staff or Designate:\n- Vacuum cavity as per the Preventive Maintenance Program. - Install a new screen if necessary.## EDUCATION",
+      "char_count": 422,
+      "token_estimate": 105,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs3-p1002cleaningdryerlintscreens_30b9f0810b2f_chunk_002_ebe9c905",
+      "doc_id": "evs3-p1002cleaningdryerlintscreens_30b9f0810b2f",
+      "chunk_index": 2,
+      "text": "1. Reducing Fire Risk in the Laundry## TOOLS\n\n1. Laundry Department Cleaning Schedule Checklist----> This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 1",
+      "char_count": 439,
+      "token_estimate": 109,
+      "section_title": "Reducing Fire Risk in the Laundry## TOOLS",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

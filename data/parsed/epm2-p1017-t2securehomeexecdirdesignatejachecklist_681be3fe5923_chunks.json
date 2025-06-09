@@ -1,0 +1,30 @@
+{
+  "doc_id": "epm2-p1017-t2securehomeexecdirdesignatejachecklist_681be3fe5923",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "epm2-p1017-t2securehomeexecdirdesignatejachecklist_681be3fe5923_chunk_000_d5868f39",
+      "doc_id": "epm2-p1017-t2securehomeexecdirdesignatejachecklist_681be3fe5923",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Secure Home Executive Director/Designate Job Action Checklist**Enter date:**\n**Executive Director/Designate:***Note: You may edit this job action checklist to be home specific.*### Respond\n- [ ] Seek updates from Incident Manager/Police to determine any required actions. - [ ] Provide any required support to Police such as floor plans. - [ ] Notify and update the Regional Director and enact the Issue Alert process. - [ ] Determine if the regulatory body and/or provincial health authority need to be notified during the emergency. - [ ] Help set up the Emergency Operations Centre if required for an elongated Secure Home (beyond 3 hours). (Procedures for the Emergency Operations Centre can be found in the Emergency Planning and Management Manual).### Recover\nUpon notification that the secure home situation has ended and all individuals in the home are safe, the all-clear procedures are in effect. - [ ] Notify your Regional Director/Regional Director of Operations. - [ ] Notify the regulatory body and/or provincial health authority as applicable.",
+      "char_count": 1076,
+      "token_estimate": 269,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1017-t2securehomeexecdirdesignatejachecklist_681be3fe5923_chunk_002_c84f9cdc",
+      "doc_id": "epm2-p1017-t2securehomeexecdirdesignatejachecklist_681be3fe5923",
+      "chunk_index": 2,
+      "text": "- [ ] Notify your Regional Director/Regional Director of Operations. - [ ] Notify the regulatory body and/or provincial health authority as applicable. - [ ] Notify the Health and Safety Committee and government labour authorities (e.g., Ministry of Labour) if any staff suffers a critical injury (as defined by the Occupational Health and Safety Act). Engage corporate Health and Safety department for support. - [ ] Complete any incident documentation required. - [ ] Send communications regarding the incident to residents, families, and staff as required. - [ ] Arrange for staff and resident support as needed (EAP, etc.). - [ ] Participate in the analysis and debriefing session. - [ ] Upload completed Analysis and Debrief Report in the Quality and Operations Reporting Team.----**Helping people is a better way.**\nThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 1 of 1",
+      "char_count": 1156,
+      "token_estimate": 289,
+      "section_title": "Secure Home Executive Director/Designate Job Action Checklist**Enter date:**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t5nfanforcedheatersinsp_473592f81b89_chunk_000_65315127",
+      "doc_id": "maint1-o1002-t5nfanforcedheatersinsp_473592f81b89",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## MAINTENANCE INSPECTION CHECKLIST### Equipment: Fan Forced Heaters- **Name:**\n- **Year:**\n- **Manufacturer:** All\n- **Model:** Hot Water (Unit, Cabinet, Force Flow)### LEGEND/KEY| LEGEND | KEY       |\n|--------|-----------|\n| W      | Weekly    |\n| O      | Ok        |\n| M      | Monthly   |\n| R      | Repair    |\n| Q      | Quarterly |\n| N      | Replace   |\n| S      | Semi-Annual|\n| A      | Annual    |### CHECKS| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   |   | 1 | Check heater coil and piping connections for leaks. Repair as required. |\n| X |   |   |   | 2 | Clean blower wheel/fan blades and cabinet interior. |\n| X |   |   |   | 3 | Test thermostat for proper operation. Adjust as necessary. |\n| X |   |   |   | 4 | Lubricate motor/shaft bearings. |\n|   | X |   |   | 5 | Repair damaged surface finishes.",
+      "char_count": 986,
+      "token_estimate": 246,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t5nfanforcedheatersinsp_473592f81b89_chunk_002_f23b9187",
+      "doc_id": "maint1-o1002-t5nfanforcedheatersinsp_473592f81b89",
+      "chunk_index": 2,
+      "text": "|\n| X |   |   |   | 4 | Lubricate motor/shaft bearings. |\n|   | X |   |   | 5 | Repair damaged surface finishes. |### MONTHLY CHECKLIST|     | JAN | FEB | MAR | APR | MAY | JUN | |\n|-----|-----|-----|-----|-----|-----|-----|---|\n| M   | Q   | S   | A   | M   | Q   | S   | A   |\n| W   | W   | W   | W   | W   | W   | W   | W   ||     | JUL | AUG | SEP | OCT | NOV | DEC | |\n|-----|-----|-----|-----|-----|-----|-----|---|\n| M   | Q   | S   | A   | M   | Q   | S   | A   |\n| W   | W   | W   | W   | W   | W   | W   | W   |----**Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1103,
+      "token_estimate": 275,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment: Fan Forced Heaters- **Name:**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t5nfanforcedheatersinsp_473592f81b89_chunk_003_ebe8d70c",
+      "doc_id": "maint1-o1002-t5nfanforcedheatersinsp_473592f81b89",
+      "chunk_index": 3,
+      "text": "© 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 2 of 2**",
+      "char_count": 523,
+      "token_estimate": 130,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment: Fan Forced Heaters- **Name:**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 3
+}

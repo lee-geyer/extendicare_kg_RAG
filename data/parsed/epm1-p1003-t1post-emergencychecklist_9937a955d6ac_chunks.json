@@ -1,0 +1,30 @@
+{
+  "doc_id": "epm1-p1003-t1post-emergencychecklist_9937a955d6ac",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "epm1-p1003-t1post-emergencychecklist_9937a955d6ac_chunk_000_d745a8f2",
+      "doc_id": "epm1-p1003-t1post-emergencychecklist_9937a955d6ac",
+      "chunk_index": 0,
+      "text": "# Extendicare Post-Emergency Checklist**Date:** Enter date\n**Completed by:**\n**Incident:**## Thank You Checklist| Item                                           | Yes | No | Comments |\n|------------------------------------------------|-----|----|----------|\n| Residents that have been inconvenienced        |     |    |          |\n| Staff that helped                              |     |    |          |\n| Volunteers                                     |     |    |          |\n| Families                                       |     |    |          |\n| Media                                          |     |    |          |\n| Government agencies                            |     |    |          |\n| Receiving facilities/homes                     |     |    |          |\n| Ambulance                                      |     |    |          |\n| Transportation                                 |     |    |          |\n| Other                                          |     |    |          |## Inventory Checklist| Item                                           | Yes | No |\n|------------------------------------------------|-----|----|\n| Take linen inventory to determine loss/costs   |     |    |\n| Take dietary inventory to determine loss/costs  |     |    |\n| Take equipment inventory to determine loss or repairs |     |    |\n| Take inventory of nursing supplies to determine loss/costs |     |    |\n| Other                                          |     |    |## Financial Checklist| Item                                           | Yes | No |\n|------------------------------------------------|-----|----|\n| Establish additional Staffing costs             |     |    |\n| Reimburse staff for expenses (traveling etc.)  |     |    |\n| Establish total cost of emergency               |     |    |\n| Other                                          |     |    || Item                                           | Yes | No |\n|------------------------------------------------|-----|----|\n| Write formal report and submit to Regional Director/Operations |     |    |----This document is uncontrolled when printed.",
+      "char_count": 2105,
+      "token_estimate": 526,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm1-p1003-t1post-emergencychecklist_9937a955d6ac_chunk_001_298d0200",
+      "doc_id": "epm1-p1003-t1post-emergencychecklist_9937a955d6ac",
+      "chunk_index": 1,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 1 of 1",
+      "char_count": 290,
+      "token_estimate": 72,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

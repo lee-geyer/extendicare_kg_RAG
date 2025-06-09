@@ -1,0 +1,30 @@
+{
+  "doc_id": "ipc-addl-021staffoutbreaklinelist_f3dc40e60690",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "ipc-addl-021staffoutbreaklinelist_f3dc40e60690_chunk_000_438db080",
+      "doc_id": "ipc-addl-021staffoutbreaklinelist_f3dc40e60690",
+      "chunk_index": 0,
+      "text": "# Extendicare## STAFF OUTBREAK LINE LIST**Outbreak #:**\n**Name of Institution:**\n**Phone Number:**\n**Case Definition:**\n**Institution Contact:**\n**Fax Number:**\n**Address:**\n**Date of Onset:**\n**Date of Outbreak Declared:**### Symptoms| Symptoms         | Nasal Discharge | Specimen Collection | Vaccination (D/M/Y) |\n|------------------|------------------|---------------------|----------------------|\n|                  |                  |                     |                      |\n| **Unit/Home**    | **G.I.**        | **U.R.I.**         | **Sore Throat**      |\n| **Location**     | **Vomiting**    | **Diarrhea**       | **Cramps**          |\n|                  | **Cough**       | **Myalgia**        |                      |### Case #| Staff Name (Last, First) | DOB (D-M-Y) | Date of Onset | Symptoms | Date Collected | Result | COVID | Influenza | Date Resolved (D/M/Y) | Comments (i.e.",
+      "char_count": 899,
+      "token_estimate": 224,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc-addl-021staffoutbreaklinelist_f3dc40e60690_chunk_001_ef476abf",
+      "doc_id": "ipc-addl-021staffoutbreaklinelist_f3dc40e60690",
+      "chunk_index": 1,
+      "text": "Treatment, Hospitalization) |\n|--------------------------|-------------|----------------|----------|----------------|--------|-------|-----------|-----------------------|---------------------------------------------|\n|                          |             |                |          |                |        |       |           |                       |                                             |----*This document is uncontrolled when printed.*\n*Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.*\n*Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025*",
+      "char_count": 735,
+      "token_estimate": 183,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t6nwatertreatmentsysteminsp_ee091f7768d3_chunk_000_912c1a02",
+      "doc_id": "maint1-o1002-t6nwatertreatmentsysteminsp_ee091f7768d3",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## MAINTENANCE INSPECTION CHECKLIST### Equipment: Water Treatment System#### LEGEND/KEY| LEGEND | KEY       |\n|--------|-----------|\n| D      | Daily     |\n| W      | Weekly    |\n| M      | Monthly   |\n| Q      | Quarterly |\n| S      | Semi-Annual |\n| A      | Annual    |### Equipment Details\n- **Name:**\n- **Year:**\n- **Unit No.:**\n- **Manufacturer:** All\n- **Model:** All Systems### CHECKS| D | W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   |   |   |   | 1. Visual check of chlorine concentration and turbidity monitor in water treatment room. |\n| X |   |   |   |   |   | 2. Check for well pump operation at control panel. |\n| X |   |   |   |   |   | 3. Check for chlorine leaks. |\n| X |   |   |   |   |   | 4. Visually verify chlorine pump settings. |\n|   | X |   |   |   |   | 5. Check chlorine residuals in water from resident areas. |\n|   | X |   |   |   |   | 6. Check the level of chlorine in pump supply tank. |\n|   | X |   |   |   |   | 7. Check well relief system for proper operation. |\n|   | X |   |   |   |   | 8.",
+      "char_count": 1197,
+      "token_estimate": 299,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t6nwatertreatmentsysteminsp_ee091f7768d3_chunk_002_0d2dc94e",
+      "doc_id": "maint1-o1002-t6nwatertreatmentsysteminsp_ee091f7768d3",
+      "chunk_index": 2,
+      "text": "Check well relief system for proper operation. |\n|   | X |   |   |   |   | 8. Check operation of sump pump and heat line (winter). |\n|   |   | X |   |   |   | 9. Remove chlorine pump lines at injection points and clean. |\n|   |   | X |   |   |   | 10. Operate isolation valves on chlorine probe. |\n|   |   | X |   |   |   | 11. Refresh chlorine in pump supply tank. |\n|   |   | X |   |   |   | 12. Switch standby and main pump operation. |\n|   |   | X |   |   |   | 13. Check filter-pressure when system is filling. |\n|   |   | X |   |   |   | 14. If there is a differential, change filter if necessary. |\n|   |   | X |   |   |   | 15. Check door alarm system and verify. |### Monthly Schedule| Month | M | Q | S | A |\n|-------|---|---|---|---|\n| JAN   | W | W | W | W |\n| FEB   | W | W | W | W |\n| MAR   | W | W | W | W |\n| APR   | W | W | W | W |\n| MAY   | W | W | W | W |\n| JUN   | W | W | W | W |\n| JUL   | W | W | W | W |\n| AUG   | W | W | W | W |\n| SEP   | W | W | W | W |\n| OCT   | W | W | W | W |\n| NOV   | W | W | W | W |\n| DEC   | W | W | W | W |----**Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1139,
+      "token_estimate": 284,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment: Water Treatment System#### LEGEND/KEY| LEGEND | KEY       |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t6nwatertreatmentsysteminsp_ee091f7768d3_chunk_003_a0f014f7",
+      "doc_id": "maint1-o1002-t6nwatertreatmentsysteminsp_ee091f7768d3",
+      "chunk_index": 3,
+      "text": "|### Monthly Schedule| Month | M | Q | S | A |\n|-------|---|---|---|---|\n| JAN   | W | W | W | W |\n| FEB   | W | W | W | W |\n| MAR   | W | W | W | W |\n| APR   | W | W | W | W |\n| MAY   | W | W | W | W |\n| JUN   | W | W | W | W |\n| JUL   | W | W | W | W |\n| AUG   | W | W | W | W |\n| SEP   | W | W | W | W |\n| OCT   | W | W | W | W |\n| NOV   | W | W | W | W |\n| DEC   | W | W | W | W |----**Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 966,
+      "token_estimate": 241,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment: Water Treatment System#### LEGEND/KEY| LEGEND | KEY       |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t6nwatertreatmentsysteminsp_ee091f7768d3_chunk_004_ebe8d70c",
+      "doc_id": "maint1-o1002-t6nwatertreatmentsysteminsp_ee091f7768d3",
+      "chunk_index": 4,
+      "text": "© 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 2 of 2**",
+      "char_count": 523,
+      "token_estimate": 130,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment: Water Treatment System#### LEGEND/KEY| LEGEND | KEY       |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 4
+}

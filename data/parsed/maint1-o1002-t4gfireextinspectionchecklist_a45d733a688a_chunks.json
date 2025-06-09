@@ -1,0 +1,53 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t4gfireextinspectionchecklist_a45d733a688a_chunk_000_8a1f23aa",
+      "doc_id": "maint1-o1002-t4gfireextinspectionchecklist_a45d733a688a",
+      "chunk_index": 0,
+      "text": "# Extendicare Maintenance Inspection Checklist## Equipment: Fire Extinguishers### LEGEND/KEY| LEGEND | KEY         |\n|--------|-------------|\n| W      | Weekly      |\n| M      | Monthly     |\n| Q      | Quarterly   |\n| S      | Semi-Annual |\n| A      | Annual      |\n| O      | Ok          |\n| R      | Repair      |\n| N      | Replace     |### Equipment Details- **Name:**\n- **Year:**\n- **Manufacturer:**\n- **Model:** Portable### Inspection Checks| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   |   | 1 | Check that all extinguishers are in their proper location. |\n| X |   |   |   | 2 | Check that all extinguishers are fully charged. |\n| X |   |   |   | 3 | Check that seals and tamper indicators are in place. |\n| X |   |   |   | 4 | Inspect for damage, corrosion or leaks. |\n| X |   |   |   | 5 | Invert to prevent compaction (for dry chemical type only). |\n| X |   |   |   | 6 | Initial Monthly Inspection Tag.",
+      "char_count": 1066,
+      "token_estimate": 266,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t4gfireextinspectionchecklist_a45d733a688a_chunk_001_c88855c8",
+      "doc_id": "maint1-o1002-t4gfireextinspectionchecklist_a45d733a688a",
+      "chunk_index": 1,
+      "text": "|\n| X |   |   |   | 5 | Invert to prevent compaction (for dry chemical type only). |\n| X |   |   |   | 6 | Initial Monthly Inspection Tag. |\n|   | X |   |   | 7 | Refer to “Fire Extinguisher and Fire Hose Inspection SPECIFICATION” for annual requirements.* |\n|   |   |   |   |   | *The services of qualified personnel are to be employed. |### Monthly Inspection Record|     | JAN | FEB | MAR | APR | MAY | JUN |\n|-----|-----|-----|-----|-----|-----|-----|\n| M   |     |     |     |     |     |     |\n| Q   |     |     |     |     |     |     |\n| S   |     |     |     |     |     |     |\n| A   |     |     |     |     |     |     |\n| W   |     |     |     |     |     |     ||     | JUL | AUG | SEP | OCT | NOV | DEC |\n|-----|-----|-----|-----|-----|-----|-----|\n| M   |     |     |     |     |     |     |\n| Q   |     |     |     |     |     |     |\n| S   |     |     |     |     |     |     |\n| A   |     |     |     |     |     |     |\n| W   |     |     |     |     |     |     |----**Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1065,
+      "token_estimate": 266,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t4gfireextinspectionchecklist_a45d733a688a_chunk_002_56f104f1",
+      "doc_id": "maint1-o1002-t4gfireextinspectionchecklist_a45d733a688a",
+      "chunk_index": 2,
+      "text": "|### Monthly Inspection Record|     | JAN | FEB | MAR | APR | MAY | JUN |\n|-----|-----|-----|-----|-----|-----|-----|\n| M   |     |     |     |     |     |     |\n| Q   |     |     |     |     |     |     |\n| S   |     |     |     |     |     |     |\n| A   |     |     |     |     |     |     |\n| W   |     |     |     |     |     |     ||     | JUL | AUG | SEP | OCT | NOV | DEC |\n|-----|-----|-----|-----|-----|-----|-----|\n| M   |     |     |     |     |     |     |\n| Q   |     |     |     |     |     |     |\n| S   |     |     |     |     |     |     |\n| A   |     |     |     |     |     |     |\n| W   |     |     |     |     |     |     |----**Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed.",
+      "char_count": 1200,
+      "token_estimate": 300,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t4gfireextinspectionchecklist_a45d733a688a_chunk_003_67c56bbd",
+      "doc_id": "maint1-o1002-t4gfireextinspectionchecklist_a45d733a688a",
+      "chunk_index": 3,
+      "text": "will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 2 of 2",
+      "char_count": 762,
+      "token_estimate": 190,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 4
+}

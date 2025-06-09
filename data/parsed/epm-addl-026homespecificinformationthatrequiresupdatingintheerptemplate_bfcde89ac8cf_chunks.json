@@ -1,0 +1,42 @@
+{
+  "doc_id": "epm-addl-026homespecificinformationthatrequiresupdatingintheerptemplate_bfcde89ac8cf",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "epm-addl-026homespecificinformationthatrequiresupdatingintheerptemplate_bfcde89ac8cf_chunk_000_fc022e9f",
+      "doc_id": "epm-addl-026homespecificinformationthatrequiresupdatingintheerptemplate_bfcde89ac8cf",
+      "chunk_index": 0,
+      "text": "# Extendicare Home Specific Information in the ERP Template## EP Plan Document:\n- Home name on cover page and footers\n- Command Centre Location - page 7\n- Disaster Box Locations - page 7## Tab 2 Emergency Colour Codes\n- **Code Green** - Emergency Resident Identification Information\n- Provide the location of emergency photos, nametags, and any other emergency grab and go resident identification as well as how often it is updated.## Tab 3 Emergency Contact Documents (templates provided for each one):\n- Emergency Contact List\n- Equipment Maintenance List\n- Volunteer Skills (Programs may already have these)\n- Area of Refuge Contact Information\n- Include any written agreements you have with the locations.",
+      "char_count": 709,
+      "token_estimate": 177,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-026homespecificinformationthatrequiresupdatingintheerptemplate_bfcde89ac8cf_chunk_001_3be4b50d",
+      "doc_id": "epm-addl-026homespecificinformationthatrequiresupdatingintheerptemplate_bfcde89ac8cf",
+      "chunk_index": 1,
+      "text": "- Staff Fan Out List\n- Supplies Contacts\n- Transportation Resources## Tab 4 Business Continuity Plan:\n- Home name on front page and header\n- Home specific information in section ‘C’, “Essential Services”## Tab 6 Schematics:\n- **Home Floor Plan**\n- Identifying key life safety and exit information\n- Identifying each room\n- **Map showing the home and the search area quadrants around the home**\n- Map identifying muster point outside of the home\n- **HVAC Schematics** (included in the tab 6 section of the EP Plan document)\n- **Water Schematics** - Shut off and Gas supply shut off (included in the tab 6 section of the EP Plan document)\n- **Carbon Monoxide Alarm Locations** (included in the tab 6 section of the EP Plan document)\n- **Instructions on how to shut off the Ventilation systems** (included in the tab 6 section of the EP Plan document)----**Helping people**\n**Iva better**This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 1200,
+      "token_estimate": 300,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-026homespecificinformationthatrequiresupdatingintheerptemplate_bfcde89ac8cf_chunk_002_a79d55da",
+      "doc_id": "epm-addl-026homespecificinformationthatrequiresupdatingintheerptemplate_bfcde89ac8cf",
+      "chunk_index": 2,
+      "text": "will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 1 of 1",
+      "char_count": 264,
+      "token_estimate": 66,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

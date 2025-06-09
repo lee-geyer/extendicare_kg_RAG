@@ -1,0 +1,18 @@
+{
+  "doc_id": "ipc2-p10-e27-dropletcontactprecautionsposter_ef10a4d6f134",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "ipc2-p10-e27-dropletcontactprecautionsposter_ef10a4d6f134_chunk_000_245a6754",
+      "doc_id": "ipc2-p10-e27-dropletcontactprecautionsposter_ef10a4d6f134",
+      "chunk_index": 0,
+      "text": "# VISITORS - GET INSTRUCTIONS FROM STAFF BEFORE ENTERING## DROPLET + CONTACT PRECAUTIONS### IN ADDITION TO ROUTINE PRACTICES- **Wear long-sleeved gown**\n- Resident must wear mask if they leave the room\n- **Wear gloves**\n- Dedicate equipment to resident or disinfect before use with another\n- **Wear mask and eye protection**\n- Within 2 metres of resident",
+      "char_count": 354,
+      "token_estimate": 88,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 5
+    }
+  ]
+}

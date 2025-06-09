@@ -1,0 +1,54 @@
+{
+  "doc_id": "ipc3-p1008-pneumonia_25300d83d660",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "ipc3-p1008-pneumonia_25300d83d660_chunk_000_2f922743",
+      "doc_id": "ipc3-p1008-pneumonia_25300d83d660",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Infection Prevention and Control\n**INDEX:** IPC3-P10.08\n**SECTION:** Communicable Diseases\n**EFFECTIVE DATE:** February 18, 2025\n**REVIEWED DATE:** February 11, 2025\n**APPROVED BY:** Chief Medical Officer\n**MODIFIED DATE:** May 30, 2025----## POLICY### Communicable Diseases## PROCEDURE### PreventionInterventions to prevent pneumonia will be encouraged or provided and may include:- Respiratory vaccinations. - Appropriate Routine Practice measures, including hand hygiene and respiratory etiquette to limit and prevent the spread. - Maintenance/provision of adequate oral hygiene.Individual risk factors will be identified and documented relating to the risk of pneumonia (e.g., swallowing difficulty, inability to take oral medications, witnessed aspiration, urinary incontinence, smoking, inadequate oral hygiene, taking H2Ras or PPIs, etc.).### AssessmentClinical symptoms of pneumonia include:- Positive chest x-ray demonstrating pneumonia or the presence of a new infiltrate or consolidation. - New/increased cough. - New/increased sputum production. - O2 < 94% on room air or reduction of more than 3% from baseline.",
+      "char_count": 1161,
+      "token_estimate": 290,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p1008-pneumonia_25300d83d660_chunk_001_32274c6f",
+      "doc_id": "ipc3-p1008-pneumonia_25300d83d660",
+      "chunk_index": 1,
+      "text": "- New/increased sputum production. - O2 < 94% on room air or reduction of more than 3% from baseline. - New/changed lung examination abnormalities. - Pleuritic chest pain. - Increased respiratory rate. - Leukocytosis (greater than 10 x 10⁹ leukocytes/L in a complete blood count).Resident symptoms will be assessed, documented, and reported to the primary care provider in a timely fashion using health authority guidelines as applicable.### ManagementResidents suspected or confirmed of having pneumonia should be placed on Droplet/Contact Precautions. Ensure the following is taken into consideration:- Appropriate Additional Precautions Signage visible on entry to room. - The resident is placed in a single room with own toileting facilities if available.----**Helping people live better**\nThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025",
+      "char_count": 1116,
+      "token_estimate": 279,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p1008-pneumonia_25300d83d660_chunk_002_c00b64f1",
+      "doc_id": "ipc3-p1008-pneumonia_25300d83d660",
+      "chunk_index": 2,
+      "text": "# PROCEDURE## SECTION: Communicable Diseases\n\n### DESCRIPTION: Pneumonia",
+      "char_count": 72,
+      "token_estimate": 18,
+      "section_title": "PROCEDURE## SECTION: Communicable Diseases",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p1008-pneumonia_25300d83d660_chunk_004_27c5ca32",
+      "doc_id": "ipc3-p1008-pneumonia_25300d83d660",
+      "chunk_index": 4,
+      "text": "### INDEX: IPC3-P10.08- Maintain a spatial separation of at least 2 meters between the resident and others in the room, with privacy curtain drawn where possible.\n- Appropriate PPE is readily available outside, at the entrance to the room.Refer to the Infection Prevention policy for more information on how to appropriately manage residents on Droplet/Contact precautions.----**Helping people live better**This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 2 of 2**",
+      "char_count": 748,
+      "token_estimate": 187,
+      "section_title": "INDEX: IPC3-P10.08- Maintain a spatial separation of at least 2 meters between the resident and others in the room, with privacy curtain drawn where possible.",
+      "chunk_type": "content",
+      "start_line": 21,
+      "end_line": 22
+    }
+  ]
+}

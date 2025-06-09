@@ -1,0 +1,29 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint6-o1001pestcontrolprogram_6f61c1afee7d_chunk_000_fe5b31f0",
+      "doc_id": "maint6-o1001pestcontrolprogram_6f61c1afee7d",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE\n- **MANUAL:** Maintenance\n- **INDEX:** MAINT6-O10.01\n- **SECTION:** Establishing A Pest Control Program\n- **DESCRIPTION:** Pest Control Program\n- **APPROVED BY:** VP LTC Operations\n- **EFFECTIVE DATE:**\n- **REVIEWED DATE:**\n- **MODIFIED DATE:**----# POLICY\n\n## Establishing a Pest Control Program### PROCEDURE\nThe Maintenance Manager or Designate will complete the following:- Ensure a preventative pest control program is in place in the home.\n- Contact the pest control company immediately if a suspected infestation is reported in the home.\n- Keep all pest control records on file.\n- Implement an effective preventive maintenance program such as inspecting all baseboards, walls, window screens, and corner openings.\n- Dispose of refuse regularly in proper containers.\n- Ensure grease and soil is removed from all corners, stairwells, and ductwork by regular, scheduled cleaning.\n- Inspect and treat, if necessary, all new residents’ furnishings/appliances.\n- Inspect incoming goods and contact suppliers immediately if infested.\n- Housekeeping staff will establish a regular and specific cleaning program for all storage cupboards and drawers.\n- If you suspect a pest problem, report to management or your supervisor immediately and make note of the location and description of all pests or rodents sighted.### EDUCATION",
+      "char_count": 1350,
+      "token_estimate": 337,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint6-o1001pestcontrolprogram_6f61c1afee7d_chunk_002_348d3327",
+      "doc_id": "maint6-o1001pestcontrolprogram_6f61c1afee7d",
+      "chunk_index": 2,
+      "text": "1. Cockroach Fact Sheet\n\n2. Bed Bug Fact Sheet----> **Helping People Live Better**\n> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\n> Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 1",
+      "char_count": 423,
+      "token_estimate": 105,
+      "section_title": "Cockroach Fact Sheet",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 2
+}

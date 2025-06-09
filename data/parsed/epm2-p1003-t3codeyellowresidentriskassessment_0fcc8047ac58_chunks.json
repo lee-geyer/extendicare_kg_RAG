@@ -1,0 +1,30 @@
+{
+  "doc_id": "epm2-p1003-t3codeyellowresidentriskassessment_0fcc8047ac58",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "epm2-p1003-t3codeyellowresidentriskassessment_0fcc8047ac58_chunk_000_95b32fa0",
+      "doc_id": "epm2-p1003-t3codeyellowresidentriskassessment_0fcc8047ac58",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Code Yellow Resident Risk Assessment**Date:** Enter date\n**Incident Manager:**\n*Attach a photo of the resident to this risk assessment for the police***Resident Name:**\n**Individual Completing the assessment (name and designation):**### Physical\n- **Sex:** ________________\n- **Personal Pronoun:** ________________\n- **Age:** ________________\n- **Race:** ________________\n- **Hair Colour and Length:** ________________________________\n- **Clothing:** ________________________________________________________________\n- **Glasses:** ________________\n- **Other physical traits:** _______________________________________________________### Medication\n- **Life Saving:** ______________________________________________________________\n- **High Risk:** _______________________________________________________________### Intellectual Capabilities\n- **Cognition:** ________________________________________________________________\n- **Language:** ________________________________________________________________\n- **Other:** __________________________________________________________________### Social Information\n- **POA/SDM(s):** ______________________________________________________________\n- **Places Frequented:** ________________________________________________________\n- **Visitors:** __________________________________________________________________\n- **LOA’s:** ___________________________________________________________________\n- **Independent:** ______________________________________________________________\n- **Other:** ____________________________________________________________________----**Helping people live better**\nThis document is uncontrolled when printed.",
+      "char_count": 1690,
+      "token_estimate": 422,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1003-t3codeyellowresidentriskassessment_0fcc8047ac58_chunk_002_813d97b1",
+      "doc_id": "epm2-p1003-t3codeyellowresidentriskassessment_0fcc8047ac58",
+      "chunk_index": 2,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n```markdown\n\n# Code Yellow Resident Risk Assessment> This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\n> Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 2 of 2\n```",
+      "char_count": 676,
+      "token_estimate": 169,
+      "section_title": "Code Yellow Resident Risk Assessment**Date:** Enter date",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

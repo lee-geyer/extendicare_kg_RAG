@@ -1,0 +1,30 @@
+{
+  "doc_id": "care3-p1002-t1nightnursesafetyroundschecklist_a9657564f9f8",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "care3-p1002-t1nightnursesafetyroundschecklist_a9657564f9f8_chunk_000_59d38f08",
+      "doc_id": "care3-p1002-t1nightnursesafetyroundschecklist_a9657564f9f8",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Night Nurse Safety Rounds Checklist| ITEMS CHECKED | Status (YES/NO) | Gaps & Follow-Up Actions (Detail of gap and any action taken) |\n|----------------|------------------|---------------------------------------------------------------|\n| Exits are locked & free from debris, ice, or snow |                  |                                                               |\n| Nurse Call System is functioning |                  |                                                               |\n| Wander Guard System is activated |                  |                                                               |\n| Fire Enunciator Panel indicates full operational status |                  |                                                               |\n| Kitchen door is locked |                  |                                                               |\n| Outdoor lights are on for staff security |                  |                                                               |\n| Doors locked (Spa, med/tx, utility rooms, laundry chutes, etc.) |                  |                                                               |\n| Corridors are clear of clutter |                  |                                                               |\n| Resident safety rounds are being completed |                  |                                                               |> **Note:** For immediate concerns, please ensure that the on-call manager is notified, and complete applicable Maintenance Care request.### Nurse completing rounds:\n- **Name (print):** __________________________\n- **Signature:** __________________________\n- **Date:** __________________________----> Helping people live better\n> This document is uncontrolled when printed.",
+      "char_count": 1784,
+      "token_estimate": 446,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p1002-t1nightnursesafetyroundschecklist_a9657564f9f8_chunk_002_5416b2ba",
+      "doc_id": "care3-p1002-t1nightnursesafetyroundschecklist_a9657564f9f8",
+      "chunk_index": 2,
+      "text": "> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 1",
+      "char_count": 296,
+      "token_estimate": 74,
+      "section_title": "Night Nurse Safety Rounds Checklist| ITEMS CHECKED | Status (YES/NO) | Gaps & Follow-Up Actions (Detail of gap and any action taken) |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

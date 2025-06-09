@@ -1,0 +1,78 @@
+{
+  "doc_id": "care3-p1004-t2tobaccocannabisconsumptionagreement_356df962edcd",
+  "total_chunks": 6,
+  "chunks": [
+    {
+      "chunk_id": "care3-p1004-t2tobaccocannabisconsumptionagreement_356df962edcd_chunk_000_6b41e880",
+      "doc_id": "care3-p1004-t2tobaccocannabisconsumptionagreement_356df962edcd",
+      "chunk_index": 0,
+      "text": "# Extendicare Tobacco and Cannabis Consumption Agreement\n\n## [Name of Home]I agree to abide by the following protocols:                                      Initi\nal1. **Smoking Room (Extendicare Valleyview ONLY)**: I understand that I am only permitted to smoke in the approved designated smoking room.",
+      "char_count": 303,
+      "token_estimate": 75,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p1004-t2tobaccocannabisconsumptionagreement_356df962edcd_chunk_002_c7264a95",
+      "doc_id": "care3-p1004-t2tobaccocannabisconsumptionagreement_356df962edcd",
+      "chunk_index": 2,
+      "text": "2. **Smoke-Free Facility**: I understand this home is a smoke-free facility and therefore I am not permitted to smoke or vape tobacco or cannabis inside the building.\n\n3. **Smoking/Vaping Outside**: I may smoke or vaporize tobacco or cannabis only after completion of a screening assessment where I have been determined safe to independently do so outside, at least [____] meters away from any building entrance.",
+      "char_count": 412,
+      "token_estimate": 103,
+      "section_title": "**Smoke-Free Facility**: I understand this home is a smoke-free facility and therefore I am not permitted to smoke or vape tobacco or cannabis inside the building.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p1004-t2tobaccocannabisconsumptionagreement_356df962edcd_chunk_004_05bb868d",
+      "doc_id": "care3-p1004-t2tobaccocannabisconsumptionagreement_356df962edcd",
+      "chunk_index": 4,
+      "text": "4. **Cannabis Consumption**: I can consume or use cannabis edibles or oil in my room, only after completion of a screening assessment. I will do so safely and only where permitted, store products securely and where I do not exceed the legal possession limits.\n\n5. **Evaluation**: My ability to independently smoke/vape or consume tobacco or cannabis will be evaluated at move-in, quarterly, and upon changes to my abilities, or at times when my personal safety or the safety of others around me is in question.",
+      "char_count": 510,
+      "token_estimate": 127,
+      "section_title": "**Cannabis Consumption**: I can consume or use cannabis edibles or oil in my room, only after completion of a screening assessment. I will do so safely and only where permitted, store products securely and where I do not exceed the legal possession limits.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p1004-t2tobaccocannabisconsumptionagreement_356df962edcd_chunk_006_9c458e23",
+      "doc_id": "care3-p1004-t2tobaccocannabisconsumptionagreement_356df962edcd",
+      "chunk_index": 6,
+      "text": "6. **Annual Agreement Renewal**: This Tobacco and Cannabis Consumption Agreement will be reviewed and re-signed annually.\n\n7. **Limited Smoking/Vaping**: If I am unable to smoke or vape independently outside, I understand that I cannot smoke or vape on this home’s property.",
+      "char_count": 274,
+      "token_estimate": 68,
+      "section_title": "**Annual Agreement Renewal**: This Tobacco and Cannabis Consumption Agreement will be reviewed and re-signed annually.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p1004-t2tobaccocannabisconsumptionagreement_356df962edcd_chunk_008_c184fc91",
+      "doc_id": "care3-p1004-t2tobaccocannabisconsumptionagreement_356df962edcd",
+      "chunk_index": 8,
+      "text": "8. **Lighter**: I will give my lighter(s) to the unit nurse at the end of each day for safety. The nurse will schedule a time to return my smoking equipment.\n\n9. **Safe Storage**: I understand that all tobacco and cannabis products must be kept on my person or securely locked in my room to prevent access by others.",
+      "char_count": 316,
+      "token_estimate": 79,
+      "section_title": "**Lighter**: I will give my lighter(s) to the unit nurse at the end of each day for safety. The nurse will schedule a time to return my smoking equipment.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p1004-t2tobaccocannabisconsumptionagreement_356df962edcd_chunk_010_b2cff343",
+      "doc_id": "care3-p1004-t2tobaccocannabisconsumptionagreement_356df962edcd",
+      "chunk_index": 10,
+      "text": "10. **Responsibility for Cannabis**: I am responsible for the safe use, storage, and disposal of cannabis, in accordance with all applicable laws and Extendicare policies. This home and its staff are not responsible for my cannabis, nor will they hold it on my behalf.- Any violation of the above may result in the loss of smoking/vaping or cannabis consumption privileges and reporting to the local fire marshal.\n- I have read and understand the Tobacco and Cannabis Consumption Agreement.----**Signature of Resident**: ___________________________  **Date**: _______________**Signature of Executive Director / Designate**: ___________________________  **Date**: _______________----*Helping people live better*This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 1**",
+      "char_count": 1051,
+      "token_estimate": 262,
+      "section_title": "**Responsibility for Cannabis**: I am responsible for the safe use, storage, and disposal of cannabis, in accordance with all applicable laws and Extendicare policies. This home and its staff are not responsible for my cannabis, nor will they hold it on my behalf.- Any violation of the above may result in the loss of smoking/vaping or cannabis consumption privileges and reporting to the local fire marshal.",
+      "chunk_type": "content",
+      "start_line": 11,
+      "end_line": 12
+    }
+  ]
+}

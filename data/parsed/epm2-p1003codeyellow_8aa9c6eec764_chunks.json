@@ -1,0 +1,78 @@
+{
+  "doc_id": "epm2-p1003codeyellow_8aa9c6eec764",
+  "total_chunks": 6,
+  "chunks": [
+    {
+      "chunk_id": "epm2-p1003codeyellow_8aa9c6eec764_chunk_000_a493ccc1",
+      "doc_id": "epm2-p1003codeyellow_8aa9c6eec764",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Emergency Planning and\n**INDEX:** EPM2-P10.03\n**SECTION:** Emergency Response Codes\n**EFFECTIVE DATE:** January 13, 2025\n**REVIEWED DATE:** January 6, 2025\n**APPROVED BY:** Senior Director, Corporate Quality and Risk\n**MODIFIED DATE:** May 30, 2025----## POLICY### Emergency Response Codes## PROCEDURECode Yellow is announced when a resident has been identified as missing. Residents are considered missing when they are not in a location where staff can find them and are not signed out of the home.### PreventThe Director of Care/Charge nurse will:\n- Assess all residents upon admission for wandering and exit-seeking, reassess as required. - Apply mitigation strategies for residents identified as exit-seeking:\n- Wander guards\n- Tailored behavioral programs\n- Locked units\n- Registered with Alzheimer's society wandering registry, etc.The Executive Director/Designate will designate the following:\n- Post a sign at all entrances/exits informing visitors to not assist/open doors for residents unless they know the resident is permitted to leave the home.",
+      "char_count": 1095,
+      "token_estimate": 273,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1003codeyellow_8aa9c6eec764_chunk_001_f196abb8",
+      "doc_id": "epm2-p1003codeyellow_8aa9c6eec764",
+      "chunk_index": 1,
+      "text": "Residents are considered missing when they are not in a location where staff can find them and are not signed out of the home.### PreventThe Director of Care/Charge nurse will:\n- Assess all residents upon admission for wandering and exit-seeking, reassess as required. - Apply mitigation strategies for residents identified as exit-seeking:\n- Wander guards\n- Tailored behavioral programs\n- Locked units\n- Registered with Alzheimer's society wandering registry, etc.The Executive Director/Designate will designate the following:\n- Post a sign at all entrances/exits informing visitors to not assist/open doors for residents unless they know the resident is permitted to leave the home. - When the home has planned downtime of maglock or locked doors in which the doors will be unlocked for any period of time, instruct staff to monitor doors until the downtime has ended to ensure no residents exit the building.",
+      "char_count": 911,
+      "token_estimate": 227,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1003codeyellow_8aa9c6eec764_chunk_002_f5ab1edd",
+      "doc_id": "epm2-p1003codeyellow_8aa9c6eec764",
+      "chunk_index": 2,
+      "text": "- Apply mitigation strategies for residents identified as exit-seeking:\n- Wander guards\n- Tailored behavioral programs\n- Locked units\n- Registered with Alzheimer's society wandering registry, etc.The Executive Director/Designate will designate the following:\n- Post a sign at all entrances/exits informing visitors to not assist/open doors for residents unless they know the resident is permitted to leave the home. - When the home has planned downtime of maglock or locked doors in which the doors will be unlocked for any period of time, instruct staff to monitor doors until the downtime has ended to ensure no residents exit the building. - Ensure all visitors or contracted services are aware of potential safety risks and are aware of a clear escalation pathway for concerns (e.g., direct them to the Director of Care).### RespondAll Staff must follow the procedures for a missing resident as per their designated Job Action checklists and follow direction from the Incident Manager.### TOOLS",
+      "char_count": 998,
+      "token_estimate": 249,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1003codeyellow_8aa9c6eec764_chunk_003_e4a1fa1c",
+      "doc_id": "epm2-p1003codeyellow_8aa9c6eec764",
+      "chunk_index": 3,
+      "text": "1. Code Yellow - Incident Manager Job Action Checklist\n\n2. Code Yellow - All Staff Job Action Checklist",
+      "char_count": 103,
+      "token_estimate": 25,
+      "section_title": "Code Yellow - Incident Manager Job Action Checklist",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1003codeyellow_8aa9c6eec764_chunk_005_583c42af",
+      "doc_id": "epm2-p1003codeyellow_8aa9c6eec764",
+      "chunk_index": 5,
+      "text": "3. Code Yellow Resident Risk Assessment\n\n4. Code Yellow - Executive Director/Designate Job Action Checklist",
+      "char_count": 107,
+      "token_estimate": 26,
+      "section_title": "Code Yellow Resident Risk Assessment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1003codeyellow_8aa9c6eec764_chunk_007_07f9c7f8",
+      "doc_id": "epm2-p1003codeyellow_8aa9c6eec764",
+      "chunk_index": 7,
+      "text": "5. Code Yellow Poster----**Helping people**\nThis document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 1 of 1",
+      "char_count": 378,
+      "token_estimate": 94,
+      "section_title": "Code Yellow Poster----**Helping people**",
+      "chunk_type": "content",
+      "start_line": 20,
+      "end_line": 23
+    }
+  ]
+}

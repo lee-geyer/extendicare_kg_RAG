@@ -1,0 +1,11 @@
+{
+  "doc_id": "care19-p1001-t2incidentseveritylevels_b70040cad841",
+  "category": "Care",
+  "schema_used": "GenericDocumentMeta",
+  "extraction_success": true,
+  "metadata": {
+    "title": "Extendicare Incident Severity Levels"
+  },
+  "error": null,
+  "fallback_metadata": null
+}

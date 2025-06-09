@@ -1,0 +1,18 @@
+{
+  "doc_id": "ipc2-p10-e19-staysafevisitorsposter_e70dae24836b",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "ipc2-p10-e19-staysafevisitorsposter_e70dae24836b_chunk_000_129e5376",
+      "doc_id": "ipc2-p10-e19-staysafevisitorsposter_e70dae24836b",
+      "chunk_index": 0,
+      "text": "# Extendicare## Stay Safe### Keep Our Residents SaferFor the health and safety of your loved ones, we recommend visitors and caregivers wear a mask in all resident areas while indoors.",
+      "char_count": 184,
+      "token_estimate": 46,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 0
+    }
+  ]
+}

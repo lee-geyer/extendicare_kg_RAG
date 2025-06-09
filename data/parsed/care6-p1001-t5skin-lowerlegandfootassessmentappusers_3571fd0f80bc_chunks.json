@@ -1,0 +1,78 @@
+{
+  "doc_id": "care6-p1001-t5skin-lowerlegandfootassessmentappusers_3571fd0f80bc",
+  "total_chunks": 6,
+  "chunks": [
+    {
+      "chunk_id": "care6-p1001-t5skin-lowerlegandfootassessmentappusers_3571fd0f80bc_chunk_000_a00254d7",
+      "doc_id": "care6-p1001-t5skin-lowerlegandfootassessmentappusers_3571fd0f80bc",
+      "chunk_index": 0,
+      "text": "# Skin - Lower Leg and Foot Assessment| Resident: | Effective Date: | Location: |\n|-----------|-----------------|-----------|\n| Initial Admission: | Admission: | Date of Birth: |\n| Score: NA | Category: NA | Physician: |## A. Reason for Assessment1. Reason for Assessment:\n- a. Move-in\n- b. Return from hospital/ ER\n- c. Return from LOA (greater than 24 hrs)\n- d. Change in Status (affecting skin integrity)## C. Lower Leg and Foot1. Select all diagnosis which may impact lower legs and feet. (e.g., Diabetes, PVD, PAD, sickle cell, hypertension, RA etc.)",
+      "char_count": 555,
+      "token_estimate": 138,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 7
+    },
+    {
+      "chunk_id": "care6-p1001-t5skin-lowerlegandfootassessmentappusers_3571fd0f80bc_chunk_001_4d8b611a",
+      "doc_id": "care6-p1001-t5skin-lowerlegandfootassessmentappusers_3571fd0f80bc",
+      "chunk_index": 1,
+      "text": "2. Any pain in lower legs or feet? - a. Yes\n- b. No**ACTION REQUIRED:**\nThe 'Pain - Integrated Screen and Assessment' schedule has been triggered. To complete, open under 'next assessment due' section of the Resident's health record.3. Range of Motion:\n- a. Full ROM\n- b. Limited ROM\n- c. Contractures\n- d. Absence of ROM**Describe:**4. Any edema in lower legs or feet? - a. Yes\n- b. No**Describe:**5. Lower leg and foot skin condition:\n- a. Healthy and Intact\n- b. Dry and or Flaky\n- c. Shiny\n- d. Hemosiderin staining (brownish/reddish discoloration)\n- e. Varicosities\n- f. Heavy callus buildup\n- g. Blisters/cracks/fissures\n- h. Amputation\n- i. Open lesion or ulcer\n- j. Lipodermatosclerosis (tightness/hardened skin appearance)\n- k. Blackened Necrotic Toe\n- l. Scarring or evidence of closed wound\n- m. Prior pressure ulcer/injury\n- n. Other**Describe:**6. Lower leg and foot colour:\n- a. Pale\n- b. Normal\n- c. Red\n- d. Blue\n- e. Black\n- f. Other**Describe:**----**Page 1 of 3**# Skin - Lower Leg and Foot Assessment**Resident:**## 6. Lower leg and foot warmth:\n- a. Warm (normal)\n- b. Hot\n- c. Cool\n- d. Cold### 6b. Describe:## 7. Toenails:\n- a. No issues\n- b. Damaged\n- c. Signs of infection\n- d.",
+      "char_count": 1202,
+      "token_estimate": 300,
+      "section_title": "Any pain in lower legs or feet?",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care6-p1001-t5skin-lowerlegandfootassessmentappusers_3571fd0f80bc_chunk_002_f1c50f62",
+      "doc_id": "care6-p1001-t5skin-lowerlegandfootassessmentappusers_3571fd0f80bc",
+      "chunk_index": 2,
+      "text": "Damaged\n- c. Signs of infection\n- d. Thick### 7b. Describe:### ACTION REQUIRED:\n- 7c. Advanced footcare recommended if not already subscribed.## 8. Deformity:\n- a. No deformity\n- b. Bunion\n- c. Hammer toes\n- d. Structural\n- e. Overlapping toes deformity### 8b. Describe:### Indicate presence of pedal pulses## 9.\n\n1. Assess dorsalis pedis pulses - Locate lateral to the tendon of the great toe (top of foot)",
+      "char_count": 407,
+      "token_estimate": 101,
+      "section_title": "Any pain in lower legs or feet?",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care6-p1001-t5skin-lowerlegandfootassessmentappusers_3571fd0f80bc_chunk_004_8cbef0dc",
+      "doc_id": "care6-p1001-t5skin-lowerlegandfootassessmentappusers_3571fd0f80bc",
+      "chunk_index": 4,
+      "text": "2. Assess posterior tibial pulses - locate behind the medial malleolus (behind the ankle).### 9a. Is the left Dorsalis pedis palpable? - a. Yes\n- b. No### 9aq. What is the quality of the pulse? - a. Regular\n- b. Strong bounding\n- c. Weak\n- d. Irregular### 9b. Is the right Dorsalis pedis palpable? - a. Yes\n- b. No### 9bq. What is the quality of the pulse? - a. Regular\n- b. Strong bounding\n- c. Weak\n- d. Irregular### 9c. Is the left Posterior tibial palpable? - a. Yes\n- b. No### 9cq. What is the quality of the pulse? - a. Regular\n- b. Strong bounding\n- c. Weak\n- d. Irregular### 9d. Is the right Posterior tibial palpable? - a. Yes\n- b. No### 9dq. What is the quality of the pulse? - a. Regular\n- b. Strong bounding\n- c. Weak\n- d. Irregular### 9e. Describe any difference between feet:## 10. Lower leg and foot sensation:\n- a. Normal\n- b. Tingling\n- c. Burning\n- d. Numbness\n- e. Other### 10b. Describe:----**Page 2 of 3**# Skin - Lower Leg and Foot Assessment**Resident:**It is especially important to assess footwear of Residents with cognitive impairment or those who have impaired sensation (i.e., due to diabetes).## 11. Footwear:\n- a. Is comfortable\n- b. Causes irritation/redness\n- c.",
+      "char_count": 1195,
+      "token_estimate": 298,
+      "section_title": "Assess posterior tibial pulses - locate behind the medial malleolus (behind the ankle).### 9a. Is the left Dorsalis pedis palpable?",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care6-p1001-t5skin-lowerlegandfootassessmentappusers_3571fd0f80bc_chunk_005_ece14590",
+      "doc_id": "care6-p1001-t5skin-lowerlegandfootassessmentappusers_3571fd0f80bc",
+      "chunk_index": 5,
+      "text": "Is comfortable\n- b. Causes irritation/redness\n- c. Causes pain## 12. Lower Leg and Foot Overview\n- a. Resident feet and lower legs have no areas of impairment to skin integrity. - b. Resident lower leg and/or foot has compromised skin integrity (rash/bruise/blisters/cracks/fissures, etc.). - c. Resident has a wound on lower leg or foot (pressure/diabetic/circulatory). - d. At risk lower legs and/or feet identified.### 12a. Leg and/or Foot Additional Comments:\n**ACTION REQUIRED:**### 12b. Complete through the PointClickCare/Swift app a 'Skin & Wound Evaluation'.**Focus:** Maintenance Plan for intact Skin Integrity## 13. Plan for Lower Legs and Feet:\n**Focus:** Maintenance Plan for intact Skin Integrity\n- **Intervention:** Barrier cream to heels twice daily. - **Intervention:** Offloading to heels.## E. Evaluation and Plan",
+      "char_count": 832,
+      "token_estimate": 208,
+      "section_title": "Assess posterior tibial pulses - locate behind the medial malleolus (behind the ankle).### 9a. Is the left Dorsalis pedis palpable?",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care6-p1001-t5skin-lowerlegandfootassessmentappusers_3571fd0f80bc_chunk_006_7cdeb179",
+      "doc_id": "care6-p1001-t5skin-lowerlegandfootassessmentappusers_3571fd0f80bc",
+      "chunk_index": 6,
+      "text": "1. Include any change in treatment, evaluate effectiveness of interventions, consider alternative approach if wound is not healing, review and update care plan as required.\n- a. Plan of care created.\n- b. Plan of care revised. New approach added to the plan.\n- c. Plan of care effective, interventions ongoing.\n- d. Cause of issue has been mitigated.2. Referrals initiated:\n- a. Skin and Wound Lead (e.g., circulation or sensation concerns)\n- b. Occupational Therapist\n- c. Physiotherapist\n- d. Restorative Care Coordinating Committee\n- e. Pain Lead\n- f. Registered Dietitian**ACTION REQUIRED:**A schedule for the selected referral has been triggered, go to the Resident 'next assessment due' section to open, complete the top half and leave 'in progress' for the referee.----**Signature**: ____________________  **Date**: ____________________**Page 3 of 3**",
+      "char_count": 858,
+      "token_estimate": 214,
+      "section_title": "Include any change in treatment, evaluate effectiveness of interventions, consider alternative approach if wound is not healing, review and update care plan as required.",
+      "chunk_type": "content",
+      "start_line": 95,
+      "end_line": 105
+    }
+  ]
+}

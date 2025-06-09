@@ -1,0 +1,41 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "admin1-p30medicalservicesandstandardspolicy_6a3b2dd40e76_chunk_000_e7ae2851",
+      "doc_id": "admin1-p30medicalservicesandstandardspolicy_6a3b2dd40e76",
+      "chunk_index": 0,
+      "text": "# Extendicare Policy Manual## Administration\n**INDEX:** ADMIN1-P30\n**SECTION:** Medical and Professional Services\n**EFFECTIVE DATE:** July 15, 2025\n**REVIEWED DATE:** July 8, 2025\n**APPROVED BY:** VP, LTC Operations\n**MODIFIED DATE:**----## POLICY\nAll Extendicare homes shall ensure that each resident receives medical services that are appropriate, continuous, and evaluated in accordance with legislation and accepted standards of practice as set out by the provincial medical college / regulatory authority governing the provision of medical services in the province in which the home is located.## STANDARD\nEach home is to arrange medical services to ensure that every resident receives the appropriate medical services as set out in the legislation and regulatory bodies that govern the provision of medical services.## PROCEDURE",
+      "char_count": 834,
+      "token_estimate": 208,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 8
+    },
+    {
+      "chunk_id": "admin1-p30medicalservicesandstandardspolicy_6a3b2dd40e76_chunk_001_3ce15a02",
+      "doc_id": "admin1-p30medicalservicesandstandardspolicy_6a3b2dd40e76",
+      "chunk_index": 1,
+      "text": "1. Medical Services and Standards## REFERENCES\n\n1. Alberta\n- a. Continuing Care Act\n- b. Alberta Continuing Care Accommodation and Health Service Standards",
+      "char_count": 155,
+      "token_estimate": 38,
+      "section_title": "Medical Services and Standards## REFERENCES",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "admin1-p30medicalservicesandstandardspolicy_6a3b2dd40e76_chunk_003_7741115e",
+      "doc_id": "admin1-p30medicalservicesandstandardspolicy_6a3b2dd40e76",
+      "chunk_index": 3,
+      "text": "2. Manitoba\n- a. The Health Services Insurance Act, 2025\n\n3. Ontario\n- a. Ontario Fixing Long-Term Care Act, 2021\n- b. Ontario Regulation 246/22 under the Fixing Long-Term Care Act, 2021----*Helping people live a better life*\nThis document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 1 of 1",
+      "char_count": 560,
+      "token_estimate": 140,
+      "section_title": "Manitoba",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 3
+}

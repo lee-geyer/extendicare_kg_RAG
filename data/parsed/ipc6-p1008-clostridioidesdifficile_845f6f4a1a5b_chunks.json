@@ -1,0 +1,138 @@
+{
+  "doc_id": "ipc6-p1008-clostridioidesdifficile_845f6f4a1a5b",
+  "total_chunks": 11,
+  "chunks": [
+    {
+      "chunk_id": "ipc6-p1008-clostridioidesdifficile_845f6f4a1a5b_chunk_000_c07fd638",
+      "doc_id": "ipc6-p1008-clostridioidesdifficile_845f6f4a1a5b",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE\n**MANUAL:** Infection Prevention and\n**INDEX:** IPC6-P10.08\n**SECTION:** Multi-Drug-Resistant Organisms (MDROs)\n**DESCRIPTION:** Clostridioides difficile\n**EFFECTIVE DATE:** February 18, 2025\n**REVIEWED DATE:** February 11, 2025\n**APPROVED BY:** Chief Medical Officer\n**MODIFIED DATE:** May 30, 2025----## POLICY\n\n### Communicable Diseases### PROCEDURE#### Assessment\nIn the event a Resident has three (3) or more loose/watery stools above what is normal within a 24-hour period and/or other symptoms (e.g., nausea, vomiting, fever, abdominal pain or tenderness) and Clostridioides difficile (C. difficile) is suspected, the Nurse will:- Initiate Contact Precautions. - Notify the Infection Control Professional (ICP)/Designate and the Director of Care/Director of Health and Wellness. - Notify the Physician/Nurse Practitioner (NP). - If testing is ordered, send a stool sample specimen for C. difficile/toxin testing to the laboratory, as soon as possible after suspected clinical diagnosis. If transport is more than two hours, the sample must be refrigerated. - Stool sample must be a liquid or loose stool, which takes the shape of the container. The container must be 1/3 full (25ml) without preservatives. - Formed stool is not an appropriate specimen and should not be sent for testing. - Repeat testing during the same episode of diarrhea or follow-up for ‘test of cure’ is not usually indicated.",
+      "char_count": 1431,
+      "token_estimate": 357,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p1008-clostridioidesdifficile_845f6f4a1a5b_chunk_002_de08a869",
+      "doc_id": "ipc6-p1008-clostridioidesdifficile_845f6f4a1a5b",
+      "chunk_index": 2,
+      "text": "- Formed stool is not an appropriate specimen and should not be sent for testing. - Repeat testing during the same episode of diarrhea or follow-up for ‘test of cure’ is not usually indicated. Note: Depending on the type of laboratory test used, a second test may be indicated if the first test is negative, and symptoms persist. Confirm with the local laboratory authorities, if indicated. - Testing after C. difficile symptoms are resolved is not recommended as toxin may persist in stool for weeks to months despite resolution of illness. - Document assessments and interventions in the interdisciplinary progress notes and the Resident’s plan of care.#### Management and Treatment\nIn consultation with the Physician/NP and pharmacy, review Resident’s current medications.- Consider discontinuing antibiotic therapy if possible. Antibiotics intended for the treatment of C. difficile are exceptions and should be initiated promptly. - Antidiarrheal agents should not be used until C. difficile has been excluded.Transfer of Residents suspected or confirmed to have C.",
+      "char_count": 1070,
+      "token_estimate": 267,
+      "section_title": "Communicable Diseases### PROCEDURE#### Assessment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p1008-clostridioidesdifficile_845f6f4a1a5b_chunk_003_6f2a2fae",
+      "doc_id": "ipc6-p1008-clostridioidesdifficile_845f6f4a1a5b",
+      "chunk_index": 3,
+      "text": "- Antidiarrheal agents should not be used until C. difficile has been excluded.Transfer of Residents suspected or confirmed to have C. difficile within and between facilities should be avoided unless medically indicated (e.g., for essential diagnostic and therapeutic tests/treatment). If a medically indicated transfer is necessary, the transferring service, receiving unit, or facility should be advised of the necessary precautions for the Resident.----### Helping people live better\nThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 3**# PROCEDURE## SECTION: Multi-Drug Resistant Organisms (MDROs)",
+      "char_count": 889,
+      "token_estimate": 222,
+      "section_title": "Communicable Diseases### PROCEDURE#### Assessment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p1008-clostridioidesdifficile_845f6f4a1a5b_chunk_004_10064de4",
+      "doc_id": "ipc6-p1008-clostridioidesdifficile_845f6f4a1a5b",
+      "chunk_index": 4,
+      "text": "## DESCRIPTION: Clostridioides difficile\n\n## INDEX: IPC6-P10.08A request to have the Resident promptly seen to minimize time in waiting areas should be considered. To reduce transmission, the Resident should be provided with freshly washed clothing - stools should be contained (i.e., with continent products) as necessary, and instruction/assistance with performing hand hygiene should be provided.### Surveillance and Reporting\n- Confirmed cases of C. difficile will be reported to the Health Authority as per health authority requirements. - Tracking of positive cases will be conducted using home’s surveillance procedure and as per health authority requirements.### Resident Placement, Cohorting, and Activities\nA risk assessment should be done to determine Resident placement and removal from a shared room, the potential of infection risks to other Residents in the room, the presence of risk factors that increase the likelihood of transmission, and the potential psychological impact on the symptomatic Resident.",
+      "char_count": 1021,
+      "token_estimate": 255,
+      "section_title": "DESCRIPTION: Clostridioides difficile",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p1008-clostridioidesdifficile_845f6f4a1a5b_chunk_006_0ecfa4a2",
+      "doc_id": "ipc6-p1008-clostridioidesdifficile_845f6f4a1a5b",
+      "chunk_index": 6,
+      "text": "difficile will be reported to the Health Authority as per health authority requirements. - Tracking of positive cases will be conducted using home’s surveillance procedure and as per health authority requirements.### Resident Placement, Cohorting, and Activities\nA risk assessment should be done to determine Resident placement and removal from a shared room, the potential of infection risks to other Residents in the room, the presence of risk factors that increase the likelihood of transmission, and the potential psychological impact on the symptomatic Resident. The ICP/designate should be consulted.- A single room is preferred if the Resident is incontinent (i.e., feces that cannot be contained) or the Resident has poor hygiene that might lead to contamination of the surrounding environment. - The room door may remain open. - If the room does not have dedicated toilet and hand washing facilities, use a separate commode for that Resident. - Contact Precautions signage must be posted on the room door.If a single room is not possible and the room is shared, maintain spatial separation of at least one meter between the infected Resident(s) and other Residents.",
+      "char_count": 1174,
+      "token_estimate": 293,
+      "section_title": "INDEX: IPC6-P10.08A request to have the Resident promptly seen to minimize time in waiting areas should be considered. To reduce transmission, the Resident should be provided with freshly washed clothing - stools should be contained (i.e., with continent products) as necessary, and instruction/assistance with performing hand hygiene should be provided.### Surveillance and Reporting",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p1008-clostridioidesdifficile_845f6f4a1a5b_chunk_007_ef3c86ec",
+      "doc_id": "ipc6-p1008-clostridioidesdifficile_845f6f4a1a5b",
+      "chunk_index": 7,
+      "text": "- If the room does not have dedicated toilet and hand washing facilities, use a separate commode for that Resident. - Contact Precautions signage must be posted on the room door.If a single room is not possible and the room is shared, maintain spatial separation of at least one meter between the infected Resident(s) and other Residents. - Roommates should not have conditions (i.e., end stage renal disease, cancer, or immunodeficiency) that would put them at high risk of C. difficile if transmission of C. difficile occurred. - Roommates and their visitors should have the ability to comply with the precautions. Roommates and all visitors must be made aware of and should be encouraged to comply with any precautions that are being taken. - In a shared room, roommates should not share toilet facilities, and an individual commode must be designated to the symptomatic Resident. - Privacy curtains should be drawn between the beds when possible. - The door of the room may remain open. - Contact Precautions signage must be posted on the room door or designated bed space.### Hand Hygiene\nThis document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1163,
+      "token_estimate": 290,
+      "section_title": "INDEX: IPC6-P10.08A request to have the Resident promptly seen to minimize time in waiting areas should be considered. To reduce transmission, the Resident should be provided with freshly washed clothing - stools should be contained (i.e., with continent products) as necessary, and instruction/assistance with performing hand hygiene should be provided.### Surveillance and Reporting",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p1008-clostridioidesdifficile_845f6f4a1a5b_chunk_008_079111a1",
+      "doc_id": "ipc6-p1008-clostridioidesdifficile_845f6f4a1a5b",
+      "chunk_index": 8,
+      "text": "- Contact Precautions signage must be posted on the room door or designated bed space.### Hand Hygiene\nThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 2 of 3**```markdown",
+      "char_count": 455,
+      "token_estimate": 113,
+      "section_title": "INDEX: IPC6-P10.08A request to have the Resident promptly seen to minimize time in waiting areas should be considered. To reduce transmission, the Resident should be provided with freshly washed clothing - stools should be contained (i.e., with continent products) as necessary, and instruction/assistance with performing hand hygiene should be provided.### Surveillance and Reporting",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p1008-clostridioidesdifficile_845f6f4a1a5b_chunk_009_775cc096",
+      "doc_id": "ipc6-p1008-clostridioidesdifficile_845f6f4a1a5b",
+      "chunk_index": 9,
+      "text": "# PROCEDURE## SECTION: Multi-Drug Resistant Organisms (MDROs)\n\n## DESCRIPTION: Clostridioides difficile",
+      "char_count": 103,
+      "token_estimate": 25,
+      "section_title": "PROCEDURE## SECTION: Multi-Drug Resistant Organisms (MDROs)",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p1008-clostridioidesdifficile_845f6f4a1a5b_chunk_011_be45cecc",
+      "doc_id": "ipc6-p1008-clostridioidesdifficile_845f6f4a1a5b",
+      "chunk_index": 11,
+      "text": "## INDEX: IPC6-P10.08### Hand Hygiene\n- Use soap and water for hand hygiene. - Alcohol-based hand rubs are not effective against C. difficile spores but can be used in the event soap and water are not available. - Perform hand hygiene according to the four moments for hand hygiene.### Personal Protective Equipment\n- Follow Contact Precautions, including the use of gloves and gowns. - Consider the use of facial protection if there is risk for splashes or sprays.### Equipment\n- Dedicate medical equipment if possible. - Identify and store all equipment/supplies designated for individual Resident use in a manner that prevents use by or for other Residents. - If equipment cannot be dedicated, it must be cleaned and disinfected with an approved sporicidal disinfectant (i.e., Rescue) before use with another Resident.### Environmental Cleaning\n- Ensure twice-daily cleaning/disinfecting for resident rooms with suspected/confirmed C. difficile with a sporicidal disinfectant. - The use of disposable toilet brushes for toilet cleaning is recommended. If a reusable toilet brush is in use, this must be discarded upon Terminal Cleaning of the room.",
+      "char_count": 1151,
+      "token_estimate": 287,
+      "section_title": "INDEX: IPC6-P10.08### Hand Hygiene",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p1008-clostridioidesdifficile_845f6f4a1a5b_chunk_012_265c669c",
+      "doc_id": "ipc6-p1008-clostridioidesdifficile_845f6f4a1a5b",
+      "chunk_index": 12,
+      "text": "- The use of disposable toilet brushes for toilet cleaning is recommended. If a reusable toilet brush is in use, this must be discarded upon Terminal Cleaning of the room. - Additional cleaning measures or frequency may be warranted in outbreak situations or when there is continued transmission of C. difficile infection. - Complete a thorough Terminal Cleaning/deep cleaning when Contact Precautions are discontinued, or the Resident is moved or transferred. - Contact Precautions should be maintained until terminal cleaning of the room or designated bed space is completed.### Duration of Additional Precautions\n- Maintain Contact Precautions until symptoms have been for at least 48 hours, or according to health authority guidelines. - Discontinuation of Contact Precautions should be made in conjunction with the Infection Control Professional (ICP)/Designate and the Director of Care/Director of Health and Wellness designate and upon terminal cleaning of the room.## EDUCATION",
+      "char_count": 985,
+      "token_estimate": 246,
+      "section_title": "INDEX: IPC6-P10.08### Hand Hygiene",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p1008-clostridioidesdifficile_845f6f4a1a5b_chunk_013_01906a86",
+      "doc_id": "ipc6-p1008-clostridioidesdifficile_845f6f4a1a5b",
+      "chunk_index": 13,
+      "text": "1. IPC6-P10-E1 - MDRO Guide\n\n2. IPC6-P10-E7 - Clostridioides difficile (C. difficile) Fact Sheet----> This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n```",
+      "char_count": 430,
+      "token_estimate": 107,
+      "section_title": "IPC6-P10-E1 - MDRO Guide",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

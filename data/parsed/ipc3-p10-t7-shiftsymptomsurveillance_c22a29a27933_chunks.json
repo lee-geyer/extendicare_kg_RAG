@@ -1,0 +1,42 @@
+{
+  "doc_id": "ipc3-p10-t7-shiftsymptomsurveillance_c22a29a27933",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "ipc3-p10-t7-shiftsymptomsurveillance_c22a29a27933_chunk_000_8cbd7282",
+      "doc_id": "ipc3-p10-t7-shiftsymptomsurveillance_c22a29a27933",
+      "chunk_index": 0,
+      "text": "```markdown\n\n# IPAC - Shift Symptom Surveillance**Client:**\n**Effective Date:**\n**Location:**\n**Initial Admission:**\n**Admission:**\n**Date of Birth:**\n**Score:** NA\n**Category:** NA\n**Physician:**## A. Symptom Observation### 1. Symptoms:\n- **a. Gastro-intestinal**\n- **b. Respiratory**\n- **c. Both**#### 1a. Indicate current symptoms:\n- **a.** Nausea\n- **b.** Vomiting\n- **c.** Diarrhea\n- **d.** Abdominal discomfort\n- **e.** Fever\n- **f.** Other##### 1ac. How many episodes of diarrhea?",
+      "char_count": 487,
+      "token_estimate": 121,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p10-t7-shiftsymptomsurveillance_c22a29a27933_chunk_002_528b93b3",
+      "doc_id": "ipc3-p10-t7-shiftsymptomsurveillance_c22a29a27933",
+      "chunk_index": 2,
+      "text": "##### 1af. Other (specify): (S)#### 1b. Indicate current symptoms:\n- **a.** New/worsening cough\n- **b.** Sore throat\n- **c.** Shortness of breath\n- **d.** Nasal congestion\n- **e.** Difficulty swallowing\n- **f.** Fever\n- **g.** Other##### 1bg. Other (specify):### 2. Indicate any Change in status:\n- **a.** Change in level of consciousness\n- **b.** New Behaviours\n- **c.** Worsening Behaviours\n- **d.** New onset of confusion\n- **e.** Worsening of confusion\n- **f.** Mobility changes\n- **g.** More dependence required for care\n- **h.** Other\n- **i.** No changes observed##### 2h. Other (specify):### 3a. Most Recent Temperature\n- **Temperature:**\n- **Date:**\n- **Route:**### 3b. Most Recent O2 sats\n- **O2 sats:**\n- **(%) Date:**\n- **Method:**### 3c. Most Recent Respiration\n- **Respiration:**\n- **Date:**### 3d. Most Recent Pulse\n```# IPAC - Shift Symptom Surveillance**Client:**\n**Pulse:**\n**Date:**\n**Pulse Type:**## 4. Select all Actions taken:\n- a. Contact precautions initiated\n- b. Contact precautions in place\n- c. Droplet precautions initiated\n- d. Droplet precautions in place\n- e. Airborne precautions initiated\n- f. Airborne precautions in place\n- g.",
+      "char_count": 1161,
+      "token_estimate": 290,
+      "section_title": "1af. Other (specify): (S)#### 1b. Indicate current symptoms:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p10-t7-shiftsymptomsurveillance_c22a29a27933_chunk_003_bb7f59af",
+      "doc_id": "ipc3-p10-t7-shiftsymptomsurveillance_c22a29a27933",
+      "chunk_index": 3,
+      "text": "Airborne precautions initiated\n- f. Airborne precautions in place\n- g. Notification of status change to Physician/NP\n- h. PCR performed\n- i. Rapid Antigen performed\n- j. Stool culture collected\n- k. SDM notified of changes in condition/status## 4b. Summary of shift assessment / Additional Actions (for SPN):**Signature**\n**Date**----**Page 2 of 2**",
+      "char_count": 349,
+      "token_estimate": 87,
+      "section_title": "1af. Other (specify): (S)#### 1b. Indicate current symptoms:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

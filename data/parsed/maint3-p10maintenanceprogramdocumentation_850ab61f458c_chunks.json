@@ -1,0 +1,125 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint3-p10maintenanceprogramdocumentation_850ab61f458c_chunk_000_98fabd28",
+      "doc_id": "maint3-p10maintenanceprogramdocumentation_850ab61f458c",
+      "chunk_index": 0,
+      "text": "# Extendicare## POLICY MANUAL:\n**Maintenance**\n**INDEX:** MAINT3-P10\n**SECTION:** Maintenance Program Documentation\n**DESCRIPTION:** Maintenance Program Documentation\n**APPROVED BY:** VP LTC Operations\n**EFFECTIVE DATE:**\n**REVIEWED DATE:**\n**MODIFIED DATE:**----## POLICY\nMaintenance documents may be required to satisfy some requirement, which may be a regulatory requirement or may just be a means to provide better operations internally.### STANDARD\n- Documentation is an important part of any maintenance program. It is important that documentation be made and kept current for all maintenance activities.\n- We need to demonstrate to regulatory authorities that maintenance required by legislation is being completed as required. Documentation provides the maintenance staff with a status of where they are relative to the tasks that have been completed and the tasks that remain to be done. It will also provide the maintenance staff with a record of what parts have been used, what inventory is required, and what equipment is nearing the end of its useful life.There are five functions that documents fulfill:",
+      "char_count": 1117,
+      "token_estimate": 279,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 11
+    },
+    {
+      "chunk_id": "maint3-p10maintenanceprogramdocumentation_850ab61f458c_chunk_001_264293d1",
+      "doc_id": "maint3-p10maintenanceprogramdocumentation_850ab61f458c",
+      "chunk_index": 1,
+      "text": "1. Provide a record that work was done (compliance)\n\n2. Help in organizing work",
+      "char_count": 79,
+      "token_estimate": 19,
+      "section_title": "Provide a record that work was done (compliance)",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint3-p10maintenanceprogramdocumentation_850ab61f458c_chunk_003_9ea57a32",
+      "doc_id": "maint3-p10maintenanceprogramdocumentation_850ab61f458c",
+      "chunk_index": 3,
+      "text": "3. Provide a history\n\n4. Provide a source of reference",
+      "char_count": 54,
+      "token_estimate": 13,
+      "section_title": "Provide a history",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint3-p10maintenanceprogramdocumentation_850ab61f458c_chunk_005_925d9921",
+      "doc_id": "maint3-p10maintenanceprogramdocumentation_850ab61f458c",
+      "chunk_index": 5,
+      "text": "5. Assist in the flow of information.- There are many documents that should be kept as reference documents. They provide additional information related to the design of the building, the equipment, equipment parts lists, regulations that must be met, etc.### PROCEDURE\n\n1. Maintenance Documentation",
+      "char_count": 298,
+      "token_estimate": 74,
+      "section_title": "Assist in the flow of information.- There are many documents that should be kept as reference documents. They provide additional information related to the design of the building, the equipment, equipment parts lists, regulations that must be met, etc.### PROCEDURE",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint3-p10maintenanceprogramdocumentation_850ab61f458c_chunk_007_b1105299",
+      "doc_id": "maint3-p10maintenanceprogramdocumentation_850ab61f458c",
+      "chunk_index": 7,
+      "text": "2. Reference Documents### EDUCATION\n\n1. Description of Maintenance Forms and Logs### TOOLS",
+      "char_count": 90,
+      "token_estimate": 22,
+      "section_title": "Reference Documents### EDUCATION",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint3-p10maintenanceprogramdocumentation_850ab61f458c_chunk_009_60b3ef00",
+      "doc_id": "maint3-p10maintenanceprogramdocumentation_850ab61f458c",
+      "chunk_index": 9,
+      "text": "1. Daily Log\n\n2. Door Log",
+      "char_count": 25,
+      "token_estimate": 6,
+      "section_title": "Daily Log",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint3-p10maintenanceprogramdocumentation_850ab61f458c_chunk_011_6f92b965",
+      "doc_id": "maint3-p10maintenanceprogramdocumentation_850ab61f458c",
+      "chunk_index": 11,
+      "text": "3. Monthly Maintenance Calendar\n\n4. Annual Maintenance Calendar",
+      "char_count": 63,
+      "token_estimate": 15,
+      "section_title": "Monthly Maintenance Calendar",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint3-p10maintenanceprogramdocumentation_850ab61f458c_chunk_013_f3190f92",
+      "doc_id": "maint3-p10maintenanceprogramdocumentation_850ab61f458c",
+      "chunk_index": 13,
+      "text": "5. Maintenance Request Log\n\n6. Service Firm Log",
+      "char_count": 47,
+      "token_estimate": 11,
+      "section_title": "Maintenance Request Log",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint3-p10maintenanceprogramdocumentation_850ab61f458c_chunk_015_f105af63",
+      "doc_id": "maint3-p10maintenanceprogramdocumentation_850ab61f458c",
+      "chunk_index": 15,
+      "text": "7. Temperature Log\n\n8. Monthly Maintenance Report",
+      "char_count": 49,
+      "token_estimate": 12,
+      "section_title": "Temperature Log",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint3-p10maintenanceprogramdocumentation_850ab61f458c_chunk_017_2cbb8813",
+      "doc_id": "maint3-p10maintenanceprogramdocumentation_850ab61f458c",
+      "chunk_index": 17,
+      "text": "9. List of Budget Items for Future Consideration----**Helping people live better**\nThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\nConfidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 1 of 1",
+      "char_count": 417,
+      "token_estimate": 104,
+      "section_title": "List of Budget Items for Future Consideration----**Helping people live better**",
+      "chunk_type": "content",
+      "start_line": 28,
+      "end_line": 31
+    }
+  ],
+  "total_chunks": 10
+}

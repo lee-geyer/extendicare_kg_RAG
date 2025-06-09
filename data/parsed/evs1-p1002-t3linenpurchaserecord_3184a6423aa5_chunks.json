@@ -1,0 +1,42 @@
+{
+  "doc_id": "evs1-p1002-t3linenpurchaserecord_3184a6423aa5",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "evs1-p1002-t3linenpurchaserecord_3184a6423aa5_chunk_000_028b12df",
+      "doc_id": "evs1-p1002-t3linenpurchaserecord_3184a6423aa5",
+      "chunk_index": 0,
+      "text": "# Extendicare",
+      "char_count": 13,
+      "token_estimate": 3,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chunk_id": "evs1-p1002-t3linenpurchaserecord_3184a6423aa5_chunk_001_50e0c5b6",
+      "doc_id": "evs1-p1002-t3linenpurchaserecord_3184a6423aa5",
+      "chunk_index": 1,
+      "text": "## Linen Purchase Record| ITEM                              | JAN | FEB | MAR | APR | MAY | JUN | JUL | AUG | SEP | OCT | NOV | DEC | TOTAL |\n|-----------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-------|\n| Apron – Impermeable               |     |     |     |     |     |     |     |     |     |     |     |     |       |\n| Bath Towels                       |     |     |     |     |     |     |     |     |     |     |     |     |       |\n| Comforter                         |     |     |     |     |     |     |     |     |     |     |     |     |       |\n| Blankets                          |     |     |     |     |     |     |     |     |     |     |     |     |       |\n| Cleaning/Microfibre Cloths       |     |     |     |     |     |     |     |     |     |     |     |     |       |\n| Clothing (Garment)               |     |     |     |     |     |     |     |     |     |     |     |     |       |\n| Comforters                        |     |     |     |     |     |     |     |     |     |     |     |     |       |\n| Dietary Apron                     |     |     |     |     |     |     |     |     |     |     |     |     |       |\n| Face Cloths                      |     |     |     |     |     |     |     |     |     |     |     |     |       |\n| Flannel Sheets                   |     |     |     |     |     |     |     |     |     |     |     |     |       |\n| Hand Towels                      |     |     |     |     |     |     |     |     |     |     |     |     |       |\n| Laundry Bags Colour (    )       |     |     |     |     |     |     |     |     |     |     |     |     |       |\n| Laundry Bags Colour (   )        |     |     |     |     |     |     |     |     |     |     |     |     |       |\n| Laundry Bags Colour (   )        |     |     |     |     |     |     |     |     |     |     |     |     |       |\n| Laundry Bags Colour (   )        |     |     |     |     |     |     |     |     |     |     |     |     |       |\n| Laundry Bags Colour (   )        |     |     |     |     |     |     |     |     |     |     |     |     |       |\n| Laundry Bags Colour (   )        |     |     |     |     |     |     |     |     |     |     |     |     |       |\n| Mesh Bag                          |     |     |     |     |     |     |     |     |     |     |     |     |       |\n| Nursing Apron                     |     |     |     |     |     |     |     |     |     |     |     |     |       |\n| Clothing Protectors               |     |     |     |     |     |     |     |     |     |     |     |     |       |\n| Peri Cloths                      |     |     |     |     |     |     |     |     |     |     |     |     |       |\n| Pillowcases                       |     |     |     |     |     |     |     |     |     |     |     |     |       |\n| Pillows                           |     |     |     |     |     |     |     |     |     |     |     |     |       |\n| Place Mats                       |     |     |     |     |     |     |     |     |     |     |     |     |       |\n| Salon Towels                     |     |     |     |     |     |     |     |     |     |     |     |     |       |\n| Sheets – Bottom                  |     |     |     |     |     |     |     |     |     |     |     |     |       |\n| Sheets – Top                     |     |     |     |     |     |     |     |     |     |     |     |     |       |----This document is uncontrolled when printed.Extendicare (Canada) Inc.",
+      "char_count": 3501,
+      "token_estimate": 875,
+      "section_title": "Linen Purchase Record| ITEM                              | JAN | FEB | MAR | APR | MAY | JUN | JUL | AUG | SEP | OCT | NOV | DEC | TOTAL |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs1-p1002-t3linenpurchaserecord_3184a6423aa5_chunk_002_2f95ea3d",
+      "doc_id": "evs1-p1002-t3linenpurchaserecord_3184a6423aa5",
+      "chunk_index": 2,
+      "text": "will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025Page 1 of 1",
+      "char_count": 263,
+      "token_estimate": 65,
+      "section_title": "Linen Purchase Record| ITEM                              | JAN | FEB | MAR | APR | MAY | JUN | JUL | AUG | SEP | OCT | NOV | DEC | TOTAL |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

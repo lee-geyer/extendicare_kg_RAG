@@ -1,0 +1,1910 @@
+{
+  "processing_summary": {
+    "total_documents": 237,
+    "successful": 237,
+    "failed": 0,
+    "success_rate": 100.0,
+    "total_chunks_created": 3059,
+    "processing_time_seconds": 6826.328242301941,
+    "avg_time_per_doc": 28.803072752328866
+  },
+  "successful_documents": [
+    {
+      "success": true,
+      "doc_id": "care6-p1001-t5skin-lowerlegandfootassessmentappusers_3571fd0f80bc",
+      "filename": "CARE6-P10.01-T5 Skin - Lower Leg and Foot Assessment (App Users).pdf",
+      "chunks": 6,
+      "content_length": 5118,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care6-p1001-t3skinwound-totalbodyassessmentappusers_dd0f276d629e",
+      "filename": "CARE6-P10.01-T3 Skin & Wound - Total Body Assessment (App Users).pdf",
+      "chunks": 1,
+      "content_length": 780,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care6-p10skinwoundpreventionandmanagementprogram_63e53986b0e2",
+      "filename": "CARE6-P10 Skin & Wound Prevention and Management Program.pdf",
+      "chunks": 10,
+      "content_length": 4369,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care6-p1001-t2skin-woundulcerinitialandweeklyevaluation_50c31e5ff1f6",
+      "filename": "CARE6-P10.01-T2 Skin - Wound Ulcer Initial and Weekly Evaluation.pdf",
+      "chunks": 25,
+      "content_length": 10423,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care6-p10-e4woundinfection-nerdsandstoneescriteria_fa8e545093cb",
+      "filename": "CARE6-P10-E4 Wound Infection- NERDS and STONEES Criteria.pdf",
+      "chunks": 4,
+      "content_length": 3922,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care6-p10-t1skinwoundpreventionandmanagementaudit_31255ed8bcf7",
+      "filename": "CARE6-P10-T1 Skin Wound Prevention and Management Audit.docx",
+      "chunks": 7,
+      "content_length": 7142,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care6-p1001-t1skin-integrityassessmentandreevaluation_1d2e95358ce1",
+      "filename": "CARE6-P10.01-T1 Skin - Integrity Assessment and Reevaluation.pdf",
+      "chunks": 111,
+      "content_length": 26553,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care6-p10-e3registeredstaff-skinandwoundcareeducation_f17222c703a3",
+      "filename": "CARE6-P10-E3 Registered Staff - Skin and Wound Care Education.pdf",
+      "chunks": 17,
+      "content_length": 15361,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care6-p10-e1skinwoundprogrameducation_8aee449d072f",
+      "filename": "CARE6-P10-E1 Skin & Wound Program Education.pdf",
+      "chunks": 17,
+      "content_length": 11824,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care6-p1001-t6referral-skinandwoundlead_e409d4043cfd",
+      "filename": "CARE6-P10.01-T6 Referral - Skin and Wound Lead.pdf",
+      "chunks": 1,
+      "content_length": 1037,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care6-p1001-t4skinwound-skinandwoundevaluation-v6appusers_79dfd84febde",
+      "filename": "CARE6-P10.01-T4 Skin & Wound - Skin and Wound Evaluation - V6 (App Users).pdf",
+      "chunks": 111,
+      "content_length": 11890,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care6-p1001skinassessmentwoundguidelines_3bf5e34a991d",
+      "filename": "CARE6-P10.01 Skin Assessment & Wound Guidelines.pdf",
+      "chunks": 13,
+      "content_length": 5015,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care6-p10-e2skinwoundprogrameducationapphomes_4a4c6c55bc57",
+      "filename": "CARE6-P10-E2 Skin & Wound Program Education (App homes)).pdf",
+      "chunks": 11,
+      "content_length": 14167,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care9-p1001fallpreventioninjuryreduction_f638633040c4",
+      "filename": "CARE9-P10.01 Fall Prevention & Injury Reduction.pdf",
+      "chunks": 9,
+      "content_length": 3080,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care9-p10-t1falls-integratedfallriskassessment_b3ed90ab45af",
+      "filename": "CARE9-P10-T1 Falls - Integrated Fall Risk Assessment.pdf",
+      "chunks": 15,
+      "content_length": 12917,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care9-p10-t2fallingstarlogo_123514761133",
+      "filename": "CARE9-P10-T2 Falling Star Logo.pdf",
+      "chunks": 1,
+      "content_length": 1117,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care9-p1002-t2falls-headinjuryroutine_e8b2bd92584b",
+      "filename": "CARE9-P10.02-T2 Falls - Head Injury Routine.pdf",
+      "chunks": 5,
+      "content_length": 3173,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care9-p10-t3referral-fallslead_5dfe9c63ea3b",
+      "filename": "CARE9-P10-T3 Referral - Falls Lead.pdf",
+      "chunks": 2,
+      "content_length": 1236,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care9-p1002-t1falls-postincidentassessment_d6d40c548753",
+      "filename": "CARE9-P10.02-T1 Falls - Post Incident Assessment.pdf",
+      "chunks": 15,
+      "content_length": 9637,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care9-p10-t4fallpreventioninjuryreduction-programaudit_edce0c3e873c",
+      "filename": "CARE9-P10-T4 Fall Prevention & Injury Reduction - Program Audit.docx",
+      "chunks": 13,
+      "content_length": 7905,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care9-p10-e2universalfallpreventionstrategiessafeposter_aadcbc8164a2",
+      "filename": "CARE9-P10-E2 Universal Fall Prevention Strategies (S.A.F.E.) Poster.pdf",
+      "chunks": 1,
+      "content_length": 1112,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care9-p10fallpreventioninjuryreduction_fc2dcd04012e",
+      "filename": "CARE9-P10 Fall Prevention & Injury Reduction.pdf",
+      "chunks": 11,
+      "content_length": 4736,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care9-p10-e3actionablestepstopreventfalls-staffvolunteers_13978e9737b2",
+      "filename": "CARE9-P10-E3 Actionable Steps to Prevent Falls - Staff & Volunteers.pdf",
+      "chunks": 5,
+      "content_length": 4244,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care9-p10-e1fallpreventionprogrameducation_2fe65d0f941a",
+      "filename": "CARE9-P10-E1 Fall Prevention Program Education.pdf",
+      "chunks": 10,
+      "content_length": 9715,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care9-p1002post-fall_79632a1f17c6",
+      "filename": "CARE9-P10.02 Post-Fall.pdf",
+      "chunks": 13,
+      "content_length": 4528,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care9-p10-e4actionablestepstopreventfalls-residentfamily_e8dfbbe44cd9",
+      "filename": "CARE9-P10-E4 Actionable Steps to Prevent Falls - Resident & Family.pdf",
+      "chunks": 6,
+      "content_length": 5776,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care16-p10-t5referral-recreationandleisure_12c4860ff2fc",
+      "filename": "CARE16-P10-T5 Referral - Recreation and Leisure.pdf",
+      "chunks": 2,
+      "content_length": 1370,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care16-p60-t1spiritual-fica_1d0cd5c577ce",
+      "filename": "CARE16-P60-T1 Spiritual - FICA.pdf",
+      "chunks": 8,
+      "content_length": 2707,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care16-p10-t1well-beingexperienceandleisureassessment_eddbf071f937",
+      "filename": "CARE16-P10-T1 Well-Being, Experience and Leisure Assessment.pdf",
+      "chunks": 25,
+      "content_length": 11288,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care16-p60-t2referral-spiritualcare_6b0763cf645d",
+      "filename": "CARE16-P60-T2 Referral - Spiritual Care.pdf",
+      "chunks": 3,
+      "content_length": 1184,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care1-p10planofcarepolicy_885087a55042",
+      "filename": "CARE1-P10 Plan of Care Policy.pdf",
+      "chunks": 12,
+      "content_length": 4469,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care1-p1001-t7planofcare-move-inassessment_85f8e06257c5",
+      "filename": "CARE1-P10.01-T7 Plan of Care - Move-in Assessment.pdf",
+      "chunks": 63,
+      "content_length": 44122,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care1-p1001-t5interdisciplinaryquarterlycareplanreview-mb_dab3202a499d",
+      "filename": "CARE1-P10.01-T5 Interdisciplinary Quarterly Care Plan Review -MB.docx",
+      "chunks": 9,
+      "content_length": 3914,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care1-p10-e1caretransitionsplanofcareeducation_3b381b8ed270",
+      "filename": "CARE1-P10-E1 Care Transitions & Plan of Care Education.pdf",
+      "chunks": 13,
+      "content_length": 15385,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care1-p1001-t1move-inchecklist_22d373228732",
+      "filename": "CARE1-P10.01-T1 Move-in Checklist.docx",
+      "chunks": 13,
+      "content_length": 9596,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care1-p1002dischargecaretransitions_c8b35d73f590",
+      "filename": "CARE1-P10.02 Discharge & Care Transitions.pdf",
+      "chunks": 10,
+      "content_length": 5610,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care1-p1004-t1residentleaveofabsenceform_26fa4b564b30",
+      "filename": "CARE1-P10.04-T1 Resident Leave of Absence Form.docx",
+      "chunks": 1,
+      "content_length": 1070,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care1-p1003-t1planofcare-interdisciplinaryresidentcareconference_ab2138076d24",
+      "filename": "CARE1-P10.03-T1 Plan of Care- Interdisciplinary Resident Care Conference.pdf",
+      "chunks": 24,
+      "content_length": 11821,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care1-p1002-t1dischargechecklist_cff845ebbd99",
+      "filename": "CARE1-P10.02-T1 Discharge Checklist.docx",
+      "chunks": 7,
+      "content_length": 4720,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care1-p1001-t3informedtreatmentconsentform_c692ac83b6a5",
+      "filename": "CARE1-P10.01-T3 Informed Treatment Consent Form.docx",
+      "chunks": 2,
+      "content_length": 1549,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care1-p1003interdisciplinaryresidentcareconference_bfb0277105d8",
+      "filename": "CARE1-P10.03 Interdisciplinary Resident Care Conference.pdf",
+      "chunks": 5,
+      "content_length": 3116,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care1-p1001-t2returnchecklist_8f142d6541d0",
+      "filename": "CARE1-P10.01-T2 Return Checklist.docx",
+      "chunks": 10,
+      "content_length": 5279,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care1-p1004leaveofabsence_1b9fd85b1cb2",
+      "filename": "CARE1-P10.04 Leave of Absence.pdf",
+      "chunks": 4,
+      "content_length": 1703,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care1-p1001assessmentandplanofcare_e61076d2a3a2",
+      "filename": "CARE1-P10.01 Assessment and Plan of Care.pdf",
+      "chunks": 12,
+      "content_length": 6088,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care1-p10t1caretransitionsandplanofcareaudit_717109fa5697",
+      "filename": "CARE1-P10.T1 Care Transitions and Plan of Care Audit.docx",
+      "chunks": 4,
+      "content_length": 6903,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care1-p1001-t4adlsheetmb_abe448edf372",
+      "filename": "CARE1-P10.01-T4 ADL Sheet \u2013 MB.docx",
+      "chunks": 1,
+      "content_length": 2167,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care3-p10residentsafetypolicy_8d737385c0aa",
+      "filename": "CARE3-P10 Resident Safety Policy.pdf",
+      "chunks": 20,
+      "content_length": 6704,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care3-p1003heatrelatedillnessprocedure_285516928335",
+      "filename": "CARE3-P10.03 Heat Related Illness Procedure.pdf",
+      "chunks": 9,
+      "content_length": 3258,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care3-p1003-t3heatalertposter_ab0785705183",
+      "filename": "CARE3-P10.03-T3 Heat Alert Poster.pdf",
+      "chunks": 1,
+      "content_length": 1420,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care3-p1001residentidentificationprocedure_1c2d74f86d2b",
+      "filename": "CARE3-P10.01 Resident Identification Procedure.pdf",
+      "chunks": 2,
+      "content_length": 2106,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care3-p10-e1residentsafetyeducation_f2870a2a751e",
+      "filename": "CARE3-P10-E1 Resident Safety Education.pdf",
+      "chunks": 13,
+      "content_length": 7457,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care3-p1003-t1safety-heatillnessriskscreen_69248d4a51ff",
+      "filename": "CARE3-P10.03-T1 Safety - Heat Illness Risk Screen.pdf",
+      "chunks": 8,
+      "content_length": 5378,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care3-p1003-t2interdisciplinaryresponseplan_c8c99420dd61",
+      "filename": "CARE3-P10.03-T2 Interdisciplinary Response Plan.docx",
+      "chunks": 6,
+      "content_length": 5655,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care3-p1004-t2tobaccocannabisconsumptionagreement_356df962edcd",
+      "filename": "CARE3-P10.04-T2 Tobacco & Cannabis Consumption Agreement.docx",
+      "chunks": 6,
+      "content_length": 2888,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care3-p1004tobaccocannabisuseprocedure_8d79b0211743",
+      "filename": "CARE3-P10.04 Tobacco & Cannabis Use Procedure.pdf",
+      "chunks": 7,
+      "content_length": 4030,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care3-p1004-t1tobaccoandcannabisriskscreen_af3f90d07757",
+      "filename": "CARE3-P10.04-T1 Tobacco and Cannabis Risk Screen.pdf",
+      "chunks": 9,
+      "content_length": 5181,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care3-p1002-t1nightnursesafetyroundschecklist_a9657564f9f8",
+      "filename": "CARE3-P10.02-T1 Night Nurse Safety Rounds Checklist.docx",
+      "chunks": 2,
+      "content_length": 2090,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care3-p1005safealcoholconsumption_e1ceb8e18a3c",
+      "filename": "CARE3-P10.05 Safe Alcohol Consumption.pdf",
+      "chunks": 6,
+      "content_length": 1888,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care3-p1002safetyroundsprocedure_34b1f4ef28e8",
+      "filename": "CARE3-P10.02 Safety Rounds Procedure.pdf",
+      "chunks": 3,
+      "content_length": 2301,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care10-p1002-t1mechanicalliftdevicesafeoperationlog_c66fc373b5a9",
+      "filename": "CARE10-P10.02-T1 Mechanical Lift & Device Safe Operation Log.docx",
+      "chunks": 6,
+      "content_length": 6067,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care10-p1001-t2saferesidenthandlinglogos_6555ddb6c607",
+      "filename": "CARE10-P10.01-T2 Safe Resident Handling Logos.pdf",
+      "chunks": 1,
+      "content_length": 1041,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care10-p1002liftsandtransferdevicesprocedure_611641cf7fcd",
+      "filename": "CARE10-P10.02 Lifts and Transfer Devices Procedure.pdf",
+      "chunks": 9,
+      "content_length": 4439,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care10-p1002-t2saferesidenthandlingequipmentinventorylog_1581a4fc4887",
+      "filename": "CARE10-P10.02-T2 Safe Resident Handling Equipment Inventory Log.docx",
+      "chunks": 5,
+      "content_length": 3130,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care10-p10-e4hygieneslingcriteria_4b3f519965d4",
+      "filename": "CARE10-P10-E4 Hygiene Sling Criteria.pdf",
+      "chunks": 2,
+      "content_length": 1905,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care10-p1002-t3saferesidenthandlingindividualslingaudit_b388f410734d",
+      "filename": "CARE10-P10.02-T3 Safe Resident Handling Individual Sling Audit.docx",
+      "chunks": 2,
+      "content_length": 1945,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care10-p10-e1saferesidenthandlingprogrameducation_300a407857b0",
+      "filename": "CARE10-P10-E1 Safe Resident Handling Program Education.pdf",
+      "chunks": 19,
+      "content_length": 11611,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care10-p10saferesidenthandlingpolicy_047248e9587a",
+      "filename": "CARE10-P10 Safe Resident Handling Policy.pdf",
+      "chunks": 13,
+      "content_length": 5150,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care10-p1001-t3saferesidenthandlingcompetencychecklist_2c85b437f1cd",
+      "filename": "CARE10-P10.01-T3 Safe Resident Handling Competency Checklist.docx",
+      "chunks": 8,
+      "content_length": 7332,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care10-p10-e3slingselectionandapplication_aedfac889e2d",
+      "filename": "CARE10-P10-E3 Sling Selection and Application.pdf",
+      "chunks": 37,
+      "content_length": 23348,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care10-p1001-t1saferesidenthandling-assessment_e72bef2c5097",
+      "filename": "CARE10-P10.01-T1 Safe Resident Handling - Assessment.pdf",
+      "chunks": 21,
+      "content_length": 10082,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care10-p10-t1saferesidenthandlingprogramaudit_5599b64d754b",
+      "filename": "CARE10-P10-T1 Safe Resident Handling Program Audit.docx",
+      "chunks": 10,
+      "content_length": 7581,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care10-p10-e5slingconditioninspectionmanual_66e1c6737015",
+      "filename": "CARE10-P10-E5 Sling Condition Inspection Manual.pdf",
+      "chunks": 35,
+      "content_length": 16980,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care10-p1001saferesidenthandlingprocedure_5d4e0d07149b",
+      "filename": "CARE10-P10.01 Safe Resident Handling Procedure.pdf",
+      "chunks": 12,
+      "content_length": 4904,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care10-p10-e2saferesidenthandlingvendoreducation_9b9a23215f7a",
+      "filename": "CARE10-P10-E2 Safe Resident Handling Vendor Education.pdf",
+      "chunks": 18,
+      "content_length": 11254,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care10-p1001-t4referral-saferesidenthandlinglead_60b84daecbd6",
+      "filename": "CARE10-P10.01-T4 Referral - Safe Resident Handling lead.pdf",
+      "chunks": 4,
+      "content_length": 956,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care11-p10-e2restraintpasdalgorithm_dbce44dc4430",
+      "filename": "CARE11-P10-E2 Restraint & PASD Algorithm.pdf",
+      "chunks": 8,
+      "content_length": 3010,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care11-p10-t5restraintpasdprogramaudit_c3c1421907e8",
+      "filename": "CARE11-P10-T5 Restraint & PASD Program Audit.docx",
+      "chunks": 10,
+      "content_length": 7900,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care11-p1002emergencychemicalrestraintuse_5695b2853089",
+      "filename": "CARE11-P10.02 Emergency & Chemical Restraint Use.pdf",
+      "chunks": 11,
+      "content_length": 6113,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care11-p10restraintpasdusepolicy_9e3619d62e53",
+      "filename": "CARE11-P10 Restraint & PASD Use Policy.pdf",
+      "chunks": 17,
+      "content_length": 7790,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care11-p10-e1restraintpasdprogrameducation_120849ed5113",
+      "filename": "CARE11-P10-E1 Restraint & PASD Program Education.pdf",
+      "chunks": 22,
+      "content_length": 15340,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care11-p10-t1restraintandpasd-assessmentandevaluation_cb741995fef2",
+      "filename": "CARE11-P10-T1 Restraint and PASD - Assessment and Evaluation.pdf",
+      "chunks": 32,
+      "content_length": 23244,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care11-p10-t2restraintutilizationandshiftresponsetool_7a8cc701105c",
+      "filename": "CARE11-P10-T2 Restraint Utilization and SHIFT Response Tool.pdf",
+      "chunks": 4,
+      "content_length": 2700,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care11-p10-t4restraintpasdmonthlyanalysis_f16b0b85fdbb",
+      "filename": "CARE11-P10-T4 Restraint & PASD Monthly Analysis.docx",
+      "chunks": 4,
+      "content_length": 1944,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care11-p10-t3restraintpersonalassistanceservicedeviceconsentform_7bbe94afcf02",
+      "filename": "CARE11-P10-T3 Restraint & Personal Assistance Service Device Consent Form.docx",
+      "chunks": 6,
+      "content_length": 3270,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care11-p10-e4restraintinformationforresidentsfamily_7d30ae07ccdb",
+      "filename": "CARE11-P10-E4 Restraint Information for Residents & Family.pdf",
+      "chunks": 5,
+      "content_length": 4390,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care11-p10-e3restraintinformationforstaff_edcabe545737",
+      "filename": "CARE11-P10-E3 Restraint Information for Staff.pdf",
+      "chunks": 6,
+      "content_length": 5555,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care11-p1001guidelinesforphysicalrestraintpasds_cb2efadde423",
+      "filename": "CARE11-P10.01 Guidelines for Physical Restraint & PASDs.pdf",
+      "chunks": 12,
+      "content_length": 7669,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care12-p1001painassessmentandevaluationprocedure_310d7b31d6cc",
+      "filename": "CARE12-P10.01 Pain Assessment and Evaluation Procedure.pdf",
+      "chunks": 8,
+      "content_length": 2470,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care12-p1001-t2pain-72hrstrategyevaluation_5abaf5c7172b",
+      "filename": "CARE12-P10.01-T2 Pain - 72hr Strategy Evaluation.pdf",
+      "chunks": 6,
+      "content_length": 5281,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care12-p10-t1painmanagementprogramaudit_149273f450cd",
+      "filename": "CARE12-P10-T1 Pain Management Program Audit .docx",
+      "chunks": 5,
+      "content_length": 6570,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care12-p1001-t3referral-painlead_655c6dbf9e6f",
+      "filename": "CARE12-P10.01-T3 Referral - Pain Lead.pdf",
+      "chunks": 1,
+      "content_length": 1202,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care12-p10-e1painmanagementeducation_2ea0b25c9b1d",
+      "filename": "CARE12-P10-E1 Pain Management Education.pdf",
+      "chunks": 16,
+      "content_length": 6527,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care12-p1001-t1pain-integratedscreenandassessment_4d67757ee6f6",
+      "filename": "CARE12-P10.01-T1 Pain - Integrated Screen and Assessment.pdf",
+      "chunks": 9,
+      "content_length": 8345,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care12-p10-e2managingmypain-residentfamilyinformationsheet_29e253558b68",
+      "filename": "CARE12-P10-E2 Managing My Pain - Resident & Family Information Sheet.pdf",
+      "chunks": 2,
+      "content_length": 1526,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care12-p10painmanagementpolicy_7fd8f4c62e4a",
+      "filename": "CARE12-P10 Pain Management Policy.pdf",
+      "chunks": 8,
+      "content_length": 4093,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care4-p1003personalbelongingscareareaprocedure_a4da231c9816",
+      "filename": "CARE4-P10.03 Personal Belongings & Care Area Procedure.pdf",
+      "chunks": 7,
+      "content_length": 5395,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care4-p1002oralnailfootcareprocedure_4f00942ee012",
+      "filename": "CARE4-P10.02 Oral, Nail & Foot Care Procedure.pdf",
+      "chunks": 7,
+      "content_length": 2415,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care4-p10-e1personalcareeducation_4194e9f97582",
+      "filename": "CARE4-P10-E1 Personal Care Education.pdf",
+      "chunks": 15,
+      "content_length": 7984,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care4-p1001bathingguidelinesprocedure_b62266ee5118",
+      "filename": "CARE4-P10.01 Bathing Guidelines Procedure.pdf",
+      "chunks": 9,
+      "content_length": 4937,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care4-p10personalcarepolicy_12483b35685d",
+      "filename": "CARE4-P10 Personal Care Policy.pdf",
+      "chunks": 6,
+      "content_length": 3399,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care4-p1002-t1oral-healthassessmenttoolohat_99de5316308c",
+      "filename": "CARE4-P10.02-T1 Oral - Health Assessment Tool (OHAT).pdf",
+      "chunks": 8,
+      "content_length": 6452,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care4-p1003-t1residentpersonalbelongingsinventory_7fff7ac67a0b",
+      "filename": "CARE4-P10.03-T1 Resident Personal Belongings Inventory.docx",
+      "chunks": 7,
+      "content_length": 6592,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care4-p1003-e1mypersonalbelongings-residentfamilyinformationsheet_daec766960b7",
+      "filename": "CARE4-P10.03-E1  My Personal Belongings - Resident & Family Information Sheet.pdf",
+      "chunks": 2,
+      "content_length": 1490,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care8-p1001-e3whenyourlovedoneisnearingend-of-lifebooklet_a9c395752725",
+      "filename": "CARE8-P10.01-E3 When Your Loved One is Nearing End-of-Life Booklet.pdf",
+      "chunks": 36,
+      "content_length": 22262,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care8-p10-e1palliativeandendoflifecareeducation_b916a05eec59",
+      "filename": "CARE8-P10-E1 Palliative and End of Life Care Education.pdf",
+      "chunks": 13,
+      "content_length": 15848,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care8-p1002-e1advancecareplanningprotectivesleevetipsheet_596f8c918c18",
+      "filename": "CARE8-P10.02-E1 Advance Care Planning Protective Sleeve Tip Sheet.pdf",
+      "chunks": 2,
+      "content_length": 1683,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care8-p1002-t1planoftreatmentforcprontario_7cc9ec802301",
+      "filename": "CARE8-P10.02-T1 Plan of Treatment for CPR (Ontario).docx",
+      "chunks": 4,
+      "content_length": 2495,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care8-p1002advancecareplanning-goalsofcareprocedure_76522556b614",
+      "filename": "CARE8-P10.02 Advance Care Planning- Goals of Care PROCEDURE.pdf",
+      "chunks": 13,
+      "content_length": 6077,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care8-p10-t1palliativeandend-of-lifecareprogramaudit_fb900189d5c9",
+      "filename": "CARE8-P10-T1 Palliative and End-of-Life Care Program Audit.docx",
+      "chunks": 10,
+      "content_length": 7059,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care8-p1004-e1expectedvsunexpecteddeath_65f508ee0c9a",
+      "filename": "CARE8-P10.04-E1 Expected vs Unexpected Death.docx",
+      "chunks": 16,
+      "content_length": 9203,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care8-p1003-e1frequentlyaskedquestionsmaid_d27e184f7b3f",
+      "filename": "CARE8-P10.03-E1 Frequently Asked Questions MAID.pdf",
+      "chunks": 17,
+      "content_length": 12034,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care8-p1001-t2chessscale_8bf30855af18",
+      "filename": "CARE8-P10.01-T2 CHESS Scale.pdf",
+      "chunks": 3,
+      "content_length": 2065,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care8-p1004-t2personalcarehomedeathreportmanitoba_f118f3ce16ba",
+      "filename": "CARE8-P10.04-T2 Personal Care Home Death Report (Manitoba).pdf",
+      "chunks": 4,
+      "content_length": 5078,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care8-p1004-t1death-recordofresidentdeath_937ec8f5105d",
+      "filename": "CARE8-P10.04-T1 Death - Record of Resident Death.pdf",
+      "chunks": 9,
+      "content_length": 5095,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care8-p1001palliativecareapproachprocedure_1aef49fd4ffd",
+      "filename": "CARE8-P10.01 Palliative Care Approach Procedure.pdf",
+      "chunks": 12,
+      "content_length": 5877,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care8-p1001-t1palliativeperformancescalepps_cd613414077e",
+      "filename": "CARE8-P10.01-T1 Palliative Performance Scale (PPS).pdf",
+      "chunks": 10,
+      "content_length": 11585,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care8-p1004-t5userguideresidentdeathnoticeformontariodoc_cd328629f64a",
+      "filename": "CARE8-P10.04-T5 User Guide Resident Death Notice Form (Ontario).DOC.pdf",
+      "chunks": 15,
+      "content_length": 11490,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care8-p10-t2palliativeassessmentandmycaremyvoicesummary_277410f487fc",
+      "filename": "CARE8-P10-T2 Palliative Assessment and My Care My Voice Summary.pdf",
+      "chunks": 21,
+      "content_length": 16306,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care8-p1004deathandaftercareprocedure_d75f3650c7dc",
+      "filename": "CARE8-P10.04 Death and Aftercare PROCEDURE.pdf",
+      "chunks": 18,
+      "content_length": 7167,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care8-p1002-t3donotresuscitateconfirmationontario_e6ee6dcb9404",
+      "filename": "CARE8-P10.02-T3 Do Not Resuscitate Confirmation (Ontario).pdf",
+      "chunks": 1,
+      "content_length": 693,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care8-p10-t3referral-palliativelead_d0c75a18f310",
+      "filename": "CARE8-P10-T3 Referral - Palliative Lead.pdf",
+      "chunks": 2,
+      "content_length": 1530,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care8-p1001-t3palliativecareresidentmonitoringlist_e3b64fe18a2a",
+      "filename": "CARE8-P10.01-T3 Palliative Care Resident Monitoring List.docx",
+      "chunks": 6,
+      "content_length": 4788,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care8-p10palliativeendoflifecarepolicy_4872e3ef4aa6",
+      "filename": "CARE8-P10 Palliative & End of Life Care Policy.pdf",
+      "chunks": 20,
+      "content_length": 8394,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care8-p1001-e2palliativecarestagesworkflow_b1307d8942e5",
+      "filename": "CARE8-P10.01-E2 Palliative Care Stages Workflow.pdf",
+      "chunks": 3,
+      "content_length": 3219,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care8-p1002-t2planoftreatmentcpr-dnralgorithmontario_9dd7ef1a117c",
+      "filename": "CARE8-P10.02-T2 Plan of Treatment CPR-DNR Algorithm (Ontario).pdf",
+      "chunks": 13,
+      "content_length": 8842,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care8-p1004-t4residentdeathnotice-rdnontario_304b8e53150a",
+      "filename": "CARE8-P10.04-T4 Resident Death Notice-RDN (Ontario).pdf",
+      "chunks": 4,
+      "content_length": 3068,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care8-p1004-t6dischargedeathrecordforfuneralhome_0c83d205f0ad",
+      "filename": "CARE8-P10.04-T6 Discharge Death Record for Funeral Home.docx",
+      "chunks": 3,
+      "content_length": 2323,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care8-p1001-e1palliativeapproachtocare_2089fdb9b4ba",
+      "filename": "CARE8-P10.01-E1 Palliative Approach to Care.pdf",
+      "chunks": 8,
+      "content_length": 4325,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care8-p1003medicalassistanceindyingmaidprocedure_3d6f49d2493d",
+      "filename": "CARE8-P10.03 Medical Assistance in Dying (MAID) PROCEDURE.pdf",
+      "chunks": 4,
+      "content_length": 2161,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care8-p1001-e4honoringresidentatend-of-lifeprogramideas_6e6ead0439d8",
+      "filename": "CARE8-P10.01-E4 Honoring Resident at End-of-Life Program Ideas.pdf",
+      "chunks": 13,
+      "content_length": 9913,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care8-p1004-t3conductingaclaimantsearchforfacilitiesontario_57927a4d784e",
+      "filename": "CARE8-P10.04-T3 Conducting a Claimant Search for Facilities (Ontario).pdf",
+      "chunks": 89,
+      "content_length": 59263,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care5-p1001-t2referral-continencelead_362a915dca75",
+      "filename": "CARE5-P10.01-T2 Referral - Continence Lead.pdf",
+      "chunks": 1,
+      "content_length": 1010,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care5-p10continencecarepolicy_3fa9dfc06349",
+      "filename": "CARE5-P10 Continence Care Policy.pdf",
+      "chunks": 11,
+      "content_length": 4210,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care5-p10-t1continencecareprogramaudit_79156a8caf2d",
+      "filename": "CARE5-P10-T1 Continence Care Program Audit.docx",
+      "chunks": 8,
+      "content_length": 6496,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care5-p1002-t1continenceproductutilizationsheet_18172b45dc59",
+      "filename": "CARE5-P10.02-T1 Continence Product Utilization Sheet.docx",
+      "chunks": 1,
+      "content_length": 650,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care5-p1002continenceproductsdistributionguidelines_ebb48db39bd0",
+      "filename": "CARE5-P10.02 Continence Products & Distribution Guidelines.pdf",
+      "chunks": 6,
+      "content_length": 3214,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care5-p1001-t1continence-bladderandbowelassessment_6833e3e338d7",
+      "filename": "CARE5-P10.01-T1 Continence - Bladder and Bowel Assessment.pdf",
+      "chunks": 18,
+      "content_length": 14738,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care5-p10-e1continenceprogrameducation_4389b61ed338",
+      "filename": "CARE5-P10-E1 Continence Program Education.pdf",
+      "chunks": 9,
+      "content_length": 8624,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care5-p1001continencemanagementguidelines_72053c069da8",
+      "filename": "CARE5-P10.01 Continence Management Guidelines.pdf",
+      "chunks": 10,
+      "content_length": 4580,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care15-p1003-t7referraloccupationaltherapy_110eece48fa4",
+      "filename": "CARE15-P10.03-T7 Referral \u2013 Occupational Therapy.pdf",
+      "chunks": 2,
+      "content_length": 1483,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care15-p10-t2restorativecareprogramaudit_3f88f4b0f81f",
+      "filename": "CARE15-P10-T2 Restorative Care Program Audit.docx",
+      "chunks": 6,
+      "content_length": 4912,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care15-p1005socialworkservices_4a016417aae8",
+      "filename": "CARE15-P10.05 Social Work Services.pdf",
+      "chunks": 11,
+      "content_length": 4873,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care15-p10-e2restorativecareprogramguide_9011b1da7de7",
+      "filename": "CARE15-P10-E2 Restorative Care Program Guide.pdf",
+      "chunks": 110,
+      "content_length": 66954,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care15-p1004respiratorytherapy_82b36f88ce9f",
+      "filename": "CARE15-P10.04 Respiratory Therapy.pdf",
+      "chunks": 12,
+      "content_length": 5128,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care15-p10-e1restorativecareeducation_afd335c19fa5",
+      "filename": "CARE15-P10-E1 Restorative Care Education.pdf",
+      "chunks": 20,
+      "content_length": 14220,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care15-p1002nursingrehabilitation_4f52c591ba74",
+      "filename": "CARE15-P10.02 Nursing Rehabilitation.pdf",
+      "chunks": 12,
+      "content_length": 4860,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care15-p1003-t3poweredmobilityindoordrivingassessment_da309a93213d",
+      "filename": "CARE15-P10.03-T3 Powered Mobility Indoor Driving Assessment.pdf",
+      "chunks": 16,
+      "content_length": 9181,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care15-p1005-t2referralsocialwork_86a231c695c6",
+      "filename": "CARE15-P10.05-T2 Referral \u2013 Social Work.pdf",
+      "chunks": 2,
+      "content_length": 1332,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care15-p1003-t6referralphysiotherapy_2253d7959120",
+      "filename": "CARE15-P10.03-T6 Referral \u2013 Physiotherapy.pdf",
+      "chunks": 2,
+      "content_length": 1595,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care15-p1003-t2restorativeoccupationaltherapyassessment_50a54be39434",
+      "filename": "CARE15-P10.03-T2 Restorative \u2013 Occupational Therapy Assessment.docx",
+      "chunks": 8,
+      "content_length": 6139,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care15-p10-t1restorativecareneedsassessmentandevaluationtool_a5bfc4d409fd",
+      "filename": "CARE15-P10-T1 Restorative Care Needs Assessment and Evaluation Tool.pdf",
+      "chunks": 18,
+      "content_length": 14080,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care15-p1001-t2referralrestorativecarecoordinatingcommittee_449c4f6e5ce7",
+      "filename": "CARE15-P10.01-T2 Referral \u2013 Restorative Care Coordinating Committee.pdf",
+      "chunks": 7,
+      "content_length": 4824,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care15-p1003specializedrehabilitation_7beb95b8786b",
+      "filename": "CARE15-P10.03 Specialized Rehabilitation.pdf",
+      "chunks": 17,
+      "content_length": 7371,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care15-p1003-t5wheelchairpreventativemaintenancechecklist_6e3ad7fea3e5",
+      "filename": "CARE15-P10.03-T5 Wheelchair Preventative Maintenance Checklist.docx",
+      "chunks": 1,
+      "content_length": 773,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care15-p1001restorativeprogramming_5c384db34949",
+      "filename": "CARE15-P10.01 Restorative Programming.pdf",
+      "chunks": 9,
+      "content_length": 5585,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care15-p1005-t1restorativesocialworkassessment_ead7c5fc456e",
+      "filename": "CARE15-P10.05-T1 Restorative \u2013 Social Work Assessment.docx",
+      "chunks": 5,
+      "content_length": 3822,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care15-p1003-t4residentpoweredmobilitydeviceagreement_ba717df04b9a",
+      "filename": "CARE15-P10.03-T4 Resident Powered \u2013 Mobility Device Agreement.docx",
+      "chunks": 3,
+      "content_length": 1853,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care15-p1003-t1restorativephysiotherapyassessment_72d35b51ee57",
+      "filename": "CARE15-P10.03-T1 Restorative \u2013 Physiotherapy Assessment.pdf",
+      "chunks": 42,
+      "content_length": 15955,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care15-p10restorativecare_66c8788f5552",
+      "filename": "CARE15-P10 Restorative Care.pdf",
+      "chunks": 18,
+      "content_length": 8272,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care15-p1001-t1restorativecarecoordinatingcommitteetermsofreference_ea739572c6a7",
+      "filename": "CARE15-P10.01-T1 Restorative Care Coordinating Committee \u2013 Terms of Reference.pdf",
+      "chunks": 12,
+      "content_length": 7077,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care19-p1002-t1sbartool_f07326bb312f",
+      "filename": "CARE19-P10.02-T1  SBAR Tool.docx",
+      "chunks": 3,
+      "content_length": 1689,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care19-p20zerotoleranceofabuseandneglectprogramv1dkretupdates_8bd69bbb85b8",
+      "filename": "CARE19-P20 Zero Tolerance of Abuse and Neglect Program  v1 DK RET UPDATES.pdf",
+      "chunks": 10,
+      "content_length": 5957,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care19-p1003-t2criticalincidentreportingguide_77b3da5274d1",
+      "filename": "CARE19-P10.03-T2 Critical Incident Reporting Guide.docx",
+      "chunks": 64,
+      "content_length": 42975,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care19-p1003-criticalincidentreporting_4763a38e8b46",
+      "filename": "CARE19-P10.03  - Critical Incident Reporting.pdf",
+      "chunks": 3,
+      "content_length": 1873,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care19-p2002investigationofabuseandneglect_14ad8891d23a",
+      "filename": "CARE19-P20.02 Investigation of Abuse and Neglect.pdf",
+      "chunks": 5,
+      "content_length": 4116,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care19-p1002-t4-commoncontributingfactorstorsi_3544940cb90c",
+      "filename": "CARE19-P10.02-T4 - Common Contributing Factors to RSI.docx",
+      "chunks": 5,
+      "content_length": 4373,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care19-p2001-t1-incidentsthatmayconstituteacriminaloffencevf_c8e33c6d99c4",
+      "filename": "CARE19-P20.01-T1 - Incidents That May Constitute a Criminal Offence vF.docx",
+      "chunks": 2,
+      "content_length": 1987,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care19-p1002-t3-tipsforconductinginterviewsfollowingrsi_d7896d755821",
+      "filename": "CARE19-P10.02-T3 - Tips for Conducting Interviews Following RSI.docx",
+      "chunks": 23,
+      "content_length": 13166,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care19-p1004-disclosureofresidentsafetyincidents_f424af33c3ef",
+      "filename": "CARE19-P10.04 - Disclosure of Resident Safety Incidents.pdf",
+      "chunks": 5,
+      "content_length": 3842,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care19-p1001-t1completinganrmmreport_e236fbca0a1a",
+      "filename": "CARE19-P10.01-T1 Completing an RMM Report.docx",
+      "chunks": 48,
+      "content_length": 35234,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care19-p1001-t3rmmhow-toposter_a62cac211092",
+      "filename": "CARE19-P10.01-T3  RMM How-to Poster.pdf",
+      "chunks": 4,
+      "content_length": 1704,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care19-p1001-t2incidentseveritylevels_b70040cad841",
+      "filename": "CARE19-P10.01-T2 Incident Severity Levels.docx",
+      "chunks": 3,
+      "content_length": 2880,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care19-p10residentsafetyincidentprogram_4ae718f2117f",
+      "filename": "CARE19-P10 Resident Safety Incident Program.pdf",
+      "chunks": 13,
+      "content_length": 4914,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care19-p2003interventionstosupportrecipientsofallegedabuseorneglect2_1b20a9e7aff9",
+      "filename": "CARE19-P20.03 Interventions to Support Recipients of Alleged Abuse or Neglect (2).pdf",
+      "chunks": 8,
+      "content_length": 4644,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care19-p1002investigationandanalysisofresidentsafetyincidents_ad92ff3cbb1f",
+      "filename": "CARE19-P10.02  Investigation and Analysis of Resident Safety Incidents.pdf",
+      "chunks": 6,
+      "content_length": 3942,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care19-p1002-t2-rootcauseanalysischecklist_255a37008ead",
+      "filename": "CARE19-P10.02-T2 - Root Cause Analysis Checklist.docx",
+      "chunks": 8,
+      "content_length": 8296,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care19-p2001immediateresponseandmandatoryreportingofabuseandneglect2_8cad922f3172",
+      "filename": "CARE19-P20.01 Immediate Response and Mandatory Reporting of Abuse and Neglect (2).pdf",
+      "chunks": 11,
+      "content_length": 6816,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care19-p20-t1typesanddefinitionsofabuseorneglect_ca907b3206d4",
+      "filename": "CARE19-P20-T1 Types and Definitions of Abuse or Neglect.pdf",
+      "chunks": 5,
+      "content_length": 4232,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care19-p2002-t1potentialconsequencesofconfirmedabuseandneglectvf_8aab687f3543",
+      "filename": "CARE19-P20.02-T1 Potential Consequences of Confirmed Abuse and Neglect vF.docx",
+      "chunks": 4,
+      "content_length": 1838,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care19-p1004-t1-disclosurechecklistforrsi_394b653a53d2",
+      "filename": "CARE19-P10.04-T1 - Disclosure Checklist for RSI.docx",
+      "chunks": 14,
+      "content_length": 7764,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care19-p10-t1residentsafetyplan_3c238fbc4bf7",
+      "filename": "CARE19-P10-T1 Resident Safety Plan.docx",
+      "chunks": 42,
+      "content_length": 16951,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care19-p1001rmmincidentreporting_8a6f4ecc5953",
+      "filename": "CARE19-P10.01 RMM Incident Reporting.pdf",
+      "chunks": 6,
+      "content_length": 3062,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care-addl-003releasefromresponsibilitydischarge-resource_0eb6ceb1e2bc",
+      "filename": "CARE-ADDL-003 Release from Responsibility Discharge- Resource.docx",
+      "chunks": 2,
+      "content_length": 1476,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care-addl-001watertemperaturelog-resource_fd16121d47e5",
+      "filename": "CARE-ADDL-001 Water Temperature Log- Resource.docx",
+      "chunks": 7,
+      "content_length": 6033,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care-addl-002officedutiesadmissionchecklist-resource_1c1e83003174",
+      "filename": "CARE-ADDL-002 Office Duties Admission Checklist- Resource.docx",
+      "chunks": 3,
+      "content_length": 3784,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care17-p1003weightandheightmonitoring_a38d88afc181",
+      "filename": "CARE17-P10.03 Weight and Height Monitoring.pdf",
+      "chunks": 7,
+      "content_length": 4239,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care17-p1005-e1dysphagia-helppreventaspirationposter_2444dfbf2b73",
+      "filename": "CARE17-P10.05-E1 Dysphagia- Help Prevent Aspiration Poster.pdf",
+      "chunks": 4,
+      "content_length": 1980,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care17-p10-nutritionalcareandhydration_3808241b8b34",
+      "filename": "CARE17-P10 - Nutritional Care and Hydration.pdf",
+      "chunks": 31,
+      "content_length": 8590,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care17-p1001-t2nutrition-assessment_8a106d4909fa",
+      "filename": "CARE17-P10.01-T2 Nutrition - Assessment.pdf",
+      "chunks": 17,
+      "content_length": 7180,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care17-p1001-e1guidelinesforrdremoteservices_6b58443229d1",
+      "filename": "CARE17-P10.01-E1 Guidelines for RD Remote Services.pdf",
+      "chunks": 3,
+      "content_length": 2510,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care17-p1006-e1guidelinestherdietstextliqmodific_a66dac59526d",
+      "filename": "CARE17-P10.06-E1 Guidelines Ther Diets Text Liq Modific.pdf",
+      "chunks": 150,
+      "content_length": 101537,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care17-p1008-e2foodforthoughthandoutexternal_0b22400d01e5",
+      "filename": "CARE17-P10.08-E2 Food for Thought Handout (External).pdf",
+      "chunks": 3,
+      "content_length": 3023,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care17-p1008-e3nutritionsympmgmtinpalliativecare_68becff0d917",
+      "filename": "CARE17-P10.08-E3 Nutrition Symp Mgmt in Palliative Care.pdf",
+      "chunks": 7,
+      "content_length": 6259,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care17-p1003-e1guidelinesforheightmeasurement_a151340d9a0b",
+      "filename": "CARE17-P10.03-E1 Guidelines for Height Measurement.pdf",
+      "chunks": 8,
+      "content_length": 7073,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care17-p1002-e1foodequivalentsformealdocumentation_5c66a48d0dd6",
+      "filename": "CARE17-P10.02-E1 Food Equivalents for Meal Documentation.pdf",
+      "chunks": 5,
+      "content_length": 2814,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care17-p1005dysphagiamanagementandsafeeating_4981eaf9657b",
+      "filename": "CARE17-P10.05 Dysphagia Management and Safe Eating.pdf",
+      "chunks": 16,
+      "content_length": 8215,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care17-p1007-e1enteralnutritionguidelines_48102a0748e1",
+      "filename": "CARE17-P10.07-E1 Enteral Nutrition Guidelines.pdf",
+      "chunks": 54,
+      "content_length": 30079,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care17-p1008-e1demnutrhydrationeol_8c0a12ff6cef",
+      "filename": "CARE17-P10.08-E1 Dem, Nutr, Hydration EOL.pdf",
+      "chunks": 7,
+      "content_length": 4618,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care17-p10-t3nutrition-mealobservationscreening_8ca135d4acdb",
+      "filename": "CARE17-P10-T3 Nutrition - Meal Observation Screening.pdf",
+      "chunks": 16,
+      "content_length": 4609,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care17-p1004nourishmentssupplementsprescribeditems_aafb147c5e26",
+      "filename": "CARE17-P10.04 Nourishments Supplements Prescribed Items.pdf",
+      "chunks": 9,
+      "content_length": 4415,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care17-p1005-e4whatisdysphagiahandout_2b465631d5eb",
+      "filename": "CARE17-P10.05-E4 What is Dysphagia Handout.pdf",
+      "chunks": 11,
+      "content_length": 6624,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care17-p10-t1nutrition-communicationtoculinarydept_4941773abe59",
+      "filename": "CARE17-P10-T1 Nutrition-Communication to Culinary Dept.pdf",
+      "chunks": 13,
+      "content_length": 1244,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care17-p1002-foodandfluidintakemonitoring_3123c82200bd",
+      "filename": "CARE17-P10.02-Food and Fluid Intake Monitoring.pdf",
+      "chunks": 13,
+      "content_length": 4190,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care17-p1001residentnutritionalassessment_2d2ae5085eeb",
+      "filename": "CARE17-P10.01 Resident Nutritional Assessment.pdf",
+      "chunks": 17,
+      "content_length": 8335,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care17-p1002-t1nutrition-hydrationassessment-nursing_cd59423f121d",
+      "filename": "CARE17-P10.02-T1 Nutrition - Hydration Assessment - Nursing.pdf",
+      "chunks": 14,
+      "content_length": 3438,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care17-p1001-t3nutrition-riskscreen_c493451d155f",
+      "filename": "CARE17-P10.01-T3 Nutrition - Risk Screen.pdf",
+      "chunks": 21,
+      "content_length": 2902,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care17-p1008nutritionthroughpalliativecare_e671a3c0aa01",
+      "filename": "CARE17-P10.08 Nutrition Through Palliative Care.pdf",
+      "chunks": 6,
+      "content_length": 4053,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care17-p10-t2referral-registereddietitian_9e8007051071",
+      "filename": "CARE17-P10-T2 Referral - Registered Dietitian.pdf",
+      "chunks": 11,
+      "content_length": 1829,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care17-p10-e2nutritionhydrationassistancetechniques_06319b82684c",
+      "filename": "CARE17-P10-E2 Nutrition & Hydration Assistance Techniques.pdf",
+      "chunks": 12,
+      "content_length": 11427,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care17-p1005-e3assistivefeedingdeviceresource_09398caba5c7",
+      "filename": "CARE17-P10.05-E3 Assistive Feeding Device Resource.pdf",
+      "chunks": 15,
+      "content_length": 10338,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care17-p1007enteralnutrition_bc0c652f56b5",
+      "filename": "CARE17-P10.07 Enteral Nutrition.pdf",
+      "chunks": 8,
+      "content_length": 3172,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care17-p1001-t1nutrition-move-inprofile_5f269a3ac28b",
+      "filename": "CARE17-P10.01-T1 Nutrition - Move-in Profile.pdf",
+      "chunks": 4,
+      "content_length": 1972,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care17-p1006therapeuticdietstextureandliquidmod_35f2f515e76b",
+      "filename": "CARE17-P10.06 Therapeutic Diets, Texture and Liquid Mod.pdf",
+      "chunks": 7,
+      "content_length": 4894,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care17-p1005-e2safeeatingassistancehandout_bf941f698468",
+      "filename": "CARE17-P10.05-E2 Safe Eating Assistance Handout.pdf",
+      "chunks": 18,
+      "content_length": 15518,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care17-p10-e1nutritionalcarehydrationeducation_677ffe6c9b4f",
+      "filename": "CARE17-P10-E1 Nutritional Care & Hydration Education.pdf",
+      "chunks": 32,
+      "content_length": 27972,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care7-p1001-dementiacarebehaviouralsupports_efd03b1b850b",
+      "filename": "CARE7-P10.01 - Dementia Care & Behavioural Supports.pdf",
+      "chunks": 12,
+      "content_length": 5840,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care7-p1001-t4mentalhealth-bstu-qualityoflifeinlate-stagedementiaqualidscale_ee50144d04c3",
+      "filename": "CARE7-P10.01-T4 Mental Health - BSTU - Quality of Life in Late-Stage Dementia (QUALID) Scale.pdf",
+      "chunks": 29,
+      "content_length": 4541,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care7-p1001-t5thewontoolpapertool-bstuonly_515e973253e1",
+      "filename": "CARE7-P10.01-T5 The WON Tool (paper tool) - BSTU Only.pdf",
+      "chunks": 2,
+      "content_length": 2616,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care7-p1002-t4mentalhealth-confusionassessmentmethodcam_065f92d6c8db",
+      "filename": "CARE7-P10.02-T4 Mental Health - Confusion Assessment Method (CAM).pdf",
+      "chunks": 2,
+      "content_length": 2369,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care7-p1001-t2mentalhealth-scoreofsmmsemmse_19a84b33bf21",
+      "filename": "CARE7-P10.01-T2 Mental Health - Score of sMMSE MMSE.pdf",
+      "chunks": 1,
+      "content_length": 539,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care7-p1001-t3mentalhealth-scoreofmoca_2a8b3863d0e4",
+      "filename": "CARE7-P10.01-T3 Mental Health - Score of MoCA.pdf",
+      "chunks": 1,
+      "content_length": 668,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care7-p1002-e2delirium-planofcareconsiderations_5bace8c6a022",
+      "filename": "CARE7-P10.02-E2 Delirium - Plan of Care Considerations.pdf",
+      "chunks": 13,
+      "content_length": 5812,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care7-p1002-t3mentalhealth-geriatricdepressionscalegds_3aa434ef44da",
+      "filename": "CARE7-P10.02-T3 Mental Health - Geriatric Depression Scale (GDS).pdf",
+      "chunks": 2,
+      "content_length": 2641,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care7-p10-t2mentalhealth-behaviouralroundsincidentdebrieftool_96a2a8451f9f",
+      "filename": "CARE7-P10-T2 Mental Health - Behavioural Rounds & Incident Debrief Tool.pdf",
+      "chunks": 17,
+      "content_length": 13389,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care7-p10-e3person-centredlanguage-cheatsheet_789e684f00bc",
+      "filename": "CARE7-P10-E3 Person-Centred Language - Cheat Sheet.pdf",
+      "chunks": 4,
+      "content_length": 5983,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care7-p1001-e2thewontool-sample-bstuonly_fededd16b251",
+      "filename": "CARE7-P10.01-E2 The WON Tool - Sample - BSTU Only.pdf",
+      "chunks": 1,
+      "content_length": 2628,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care7-p1002-t1mentalhealth-suicidalthinkingscreenandassessment_33dc3abacf7b",
+      "filename": "CARE7-P10.02-T1 Mental Health - Suicidal Thinking Screen and Assessment.pdf",
+      "chunks": 25,
+      "content_length": 16403,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care7-p1001-t1mentalhealth-cohenmansfieldagitationinventorycmai_db810002e15a",
+      "filename": "CARE7-P10.01-T1 Mental Health - Cohen Mansfield Agitation Inventory (CMAI).pdf",
+      "chunks": 3,
+      "content_length": 3230,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care7-p10-t1mentalhealthdementiacare-programaudit_14670aafc877",
+      "filename": "CARE7-P10-T1 Mental Health & Dementia Care - Program Audit .docx",
+      "chunks": 13,
+      "content_length": 8477,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care7-p1002-suicidalthinkingothermentalhealthconditions_a903201bfb82",
+      "filename": "CARE7-P10.02 - Suicidal Thinking & Other Mental Health Conditions.pdf",
+      "chunks": 21,
+      "content_length": 7103,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care7-p10-e2behaviouralsupportleadrolesresponsibilities_a73edced7b9d",
+      "filename": "CARE7-P10-E2 Behavioural Support Lead Roles & Responsibilities.pdf",
+      "chunks": 3,
+      "content_length": 2499,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care7-p1001-e1person-centredcareforresponsivebehaviours_67dc82ba28ba",
+      "filename": "CARE7-P10.01-E1 Person-Centred Care for Responsive Behaviours.pdf",
+      "chunks": 11,
+      "content_length": 8345,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care7-p1002-e1riskfactors-suicidalthinking_767264a2aaa0",
+      "filename": "CARE7-P10.02-E1 Risk Factors - Suicidal Thinking.pdf",
+      "chunks": 5,
+      "content_length": 2804,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care7-p10-e1mentalhealthdementiacareannualeducation_e87a59e4a509",
+      "filename": "CARE7-P10-E1 Mental Health & Dementia Care Annual Education.pdf",
+      "chunks": 37,
+      "content_length": 23655,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care7-p1002-t2mentalhealth-cornellscalefordepressionindementia_134b83c518c1",
+      "filename": "CARE7-P10.02-T2 Mental Health - Cornell Scale for Depression in Dementia.pdf",
+      "chunks": 10,
+      "content_length": 6229,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care7-p10-t3referral-behaviouralsupportteam_7fbd3f9011dc",
+      "filename": "CARE7-P10-T3 Referral - Behavioural Support Team.pdf",
+      "chunks": 6,
+      "content_length": 3683,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care7-p10-mentalhealthdementiacare_5350556c137b",
+      "filename": "CARE7-P10 - Mental Health & Dementia Care.pdf",
+      "chunks": 17,
+      "content_length": 6638,
+      "metadata_success": true
+    }
+  ],
+  "failed_documents": []
+}

@@ -1,0 +1,42 @@
+{
+  "doc_id": "evs3-p1005distributionofpersonalclothing_a5f68f1372ac",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "evs3-p1005distributionofpersonalclothing_a5f68f1372ac_chunk_000_173ce4b2",
+      "doc_id": "evs3-p1005distributionofpersonalclothing_a5f68f1372ac",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE- **MANUAL:** Environmental Services\n- **INDEX:** EVS3-P10.05\n- **SECTION:** Personal Clothing and Linen Processes-Laundry\n- **EFFECTIVE DATE:** March 18, 2025\n- **REVIEWED DATE:** March 7, 2025\n- **APPROVED BY:** Senior Director, Operational Quality and Professional Practice\n- **MODIFIED DATE:** May 14, 2025----## POLICY### Personal Clothing and Linen Processes## PROCEDURE### Manager or Designate:\n- Develop a delivery system that will enable, if possible, the use of a single personal clothing delivery cart for each home area. Take into consideration the ratio of hanging clothing to folded clothing. - Develop a system for adding or changing residents’ names on the cart (name and/or room number). - Work with the Director of Care/Executive Director to establish the time of delivery to each home area. - Review the procedures and adapt to your home’s specific needs.### Laundry Staff:\n- Process personal clothing according to appropriate wash and drying cycles. - Place clothing on the appropriate personal clothing cart, with folded clothing in the correct bin or cart and hanging clothing hung in alphabetical order by name/room number.",
+      "char_count": 1171,
+      "token_estimate": 292,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs3-p1005distributionofpersonalclothing_a5f68f1372ac_chunk_001_7521ea60",
+      "doc_id": "evs3-p1005distributionofpersonalclothing_a5f68f1372ac",
+      "chunk_index": 1,
+      "text": "- Review the procedures and adapt to your home’s specific needs.### Laundry Staff:\n- Process personal clothing according to appropriate wash and drying cycles. - Place clothing on the appropriate personal clothing cart, with folded clothing in the correct bin or cart and hanging clothing hung in alphabetical order by name/room number. - Return any unlabelled clothing to home area/floor with a request for identification for labelling. - Ensure cart covers are on personal clothing carts when carts leave the laundry room. - Ensure personal clothing delivered back to resident within 48-72 hours.### Care Staff:\n- Deliver clean personal clothing to residents’ rooms according to the schedule (within 48-72 hours). - Put clothing in the cupboards/drawers in a neat manner. Remove all empty hangers from closet and place them on the personal clothing cart. - Try to identify any unlabelled clothing and, if unable to, place the items back on the personal clothing cart in the designated area. - Return personal clothing cart to the laundry room or designated area.----> **Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1149,
+      "token_estimate": 287,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs3-p1005distributionofpersonalclothing_a5f68f1372ac_chunk_002_4f766878",
+      "doc_id": "evs3-p1005distributionofpersonalclothing_a5f68f1372ac",
+      "chunk_index": 2,
+      "text": "- Return personal clothing cart to the laundry room or designated area.----> **Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 1**",
+      "char_count": 428,
+      "token_estimate": 107,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

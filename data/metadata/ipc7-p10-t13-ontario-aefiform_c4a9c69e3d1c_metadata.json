@@ -1,0 +1,12 @@
+{
+  "doc_id": "ipc7-p10-t13-ontario-aefiform_c4a9c69e3d1c",
+  "category": "Infection Prevention and Control",
+  "schema_used": "GenericDocumentMeta",
+  "extraction_success": true,
+  "metadata": {
+    "title": "Report of Adverse Event Following Immunization (AEFI)",
+    "department": "- Yes"
+  },
+  "error": null,
+  "fallback_metadata": null
+}

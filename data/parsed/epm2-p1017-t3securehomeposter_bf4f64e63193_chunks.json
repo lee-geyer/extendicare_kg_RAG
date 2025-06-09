@@ -1,0 +1,66 @@
+{
+  "doc_id": "epm2-p1017-t3securehomeposter_bf4f64e63193",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": "epm2-p1017-t3securehomeposter_bf4f64e63193_chunk_000_9a894e39",
+      "doc_id": "epm2-p1017-t3securehomeposter_bf4f64e63193",
+      "chunk_index": 0,
+      "text": "```markdown\n\n# SECURE HOME## Emergency Response### What does it mean?\nSecure Home is the designated phrase to alert staff of the need to remain inside the home with the doors and windows locked.### What do I do?",
+      "char_count": 211,
+      "token_estimate": 52,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1017-t3securehomeposter_bf4f64e63193_chunk_002_4724b10c",
+      "doc_id": "epm2-p1017-t3securehomeposter_bf4f64e63193",
+      "chunk_index": 2,
+      "text": "1. Close and lock all outside windows and doors.\n\n2. Close all curtains to the outside.",
+      "char_count": 87,
+      "token_estimate": 21,
+      "section_title": "Close and lock all outside windows and doors.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1017-t3securehomeposter_bf4f64e63193_chunk_004_c772ed2a",
+      "doc_id": "epm2-p1017-t3securehomeposter_bf4f64e63193",
+      "chunk_index": 4,
+      "text": "3. Announce 3 times, “Secure Home.”\n\n4. If the secure home isn’t informed by the police, call 9-1-1 and provide them with as much detail as possible.",
+      "char_count": 149,
+      "token_estimate": 37,
+      "section_title": "Announce 3 times, “Secure Home.”",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1017-t3securehomeposter_bf4f64e63193_chunk_006_be3c10db",
+      "doc_id": "epm2-p1017-t3securehomeposter_bf4f64e63193",
+      "chunk_index": 6,
+      "text": "5. Stay away from all outside windows and doors.\n\n6. Do not leave the building and instruct others not to leave.",
+      "char_count": 112,
+      "token_estimate": 28,
+      "section_title": "Stay away from all outside windows and doors.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1017-t3securehomeposter_bf4f64e63193_chunk_008_ee23d6e6",
+      "doc_id": "epm2-p1017-t3securehomeposter_bf4f64e63193",
+      "chunk_index": 8,
+      "text": "7. Remain in Secure Home until instructed by Police that the threat has ended.### Review it before you need it:\n- Refer to your Home’s Emergency Planning and Management Manual, Secure Home.\n- Review the Secure Home procedure and checklist that describes your area’s role if a Secure Home is enacted.\n```",
+      "char_count": 303,
+      "token_estimate": 75,
+      "section_title": "Remain in Secure Home until instructed by Police that the threat has ended.### Review it before you need it:",
+      "chunk_type": "content",
+      "start_line": 9,
+      "end_line": 12
+    }
+  ]
+}

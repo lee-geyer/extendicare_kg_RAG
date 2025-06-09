@@ -1,0 +1,114 @@
+{
+  "doc_id": "ipc7-p1001-residentimmunization_fe195f1e757c",
+  "total_chunks": 9,
+  "chunks": [
+    {
+      "chunk_id": "ipc7-p1001-residentimmunization_fe195f1e757c_chunk_000_c3df6561",
+      "doc_id": "ipc7-p1001-residentimmunization_fe195f1e757c",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE\n**MANUAL:** Infection Prevention and Control\n**INDEX:** IPC7-P10.01\n**SECTION:** Immunization of Residents and Staff\n**EFFECTIVE DATE:** February 18, 2025\n**REVIEWED DATE:** February 11, 2025\n**APPROVED BY:** Chief Medical Officer\n**MODIFIED DATE:** May 30, 2025----## POLICY\n\n### Immunization of Residents and Staff## PROCEDURE\nRegistered staff will:1. Collect and request information related to vaccination history of a new resident upon admission.",
+      "char_count": 476,
+      "token_estimate": 119,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p1001-residentimmunization_fe195f1e757c_chunk_002_a7966587",
+      "doc_id": "ipc7-p1001-residentimmunization_fe195f1e757c",
+      "chunk_index": 2,
+      "text": "2. Consider a resident who reports incomplete immunization or lacking adequate documentation of immunization as unimmunized and start the resident on an immunization schedule appropriate for their age and risk factors.\n\n3. Obtain up-to-date information (i.e., fact sheet, consent form, etc.) from the health authority.",
+      "char_count": 318,
+      "token_estimate": 79,
+      "section_title": "Consider a resident who reports incomplete immunization or lacking adequate documentation of immunization as unimmunized and start the resident on an immunization schedule appropriate for their age and risk factors.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p1001-residentimmunization_fe195f1e757c_chunk_004_7c3b308a",
+      "doc_id": "ipc7-p1001-residentimmunization_fe195f1e757c",
+      "chunk_index": 4,
+      "text": "4. Provide information related to vaccination to the resident or substitute decision-maker (SDM) following collection of information related to vaccination status of the resident. Outline the risks and benefits, and the reasons vaccination is important in long-term care.\n\n5. Obtain informed consent as per provincial legislation prior to giving the proposed treatment. Informed consent must include:\n- the nature of the treatment;\n- the expected benefits of the treatment;\n- the risk and side effects of the treatment, if any; and\n- the possible consequences of not having the treatment.",
+      "char_count": 588,
+      "token_estimate": 147,
+      "section_title": "Provide information related to vaccination to the resident or substitute decision-maker (SDM) following collection of information related to vaccination status of the resident. Outline the risks and benefits, and the reasons vaccination is important in long-term care.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p1001-residentimmunization_fe195f1e757c_chunk_006_0774132e",
+      "doc_id": "ipc7-p1001-residentimmunization_fe195f1e757c",
+      "chunk_index": 6,
+      "text": "6. Review the Resident Informed Consent for TB Screening and Vaccinations form and obtain consent on admission and as required by having the resident or their SDM sign the form.\n\n7. Ensure that each resident admitted is screened for active tuberculosis within 14 days of admission. There must be documented results for the screening process.",
+      "char_count": 341,
+      "token_estimate": 85,
+      "section_title": "Review the Resident Informed Consent for TB Screening and Vaccinations form and obtain consent on admission and as required by having the resident or their SDM sign the form.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p1001-residentimmunization_fe195f1e757c_chunk_008_525af3e2",
+      "doc_id": "ipc7-p1001-residentimmunization_fe195f1e757c",
+      "chunk_index": 8,
+      "text": "8. Offer a copy of the Resident Informed Consent for TB Screening and Vaccinations form to the resident or their SDM and initial the form in the appropriate location. Alert the physician/nurse practitioner if the resident/SDM refuses consent, allowing the physician/nurse practitioner the opportunity to review the consent form with the resident and others during the admission process.\n\n9. Review the vaccination information of a new resident. The physician/nurse practitioner may order additional vaccinations based on the recommendations of:\n- Tetanus, Diphtheria, and Pertussis (Td/Tdap);\n- Influenza - annually;\n- COVID-19;\n- other novel virus vaccination(s);----**Helping people live a better life**\nThis document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025",
+      "char_count": 1028,
+      "token_estimate": 257,
+      "section_title": "Offer a copy of the Resident Informed Consent for TB Screening and Vaccinations form to the resident or their SDM and initial the form in the appropriate location. Alert the physician/nurse practitioner if the resident/SDM refuses consent, allowing the physician/nurse practitioner the opportunity to review the consent form with the resident and others during the admission process.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p1001-residentimmunization_fe195f1e757c_chunk_010_973aeac7",
+      "doc_id": "ipc7-p1001-residentimmunization_fe195f1e757c",
+      "chunk_index": 10,
+      "text": "# PROCEDURE## SECTION: Immunization of Residents and Staff\n\n### DESCRIPTION: Resident Vaccination",
+      "char_count": 97,
+      "token_estimate": 24,
+      "section_title": "PROCEDURE## SECTION: Immunization of Residents and Staff",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p1001-residentimmunization_fe195f1e757c_chunk_012_29cca90a",
+      "doc_id": "ipc7-p1001-residentimmunization_fe195f1e757c",
+      "chunk_index": 12,
+      "text": "### INDEX: IPC7-P10.01### Vaccination Schedule\n- **Pneumococcal**\n- **Respiratory Syncytial Virus**1. Homes will offer Td/Tdap and Pneumococcal vaccinations upon admission.\n- One (1) dose of Tdap is required for pertussis protection regardless of interval since last dose of tetanus and diphtheria vaccine.\n\n2.",
+      "char_count": 310,
+      "token_estimate": 77,
+      "section_title": "INDEX: IPC7-P10.01### Vaccination Schedule",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p1001-residentimmunization_fe195f1e757c_chunk_014_284e98ad",
+      "doc_id": "ipc7-p1001-residentimmunization_fe195f1e757c",
+      "chunk_index": 14,
+      "text": "Follow the Canadian Immunization Guide when determining if additional vaccination is required.### External References\n- **Alberta:** Alberta Health Services Routine Immunization Schedule\n- **Manitoba:** Government of Manitoba Eligibility Criteria for Publicly-Funded Vaccines\n- **Ontario:** Publicly Funded Immunization Schedules for Ontario### TOOLS\n| Tool Number | Tool Description                                               |\n|-------------|---------------------------------------------------------------|\n| IPC7-P10-T2 | Resident Vaccination Medical Directive Form                   |\n| IPC7-P10-T8 | Resident Informed Consent for TB Screening and Vaccinations   |\n| IPC7-P10-T9 | TB Active Screening for Residents                              |\n| IPC7-P10-T11| Influenza Preparedness Checklist                               |\n| IPC7-P10-T12| Influenza Clinic Supplies Checklist                             |\n| IPC7-P10-T13| Ontario - AEFI Form                                          |\n| IPC7-P10-T14| Manitoba - AEFI Form                                          |\n| IPC7-P10-T15| Alberta - AEFI Form Link                                      |----**Helping people live better**This document is uncontrolled when printed.",
+      "char_count": 1231,
+      "token_estimate": 307,
+      "section_title": "Follow the Canadian Immunization Guide when determining if additional vaccination is required.### External References",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p1001-residentimmunization_fe195f1e757c_chunk_015_35fadc7c",
+      "doc_id": "ipc7-p1001-residentimmunization_fe195f1e757c",
+      "chunk_index": 15,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 2 of 2**",
+      "char_count": 297,
+      "token_estimate": 74,
+      "section_title": "Follow the Canadian Immunization Guide when determining if additional vaccination is required.### External References",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

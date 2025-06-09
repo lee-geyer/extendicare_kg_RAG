@@ -1,0 +1,42 @@
+{
+  "doc_id": "ipc-addl-012passive-screening-worker-symptoms_5e4957b9cc45",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "ipc-addl-012passive-screening-worker-symptoms_5e4957b9cc45_chunk_000_2647b67c",
+      "doc_id": "ipc-addl-012passive-screening-worker-symptoms_5e4957b9cc45",
+      "chunk_index": 0,
+      "text": "# Health Screening Policy## Symptoms Checklist\nDo you have any of the symptoms listed below?| Symptoms                        | Symptoms                        |\n|---------------------------------|---------------------------------|\n| Fever and/or Chills             | Cough (Dry = Barking/Croup)    |\n| Runny or Stuffy Nose            | Headache                        |\n| Extreme Tiredness               | Sneezing                        |\n| Sore Throat                     | Shortness of Breath             |\n| Hoarse Voice                    | Loss of Taste or Smell          |\n| Muscle Aches                    | Nausea                          |\n| Joint Pain                      | Diarrhea                        |## Important Instructions\nIf you said 'YES' to anything; please **DO NOT enter**:- All employees should stay home if they are sick. - **Acute respiratory illness**: Remain off work until 5 days from the onset of symptoms of a respiratory illness or until 24 hours after symptoms have resolved; whichever is shorter; or as directed by your local public health authority.",
+      "char_count": 1089,
+      "token_estimate": 272,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc-addl-012passive-screening-worker-symptoms_5e4957b9cc45_chunk_001_b4544fba",
+      "doc_id": "ipc-addl-012passive-screening-worker-symptoms_5e4957b9cc45",
+      "chunk_index": 1,
+      "text": "# Health Screening Policy## Symptoms Checklist\nDo you have any of the symptoms listed below?| Symptoms                        | Symptoms                        |\n|---------------------------------|---------------------------------|\n| Fever and/or Chills             | Cough (Dry = Barking/Croup)    |\n| Runny or Stuffy Nose            | Headache                        |\n| Extreme Tiredness               | Sneezing                        |\n| Sore Throat                     | Shortness of Breath             |\n| Hoarse Voice                    | Loss of Taste or Smell          |\n| Muscle Aches                    | Nausea                          |\n| Joint Pain                      | Diarrhea                        |## Important Instructions\nIf you said 'YES' to anything; please **DO NOT enter**:- All employees should stay home if they are sick. - **Acute respiratory illness**: Remain off work until 5 days from the onset of symptoms of a respiratory illness or until 24 hours after symptoms have resolved; whichever is shorter; or as directed by your local public health authority. - **Gastrointestinal illness**: Remain off work for 48 hours after symptoms resolve as per the case definition or as directed by the Public Health Authority.",
+      "char_count": 1247,
+      "token_estimate": 311,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc-addl-012passive-screening-worker-symptoms_5e4957b9cc45_chunk_002_ae73a67d",
+      "doc_id": "ipc-addl-012passive-screening-worker-symptoms_5e4957b9cc45",
+      "chunk_index": 2,
+      "text": "- **Acute respiratory illness**: Remain off work until 5 days from the onset of symptoms of a respiratory illness or until 24 hours after symptoms have resolved; whichever is shorter; or as directed by your local public health authority. - **Gastrointestinal illness**: Remain off work for 48 hours after symptoms resolve as per the case definition or as directed by the Public Health Authority. - Workers who become ill during the day should promptly separate themselves from other workers and go home.----**Extendicare**\nHelping people live better",
+      "char_count": 549,
+      "token_estimate": 137,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

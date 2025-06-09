@@ -1,0 +1,162 @@
+{
+  "doc_id": "ipc2-p1010ppe_ac6ab9da121e",
+  "total_chunks": 13,
+  "chunks": [
+    {
+      "chunk_id": "ipc2-p1010ppe_ac6ab9da121e_chunk_000_5b68470d",
+      "doc_id": "ipc2-p1010ppe_ac6ab9da121e",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE\n**MANUAL:** Infection Prevention and Control\n**INDEX:** IPC2-P10.10\n**SECTION:** Infection Prevention\n**EFFECTIVE DATE:** February 18, 2025\n**REVIEWED DATE:** February 11, 2025\n**APPROVED BY:** Chief Medical Officer\n**MODIFIED DATE:** May 30, 2025----## POLICY\n\n### Infection Prevention## PROCEDURE\nThe essentials for the use of personal protective equipment (PPE) are:- Always use PPE where contact with hazardous materials, blood, and body fluid is anticipated based on a point of care risk assessment (PCRA), and as per additional precautions. - Avoid all contact between contaminated PPE and surfaces, clothing, food, or people. - Do not share PPE. - Gloves do not substitute the need for hand hygiene. - Discard used PPE in designated receptacles, followed by hand hygiene and dispose of waste as regular garbage in accordance with Extendicare procedures.### Examples of PPE include:#### Gloves\n- Gloves should fit the user’s hand comfortably. - Gloves should be put on immediately before beginning a task and removed when the task is complete. - Gloves must be changed after contact with each Resident or during contact with the Resident if dictated by infection control practice (e.g., dressing changes on different areas of the body). - Gloves must be changed if the gloves become torn or heavily soiled.",
+      "char_count": 1338,
+      "token_estimate": 334,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p1010ppe_ac6ab9da121e_chunk_002_2d5384d6",
+      "doc_id": "ipc2-p1010ppe_ac6ab9da121e",
+      "chunk_index": 2,
+      "text": "- Gloves must be changed after contact with each Resident or during contact with the Resident if dictated by infection control practice (e.g., dressing changes on different areas of the body). - Gloves must be changed if the gloves become torn or heavily soiled. - Hand Hygiene must be performed before donning, and after doffing gloves.#### Gowns\n- A clean, disposable, non-sterile gown is required to protect the skin and prevent soiling of clothing during procedures that are likely to generate splashes of blood, body fluids secretions or excretions. - Soiled or wet gowns must be removed as soon as possible. - Disposable gowns and aprons must not be reused.#### Eye Protection\n- Eye protection is required when it is reasonably anticipated that the eyes may be splashed with infectious material, blood or a body substance. - If the eye protection is disposable, it must be discarded appropriately. - If the eye protection is reusable, it must be cleaned and disinfected according to the manufacturer’s instructions.----**Helping people live better**\nThis document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1125,
+      "token_estimate": 281,
+      "section_title": "Infection Prevention## PROCEDURE",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p1010ppe_ac6ab9da121e_chunk_003_cea8a7b5",
+      "doc_id": "ipc2-p1010ppe_ac6ab9da121e",
+      "chunk_index": 3,
+      "text": "- If the eye protection is reusable, it must be cleaned and disinfected according to the manufacturer’s instructions.----**Helping people live better**\nThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n**Page 1 of 3**# PROCEDURE**SECTION:** Infection Prevention\n**DESCRIPTION:** Personal Protective Equipment (PPE)\n**INDEX:** IPC2-P10.10## Eye Protection\n- Eye protection must meet CSA standards – anti-fog, anti-scratch, polycarbonate lenses are recommended. - Prescription eyeglasses are not eye protection.## Masks\n- Masks (surgical/procedure) are to be worn when it is reasonably anticipated that the nose and/or mouth will be splashed with infectious material, blood or body substances or when the staff is working directly in or around areas of large open wounds.",
+      "char_count": 1042,
+      "token_estimate": 260,
+      "section_title": "Infection Prevention## PROCEDURE",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p1010ppe_ac6ab9da121e_chunk_004_53a4e1b5",
+      "doc_id": "ipc2-p1010ppe_ac6ab9da121e",
+      "chunk_index": 4,
+      "text": "© 2025\n**Page 1 of 3**# PROCEDURE**SECTION:** Infection Prevention\n**DESCRIPTION:** Personal Protective Equipment (PPE)\n**INDEX:** IPC2-P10.10## Eye Protection\n- Eye protection must meet CSA standards – anti-fog, anti-scratch, polycarbonate lenses are recommended. - Prescription eyeglasses are not eye protection.## Masks\n- Masks (surgical/procedure) are to be worn when it is reasonably anticipated that the nose and/or mouth will be splashed with infectious material, blood or body substances or when the staff is working directly in or around areas of large open wounds. - Infection control procedures may dictate that masks are worn in situations where there is potential exposure to other infectious aerosols or droplets.## N95 Respirator\n- Mask fit testing will ensure that health care workers who may need to wear a respirator (including N95 respirators) are trained, fit tested and prepared as per provincial and regional health authorities.",
+      "char_count": 950,
+      "token_estimate": 237,
+      "section_title": "Infection Prevention## PROCEDURE",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p1010ppe_ac6ab9da121e_chunk_005_a79e8ad9",
+      "doc_id": "ipc2-p1010ppe_ac6ab9da121e",
+      "chunk_index": 5,
+      "text": "- Prescription eyeglasses are not eye protection.## Masks\n- Masks (surgical/procedure) are to be worn when it is reasonably anticipated that the nose and/or mouth will be splashed with infectious material, blood or body substances or when the staff is working directly in or around areas of large open wounds. - Infection control procedures may dictate that masks are worn in situations where there is potential exposure to other infectious aerosols or droplets.## N95 Respirator\n- Mask fit testing will ensure that health care workers who may need to wear a respirator (including N95 respirators) are trained, fit tested and prepared as per provincial and regional health authorities. - N95 Respirators will be used when directed, i.e., caring for a resident with suspect or known pulmonary Tuberculosis (TB).## PPE Inventory\nThe Infection Control Professional/Designate will be responsible for completing and monitoring inventory of PPE at the home. The supply of PPE will be available and accessible to all staff and essential visitors, appropriate to their purpose of visitation and level of risk in accordance with evidence-based practices.",
+      "char_count": 1145,
+      "token_estimate": 286,
+      "section_title": "Infection Prevention## PROCEDURE",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p1010ppe_ac6ab9da121e_chunk_006_d4e92be8",
+      "doc_id": "ipc2-p1010ppe_ac6ab9da121e",
+      "chunk_index": 6,
+      "text": "- N95 Respirators will be used when directed, i.e., caring for a resident with suspect or known pulmonary Tuberculosis (TB).## PPE Inventory\nThe Infection Control Professional/Designate will be responsible for completing and monitoring inventory of PPE at the home. The supply of PPE will be available and accessible to all staff and essential visitors, appropriate to their purpose of visitation and level of risk in accordance with evidence-based practices. PPE inventory will be stored and disposed of in accordance with best practice. The Home will have a standard 2-week supply of PPE in preparation for a potential outbreak and an additional 2-week supply in the event of a pandemic.## Auditing\nThe Home will have a PPE compliance program in place that includes PPE auditing performed by trained staff, education, and analysis of audit results.## EDUCATION",
+      "char_count": 862,
+      "token_estimate": 215,
+      "section_title": "Infection Prevention## PROCEDURE",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p1010ppe_ac6ab9da121e_chunk_007_44f057fb",
+      "doc_id": "ipc2-p1010ppe_ac6ab9da121e",
+      "chunk_index": 7,
+      "text": "1. IPC2-P10-E2 - Point of Care Risk Assessment (PCRA) Algorithm\n\n2. IPC2-P10-E3 - Point of Care Risk Assessment (PCRA) Factsheet",
+      "char_count": 128,
+      "token_estimate": 32,
+      "section_title": "IPC2-P10-E2 - Point of Care Risk Assessment (PCRA) Algorithm",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p1010ppe_ac6ab9da121e_chunk_009_bf4beff5",
+      "doc_id": "ipc2-p1010ppe_ac6ab9da121e",
+      "chunk_index": 9,
+      "text": "3. IPC2-P10-E10 - PPE Guide\n\n4. IPC2-P10-E11 - PPE Doffing Sequence Poster",
+      "char_count": 74,
+      "token_estimate": 18,
+      "section_title": "IPC2-P10-E10 - PPE Guide",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p1010ppe_ac6ab9da121e_chunk_011_2f642604",
+      "doc_id": "ipc2-p1010ppe_ac6ab9da121e",
+      "chunk_index": 11,
+      "text": "5. IPC2-P10-E12 - PPE Donning Sequence Poster\n\n6. IPC2-P10-E13 - Six Steps to Removing N95 Respirator",
+      "char_count": 101,
+      "token_estimate": 25,
+      "section_title": "IPC2-P10-E12 - PPE Donning Sequence Poster",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p1010ppe_ac6ab9da121e_chunk_013_afa39f79",
+      "doc_id": "ipc2-p1010ppe_ac6ab9da121e",
+      "chunk_index": 13,
+      "text": "7. IPC2-P10-E14 - Six Steps to Wearing N95 Respirator\n\n8. IPC2-P10-E15 - Mask Friendly Poster",
+      "char_count": 93,
+      "token_estimate": 23,
+      "section_title": "IPC2-P10-E14 - Six Steps to Wearing N95 Respirator",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p1010ppe_ac6ab9da121e_chunk_015_795eb672",
+      "doc_id": "ipc2-p1010ppe_ac6ab9da121e",
+      "chunk_index": 15,
+      "text": "9. IPC2-P10-E16 - Mask Wearing Right and Wrong Poster\n\n10. IPC2-P10-E20 - Respiratory Etiquette Coughing and Sneezing Best Practices----**Helping people live better**\nThis document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n**Page 2 of 3**# PROCEDURE## SECTION: Infection Prevention",
+      "char_count": 548,
+      "token_estimate": 137,
+      "section_title": "IPC2-P10-E16 - Mask Wearing Right and Wrong Poster",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p1010ppe_ac6ab9da121e_chunk_017_049e7f72",
+      "doc_id": "ipc2-p1010ppe_ac6ab9da121e",
+      "chunk_index": 17,
+      "text": "### DESCRIPTION: Personal Protective Equipment (PPE)\n\n### INDEX: IPC2-P10.10### TOOLS",
+      "char_count": 85,
+      "token_estimate": 21,
+      "section_title": "DESCRIPTION: Personal Protective Equipment (PPE)",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p1010ppe_ac6ab9da121e_chunk_019_91453176",
+      "doc_id": "ipc2-p1010ppe_ac6ab9da121e",
+      "chunk_index": 19,
+      "text": "1. **IPC2-P10-T2** - Personal Protective Equipment Audit Frequency> This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 3 of 3**",
+      "char_count": 411,
+      "token_estimate": 102,
+      "section_title": "**IPC2-P10-T2** - Personal Protective Equipment Audit Frequency> This document is uncontrolled when printed.",
+      "chunk_type": "content",
+      "start_line": 53,
+      "end_line": 54
+    }
+  ]
+}

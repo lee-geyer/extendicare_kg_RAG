@@ -1,0 +1,41 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t4kstandpipesysinspec_5ced8e4af428_chunk_000_d71f1860",
+      "doc_id": "maint1-o1002-t4kstandpipesysinspec_5ced8e4af428",
+      "chunk_index": 0,
+      "text": "# Extendicare Maintenance Inspection Checklist## Equipment: StandPipe System### LEGEND/KEY| Legend | Key        |\n|--------|------------|\n| W      | Weekly     |\n| M      | Monthly    |\n| Q      | Quarterly  |\n| S      | Semi-Annual|\n| A      | Annual     |\n| O      | Ok         |\n| R      | Repair     |\n| N      | Replace    |### Inspection Details- **Name:**\n- **Year:**\n- **Unit No.:**\n- **Manufacturer:** All\n- **Model:** All### Inspection Checklist| W | M | Q | S | A | Item | Checks |\n|---|---|---|---|---|------|--------|\n| X |   |   |   |   | 1    | Inspect hose cabinet and ensure that:  |\n|   |   |   |   |   |      | - hose is properly racked                |\n|   |   |   |   |   |      | - hose nozzle is in place and operable   |\n|   |   |   |   |   |      | - valves do not leak                     |\n|   |   |   |   |   |      | - monthly inspection tag is initialed     |\n|   | X |   |   |   | 2    | Check valves to ensure that:             |\n|   |   |   |   |   |      | - normally open valves are open          |\n|   |   |   |   |   |      | - normally closed valves are closed      |\n|   |   | X |   |   | 3    | Refer to “Fire Extinguisher and Fire Hose Inspection SPECIFICATION” for annual requirements.",
+      "char_count": 1227,
+      "token_estimate": 306,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t4kstandpipesysinspec_5ced8e4af428_chunk_001_c499584d",
+      "doc_id": "maint1-o1002-t4kstandpipesysinspec_5ced8e4af428",
+      "chunk_index": 1,
+      "text": "* |\n|   |   |   |   |   |      | **NOTE:**                               |\n|   |   |   |   |   |      | *The services of qualified personnel may be required. |### Monthly Inspection Schedule| Month | M | Q | S | A | Month | M | Q | S | A | Month | M | Q | S | A | Month | M | Q | S | A |\n|-------|---|---|---|---|-------|---|---|---|---|-------|---|---|---|---|-------|---|---|---|---|\n| JAN   | M | Q | S | A | JUL   | M | Q | S | A | APR   | M | Q | S | A | OCT   | M | Q | S | A |\n| FEB   | M | Q | S | A | AUG   | M | Q | S | A | MAY   | M | Q | S | A | NOV   | M | Q | S | A |\n| MAR   | M | Q | S | A | SEP   | M | Q | S | A | JUN   | M | Q | S | A | DEC   | M | Q | S | A |----*This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.***Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 1001,
+      "token_estimate": 250,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t4kstandpipesysinspec_5ced8e4af428_chunk_002_d5c2bc55",
+      "doc_id": "maint1-o1002-t4kstandpipesysinspec_5ced8e4af428",
+      "chunk_index": 2,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.***Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 2 of 2",
+      "char_count": 789,
+      "token_estimate": 197,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 3
+}

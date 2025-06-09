@@ -1,0 +1,29 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint5-o1005sprinklersystemsinspection_242e0b9e5bb3_chunk_000_4005925c",
+      "doc_id": "maint5-o1005sprinklersystemsinspection_242e0b9e5bb3",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Maintenance\n**INDEX:** MAINT5-O10.05\n**SECTION:** Certified Inspections\n**EFFECTIVE DATE:**\n**REVIEWED DATE:**\n**APPROVED BY:** VP LTC Operations\n**MODIFIED DATE:**----## POLICY### Certified Inspection Work### PROCEDURE- All work shall be carried out by a qualified tradesman. - The attached inspection form shall be completed during the inspection. At the completion of the inspection, a copy of the form shall be left with the Executive Director/Maintenance Manager, and a typewritten copy shall be sent to the Extendicare Asset Management Department within 14 days. - Before beginning, and once again at the completion of all inspections, notify the local Fire Department and the local alarm company. - Oil or grease all valve stems, then completely close and re-open each valve to test its operation and to distribute the lubricant. - At the completion of the inspection:\n- Verify that all valves are fully opened and locked, sealed, or equipped with a tamper switch as required. - Advise the Fire Department that the inspection is completed. - Advise the alarm company that the inspection is completed.",
+      "char_count": 1144,
+      "token_estimate": 286,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint5-o1005sprinklersystemsinspection_242e0b9e5bb3_chunk_001_a6148712",
+      "doc_id": "maint5-o1005sprinklersystemsinspection_242e0b9e5bb3",
+      "chunk_index": 1,
+      "text": "- Advise the Fire Department that the inspection is completed. - Advise the alarm company that the inspection is completed. - Complete the inspection report and leave a signed copy with the Executive Director/Maintenance Manager.### ExternalThe testing and maintenance of Sprinkler Systems shall be in conformance with NFPA 13-2013 “Recommended Practice for Inspection, Testing and Maintenance of Sprinkler System”.### TOOLS1. Sprinkler System Inspection Form----**Helping people live better**\nThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. **Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 1**",
+      "char_count": 836,
+      "token_estimate": 209,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 2
+}

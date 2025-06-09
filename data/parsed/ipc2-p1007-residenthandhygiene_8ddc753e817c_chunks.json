@@ -1,0 +1,66 @@
+{
+  "doc_id": "ipc2-p1007-residenthandhygiene_8ddc753e817c",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": "ipc2-p1007-residenthandhygiene_8ddc753e817c_chunk_000_17db24a0",
+      "doc_id": "ipc2-p1007-residenthandhygiene_8ddc753e817c",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Infection Prevention and\n**INDEX:** IPC2-P10.07\n**SECTION:** Infection Prevention\n**EFFECTIVE DATE:** February 18, 2025\n**REVIEWED DATE:** February 11, 2025\n**APPROVED BY:** Chief Medical Officer\n**MODIFIED DATE:** May 30, 2025----## POLICY### Infection Prevention## PROCEDURE- Residents will be encouraged/supported/offered assistance to conduct hand hygiene. - Staff will encourage/support/offer assistance to clean residents’ hands before and after:\n- meals, snacks, or activities. Education will be offered to Resident and Family Councils as requested. - Residents who are independent will be encouraged to perform hand hygiene by:\n- washing their hands with soap and under running water via sink in their room or,\n- use of ABHR will be encouraged using ABHR dispensers throughout the home, they will be reminded upon entry to the dining room or,\n- ABHR will be accessible on snack cart for staff to offer to those residents who wish to perform hand hygiene.- Residents who cannot independently perform hand hygiene will be/supported/offered assistance by:\n- **ABHR**\nStaff will pump ABHR into resident hands and sanitize their hands for them.",
+      "char_count": 1184,
+      "token_estimate": 296,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p1007-residenthandhygiene_8ddc753e817c_chunk_001_065d40af",
+      "doc_id": "ipc2-p1007-residenthandhygiene_8ddc753e817c",
+      "chunk_index": 1,
+      "text": "Education will be offered to Resident and Family Councils as requested. - Residents who are independent will be encouraged to perform hand hygiene by:\n- washing their hands with soap and under running water via sink in their room or,\n- use of ABHR will be encouraged using ABHR dispensers throughout the home, they will be reminded upon entry to the dining room or,\n- ABHR will be accessible on snack cart for staff to offer to those residents who wish to perform hand hygiene.- Residents who cannot independently perform hand hygiene will be/supported/offered assistance by:\n- **ABHR**\nStaff will pump ABHR into resident hands and sanitize their hands for them. - Wash their hands with soap and water under running water in their room/bathroom and then offer ABHR prior to eating their meal or snack.- Sanitizing wet wipes with at least 70% alcohol may be used by/for resident hand hygiene where the local public health/Health Authority supports their use. - In supporting the Resident’s Bill of Rights, the home respects any resident’s wish to not perform hand hygiene when offered.## EDUCATION1. IPC2-P10-E4 - Hand Hygiene Guide",
+      "char_count": 1131,
+      "token_estimate": 282,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p1007-residenthandhygiene_8ddc753e817c_chunk_002_443f6a00",
+      "doc_id": "ipc2-p1007-residenthandhygiene_8ddc753e817c",
+      "chunk_index": 2,
+      "text": "2. IPC2-P10-E5 - Hand Hygiene Station Placements\n\n3. IPC2-P10-E6 - 4 Moments of Hand Hygiene (5 posters)",
+      "char_count": 104,
+      "token_estimate": 26,
+      "section_title": "IPC2-P10-E5 - Hand Hygiene Station Placements",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p1007-residenthandhygiene_8ddc753e817c_chunk_004_1c6c6b6c",
+      "doc_id": "ipc2-p1007-residenthandhygiene_8ddc753e817c",
+      "chunk_index": 4,
+      "text": "4. IPC2-P10-E7 - How to Handwash Signage\n\n5. IPC2-P10-E8 - How to Handrub Signage",
+      "char_count": 81,
+      "token_estimate": 20,
+      "section_title": "IPC2-P10-E7 - How to Handwash Signage",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p1007-residenthandhygiene_8ddc753e817c_chunk_006_c8147a15",
+      "doc_id": "ipc2-p1007-residenthandhygiene_8ddc753e817c",
+      "chunk_index": 6,
+      "text": "6. IPC2-P10-E9 - Resident Guide to Clean Hands## TOOLS1. IPC2-P10-T3 - Resident Hand Hygiene Audit----*Helping people live a better life*\nThis document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 1 of 1",
+      "char_count": 472,
+      "token_estimate": 118,
+      "section_title": "IPC2-P10-E9 - Resident Guide to Clean Hands## TOOLS1. IPC2-P10-T3 - Resident Hand Hygiene Audit----*Helping people live a better life*",
+      "chunk_type": "content",
+      "start_line": 22,
+      "end_line": 25
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "doc_id": "care15-p1003-t1restorativephysiotherapyassessment_72d35b51ee57",
+  "category": "Care",
+  "schema_used": "GenericDocumentMeta",
+  "extraction_success": true,
+  "metadata": {
+    "title": "Extendicare Physiotherapy Assessment"
+  },
+  "error": null,
+  "fallback_metadata": null
+}

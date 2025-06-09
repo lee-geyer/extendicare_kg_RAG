@@ -1,0 +1,29 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "admin1-p40medicalservicesevaluationpolicy_9817f2767aaa_chunk_000_1edb51f7",
+      "doc_id": "admin1-p40medicalservicesevaluationpolicy_9817f2767aaa",
+      "chunk_index": 0,
+      "text": "# Extendicare Policy Manual**INDEX:** ADMIN1-P40\n**SECTION:** Medical and Professional Services\n**EFFECTIVE DATE:** July 15, 2025\n**REVIEWED DATE:** July 8, 2025\n**APPROVED BY:** VP, LTC Operations\n**MODIFIED DATE:**## POLICY\nAll Extendicare homes are responsible for designing a program to evaluate the quality of medical services provided to residents.## STANDARD\nEach home’s Medical Director, Executive Director, Director of Care, attending medical staff, and contract Pharmacist are to be members of the Medical / Professional Advisory Committee.## PROCEDURE",
+      "char_count": 562,
+      "token_estimate": 140,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 7
+    },
+    {
+      "chunk_id": "admin1-p40medicalservicesevaluationpolicy_9817f2767aaa_chunk_001_e0a4d55e",
+      "doc_id": "admin1-p40medicalservicesevaluationpolicy_9817f2767aaa",
+      "chunk_index": 1,
+      "text": "1. **Medical Services Evaluation**----*Helplng people*\n*Iva better*> This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 1**",
+      "char_count": 412,
+      "token_estimate": 103,
+      "section_title": "**Medical Services Evaluation**----*Helplng people*",
+      "chunk_type": "content",
+      "start_line": 8,
+      "end_line": 10
+    }
+  ],
+  "total_chunks": 2
+}

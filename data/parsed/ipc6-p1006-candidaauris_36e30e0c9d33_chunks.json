@@ -1,0 +1,66 @@
+{
+  "doc_id": "ipc6-p1006-candidaauris_36e30e0c9d33",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": "ipc6-p1006-candidaauris_36e30e0c9d33_chunk_000_eb831bc5",
+      "doc_id": "ipc6-p1006-candidaauris_36e30e0c9d33",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Infection Prevention and Control\n**INDEX:** IPC6-P10.06\n**SECTION:** Multi-Drug Resistant Organisms (MDROs)\n**DESCRIPTION:** Candida auris\n**EFFECTIVE DATE:** February 18, 2025\n**REVIEWED DATE:** February 11, 2025\n**APPROVED BY:** Chief Medical Officer\n**MODIFIED DATE:** May 30, 2025----## POLICY### Multi-Drug Resistant Organisms (MDROs)## PROCEDURE### Surveillance and Reporting- Ensure that, prior to admission, the completed application has been reviewed for any history of C. auris and forwarded to the Infection Control Professional/Designate if there is history of infection, colonization or exposure. - Assess all residents who meet the following Candida auris (C. auris) risk criteria:\n- Have had recent surgeries;\n- Are diabetic;\n- Use broad-spectrum antibiotics and antifungals;\n- Have invasive medical devices such as breathing tubes, feeding tubes, and central venous catheters; and/or\n- Have frequent stays in health care settings (i.e., particularly in long-term acute care hospitals, and long-term care homes that provide ventilator care).### Precautions- If it is determined that a resident may have a C.",
+      "char_count": 1159,
+      "token_estimate": 289,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p1006-candidaauris_36e30e0c9d33_chunk_001_d9452546",
+      "doc_id": "ipc6-p1006-candidaauris_36e30e0c9d33",
+      "chunk_index": 1,
+      "text": "- Assess all residents who meet the following Candida auris (C. auris) risk criteria:\n- Have had recent surgeries;\n- Are diabetic;\n- Use broad-spectrum antibiotics and antifungals;\n- Have invasive medical devices such as breathing tubes, feeding tubes, and central venous catheters; and/or\n- Have frequent stays in health care settings (i.e., particularly in long-term acute care hospitals, and long-term care homes that provide ventilator care).### Precautions- If it is determined that a resident may have a C. auris-related infection:\n- Notify the Infection Control Professional/Designate. - Implement Contact Precautions. - Reinforce with care staff the need for adherence to hand hygiene and the use of personal protective equipment (PPE). - Conduct appropriate lab testing per Physician/Nurse Practitioner direction. - Review the resident’s medication records and contact Physician/Nurse Practitioner for further direction if the resident has recently been started on antibiotics. - Ensure twice-daily cleaning/disinfecting for resident rooms with suspected/confirmed C. auris with an appropriate chemical.----**Helping People**\nThis document is uncontrolled when printed.",
+      "char_count": 1178,
+      "token_estimate": 294,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p1006-candidaauris_36e30e0c9d33_chunk_002_b61615a7",
+      "doc_id": "ipc6-p1006-candidaauris_36e30e0c9d33",
+      "chunk_index": 2,
+      "text": "- Ensure twice-daily cleaning/disinfecting for resident rooms with suspected/confirmed C. auris with an appropriate chemical.----**Helping People**\nThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 2**# PROCEDURE## SECTION: Multi-Drug Resistant Organisms (MDROs)### DESCRIPTION: Candida auris### INDEX: IPC6-P10.06----## EDUCATION",
+      "char_count": 618,
+      "token_estimate": 154,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p1006-candidaauris_36e30e0c9d33_chunk_003_90d56a0d",
+      "doc_id": "ipc6-p1006-candidaauris_36e30e0c9d33",
+      "chunk_index": 3,
+      "text": "1. IPC6-P10-E1 - MDRO Guide\n\n2. IPC6-P10-E6 - Candida auris (C. auris) Fact Sheet## TOOLS",
+      "char_count": 89,
+      "token_estimate": 22,
+      "section_title": "IPC6-P10-E1 - MDRO Guide",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p1006-candidaauris_36e30e0c9d33_chunk_005_3a46158c",
+      "doc_id": "ipc6-p1006-candidaauris_36e30e0c9d33",
+      "chunk_index": 5,
+      "text": "1. IPC6-P10-T1 – MDRO Screening Tool----> Helping people live better> This document is uncontrolled when printed.> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 2 of 2**",
+      "char_count": 412,
+      "token_estimate": 103,
+      "section_title": "IPC6-P10-T1 – MDRO Screening Tool----> Helping people live better> This document is uncontrolled when printed.> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 2 of 2**",
+      "chunk_type": "content",
+      "start_line": 24,
+      "end_line": 24
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "doc_id": "epm2-p1012-t2codebrownindividualrespforcleaningspill_8417fef33c4e",
+  "total_chunks": 6,
+  "chunks": [
+    {
+      "chunk_id": "epm2-p1012-t2codebrownindividualrespforcleaningspill_8417fef33c4e_chunk_000_57c6be07",
+      "doc_id": "epm2-p1012-t2codebrownindividualrespforcleaningspill_8417fef33c4e",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Code Brown Individual Responsible for Cleaning the Spill",
+      "char_count": 74,
+      "token_estimate": 18,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1012-t2codebrownindividualrespforcleaningspill_8417fef33c4e_chunk_002_b5de3de4",
+      "doc_id": "epm2-p1012-t2codebrownindividualrespforcleaningspill_8417fef33c4e",
+      "chunk_index": 2,
+      "text": "### Job Action Checklist| **Enter date** | **Reporting Spill** | **Response Team:** |\n|----------------|---------------------|--------------------|\n|                |                     |                    |*Note: You may edit this job action checklist to be home specific.*### RespondRecord the time action was initiated (note on the line below):Upon hearing the Code Brown alert, proceed to the spill location to assess the situation.- The individual responsible for cleaning the spill may be the Incident Manager unless a more senior staff member is present. - Use the Code Brown Incident Manager Job Action Checklist to determine if the spill is manageable or unmanageable.#### Manageable Spills - Clean Up Procedures- Initiate clean-up following the assessment of the spill and your team's capacity. - Clean up the spill only if:\n- You have the correct spill kit, resources, and PPE to clean the material. - You fully understand the procedures to clean the material. - The spill is a known material and of a manageable size to clean (under 1 liter).",
+      "char_count": 1056,
+      "token_estimate": 264,
+      "section_title": "Job Action Checklist| **Enter date** | **Reporting Spill** | **Response Team:** |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1012-t2codebrownindividualrespforcleaningspill_8417fef33c4e_chunk_003_194d3e0e",
+      "doc_id": "epm2-p1012-t2codebrownindividualrespforcleaningspill_8417fef33c4e",
+      "chunk_index": 3,
+      "text": "- You fully understand the procedures to clean the material. - The spill is a known material and of a manageable size to clean (under 1 liter). - The spill is not flammable.> **Note:** If the spill is outside the capability of your team, follow the steps outlined below in Unmanageable Spill Procedures.- If possible, stop the source of the leak or spill. - Consult the Safety Data Sheets (SDS) to understand the appropriate cleaning procedures and PPE required. - Obtain the spill response kit. This kit will include absorbent materials and other equipment to disperse, collect, and contain spill control materials (e.g., brushes, scoops, sealable containers). - Protect all floor drains or other means of environmental release. - Distribute loose spill control materials over the entire spill area, working from the outside, circling to the inside, reducing the chance of splash, or spread of the spilled material.----This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 989,
+      "token_estimate": 247,
+      "section_title": "Job Action Checklist| **Enter date** | **Reporting Spill** | **Response Team:** |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1012-t2codebrownindividualrespforcleaningspill_8417fef33c4e_chunk_004_f16f80be",
+      "doc_id": "epm2-p1012-t2codebrownindividualrespforcleaningspill_8417fef33c4e",
+      "chunk_index": 4,
+      "text": "- Distribute loose spill control materials over the entire spill area, working from the outside, circling to the inside, reducing the chance of splash, or spread of the spilled material.----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**----**Page 1 of 2**# Code Brown Individual Responsible for Cleaning the Spill## Job Action Checklist1. **Absorb the spilled materials** using a brush and scoop to place materials in an appropriate container. Use polyethylene bags for small spills. Five-gallon pails or 20-gallon drums with polyethylene liners may be appropriate for larger quantities.",
+      "char_count": 866,
+      "token_estimate": 216,
+      "section_title": "Job Action Checklist| **Enter date** | **Reporting Spill** | **Response Team:** |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1012-t2codebrownindividualrespforcleaningspill_8417fef33c4e_chunk_005_889c6bce",
+      "doc_id": "epm2-p1012-t2codebrownindividualrespforcleaningspill_8417fef33c4e",
+      "chunk_index": 5,
+      "text": "2. **Complete a hazardous waste sticker**, identifying the material as spill debris involving (identify) chemical, and affix onto the container.\n> **Note:** Spill control materials may need to be disposed of as hazardous waste. Refer to municipal public works for specifics based on the type and quantity of the chemical spilled.\n\n3. **Decontaminate the surface** where the spill occurred using a mild detergent and water when appropriate.### Unmanageable Spills1. **Assess the spill.** If the spill is determined to be outside the capabilities of the individual responsible for cleaning the spill, make arrangements for external assistance, which could include a commercial spill response team.",
+      "char_count": 695,
+      "token_estimate": 173,
+      "section_title": "**Complete a hazardous waste sticker**, identifying the material as spill debris involving (identify) chemical, and affix onto the container.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1012-t2codebrownindividualrespforcleaningspill_8417fef33c4e_chunk_007_d427249c",
+      "doc_id": "epm2-p1012-t2codebrownindividualrespforcleaningspill_8417fef33c4e",
+      "chunk_index": 7,
+      "text": "2. **Follow the Code Brown Incident Management Job Action Checklist**, sections for:\n- “if the spill is of a flammable material or there are any injuries/illness from the spilled material”\n- “If external support requested for cleanup”.### Recover1. **Participate in the debrief and analysis session.**----> This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\n> Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 2 of 2",
+      "char_count": 647,
+      "token_estimate": 161,
+      "section_title": "**Follow the Code Brown Incident Management Job Action Checklist**, sections for:",
+      "chunk_type": "content",
+      "start_line": 18,
+      "end_line": 23
+    }
+  ]
+}

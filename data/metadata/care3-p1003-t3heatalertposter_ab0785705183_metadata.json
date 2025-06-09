@@ -1,0 +1,11 @@
+{
+  "doc_id": "care3-p1003-t3heatalertposter_ab0785705183",
+  "category": "Care",
+  "schema_used": "GenericDocumentMeta",
+  "extraction_success": true,
+  "metadata": {
+    "title": "Heat Related Illness"
+  },
+  "error": null,
+  "fallback_metadata": null
+}

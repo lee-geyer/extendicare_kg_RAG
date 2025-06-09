@@ -1,0 +1,29 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint4-o1001equipmentmanuals_cdf4ea35c7a1_chunk_000_2ccb0da4",
+      "doc_id": "maint4-o1001equipmentmanuals_cdf4ea35c7a1",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE- **MANUAL:** Maintenance\n- **INDEX:** MAINT4-O10.01\n- **SECTION:** Equipment and Inventory Records\n- **EFFECTIVE DATE:**\n- **REVIEWED DATE:**\n- **MODIFIED DATE:**\n- **APPROVED BY:** VP LTC Operations----## POLICY### Equipment Inventory and Records### PROCEDURE- Most equipment is delivered with an installation manual and an operating manual. - Contractors installing the equipment may retain the installation manuals and later discard them. The Maintenance Department shall be diligent in ensuring that the manuals are not discarded and are left at the home. - The manuals shall be stored in the maintenance office, preferably in a binder or a filing cabinet, creating a maintenance library. It is recommended that manuals for all similar equipment be kept together in one place in a binder or file (e.g., kitchen equipment in one place, manuals for all ventilation equipment in another, etc.). - If staff requires copies of the manuals for instructions on how to operate the equipment, the manual shall be copied, the original left in the maintenance library, and the copy given to the staff member needing it.",
+      "char_count": 1138,
+      "token_estimate": 284,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint4-o1001equipmentmanuals_cdf4ea35c7a1_chunk_001_290ac00c",
+      "doc_id": "maint4-o1001equipmentmanuals_cdf4ea35c7a1",
+      "chunk_index": 1,
+      "text": "It is recommended that manuals for all similar equipment be kept together in one place in a binder or file (e.g., kitchen equipment in one place, manuals for all ventilation equipment in another, etc.). - If staff requires copies of the manuals for instructions on how to operate the equipment, the manual shall be copied, the original left in the maintenance library, and the copy given to the staff member needing it. Similarly, contractors shall not be allowed to remove manuals from the maintenance library. - When entering a manual into the maintenance library, write the description of the equipment on the manual (e.g., “West Wing Make-Up Air Unit”) and the date of installation.----> **Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 1",
+      "char_count": 1040,
+      "token_estimate": 260,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 2
+}

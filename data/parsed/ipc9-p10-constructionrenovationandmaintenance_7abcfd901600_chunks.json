@@ -1,0 +1,90 @@
+{
+  "doc_id": "ipc9-p10-constructionrenovationandmaintenance_7abcfd901600",
+  "total_chunks": 7,
+  "chunks": [
+    {
+      "chunk_id": "ipc9-p10-constructionrenovationandmaintenance_7abcfd901600_chunk_000_24f8fd93",
+      "doc_id": "ipc9-p10-constructionrenovationandmaintenance_7abcfd901600",
+      "chunk_index": 0,
+      "text": "# Extendicare## POLICY MANUAL: Infection Prevention and Control\n**INDEX:** IPC9-P10\n**SECTION:** Construction, Renovation and Maintenance (CRM)\n**EFFECTIVE DATE:** February 18, 2025\n**REVIEWED DATE:** February 11, 2025\n**APPROVED BY:** Chief Medical Officer\n**MODIFIED DATE:** May 30, 2025----## POLICY\nConstruction, renovation, and maintenance (CRM) activities must be assessed for infection risks prior to, during, and at the end of all CRM activities.## STANDARD\nConstruction, renovation, and maintenance activities will be evaluated using the Infection Control Risk Assessment (ICRA) and this policy. An interdisciplinary team (IDT) shall be formed to develop an infection control plan, which includes the required preventive measures, and provide direction for the duration of CRM activities. The IDT’s membership will vary based on the scope of the project (e.g., day-to-day maintenance activities vs capital projects). Upon completion of all CRM activities, the Final Construction Clean tool will be used to ensure the final clean completed by the constructor is deemed satisfactory, after which the constructor will be allowed to remove barriers.",
+      "char_count": 1154,
+      "token_estimate": 288,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc9-p10-constructionrenovationandmaintenance_7abcfd901600_chunk_001_df660bf5",
+      "doc_id": "ipc9-p10-constructionrenovationandmaintenance_7abcfd901600",
+      "chunk_index": 1,
+      "text": "The IDT’s membership will vary based on the scope of the project (e.g., day-to-day maintenance activities vs capital projects). Upon completion of all CRM activities, the Final Construction Clean tool will be used to ensure the final clean completed by the constructor is deemed satisfactory, after which the constructor will be allowed to remove barriers. Housekeeping shall perform a thorough terminal clean of the area following the same procedures as a discharge clean, as outlined in the Environmental Services Manual for housekeeping.This policy is not intended to be used alone to address high-risk construction, renovation, maintenance activities that involve mould remediation and/or asbestos removal. For mould remediation and/or asbestos removal, a certified professional should be contracted.## PROCEDURE",
+      "char_count": 816,
+      "token_estimate": 204,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc9-p10-constructionrenovationandmaintenance_7abcfd901600_chunk_002_7906f398",
+      "doc_id": "ipc9-p10-constructionrenovationandmaintenance_7abcfd901600",
+      "chunk_index": 2,
+      "text": "1. IPC9-O10.01 - Construction, Renovation and Maintenance (CRM)## EDUCATION\n\n1. IPC9-P10-E1 - Contractor CRM Education",
+      "char_count": 118,
+      "token_estimate": 29,
+      "section_title": "IPC9-O10.01 - Construction, Renovation and Maintenance (CRM)## EDUCATION",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc9-p10-constructionrenovationandmaintenance_7abcfd901600_chunk_004_8ea6a2d6",
+      "doc_id": "ipc9-p10-constructionrenovationandmaintenance_7abcfd901600",
+      "chunk_index": 4,
+      "text": "2. IPC9-P10-E2 - IPAC CRM Staff Handbook\n\n3. IPC9-P10-E3 - Part 1 - IPAC during CRM",
+      "char_count": 83,
+      "token_estimate": 20,
+      "section_title": "IPC9-P10-E2 - IPAC CRM Staff Handbook",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc9-p10-constructionrenovationandmaintenance_7abcfd901600_chunk_006_ea9195d5",
+      "doc_id": "ipc9-p10-constructionrenovationandmaintenance_7abcfd901600",
+      "chunk_index": 6,
+      "text": "4. IPC9-P10-E4 - Part 2 - How to Complete an ICRA\n\n5. IPC9-P10-E5 - IPAC CRM FAQs## TOOLS",
+      "char_count": 89,
+      "token_estimate": 22,
+      "section_title": "IPC9-P10-E4 - Part 2 - How to Complete an ICRA",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc9-p10-constructionrenovationandmaintenance_7abcfd901600_chunk_008_5a4e0302",
+      "doc_id": "ipc9-p10-constructionrenovationandmaintenance_7abcfd901600",
+      "chunk_index": 8,
+      "text": "1. IPC9-P10-T1 - Infection Control Risk Assessment (ICRA)\n\n2. IPC9-P10-T2 - Pre & During Construction Checklist----Helping people live betterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that considers their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 2**# POLICY## SECTION: Construction, Renovation and Maintenance (CRM)### DESCRIPTION: Construction, Renovation and Maintenance (CRM)### INDEX: IPC9-P10#### 3. IPC9-P10-T3 - Final Construction Clean Checklist### REFERENCES- Public Health Ontario – Infection Prevention and Control in Construction, Renovation, Maintenance and Design (CRMD). 2019. Link- Public Health Ontario – The Role of IPAC in Construction, Renovation, Maintenance and Design (CRMD) in Long-term Care Homes. 2021. Link- Health Canada – Canada Communicable Disease Report: Construction-related Nosocomial Infections in Patients in Health Care Facilities; Decreasing the Risk of Aspergillus, Legionella and Other Infections. 2001.",
+      "char_count": 1167,
+      "token_estimate": 291,
+      "section_title": "IPC9-P10-T1 - Infection Control Risk Assessment (ICRA)",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc9-p10-constructionrenovationandmaintenance_7abcfd901600_chunk_010_f2936593",
+      "doc_id": "ipc9-p10-constructionrenovationandmaintenance_7abcfd901600",
+      "chunk_index": 10,
+      "text": "Link- Health Canada – Canada Communicable Disease Report: Construction-related Nosocomial Infections in Patients in Health Care Facilities; Decreasing the Risk of Aspergillus, Legionella and Other Infections. 2001. Link- Canadian Construction Association – Mould guidelines for the Canadian construction industry. 2018. Link- Canadian Standards Association (CSA) – CSA Z317.13: Infection Control During Construction, Renovation, and Maintenance of Health Care Facilities. 2022.- Environmental Abatement Council of Canada (EACC) – EACC Mould Abatement Guidelines Edition 3. 2015. Link- Winnipeg Regional Health Authority (WRHA) – Infection Prevention and Control for Construction, Renovation and Maintenance. 2020. Link----Helping people live betterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that considers their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----Page 2 of 2",
+      "char_count": 1075,
+      "token_estimate": 268,
+      "section_title": "IPC9-P10-T2 - Pre & During Construction Checklist----Helping people live betterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that considers their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 2**# POLICY## SECTION: Construction, Renovation and Maintenance (CRM)### DESCRIPTION: Construction, Renovation and Maintenance (CRM)### INDEX: IPC9-P10#### 3. IPC9-P10-T3 - Final Construction Clean Checklist### REFERENCES- Public Health Ontario – Infection Prevention and Control in Construction, Renovation, Maintenance and Design (CRMD). 2019.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

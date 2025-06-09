@@ -1,0 +1,18 @@
+{
+  "doc_id": "ipc-addl-001hcxstafffollow-upform-editable_38491aeb79f2",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "ipc-addl-001hcxstafffollow-upform-editable_38491aeb79f2_chunk_000_846a5451",
+      "doc_id": "ipc-addl-001hcxstafffollow-upform-editable_38491aeb79f2",
+      "chunk_index": 0,
+      "text": "```markdown\n\n# HCX Follow-up| Date       | Time       | Staff Name |\n|------------|------------|------------|\n|            |            |            |## Infection Surveillance / Lab Reports| Concern                     | Details | Corrected Y/N/n/a | Confirm Completed |\n|-----------------------------|---------|--------------------|-------------------|\n| Missing infection            |         |                    |                   |\n| Missing lab                 |         |                    |                   |\n| Infection not resolved       |         |                    |                   |\n| Incorrect entry, provide details |     |                    |                   |\n| Other:                      |         |                    |                   |## Hand Hygiene and PPE Audits| Concern                     | Indicate # of HH or PPE not completed |\n|-----------------------------|---------------------------------------|\n| Audits not completed         |                                       |\n| Other:                      |                                       |### Education/Coaching Provided to Staff: Y/N__________________________________________________________________________________________________________________________________________Form completed by: __________________________________________\n```",
+      "char_count": 1337,
+      "token_estimate": 334,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

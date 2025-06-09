@@ -1,0 +1,18 @@
+{
+  "doc_id": "ipc8-p10-t2-contacttimefillable_5410bee34464",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "ipc8-p10-t2-contacttimefillable_5410bee34464_chunk_000_ca37c5b2",
+      "doc_id": "ipc8-p10-t2-contacttimefillable_5410bee34464",
+      "chunk_index": 0,
+      "text": "# Step 1: Clean\n\n## Step 2: Disinfect- **Contact time:** Sy\n- **Please wear appropriate PPE**----**Extendicare**",
+      "char_count": 112,
+      "token_estimate": 28,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

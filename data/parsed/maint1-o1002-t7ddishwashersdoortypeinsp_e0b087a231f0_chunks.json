@@ -1,0 +1,41 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t7ddishwashersdoortypeinsp_e0b087a231f0_chunk_000_16b419af",
+      "doc_id": "maint1-o1002-t7ddishwashersdoortypeinsp_e0b087a231f0",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## MAINTENANCE INSPECTION CHECKLIST### Equipment\n**Dishwashers Door Type**\n**Name:**\n**Year:**\n**Manufacturer:** Hobart, Blakeslee\n**Model:** Door Type AM-14/AM14C, D8### LEGEND/KEY\n| LEGEND | KEY       |\n|--------|-----------|\n| W      | Weekly    |\n| M      | Monthly   |\n| Q      | Quarterly |\n| S      | Semi-Annual |\n| A      | Annual    |\n| O      | Ok       |\n| R      | Repair    |\n| N      | Replace   |### CHECKS\n| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   |   | 1 | Check machine and piping for leaks. |\n| X |   |   |   | 2 | Check door and hood travel. Lubricate or replace door glides as necessary. |\n| X |   |   |   | 3 | Check door spring tension. Adjust as necessary. |\n| X |   |   |   | 4 | Check timing and sequence through one cycle. |\n| X |   |   |   | 5 | Clean water supply line strainer screen. |\n| X |   |   |   | 6 | Inspect spray nozzles for obstructions. Clean as required. |\n| X |   |   |   | 7 | Check float switch stem and low water cut-off for scale and operation. Clean as necessary.",
+      "char_count": 1184,
+      "token_estimate": 296,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t7ddishwashersdoortypeinsp_e0b087a231f0_chunk_002_b3b12954",
+      "doc_id": "maint1-o1002-t7ddishwashersdoortypeinsp_e0b087a231f0",
+      "chunk_index": 2,
+      "text": "|\n| X |   |   |   | 7 | Check float switch stem and low water cut-off for scale and operation. Clean as necessary. |\n|   | X |   |   | 8 | Check vacuum breaker for proper operation. Clean or replace as required. |\n|   |   | X |   | 9 | Check wash/rinse arm bushings for wear. Replace as required. |\n|   |   |   | X | 10| Inspect electrical connections for tightness and corrosion. Repair or replace as necessary. * |**NOTE:**\n*The services of qualified personnel may be required.*### Monthly Schedule\n| Month | M | Q | S | A |\n|-------|---|---|---|---|\n| JAN   | W | W | W | W |\n| FEB   | W | W | W | W |\n| MAR   | W | W | W | W |\n| APR   | W | W | W | W |\n| MAY   | W | W | W | W |\n| JUN   | W | W | W | W |\n| JUL   | W | W | W | W |\n| AUG   | W | W | W | W |\n| SEP   | W | W | W | W |\n| OCT   | W | W | W | W |\n| NOV   | W | W | W | W |\n| DEC   | W | W | W | W |----**Helping people live better**\nThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.",
+      "char_count": 1144,
+      "token_estimate": 286,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t7ddishwashersdoortypeinsp_e0b087a231f0_chunk_003_ba81b869",
+      "doc_id": "maint1-o1002-t7ddishwashersdoortypeinsp_e0b087a231f0",
+      "chunk_index": 3,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025  Page 1 of 2# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 2 of 2",
+      "char_count": 782,
+      "token_estimate": 195,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 3
+}

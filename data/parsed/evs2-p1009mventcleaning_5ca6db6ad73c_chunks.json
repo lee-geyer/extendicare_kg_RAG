@@ -1,0 +1,66 @@
+{
+  "doc_id": "evs2-p1009mventcleaning_5ca6db6ad73c",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": "evs2-p1009mventcleaning_5ca6db6ad73c_chunk_000_4203a97f",
+      "doc_id": "evs2-p1009mventcleaning_5ca6db6ad73c",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Environmental Services\n**INDEX:** EVS2-P10.09M\n**SECTION:** Cleaning and Organization - Housekeeping\n**EFFECTIVE DATE:** March 18, 2025\n**REVIEWED DATE:** March 7, 2025\n**APPROVED BY:** Senior Director, Operational Quality and Professional Practice\n**MODIFIED DATE:** May 14, 2025----## POLICY### Cleaning and Organization## PROCEDURE### Frequency:\n- Vents will be deep cleaned yearly or more often as required and dusted according to high/low dusting schedule.### Collect the following items:\n- painters’ ladder\n- all-purpose cleaner\n- cleaning cloths\n- scrub brush/scrub pad\n- dusting tool (woolly wonder type)\n- screwdriver### Deep Cleaning Procedure:",
+      "char_count": 691,
+      "token_estimate": 172,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 13
+    },
+    {
+      "chunk_id": "evs2-p1009mventcleaning_5ca6db6ad73c_chunk_001_8818a446",
+      "doc_id": "evs2-p1009mventcleaning_5ca6db6ad73c",
+      "chunk_index": 1,
+      "text": "1. Wear appropriate personal protective equipment (PPE).\n\n2. Set up ladder in required spot.",
+      "char_count": 92,
+      "token_estimate": 23,
+      "section_title": "Wear appropriate personal protective equipment (PPE).",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1009mventcleaning_5ca6db6ad73c_chunk_003_5c426b38",
+      "doc_id": "evs2-p1009mventcleaning_5ca6db6ad73c",
+      "chunk_index": 3,
+      "text": "3. Using screwdriver, remove vent.\n\n4. Clean vent covers, wash thoroughly using scrub brush/scrub pad when necessary.",
+      "char_count": 117,
+      "token_estimate": 29,
+      "section_title": "Using screwdriver, remove vent.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1009mventcleaning_5ca6db6ad73c_chunk_005_e0ef32ff",
+      "doc_id": "evs2-p1009mventcleaning_5ca6db6ad73c",
+      "chunk_index": 5,
+      "text": "5. Dry vent covers.\n\n6. After vents are cleaned, inform maintenance department to reinstall.",
+      "char_count": 92,
+      "token_estimate": 23,
+      "section_title": "Dry vent covers.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1009mventcleaning_5ca6db6ad73c_chunk_007_6bded78b",
+      "doc_id": "evs2-p1009mventcleaning_5ca6db6ad73c",
+      "chunk_index": 7,
+      "text": "7. Return equipment to designated area.### High Dusting Procedure:\n- Use dusting tool, dust outside of vent according to schedule.\n**Note:** Vents will be dusted as part of the regular high dusting schedule.----Helping people live betterThis document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 1 of 1",
+      "char_count": 571,
+      "token_estimate": 142,
+      "section_title": "Return equipment to designated area.### High Dusting Procedure:",
+      "chunk_type": "content",
+      "start_line": 20,
+      "end_line": 24
+    }
+  ]
+}

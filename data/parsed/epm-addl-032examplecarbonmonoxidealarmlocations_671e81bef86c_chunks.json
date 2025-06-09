@@ -1,0 +1,78 @@
+{
+  "doc_id": "epm-addl-032examplecarbonmonoxidealarmlocations_671e81bef86c",
+  "total_chunks": 6,
+  "chunks": [
+    {
+      "chunk_id": "epm-addl-032examplecarbonmonoxidealarmlocations_671e81bef86c_chunk_000_dc0ce3b1",
+      "doc_id": "epm-addl-032examplecarbonmonoxidealarmlocations_671e81bef86c",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Home-Specific Carbon Monoxide Alarm LocationsCarbon Monoxide Detectors are located in the following areas:1. **Laundry Room**: East wall",
+      "char_count": 154,
+      "token_estimate": 38,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-032examplecarbonmonoxidealarmlocations_671e81bef86c_chunk_002_4b16c6b2",
+      "doc_id": "epm-addl-032examplecarbonmonoxidealarmlocations_671e81bef86c",
+      "chunk_index": 2,
+      "text": "2. **Boiler Room**: Next to the fire panel on the south wall\n\n3. **3rd Floor Nursing Station**: Above the staff washroom",
+      "char_count": 120,
+      "token_estimate": 30,
+      "section_title": "**Boiler Room**: Next to the fire panel on the south wall",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-032examplecarbonmonoxidealarmlocations_671e81bef86c_chunk_004_2ddb4daa",
+      "doc_id": "epm-addl-032examplecarbonmonoxidealarmlocations_671e81bef86c",
+      "chunk_index": 4,
+      "text": "4. **2nd Floor Nursing Station**: Above the staff washroom\n\n5. **Library**: 1st floor| Location                | Description                          |\n|------------------------|--------------------------------------|\n| Laundry Room           | East wall                            |\n| Boiler Room            | Next to the fire panel on the south wall |\n| 3rd Floor Nursing Station | Above the staff washroom           |\n| 2nd Floor Nursing Station | Above the staff washroom           |\n| Library                | 1st floor                           |----**Helping people live better**This document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\nConfidential and Proprietary Information of Extendicare (Canada) Inc. © 2025",
+      "char_count": 908,
+      "token_estimate": 227,
+      "section_title": "**2nd Floor Nursing Station**: Above the staff washroom",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-032examplecarbonmonoxidealarmlocations_671e81bef86c_chunk_006_a54d385f",
+      "doc_id": "epm-addl-032examplecarbonmonoxidealarmlocations_671e81bef86c",
+      "chunk_index": 6,
+      "text": "# Home-Specific Carbon Monoxide Alarm Locations## IF YOU HEAR## IF YOU SEE## CAL MAINTENANCE### Unit 3 - Lilac Cres### Unit 2 - Magnolia Ave----> **Note:** This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\n> Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 2 of 4# Home-Specific Carbon Monoxide Alarm Locations## Gatbon Propane & Monoxide Alarm",
+      "char_count": 577,
+      "token_estimate": 144,
+      "section_title": "Home-Specific Carbon Monoxide Alarm Locations## IF YOU HEAR## IF YOU SEE## CAL MAINTENANCE### Unit 3 - Lilac Cres### Unit 2 - Magnolia Ave----> **Note:** This document is uncontrolled when printed.",
+      "chunk_type": "content",
+      "start_line": 14,
+      "end_line": 17
+    },
+    {
+      "chunk_id": "epm-addl-032examplecarbonmonoxidealarmlocations_671e81bef86c_chunk_007_3730156a",
+      "doc_id": "epm-addl-032examplecarbonmonoxidealarmlocations_671e81bef86c",
+      "chunk_index": 7,
+      "text": "### Avertisseur de monoxyde de propane et de gaz naturel| Location         | Alarm Type          |\n|------------------|---------------------|\n| Unit 1           | Library East wall    |----**Note:** This document is uncontrolled when printed.Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025****Page 3 of 4**```markdown",
+      "char_count": 549,
+      "token_estimate": 137,
+      "section_title": "Avertisseur de monoxyde de propane et de gaz naturel| Location         | Alarm Type          |",
+      "chunk_type": "content",
+      "start_line": 18,
+      "end_line": 20
+    },
+    {
+      "chunk_id": "epm-addl-032examplecarbonmonoxidealarmlocations_671e81bef86c_chunk_008_eb1fbb16",
+      "doc_id": "epm-addl-032examplecarbonmonoxidealarmlocations_671e81bef86c",
+      "chunk_index": 8,
+      "text": "# Home-Specific Carbon Monoxide Alarm Locations!PLACE PHOTOS HERE----## Document Information- **Policy Number:** [Insert Policy Number]\n- **Effective Date:** [Insert Effective Date]\n- **Review Date:** [Insert Review Date]----## Important NotesThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----## Page Information- **Page:** 4 of 4\n```### Notes:\n- The original document contained placeholders for photos and did not provide specific content for headers or lists. The markdown reflects the structure while indicating where photos should be placed.\n- Metadata such as policy number, effective date, and review date are included as placeholders for future input.\n- The document's important notes and confidentiality statement are preserved for clarity and compliance.",
+      "char_count": 1038,
+      "token_estimate": 259,
+      "section_title": "Home-Specific Carbon Monoxide Alarm Locations!PLACE PHOTOS HERE----## Document Information- **Policy Number:** [Insert Policy Number]",
+      "chunk_type": "content",
+      "start_line": 21,
+      "end_line": 27
+    }
+  ]
+}

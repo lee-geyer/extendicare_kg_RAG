@@ -1,0 +1,138 @@
+{
+  "doc_id": "prv2-p10healthrecordmanagement_8295bf65180b",
+  "total_chunks": 11,
+  "chunks": [
+    {
+      "chunk_id": "prv2-p10healthrecordmanagement_8295bf65180b_chunk_000_aae346c8",
+      "doc_id": "prv2-p10healthrecordmanagement_8295bf65180b",
+      "chunk_index": 0,
+      "text": "# Extendicare Policy Manual## Privacy and Confidentiality\n**INDEX:** PRV2-P10\n**SECTION:** Health Information Management\n**EFFECTIVE DATE:** April 1, 2025\n**REVIEWED DATE:** March 25, 2025\n**APPROVED BY:** Senior Director, Corporate Quality and Risk\n**MODIFIED DATE:** May 30, 2025----## POLICYExtendicare will maintain all health records in a manner that:- a. ensures adherence to legislative privacy obligations with respect to the collection, use, disclosure, secure maintenance and storage, access, correction, and destruction of records;\n- b. enhances the speed and accuracy of information retrieval by reducing the overall volume of records; and\n- c. reduces the likelihood of accidental disclosure of sensitive or confidential information.This policy applies to all health records created by or for Extendicare and its subsidiaries.",
+      "char_count": 839,
+      "token_estimate": 209,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv2-p10healthrecordmanagement_8295bf65180b_chunk_001_6b97b75d",
+      "doc_id": "prv2-p10healthrecordmanagement_8295bf65180b",
+      "chunk_index": 1,
+      "text": "enhances the speed and accuracy of information retrieval by reducing the overall volume of records; and\n- c. reduces the likelihood of accidental disclosure of sensitive or confidential information.This policy applies to all health records created by or for Extendicare and its subsidiaries. Health records will be retained and properly destroyed thereafter pursuant to applicable law and Extendicare’s document retention procedures and protocols.The term “health records” covers all health records in all forms, in both electronic and hard copy, including but not limited to charts, files, memos, reports, drafts, notes, photographs and diagnostic images, microfilm and microfiche, fax, email and other electronically transmitted information.Originals or copies of health records may not be kept outside of the home, including on personal devices such as home computers.----## STANDARD### General Health Record RetentionGenerally, health records should be kept for the longer of:- a. the period of time specified in the Health Records Retention Table tool; or\n- b. the period of time for which it is known or reasonably expected that the health records may be required:\n- i.",
+      "char_count": 1175,
+      "token_estimate": 293,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv2-p10healthrecordmanagement_8295bf65180b_chunk_002_57fdce3a",
+      "doc_id": "prv2-p10healthrecordmanagement_8295bf65180b",
+      "chunk_index": 2,
+      "text": "the period of time specified in the Health Records Retention Table tool; or\n- b. the period of time for which it is known or reasonably expected that the health records may be required:\n- i. under applicable laws (such as criminal, healthcare and privacy laws);\n- ii. for known purposes such as audits, investigations or litigation; or\n- iii. pursuant to contractual obligations.### Health Record Storage and DestructionHealth records must be stored and destroyed after the period of retention, as defined by provincial requirements as set out in the Health Records Destruction procedure. Destruction of health records must be done by shredding, incineration, or deletion. All documents which are culled and/or destroyed will be documented on the Culling & Destruction Tracking Record tool. Homes will use the Guidelines for Culling Records tool to ensure consistency in culling of resident records. Health records retained in offsite storage must be destroyed in accordance with the destruction date applied at the time of storage.### Legal Proceedings----**Helping people live better**\nThis document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1157,
+      "token_estimate": 289,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv2-p10healthrecordmanagement_8295bf65180b_chunk_003_b834a019",
+      "doc_id": "prv2-p10healthrecordmanagement_8295bf65180b",
+      "chunk_index": 3,
+      "text": "Health records retained in offsite storage must be destroyed in accordance with the destruction date applied at the time of storage.### Legal Proceedings----**Helping people live better**\nThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n**Page 1 of 2**```markdown",
+      "char_count": 537,
+      "token_estimate": 134,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv2-p10healthrecordmanagement_8295bf65180b_chunk_004_c3d2c223",
+      "doc_id": "prv2-p10healthrecordmanagement_8295bf65180b",
+      "chunk_index": 4,
+      "text": "# POLICY**SECTION:** Health\n**DESCRIPTION:** Health Record Management\n**INDEX:** PRV2-P10Where legal action is threatened or has commenced at the time the health record would be ordinarily destroyed, the health record shall be retained until the legal proceedings, including all possible appeals or reviews, have been completed.## PROCEDURE\n\n1. Destruction of Health Records",
+      "char_count": 374,
+      "token_estimate": 93,
+      "section_title": "POLICY**SECTION:** Health",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv2-p10healthrecordmanagement_8295bf65180b_chunk_006_3727e8dd",
+      "doc_id": "prv2-p10healthrecordmanagement_8295bf65180b",
+      "chunk_index": 6,
+      "text": "2. Health Record Management Practices\n\n3. Health Record Storage",
+      "char_count": 63,
+      "token_estimate": 15,
+      "section_title": "Health Record Management Practices",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv2-p10healthrecordmanagement_8295bf65180b_chunk_008_d4270357",
+      "doc_id": "prv2-p10healthrecordmanagement_8295bf65180b",
+      "chunk_index": 8,
+      "text": "4. Health Record on Discharge or Transfer## EDUCATION\n\n1. Annual Privacy Education## TOOLS",
+      "char_count": 90,
+      "token_estimate": 22,
+      "section_title": "Health Record on Discharge or Transfer## EDUCATION",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv2-p10healthrecordmanagement_8295bf65180b_chunk_010_4a3a95e7",
+      "doc_id": "prv2-p10healthrecordmanagement_8295bf65180b",
+      "chunk_index": 10,
+      "text": "1. Standards Related to Health Care Records\n\n2. Guidelines for Health Care Record Headings and Contents",
+      "char_count": 103,
+      "token_estimate": 25,
+      "section_title": "Standards Related to Health Care Records",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv2-p10healthrecordmanagement_8295bf65180b_chunk_012_e2e4bc3a",
+      "doc_id": "prv2-p10healthrecordmanagement_8295bf65180b",
+      "chunk_index": 12,
+      "text": "3. Health Records Retention Table\n\n4. Health Care Records: Retention and Culling",
+      "char_count": 80,
+      "token_estimate": 20,
+      "section_title": "Health Records Retention Table",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv2-p10healthrecordmanagement_8295bf65180b_chunk_014_545bd595",
+      "doc_id": "prv2-p10healthrecordmanagement_8295bf65180b",
+      "chunk_index": 14,
+      "text": "5. Culling & Destruction Tracking Record\n\n6. Guidelines for Culling Records",
+      "char_count": 75,
+      "token_estimate": 18,
+      "section_title": "Culling & Destruction Tracking Record",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv2-p10healthrecordmanagement_8295bf65180b_chunk_016_652fed81",
+      "doc_id": "prv2-p10healthrecordmanagement_8295bf65180b",
+      "chunk_index": 16,
+      "text": "7. Health Records Storage Content List## REFERENCES\n- Ontario Fixing Long-Term Care Act, 2021\nLink- Ontario Regulation 246/22 made under the Fixing Long-Term Care Act, 2021\nLink- Alberta Nursing Homes Operation Regulation 258/1985, 2017\nLink- Alberta Continuing Care Accommodation and Health Service Standards\nLink- Manitoba Health Services Insurance Act, RSM 1987, c. H35\nLink- Manitoba Personal Care Homes Standards Regulation, 2005\nLink----Helping people live betterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n```",
+      "char_count": 795,
+      "token_estimate": 198,
+      "section_title": "Health Records Storage Content List## REFERENCES",
+      "chunk_type": "content",
+      "start_line": 30,
+      "end_line": 38
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t7orangegrillovengaspropaneinsp_a233d25f51a0_chunk_000_b7edd38b",
+      "doc_id": "maint1-o1002-t7orangegrillovengaspropaneinsp_a233d25f51a0",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## MAINTENANCE INSPECTION CHECKLIST### Equipment\n**Name:**\n**Year:**\n**Manufacturer:** Garland, Quest, Wolf, Moffat\n**Model:** Gas/Propane### LEGEND/KEY\n| LEGEND | KEY       |\n|--------|-----------|\n| W      | Weekly    |\n| M      | Monthly   |\n| Q      | Quarterly |\n| S      | Semi-Annual |\n| A      | Annual    |### CHECKS\n| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   |   | 1 | Check all pilots/burners for proper flame size, ignition and colour.* |\n| X |   |   |   | 2 | Check that oven doors close properly and handles are in place and secure. Adjust as necessary. |\n|   | X |   |   | 3 | Check vent openings are not obstructed. |\n|   | X |   |   | 4 | Check all knobs are in place, secure, functional and legible. Repair or replace as necessary. |\n|   | X |   |   | 5 | Check grease box is in place and functional. |\n|   |   | X |   | 6 | Test oven temperature against thermostat set-point (350F). Recalibrate only if variance exceeds +/- 15F.* |\n|   |   | X |   | 7 | Check convection fan inside oven for cleanliness and operation.",
+      "char_count": 1206,
+      "token_estimate": 301,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t7orangegrillovengaspropaneinsp_a233d25f51a0_chunk_002_c27be90d",
+      "doc_id": "maint1-o1002-t7orangegrillovengaspropaneinsp_a233d25f51a0",
+      "chunk_index": 2,
+      "text": "|\n|   |   | X |   | 6 | Test oven temperature against thermostat set-point (350F). Recalibrate only if variance exceeds +/- 15F.* |\n|   |   | X |   | 7 | Check convection fan inside oven for cleanliness and operation. |\n|   |   | X |   | 8 | Test grill surface temperature against thermostat set-point (350F). Recalibrate only if variance exceeds +/- 15F.* |\n|   |   |   | X | 9 | Check and adjust fuel line pressure.*                                |\n|   |   |   | X | 10| Check and lubricate gas valve.*                                      |\n|   |   |   | X | 11| Check all fuel line connections for leaks. Repair as necessary.*    |\n|   |   |   | X | 12| Check and adjust burner air shutters.*                               |\n|   |   |   | X | 13| Clean burner boxes of each compartment.*                             |**NOTE:**\n*The services of qualified personnel may be required.",
+      "char_count": 885,
+      "token_estimate": 221,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t7orangegrillovengaspropaneinsp_a233d25f51a0_chunk_003_31ba9c46",
+      "doc_id": "maint1-o1002-t7orangegrillovengaspropaneinsp_a233d25f51a0",
+      "chunk_index": 3,
+      "text": "Recalibrate only if variance exceeds +/- 15F.* |\n|   |   |   | X | 9 | Check and adjust fuel line pressure.*                                |\n|   |   |   | X | 10| Check and lubricate gas valve.*                                      |\n|   |   |   | X | 11| Check all fuel line connections for leaks. Repair as necessary.*    |\n|   |   |   | X | 12| Check and adjust burner air shutters.*                               |\n|   |   |   | X | 13| Clean burner boxes of each compartment.*                             |**NOTE:**\n*The services of qualified personnel may be required. **Qualified service firms are to be employed.**### Monthly Schedule\n| Month | M | Q | S | A |\n|-------|---|---|---|---|\n| JAN   | W | W | W | W |\n| FEB   | W | W | W | W |\n| MAR   | W | W | W | W |\n| APR   | W | W | W | W |\n| MAY   | W | W | W | W |\n| JUN   | W | W | W | W |\n| JUL   | W | W | W | W |\n| AUG   | W | W | W | W |\n| SEP   | W | W | W | W |\n| OCT   | W | W | W | W |\n| NOV   | W | W | W | W |\n| DEC   | W | W | W | W |----**Helping people live better**\nThis document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1111,
+      "token_estimate": 277,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t7orangegrillovengaspropaneinsp_a233d25f51a0_chunk_004_e1265d05",
+      "doc_id": "maint1-o1002-t7orangegrillovengaspropaneinsp_a233d25f51a0",
+      "chunk_index": 4,
+      "text": "**Qualified service firms are to be employed.**### Monthly Schedule\n| Month | M | Q | S | A |\n|-------|---|---|---|---|\n| JAN   | W | W | W | W |\n| FEB   | W | W | W | W |\n| MAR   | W | W | W | W |\n| APR   | W | W | W | W |\n| MAY   | W | W | W | W |\n| JUN   | W | W | W | W |\n| JUL   | W | W | W | W |\n| AUG   | W | W | W | W |\n| SEP   | W | W | W | W |\n| OCT   | W | W | W | W |\n| NOV   | W | W | W | W |\n| DEC   | W | W | W | W |----**Helping people live better**\nThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025",
+      "char_count": 788,
+      "token_estimate": 197,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t7orangegrillovengaspropaneinsp_a233d25f51a0_chunk_005_3771fc82",
+      "doc_id": "maint1-o1002-t7orangegrillovengaspropaneinsp_a233d25f51a0",
+      "chunk_index": 5,
+      "text": "# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 2 of 2",
+      "char_count": 491,
+      "token_estimate": 122,
+      "section_title": "INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |",
+      "chunk_type": "content",
+      "start_line": 46,
+      "end_line": 49
+    }
+  ],
+  "total_chunks": 5
+}

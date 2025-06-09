@@ -1,0 +1,18 @@
+{
+  "doc_id": "care5-p1001-t2referral-continencelead_362a915dca75",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "care5-p1001-t2referral-continencelead_362a915dca75_chunk_000_e23cddf5",
+      "doc_id": "care5-p1001-t2referral-continencelead_362a915dca75",
+      "chunk_index": 0,
+      "text": "# Referral - Continence Lead**Resident:**\n**Location:**\n**Date of Birth:**\n**Gender:**## A. Referral1. **Reason for referral:**\n- a. Change in Bladder Continence\n- b. Change in Bowel Continence\n- c. Product sizing concerns\n- d. Product Change Request\n- e. Education request\n- f. Recurrent urinary tract infection\n- g. Restorative potential\n- h. Bladder Scan request\n- i. Other2. **Number of briefs required for the shift? (S)**3. **Referral Details:**4. **Name and designation of staff completing the referral:****SAVE the Referral, do not lock**## B. Continence lead response to referral1. **Name and designation of Continence lead responding to referral:**2. **Time and date of referral receipt:**3. **Referral response details:**\n- A progress note will populate the Resident chart when this assessment is locked for the date and time that the referral was opened.**Signature**                                                                            **Date**----**Page 1 of 1**",
+      "char_count": 982,
+      "token_estimate": 245,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 13
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "doc_id": "epm-addl-033areaofrefugecontactinformation_006c0f94afa6",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "epm-addl-033areaofrefugecontactinformation_006c0f94afa6_chunk_000_b5736b2d",
+      "doc_id": "epm-addl-033areaofrefugecontactinformation_006c0f94afa6",
+      "chunk_index": 0,
+      "text": "```markdown\n\n# Extendicare Area of Refuge Contact Information| NAME OF FACILITY | ADDRESS & CONTACT INFORMATION | NUMBER OF RESIDENTS THAT CAN BE ACCOMMODATED | NOTES/COMMENTS |\n|------------------|------------------------------|-----------------------------------------------|-----------------|\n| Helplng people   |                              |                                               |                 |----> This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n```",
+      "char_count": 747,
+      "token_estimate": 186,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

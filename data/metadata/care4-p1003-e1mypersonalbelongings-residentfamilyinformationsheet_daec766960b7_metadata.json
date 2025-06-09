@@ -1,0 +1,11 @@
+{
+  "doc_id": "care4-p1003-e1mypersonalbelongings-residentfamilyinformationsheet_daec766960b7",
+  "category": "Care",
+  "schema_used": "GenericDocumentMeta",
+  "extraction_success": true,
+  "metadata": {
+    "title": "My Personal Belongings"
+  },
+  "error": null,
+  "fallback_metadata": null
+}

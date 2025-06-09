@@ -1,0 +1,30 @@
+{
+  "doc_id": "prv1-p1009-t2maxallowablecharges_fe883a516a9a",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "prv1-p1009-t2maxallowablecharges_fe883a516a9a_chunk_000_f32b4bef",
+      "doc_id": "prv1-p1009-t2maxallowablecharges_fe883a516a9a",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Maximum Allowable Charges Schedule### MAXIMUM ALLOWABLE CHARGES FOR RELEASE OF INFORMATION REQUESTS1. **Basic Fee for every request**: $302. **Processing fee rates**\nProcessing fees may be charged only when the order exceeds 20 photocopied pages, and only for that part of the order that exceeds this limit. Applicants must be provided with and approve an estimate of fees before fees are incurred.a. **Photocopies over 20 pages**: $0.20 per page\nb. **Paper copies from microfilm/fiche**: $0.50 per page\nc. **CDs**: $10.00 per disk\nd. **Computer tapes**: $55.00 per tape\ne. **Microfiche**: $0.50 each\nf. **Microfilm**: $32 each\ng. **Photographs**\ni. 4\" X 5\": $10.00\nii. 5\" X 7\": $13.00\niii. 8\" X 10\": $19.00\niv. 11\" X 14\": $26.00\nv. 18\" X 20\": $32.00\nh. **Video cassette**: $18.00 each\ni. **Radiology film**: $5.00 each\nj. **Producing a record from an electronic record**:\ni. Computer processing/programming: actual cost\nii. Computer report generation: $10 per ¼ hour\nk. **Severing time to determine whether a record requires severing, and to review and to identify the parts of the record to be severed**: $6.75 per ¼ hr up to 3 hrs\nl. **Shipping and transfer costs**:\ni.",
+      "char_count": 1190,
+      "token_estimate": 297,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv1-p1009-t2maxallowablecharges_fe883a516a9a_chunk_002_9751d54d",
+      "doc_id": "prv1-p1009-t2maxallowablecharges_fe883a516a9a",
+      "chunk_index": 2,
+      "text": "**Severing time to determine whether a record requires severing, and to review and to identify the parts of the record to be severed**: $6.75 per ¼ hr up to 3 hrs\nl. **Shipping and transfer costs**:\ni. Charges to retrieve records or to return: contracted fee\nii. Courier charges or delivery charges to send copies to applicant: actual costs----*This document is uncontrolled when printed.*\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n**Page 1 of 1**",
+      "char_count": 684,
+      "token_estimate": 171,
+      "section_title": "Maximum Allowable Charges Schedule### MAXIMUM ALLOWABLE CHARGES FOR RELEASE OF INFORMATION REQUESTS1. **Basic Fee for every request**: $302. **Processing fee rates**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

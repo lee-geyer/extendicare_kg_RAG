@@ -1,0 +1,54 @@
+{
+  "doc_id": "ipc3-p10-t1-urinarytractinfectionpathway_dd60932bd465",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "ipc3-p10-t1-urinarytractinfectionpathway_dd60932bd465_chunk_000_37d85899",
+      "doc_id": "ipc3-p10-t1-urinarytractinfectionpathway_dd60932bd465",
+      "chunk_index": 0,
+      "text": "```markdown\n\n# Extendicare",
+      "char_count": 26,
+      "token_estimate": 6,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p10-t1-urinarytractinfectionpathway_dd60932bd465_chunk_002_fc1cf8f1",
+      "doc_id": "ipc3-p10-t1-urinarytractinfectionpathway_dd60932bd465",
+      "chunk_index": 2,
+      "text": "## Urinary Tract Infections\n\n### Resident label### Clinical Pathway#### Typical Symptoms (1)\n- **(No indwelling catheter)**\n- **(Indwelling catheter)**#### Indications (check all that apply):\n- **Acute Dysuria**\n- **Temp >38 C or 1.1 above baseline on 2 consecutive occasions**#### PLUS one or more of the following:\n- New or increased urinary frequency, urgency, incontinence\n- New flank or suprapubic pain or tenderness\n- Hematuria### Non-specific symptoms\nResidents who are cognitively impaired may not be able to verbalize symptoms of a UTI.",
+      "char_count": 545,
+      "token_estimate": 136,
+      "section_title": "Urinary Tract Infections",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p10-t1-urinarytractinfectionpathway_dd60932bd465_chunk_004_dad59c80",
+      "doc_id": "ipc3-p10-t1-urinarytractinfectionpathway_dd60932bd465",
+      "chunk_index": 4,
+      "text": "Non-specific symptoms which may indicate a UTI include:\n- Worsening functional status\n- Worsening mental status, increased confusion, delirium or agitation\n- Falls (new or more often)Unless medical status is declining rapidly, push fluids for 24 hours and then reassess:\n- If typical symptoms develop, treat as for UTI\n- If non-specific symptoms continue without development of typical symptoms, consider an alternate diagnosis\n- If symptoms resolve, no further intervention is required### (2) Practice point\n- Unless on fluid restriction### Orders obtained (3)\n- **Urine C&S (3)**\n- **Antibiotic therapy**#### Date/Time           Initials          Date/Time           Initials\n- Urine C&S (3)### Urine specimen collected\n- Urine specimens should be collected before antibiotic therapy is initiated\n- Urine specimens should be refrigerated until pick-up by lab\n- Urine slides should be kept at room temperature until pick up### Urine C&S results (4)\n- **Significant**\n- **Not significant**#### C&S Results not significant\n- STOP or DO NOT INITIATE ANTIBIOTICS#### C&S Results significant\n- Antibiotic is consistent with recommendation in guideline or bugs & Drugs\n- Organism is susceptible to the prescribed antibiotic\n- CrCl values reviewed.",
+      "char_count": 1242,
+      "token_estimate": 310,
+      "section_title": "Resident label### Clinical Pathway#### Typical Symptoms (1)",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p10-t1-urinarytractinfectionpathway_dd60932bd465_chunk_005_3d308c43",
+      "doc_id": "ipc3-p10-t1-urinarytractinfectionpathway_dd60932bd465",
+      "chunk_index": 5,
+      "text": "Therapy appropriate for renal function\n- Pharmacist consulted (If N/A check here    )\n- Findings discussed with physician or nurse practitioner#### Date/Time            Initials\nAdapted from Public Health Ontario and Alberta Health Services### NOTE:\nRepeat C&S after antibiotic therapy is not necessary unless typical UTI signs and symptoms persist. ```",
+      "char_count": 353,
+      "token_estimate": 88,
+      "section_title": "Resident label### Clinical Pathway#### Typical Symptoms (1)",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "doc_id": "ipc3-p1005-legionella_8a9b2bdf1d73",
+  "total_chunks": 9,
+  "chunks": [
+    {
+      "chunk_id": "ipc3-p1005-legionella_8a9b2bdf1d73_chunk_000_3b1afed1",
+      "doc_id": "ipc3-p1005-legionella_8a9b2bdf1d73",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Infection Prevention and Control\n**INDEX:** IPC3-P10.05\n**SECTION:** Communicable Diseases\n**EFFECTIVE DATE:** February 18, 2025\n**REVIEWED DATE:** February 11, 2025\n**APPROVED BY:** Chief Medical Officer\n**MODIFIED DATE:** May 30, 2025----## POLICY### Communicable Diseases### PROCEDURE- Staff will monitor residents for signs and symptoms of influenza-like illness, which may be related to Legionnaires’ Disease or Pontiac fever and will report the possible infection to the Infection Control Professional (ICP)/Designate.Possible signs and symptoms of Legionnaires’ Disease or Pontiac fever include:\n- High temperature, fever, chills\n- Cough\n- Muscle pains\n- Headache\n- Pneumonia\n- Shortness of breath### Prevention- The home will utilize and implement the relevant components of the Water Safety Plan to maintain the safety of the water systems for residents and staff. - Any discolored water shall be promptly reported to the maintenance staff.",
+      "char_count": 986,
+      "token_estimate": 246,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p1005-legionella_8a9b2bdf1d73_chunk_001_a0c5cd0e",
+      "doc_id": "ipc3-p1005-legionella_8a9b2bdf1d73",
+      "chunk_index": 1,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Infection Prevention and Control\n**INDEX:** IPC3-P10.05\n**SECTION:** Communicable Diseases\n**EFFECTIVE DATE:** February 18, 2025\n**REVIEWED DATE:** February 11, 2025\n**APPROVED BY:** Chief Medical Officer\n**MODIFIED DATE:** May 30, 2025----## POLICY### Communicable Diseases### PROCEDURE- Staff will monitor residents for signs and symptoms of influenza-like illness, which may be related to Legionnaires’ Disease or Pontiac fever and will report the possible infection to the Infection Control Professional (ICP)/Designate.Possible signs and symptoms of Legionnaires’ Disease or Pontiac fever include:\n- High temperature, fever, chills\n- Cough\n- Muscle pains\n- Headache\n- Pneumonia\n- Shortness of breath### Prevention- The home will utilize and implement the relevant components of the Water Safety Plan to maintain the safety of the water systems for residents and staff. - Any discolored water shall be promptly reported to the maintenance staff. - The home will mitigate risk factors for Legionella in the building’s water system by routinely decreasing stagnation of water, minimizing water interruptions (whether planned or unplanned), and maintaining all plumbing fixtures (e.g., pipes, toilets, sinks, faucets, showerheads, etc.) to ensure they are free of corrosion, cracks, scale, and biofilm build-up.",
+      "char_count": 1349,
+      "token_estimate": 337,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p1005-legionella_8a9b2bdf1d73_chunk_002_e6a8f425",
+      "doc_id": "ipc3-p1005-legionella_8a9b2bdf1d73",
+      "chunk_index": 2,
+      "text": "- Any discolored water shall be promptly reported to the maintenance staff. - The home will mitigate risk factors for Legionella in the building’s water system by routinely decreasing stagnation of water, minimizing water interruptions (whether planned or unplanned), and maintaining all plumbing fixtures (e.g., pipes, toilets, sinks, faucets, showerheads, etc.) to ensure they are free of corrosion, cracks, scale, and biofilm build-up. - Be mindful of external factors such as boil water advisories, water shutdowns (whether planned or unplanned), or any construction adjacent to the home that may increase risk. - Maintenance staff will perform and document routine preventative maintenance of water systems and fixtures, as outlined in the Maintenance Handbook and Water Safety Plan, following manufacturer’s guidelines for each piece of equipment. - The home will utilize the preventive maintenance template in the Water Safety Plan to record proactive actions performed to the building’s water systems.",
+      "char_count": 1009,
+      "token_estimate": 252,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p1005-legionella_8a9b2bdf1d73_chunk_003_0d4cae63",
+      "doc_id": "ipc3-p1005-legionella_8a9b2bdf1d73",
+      "chunk_index": 3,
+      "text": "- Maintenance staff will perform and document routine preventative maintenance of water systems and fixtures, as outlined in the Maintenance Handbook and Water Safety Plan, following manufacturer’s guidelines for each piece of equipment. - The home will utilize the preventive maintenance template in the Water Safety Plan to record proactive actions performed to the building’s water systems. - The home will ensure that the use of personal humidifiers is prohibited.### Management- If there is a confirmed/suspected case of Legionella in a resident, the ICP/Designate will immediately notify the health authority and all appropriate stakeholders to launch an investigation. - The home will follow health authority directions in response to a suspect/confirmed Legionella case in either a resident or staff. - The home will heighten symptom surveillance in affected resident area(s). Refer to symptoms listed above.----> This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.",
+      "char_count": 1169,
+      "token_estimate": 292,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p1005-legionella_8a9b2bdf1d73_chunk_004_6db4b7a6",
+      "doc_id": "ipc3-p1005-legionella_8a9b2bdf1d73",
+      "chunk_index": 4,
+      "text": "> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 2# PROCEDURE## SECTION: Communicable Diseases\n\n## DESCRIPTION: Legionella",
+      "char_count": 366,
+      "token_estimate": 91,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p1005-legionella_8a9b2bdf1d73_chunk_006_c710f893",
+      "doc_id": "ipc3-p1005-legionella_8a9b2bdf1d73",
+      "chunk_index": 6,
+      "text": "## INDEX: IPC3-P10.05- The home will isolate any plumbing fixtures and equipment used by the suspect/confirmed Legionella case until environmental swabs are collected by the health authority and an independent third party established in consultation with the ICP. Such sites/fixtures may include:\n- The bathroom and spa/bath area\n- Shower heads\n- Faucets\n- Ice machines\n- CPAP, APAP, BiPAP\n- Any other equipment that can aerosolize water.- The home will not try to remediate any suspected sources by replacing, cleaning, or flushing until all environmental samples are collected and consulted with a corporate Infection Control Consultant and the local public health authority.## EXTERNAL### Ontario Only:",
+      "char_count": 705,
+      "token_estimate": 176,
+      "section_title": "INDEX: IPC3-P10.05- The home will isolate any plumbing fixtures and equipment used by the suspect/confirmed Legionella case until environmental swabs are collected by the health authority and an independent third party established in consultation with the ICP. Such sites/fixtures may include:",
+      "chunk_type": "content",
+      "start_line": 24,
+      "end_line": 30
+    },
+    {
+      "chunk_id": "ipc3-p1005-legionella_8a9b2bdf1d73_chunk_007_8615251a",
+      "doc_id": "ipc3-p1005-legionella_8a9b2bdf1d73",
+      "chunk_index": 7,
+      "text": "1. If a disruption to the water system is expected to last for more than three hours, the home must promptly inform the Ministry of Long-Term Care (MLTC) and take all the necessary measures to comply with the regulation.\n\n2. Ensure preventative maintenance of water systems is in alignment with O. Reg. 246/22.### Alberta Only:",
+      "char_count": 327,
+      "token_estimate": 81,
+      "section_title": "If a disruption to the water system is expected to last for more than three hours, the home must promptly inform the Ministry of Long-Term Care (MLTC) and take all the necessary measures to comply with the regulation.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p1005-legionella_8a9b2bdf1d73_chunk_009_5b22a70c",
+      "doc_id": "ipc3-p1005-legionella_8a9b2bdf1d73",
+      "chunk_index": 9,
+      "text": "1. A continuing care home operator, supportive living accommodation operator or home and community care provider shall immediately notify the director in accordance with the Province of Alberta Continuing Care Act in the event of an unplanned disruption of utilities (i.e., water).### Manitoba Only:\n\n1. Government of Manitoba Personal Care Homes Standards Regulation, M.R. 30/2005",
+      "char_count": 381,
+      "token_estimate": 95,
+      "section_title": "A continuing care home operator, supportive living accommodation operator or home and community care provider shall immediately notify the director in accordance with the Province of Alberta Continuing Care Act in the event of an unplanned disruption of utilities (i.e., water).### Manitoba Only:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p1005-legionella_8a9b2bdf1d73_chunk_011_540f85fd",
+      "doc_id": "ipc3-p1005-legionella_8a9b2bdf1d73",
+      "chunk_index": 11,
+      "text": "2. Government of Manitoba Drinking Water Safety Act S.M. 2002, c. 36## TOOLS\n\n1. IPC3-P10-T3 - Water Safety Plan----Helping people live betterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----Page 2 of 2",
+      "char_count": 479,
+      "token_estimate": 119,
+      "section_title": "Government of Manitoba Drinking Water Safety Act S.M. 2002, c. 36## TOOLS",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "doc_id": "care10-p1001-t2saferesidenthandlinglogos_6555ddb6c607",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "care10-p1001-t2saferesidenthandlinglogos_6555ddb6c607_chunk_000_7107ea4a",
+      "doc_id": "care10-p1001-t2saferesidenthandlinglogos_6555ddb6c607",
+      "chunk_index": 0,
+      "text": "# Extendicare Safe Resident Handling## Place Order\n- Place order through our Print Shop: Extendicare Print Shop## Transfer Types\n| Transfer Type            | Description                |\n|--------------------------|----------------------------|\n| Independent Transfer      |                            |\n| Supervised Transfer       |                            |\n| One Person Transfer       |                            |\n| Two Person Transfer       |                            |\n| Sit to Stand Lift        |                            |\n| Mechanical Lift          |                            |## Additional Information\n- **Document Control**: This document is uncontrolled when printed.\n- **Accessibility**: Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\n- **Confidentiality**: Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 1**",
+      "char_count": 1031,
+      "token_estimate": 257,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 12
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t9cresidentliftmobileelectricinsp_67a466a1ef35_chunk_000_c8640324",
+      "doc_id": "maint1-o1002-t9cresidentliftmobileelectricinsp_67a466a1ef35",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## MAINTENANCE INSPECTION CHECKLIST### Equipment\n**Resident Lift (Mobile Electric)**- **Name:**\n- **Year:**\n- **Manufacturer:** All\n- **Model:** All### LEGEND/KEY\n| Legend | Key        |\n|--------|------------|\n| W      | Weekly     |\n| M      | Monthly    |\n| Q      | Quarterly  |\n| S      | Semi-Annual|\n| A      | Annual     |\n| O      | Ok         |\n| R      | Repair     |\n| N      | Replace    |### CHECKS\n| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   |   |   | 1. Check the actuator top pivot for tightness and wear. |\n| X |   |   |   |   | 2. Check the actuator bottom pivot for tightness and wear. |\n| X |   |   |   |   | 3. Check the mast/boom pivot for tightness and wear. |\n| X |   |   |   |   | 4. Check the condition of the rubber nose-bumper. |\n| X |   |   |   |   | 5. Check the spreader-bar pivots bolts for tightness and wear. |\n| X |   |   |   |   | 6. Check the condition of the spreader-bar end-caps. |\n| X |   |   |   |   | 7. Check the condition of the spreader bar padding. |\n| X |   |   |   |   | 8.",
+      "char_count": 1192,
+      "token_estimate": 298,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t9cresidentliftmobileelectricinsp_67a466a1ef35_chunk_002_cdc3612a",
+      "doc_id": "maint1-o1002-t9cresidentliftmobileelectricinsp_67a466a1ef35",
+      "chunk_index": 2,
+      "text": "Check the condition of the spreader bar padding. |\n| X |   |   |   |   | 8. Check the mast retaining bolts for tightness. |\n| X |   |   |   |   | 9. Check the rear casters for freedom of movement. |\n| X |   |   |   |   | 10. Check the front casters for freedom of movement. |\n| X |   |   |   |   | 11. Check the leg-spreader mechanism for freedom of movement. |\n| X |   |   |   |   | 12. Check the leg-actuators (power base models) for operation. |\n| X |   |   |   |   | 13. Check the leg-pivot bolts for tightness and wear. |\n| X |   |   |   |   | 14. Check the condition of the chassis cover. |\n| X |   |   |   |   | 15. Check the condition of the leg covers. |\n| X |   |   |   |   | 16. Check welds for cracks. |\n| X |   |   |   |   | 17. Check all painted surfaces for damage. |\n| X |   |   |   |   | 18. Check the operation of the Actuator. |\n|   | X |   |   |   | 19. Arrange for annual load-testing of all lifts. This testing shall be carried out by the lift manufacturer’s representative.* |\n|   | X |   |   |   | 20. Review Preventive Maintenance Contract.",
+      "char_count": 1065,
+      "token_estimate": 266,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t9cresidentliftmobileelectricinsp_67a466a1ef35_chunk_003_d1c5ab5d",
+      "doc_id": "maint1-o1002-t9cresidentliftmobileelectricinsp_67a466a1ef35",
+      "chunk_index": 3,
+      "text": "This testing shall be carried out by the lift manufacturer’s representative.* |\n|   | X |   |   |   | 20. Review Preventive Maintenance Contract. |**NOTE:**\n*Qualified service firms are to be employed.*### Monthly Schedule\n| Month | M | Q | S | A |\n|-------|---|---|---|---|\n| JAN   | W | W | W | W |\n| FEB   | W | W | W | W |\n| MAR   | W | W | W | W |\n| APR   | W | W | W | W |\n| MAY   | W | W | W | W |\n| JUN   | W | W | W | W |\n| JUL   | W | W | W | W |\n| AUG   | W | W | W | W |\n| SEP   | W | W | W | W |\n| OCT   | W | W | W | W |\n| NOV   | W | W | W | W |\n| DEC   | W | W | W | W |----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025  Page 1 of 2# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1151,
+      "token_estimate": 287,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t9cresidentliftmobileelectricinsp_67a466a1ef35_chunk_004_f1d0c72d",
+      "doc_id": "maint1-o1002-t9cresidentliftmobileelectricinsp_67a466a1ef35",
+      "chunk_index": 4,
+      "text": "© 2025  Page 1 of 2# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 2 of 2",
+      "char_count": 510,
+      "token_estimate": 127,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 4
+}

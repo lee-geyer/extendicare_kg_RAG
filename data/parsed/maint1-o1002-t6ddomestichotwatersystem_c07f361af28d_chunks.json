@@ -1,0 +1,41 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t6ddomestichotwatersystem_c07f361af28d_chunk_000_b53afe3e",
+      "doc_id": "maint1-o1002-t6ddomestichotwatersystem_c07f361af28d",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## MAINTENANCE INSPECTION CHECKLIST### Equipment\n**Domestic Hot Water System**### LEGEND/KEY\n| Key | Description          |\n|-----|----------------------|\n| W   | Weekly               |\n| M   | Monthly              |\n| Q   | Quarterly            |\n| S   | Semi-Annual          |\n| A   | Annual               |\n| O   | Ok                   |\n| R   | Repair               |\n| N   | Replace              |### CHECKS\n| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   |   | 1 | Clean all system strainers. |\n| X |   |   |   | 2 | Check discharge temperature of mixing valve does not exceed 120F. |\n|   | X |   |   | 3 | Work all main valves the full travel of stem. |\n|   | X |   |   | 4 | Lubricate stems as required. |\n|   | X |   |   | 5 | Check that all normally open valves are fully open. (Back off ¼ turn.) |\n|   | X |   |   | 6 | Check that all normally closed valves are tightly closed. |\n|   |   | X |   | 7 | Disassemble and clean system check valves. |\n|   |   | X |   | 8 | Inspect and clean system mixing valves.",
+      "char_count": 1184,
+      "token_estimate": 296,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t6ddomestichotwatersystem_c07f361af28d_chunk_002_9b8e3967",
+      "doc_id": "maint1-o1002-t6ddomestichotwatersystem_c07f361af28d",
+      "chunk_index": 2,
+      "text": "|\n|   |   | X |   | 7 | Disassemble and clean system check valves. |\n|   |   | X |   | 8 | Inspect and clean system mixing valves. |\n|   |   | X |   | 9 | Check that piping insulation is intact. |### Monthly Schedule\n| Month | M | Q | S | A |\n|-------|---|---|---|---|\n| JAN   | W | W | W | W |\n| FEB   | W | W | W | W |\n| MAR   | W | W | W | W |\n| APR   | W | W | W | W |\n| MAY   | W | W | W | W |\n| JUN   | W | W | W | W |\n| JUL   | W | W | W | W |\n| AUG   | W | W | W | W |\n| SEP   | W | W | W | W |\n| OCT   | W | W | W | W |\n| NOV   | W | W | W | W |\n| DEC   | W | W | W | W |----**Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     | Helplng people |         |      |\n|      |     | Ilve better |         |      |> This document is uncontrolled when printed.",
+      "char_count": 1185,
+      "token_estimate": 296,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t6ddomestichotwatersystem_c07f361af28d_chunk_003_af86f0ff",
+      "doc_id": "maint1-o1002-t6ddomestichotwatersystem_c07f361af28d",
+      "chunk_index": 3,
+      "text": "will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     | Helplng people |         |      |\n|      |     | Ilve better |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 2 of 2**",
+      "char_count": 819,
+      "token_estimate": 204,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 3
+}

@@ -1,0 +1,30 @@
+{
+  "doc_id": "epm2-p1016-t2codeblueexecdirdesignatejac_8166e397a8e9",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "epm2-p1016-t2codeblueexecdirdesignatejac_8166e397a8e9_chunk_000_ac460545",
+      "doc_id": "epm2-p1016-t2codeblueexecdirdesignatejac_8166e397a8e9",
+      "chunk_index": 0,
+      "text": "# Extendicare## Code Blue - Executive Director/Designate Job Action Checklist**Date:**\n**Executive Director/Designate:**### Respond\n- [ ] Notify and update the Regional Director/Regional Director of Operations. - [ ] Follow instructions from the Incident Manager. - [ ] Consult Extendicare Occupational Health and Safety policies 10.1 and 10.2 if the incident results in a critical or serious incident/injury to a staff member.### Recover\n**All Clear:**\n- [ ] Notify your Regional Director/Regional Director of Operations. - [ ] Notify next of Kin, as appropriate. - [ ] Notify regulatory body and/or provincial health authority as applicable if a resident is critically injured or is sent to hospital due to injury: initiate a critical incident report. Ensure all incident documentation has been completed and any outside organizations have been notified as required. - [ ] Notify the Health and Safety Committee and government labour authorities (e.g., Ministry of Labour) if any staff suffers a critical injury (as defined by the Occupational Health and Safety Act). Engage corporate Health and Safety department for support.",
+      "char_count": 1128,
+      "token_estimate": 282,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1016-t2codeblueexecdirdesignatejac_8166e397a8e9_chunk_001_6c260c89",
+      "doc_id": "epm2-p1016-t2codeblueexecdirdesignatejac_8166e397a8e9",
+      "chunk_index": 1,
+      "text": "- [ ] Notify the Health and Safety Committee and government labour authorities (e.g., Ministry of Labour) if any staff suffers a critical injury (as defined by the Occupational Health and Safety Act). Engage corporate Health and Safety department for support. - [ ] Arrange for staff support as needed (EAP, etc.)\n- [ ] Participate in the analysis and debriefing session. - [ ] Upload completed Analysis and Debrief Report in the Quality and Operations Reporting Team.----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n**Page 1 of 1**",
+      "char_count": 810,
+      "token_estimate": 202,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

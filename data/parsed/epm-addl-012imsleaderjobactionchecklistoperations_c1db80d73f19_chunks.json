@@ -1,0 +1,90 @@
+{
+  "doc_id": "epm-addl-012imsleaderjobactionchecklistoperations_c1db80d73f19",
+  "total_chunks": 7,
+  "chunks": [
+    {
+      "chunk_id": "epm-addl-012imsleaderjobactionchecklistoperations_c1db80d73f19_chunk_000_ed2e2c2f",
+      "doc_id": "epm-addl-012imsleaderjobactionchecklistoperations_c1db80d73f19",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## IMS Leader Job Action Checklist – Operations**Note:** All documentation during the emergency must be given to the Administrator/Executive Director daily and kept on file for a minimum of three years.### Operations – Job Action Sheet**Role:** Operations is the function of carrying out:\n- a. The emergency response;\n- b. Evacuation;\n- c. Triage;\n- d. Containment;\n- e. Damage mitigation;\n- f. Recovery; and\n- g. The directives of the Incident Manager.Where the incident directly impacts resident care, Operations will coordinate and ensure ongoing resident care throughout the emergency.**Name:****Record the time action was initiated (note on the line below):**1. Receive appointment and briefing from the Incident Manager.",
+      "char_count": 741,
+      "token_estimate": 185,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-012imsleaderjobactionchecklistoperations_c1db80d73f19_chunk_002_1f73363b",
+      "doc_id": "epm-addl-012imsleaderjobactionchecklistoperations_c1db80d73f19",
+      "chunk_index": 2,
+      "text": "2. Read this entire Job Action Sheet.\n\n3. Appoint teams for each area of the operation (e.g. search, evacuation, nursing), as needed.",
+      "char_count": 133,
+      "token_estimate": 33,
+      "section_title": "Read this entire Job Action Sheet.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-012imsleaderjobactionchecklistoperations_c1db80d73f19_chunk_004_a5bb1a37",
+      "doc_id": "epm-addl-012imsleaderjobactionchecklistoperations_c1db80d73f19",
+      "chunk_index": 4,
+      "text": "4. Brief all teams for each area of the operation.\n\n5. Provide direction to the teams.",
+      "char_count": 86,
+      "token_estimate": 21,
+      "section_title": "Brief all teams for each area of the operation.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-012imsleaderjobactionchecklistoperations_c1db80d73f19_chunk_006_42942c83",
+      "doc_id": "epm-addl-012imsleaderjobactionchecklistoperations_c1db80d73f19",
+      "chunk_index": 6,
+      "text": "6. Determine which teams are involved in the emergency and which teams are maintaining normal operations (normal operations may be assigned to one team leader).\n\n7. Provide direction regarding the emergency response actions for the incident (e.g. evacuation, search, reception).",
+      "char_count": 278,
+      "token_estimate": 69,
+      "section_title": "Determine which teams are involved in the emergency and which teams are maintaining normal operations (normal operations may be assigned to one team leader).",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-012imsleaderjobactionchecklistoperations_c1db80d73f19_chunk_008_5869a164",
+      "doc_id": "epm-addl-012imsleaderjobactionchecklistoperations_c1db80d73f19",
+      "chunk_index": 8,
+      "text": "8. Coordinate staffing requirements with the Logistics Manager who will arrange for additional staff as required.\n\n9. Receive, coordinate and forward all requests for personnel and supplies to the Logistics Manager.",
+      "char_count": 215,
+      "token_estimate": 53,
+      "section_title": "Coordinate staffing requirements with the Logistics Manager who will arrange for additional staff as required.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-012imsleaderjobactionchecklistoperations_c1db80d73f19_chunk_010_462c069c",
+      "doc_id": "epm-addl-012imsleaderjobactionchecklistoperations_c1db80d73f19",
+      "chunk_index": 10,
+      "text": "10. Establish an advisory group, as required (e.g. Medical Director).\n\n11. Attend the IMS Team meeting.----**Helping people**\n**Iva better**This document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\nConfidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n```markdown",
+      "char_count": 474,
+      "token_estimate": 118,
+      "section_title": "Establish an advisory group, as required (e.g. Medical Director).",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-012imsleaderjobactionchecklistoperations_c1db80d73f19_chunk_012_a136e956",
+      "doc_id": "epm-addl-012imsleaderjobactionchecklistoperations_c1db80d73f19",
+      "chunk_index": 12,
+      "text": "# IMS Leader Job Action Checklist – Operations> This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\n> Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 2 of 2\n```",
+      "char_count": 392,
+      "token_estimate": 98,
+      "section_title": "IMS Leader Job Action Checklist – Operations> This document is uncontrolled when printed.",
+      "chunk_type": "content",
+      "start_line": 23,
+      "end_line": 27
+    }
+  ]
+}

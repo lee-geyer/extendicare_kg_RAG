@@ -1,0 +1,138 @@
+{
+  "doc_id": "ipc7-p10-t10coldchainchecklist_3589dfb80af6",
+  "total_chunks": 11,
+  "chunks": [
+    {
+      "chunk_id": "ipc7-p10-t10coldchainchecklist_3589dfb80af6_chunk_000_624831d2",
+      "doc_id": "ipc7-p10-t10coldchainchecklist_3589dfb80af6",
+      "chunk_index": 0,
+      "text": "# Extendicare Cold Chain ChecklistA Checklist for safeguarding the storage and handling of your vaccine supply:| YES | NO |\n|-----|----|\n|     |    |## Checklist Items1. We have a designated person in charge of ordering vaccines, inventory management, and refrigerator monitoring.\n\n2. Our staff have been provided with training about the importance of good vaccine management.",
+      "char_count": 376,
+      "token_estimate": 94,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t10coldchainchecklist_3589dfb80af6_chunk_002_f2fcf3d8",
+      "doc_id": "ipc7-p10-t10coldchainchecklist_3589dfb80af6",
+      "chunk_index": 2,
+      "text": "3. All our vaccines are unpacked and refrigerated IMMEDIATELY upon delivery.\n\n4. If there is a break in the cold chain, any exposed vaccines are labeled as “DO NOT USE” in the refrigerator.",
+      "char_count": 189,
+      "token_estimate": 47,
+      "section_title": "All our vaccines are unpacked and refrigerated IMMEDIATELY upon delivery.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t10coldchainchecklist_3589dfb80af6_chunk_004_e84db4db",
+      "doc_id": "ipc7-p10-t10coldchainchecklist_3589dfb80af6",
+      "chunk_index": 4,
+      "text": "5. We contact public health to report cold chain incidents and determine if vaccines are usable.\n\n6. We use a laboratory or industrial fridge, or a domestic frost-free fridge to store vaccines.",
+      "char_count": 193,
+      "token_estimate": 48,
+      "section_title": "We contact public health to report cold chain incidents and determine if vaccines are usable.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t10coldchainchecklist_3589dfb80af6_chunk_006_cbc43462",
+      "doc_id": "ipc7-p10-t10coldchainchecklist_3589dfb80af6",
+      "chunk_index": 6,
+      "text": "7. We DO NOT store any food or beverages in the refrigerator.\n\n8. Our vaccines are rotated on the “FIRST TO EXPIRE, FIRST OUT” principle.",
+      "char_count": 137,
+      "token_estimate": 34,
+      "section_title": "We DO NOT store any food or beverages in the refrigerator.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t10coldchainchecklist_3589dfb80af6_chunk_008_bfbdade8",
+      "doc_id": "ipc7-p10-t10coldchainchecklist_3589dfb80af6",
+      "chunk_index": 8,
+      "text": "9. Vaccines that will expire soonest are used first.\n\n10. Our vaccines are checked for EXPIRY dates at the beginning or end of every month.",
+      "char_count": 139,
+      "token_estimate": 34,
+      "section_title": "Vaccines that will expire soonest are used first.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t10coldchainchecklist_3589dfb80af6_chunk_010_65206729",
+      "doc_id": "ipc7-p10-t10coldchainchecklist_3589dfb80af6",
+      "chunk_index": 10,
+      "text": "11. Expired vaccines are removed from the refrigerator.\n\n12. We return damaged/expired vaccines to public health.",
+      "char_count": 113,
+      "token_estimate": 28,
+      "section_title": "Expired vaccines are removed from the refrigerator.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t10coldchainchecklist_3589dfb80af6_chunk_012_c4f07e51",
+      "doc_id": "ipc7-p10-t10coldchainchecklist_3589dfb80af6",
+      "chunk_index": 12,
+      "text": "13. We order vaccines monthly based on home needs.\n\n14. The temperature of the refrigerator is maintained between +2°C to +8°C.",
+      "char_count": 127,
+      "token_estimate": 31,
+      "section_title": "We order vaccines monthly based on home needs.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t10coldchainchecklist_3589dfb80af6_chunk_014_c22b0d0e",
+      "doc_id": "ipc7-p10-t10coldchainchecklist_3589dfb80af6",
+      "chunk_index": 14,
+      "text": "15. Our vaccines are stored in the MIDDLE shelves of the refrigerator and NOT on the shelves in the door of the refrigerator.\n\n16. A “TEMPERATURE LOG” is posted on the refrigerator and the temperature of the refrigerator, the ambient (room) temperature, and the dial settings of the refrigerator are recorded and initialed TWICE daily (morning and evening).",
+      "char_count": 357,
+      "token_estimate": 89,
+      "section_title": "Our vaccines are stored in the MIDDLE shelves of the refrigerator and NOT on the shelves in the door of the refrigerator.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t10coldchainchecklist_3589dfb80af6_chunk_016_1d330511",
+      "doc_id": "ipc7-p10-t10coldchainchecklist_3589dfb80af6",
+      "chunk_index": 16,
+      "text": "17. Sealed water bottles or flexible insulating blankets are stored (if space allows) on the upper and lower shelves and in the door of the refrigerator. Ice packs are stored in the freezer.\n\n18. A “DO NOT UNPLUG” sign has been placed next to our refrigerator’s electrical outlet.",
+      "char_count": 280,
+      "token_estimate": 70,
+      "section_title": "Sealed water bottles or flexible insulating blankets are stored (if space allows) on the upper and lower shelves and in the door of the refrigerator. Ice packs are stored in the freezer.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t10coldchainchecklist_3589dfb80af6_chunk_018_df227a79",
+      "doc_id": "ipc7-p10-t10coldchainchecklist_3589dfb80af6",
+      "chunk_index": 18,
+      "text": "19. A hard-sided or soft-sided insulated cooler with a tight-fitting lid along with ice packs and insulating material is always used in transporting vaccines for short periods of time and at clinic workstations.\n\n20. An EMERGENCY PLAN for power outages and refrigerator malfunctions has been established.If all of the above answers are “YES”, we are doing a great job of safeguarding our vaccines. If not, we have assigned someone to implement changes.----**Name:**\n**Date Checklist Completed:** Enter date----This document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\nConfidential and Proprietary Information of Extendicare (Canada) Inc. © 2025",
+      "char_count": 832,
+      "token_estimate": 208,
+      "section_title": "A hard-sided or soft-sided insulated cooler with a tight-fitting lid along with ice packs and insulating material is always used in transporting vaccines for short periods of time and at clinic workstations.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t10coldchainchecklist_3589dfb80af6_chunk_020_9a65c8fe",
+      "doc_id": "ipc7-p10-t10coldchainchecklist_3589dfb80af6",
+      "chunk_index": 20,
+      "text": "# Cold Chain Checklist## Refrigerator Location:\nThis document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\nConfidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 2 of 2",
+      "char_count": 382,
+      "token_estimate": 95,
+      "section_title": "Cold Chain Checklist## Refrigerator Location:",
+      "chunk_type": "content",
+      "start_line": 25,
+      "end_line": 29
+    }
+  ]
+}

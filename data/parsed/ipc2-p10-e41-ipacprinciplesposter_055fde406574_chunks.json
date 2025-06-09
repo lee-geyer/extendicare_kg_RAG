@@ -1,0 +1,18 @@
+{
+  "doc_id": "ipc2-p10-e41-ipacprinciplesposter_055fde406574",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "ipc2-p10-e41-ipacprinciplesposter_055fde406574_chunk_000_ce249bbd",
+      "doc_id": "ipc2-p10-e41-ipacprinciplesposter_055fde406574",
+      "chunk_index": 0,
+      "text": "# Stay Home if You’re Sick\n- **Wear a mask** based on setting and situation## IPAC Principles\nTo keep everyone safe, everyone has a role in preventing the spread of disease.- **Practice hand hygiene**\n- **Keep a physical distance** whenever possible",
+      "char_count": 249,
+      "token_estimate": 62,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 3
+    }
+  ]
+}

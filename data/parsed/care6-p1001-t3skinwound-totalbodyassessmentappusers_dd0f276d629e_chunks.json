@@ -1,0 +1,30 @@
+{
+  "doc_id": "care6-p1001-t3skinwound-totalbodyassessmentappusers_dd0f276d629e",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "care6-p1001-t3skinwound-totalbodyassessmentappusers_dd0f276d629e_chunk_000_acb33978",
+      "doc_id": "care6-p1001-t3skinwound-totalbodyassessmentappusers_dd0f276d629e",
+      "chunk_index": 0,
+      "text": "# PCC Skin & Wound - Total Body Skin Assessment| Client:          | Effective Date: | Location:       |\n|------------------|------------------|------------------|\n| Admission:       | Date of Birth:   | Score: NA        |\n| Category: NA     | Physician:       |                  |## 1. Skin Assessment### 1. Turgor\n- Good Elasticity\n- Poor Elasticity\n- Tenting### 2. Skin Color\n- Normal for ethnic group\n- Ashen\n- Pale\n- Cyanotic\n- Flushed\n- Jaundiced\n- Mottled### 3. Temperature\n- Cool\n- Warm (normal)\n- Cold\n- Hot### 4. Moisture\n- Normal\n- Moist\n- Diaphoretic\n- Clammy### 5. Condition\n- Extremely Dry\n- Dry\n- Normal\n- Oily\n- Friable### Enter the # of New Wounds",
+      "char_count": 663,
+      "token_estimate": 165,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 26
+    },
+    {
+      "chunk_id": "care6-p1001-t3skinwound-totalbodyassessmentappusers_dd0f276d629e_chunk_001_a30b9431",
+      "doc_id": "care6-p1001-t3skinwound-totalbodyassessmentappusers_dd0f276d629e",
+      "chunk_index": 1,
+      "text": "#### 6. New Wounds----Page 1 of 1",
+      "char_count": 33,
+      "token_estimate": 8,
+      "section_title": "6. New Wounds----Page 1 of 1",
+      "chunk_type": "content",
+      "start_line": 27,
+      "end_line": 27
+    }
+  ]
+}

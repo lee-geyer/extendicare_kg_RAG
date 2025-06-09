@@ -1,0 +1,18 @@
+{
+  "doc_id": "ipc2-p10-e35icareaboutyourhealth-poster2_d6ec88be7a68",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "ipc2-p10-e35icareaboutyourhealth-poster2_d6ec88be7a68_chunk_000_3d79e31c",
+      "doc_id": "ipc2-p10-e35icareaboutyourhealth-poster2_d6ec88be7a68",
+      "chunk_index": 0,
+      "text": "# I Care About Your HealthIt’s ok to ask if I’ve cleaned my hands.",
+      "char_count": 66,
+      "token_estimate": 16,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 0
+    }
+  ]
+}

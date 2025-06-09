@@ -1,0 +1,30 @@
+{
+  "doc_id": "ipc-addl-02324-25-flu-immunization-campaign_1cd54ee3edb3",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "ipc-addl-02324-25-flu-immunization-campaign_1cd54ee3edb3_chunk_000_28d1dd2c",
+      "doc_id": "ipc-addl-02324-25-flu-immunization-campaign_1cd54ee3edb3",
+      "chunk_index": 0,
+      "text": "# NATIONAL IMMUNIZATION CAMPAIGN\n**Year:** 2024/2025## STAFF IMMUNIZATION RATES\n- Each home will be responsible to enter their immunization rates.\n\nClick on your home link below to enter your data:| Home Name                                      | Link        |\n|------------------------------------------------|-------------|\n| Extendicare OAK HOMES                          | CLICK HERE |\n| River East LTC                                 | CLICK HERE |\n| Centennial Manor LTC                           | CLICK HERE |\n| Tendercare LTC                                 | CLICK HERE |\n| FJ Davey LTC                                  | CLICK HERE |\n| Tendercare McNicoll Manor RH                   | CLICK HERE |\n| Irene Baron Assisted Living                    | CLICK HERE |\n| Tendercare Moll Berczy RH                      | CLICK HERE |\n| Lakeside LTC                                   | CLICK HERE |\n| West Park LTC                                  | CLICK HERE |\n| Pine Meadow LTC                                | CLICK HERE |\n| Wyndham Manor LTC                              | CLICK HERE |**(Reach out to your home’s IPAC Consultant for your access password).**## POSTERS / SIGNAGE\n- Posters/Signage will be distributed to all homes.",
+      "char_count": 1237,
+      "token_estimate": 309,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc-addl-02324-25-flu-immunization-campaign_1cd54ee3edb3_chunk_002_39f2578d",
+      "doc_id": "ipc-addl-02324-25-flu-immunization-campaign_1cd54ee3edb3",
+      "chunk_index": 2,
+      "text": "If additional copies are required, email communications@extendicare.com.## FLU PHOTO CONTEST\n- Flu Photo Contest\n- Flu Photo Contest Horizontal Poster## RESOURCES\n> Note: Homes should confirm the components (ingredients) prefilled on the consent forms below with their local Public Health and edit accordingly before printing:- Immunization Consent Form (resident ENG)\n- Immunization Consent Form (resident FR)\n- Immunization Consent Form (staff ENG)\n- Employee Influenza Intention Form\n- Immunization Cards (ENG)\n- Immunization Cards (FR)\n- Influenza Preparedness Checklist\n- Influenza Clinic Supplies Checklist\n- The 5 Steps to an Effective Immunization Program\n- Influenza Vaccine Information Sheet ENG\n- Influenza Vaccine Information Sheet FR\n- NACI: Seasonal Influenza Vaccine for 2024/2025 ENG\n- NACI: Seasonal Influenza Vaccine for 2024/2025 FR\n- Ontario MOH: General Fact Sheet for Flu Season 2024/2025\n- Alberta Health Services Influenza (Flu) Vaccine Information Sheet\n- Manitoba’s Seasonal Influenza Immunization Program - Questions and Answers©Extendicare 2024\n**2024-2025 NATIONAL IMMUNIZATION CAMPAIGN**\nPage 1 of 1",
+      "char_count": 1129,
+      "token_estimate": 282,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

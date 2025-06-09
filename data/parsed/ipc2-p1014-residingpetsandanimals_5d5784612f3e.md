@@ -1,0 +1,112 @@
+# Extendicare
+
+## PROCEDURE MANUAL: Infection Prevention and Control
+- **INDEX:** IPC2-P10.14
+- **SECTION:** Infection Prevention
+- **EFFECTIVE DATE:** February 18, 2025
+- **REVIEWED DATE:** February 11, 2025
+- **APPROVED BY:** Chief Medical Officer
+- **MODIFIED DATE:** May 30, 2025
+
+----
+
+## POLICY
+### Infection Prevention
+
+## PROCEDURE
+This procedure is regarding a pet that resides in the Home, whether it is owned by the Home or a resident.
+
+- The following animals (not an all-inclusive list) are not permitted to live in or visit the home (dependent on provincial/regional requirements):
+- Reptiles and amphibians (e.g., lizards, snakes, iguanas, turtles, frogs, and salamanders).
+- Non-human primates.
+- Hamsters, gerbils, mice, and rats.
+- Hedgehogs, prairie dogs or any other recently domesticated animal species.
+- Other animals not litter-trained or for which measures cannot be taken to prevent resident exposure to animal excrement.
+- Other animals with behavioural or disease risks (e.g., raccoons, skunks, ferrets, and bats).
+
+- Injuries caused by an animal shall be:
+- Assessed and first aid provided by medical personnel.
+- Reported to the owner/person responsible for the home’s pet program.
+- Reported to the local Animal Control Authority and/or Public Health Department, as per local requirements.
+- Recorded in the resident’s health record, as applicable.
+- Recorded (follow the Adverse Event process to record the event) and reviewed by the home’s leadership team and Resident/Family Councils. It is the responsibility of the administrator to act in the best interests of the resident and animal in the event of an incident.
+- Any animal that causes injury to any person in the home will be assessed for its appropriateness of living in or visiting the home.
+
+- A staff person(s) will be designated the responsibility for the residing pet(s) in the Home and shall develop a Pet Plan of Care in consultation with the Infection Control Professional/DOC/DHW/Designate.
+
+- The resident/substitute decision maker will be informed of pets residing in the Home during the pre-move-in process.
+
+- Each resident will be assessed upon move-in to the Home to identify their level of comfort in interacting with the Home/residents’ pets and interest in helping with routine pet care.
+
+- Residents who do not wish to have contact with animals will have documentation in their plan of care and may place signage on the door to their room.
+
+----
+
+> **Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025
+
+----
+
+**Page 1 of 3**
+
+# PROCEDURE
+
+## SECTION: Infection Prevention
+### DESCRIPTION: Residing Pets/Animals
+### INDEX: IPC2-P10.14
+
+- During interviews, all potential staff and volunteers will be informed of pets residing in the Home.
+- Pets are housebroken, clean, well-groomed, of a suitable temperament and obtained from reputable sources.
+- Pets are not fed a raw meat or raw egg-based or dehydrated (not cooked) foods, cheese or treats.
+- Pets will receive regular examinations, vaccinations, and pet licensure according to local, regional and provincial regulatory requirements for animals living in a residential care setting.
+- A record of the pet’s yearly checkups and vaccinations will be recorded on the Veterinary Record.
+- Any pet displaying signs of illness will be isolated and examined by a veterinarian.
+- Pets residing in the Home will be free of hookworms, fleas, ticks or mange (mite infestation).
+- The designated staff person(s) responsible for the care of the pet will administer the pet medication and document on the Pet Medication Tracking Sheet.
+- There is a dedicated storage area for pet supplies which includes medications. This area is away from the medication room, clean supply rooms, kitchens and resident areas.
+
+### Pet care shall include:
+- Regular provision of fresh food and water,
+- Regular grooming, checking for parasites, lumps, and wounds, and examining and clipping claws/nails,
+- Regular daily cleaning of cages, litter boxes, sleeping and eating areas, regular washing and changing of pet bedding.
+
+- Pet care activities will be documented on the Pet Care Record.
+- Pets are not allowed in resident bathrooms, dining rooms, medication rooms or food preparation areas.
+- Pets will be kept off furniture not covered with water resistant fabric or covered by a barrier as much as possible. Appropriate cleaning will be conducted.
+- Every reasonable and practical effort is made to keep animals away from residents with allergies, phobias or dislikes.
+- Areas for pet elimination (i.e. litter boxes) are designated, away from resident traffic and cleaned daily.
+- Avoid direct contact with animal urine and feces.
+- Cleanup of animal feces requires the use of gloves and warm soapy water.
+- Leak resistant plastic bags are required when discarding the absorbent materials used for cleanup.
+
+- Bird cages are cleaned at a minimum weekly or more frequently if needed. Bird cages should have a cleanable or wipeable plastic container under the cage to contain scattered birdseed, feathers, etc. Do not use a vacuum cleaner, as it can aerosolize infectious particles.
+- The person(s) designated to clean and disinfect a bird cage or fish tank will wear a gown/apron, gloves and mask (bird cage only).
+- All staff, residents, families, visitors, and volunteers are reminded and supported to practice hand hygiene before and after contact with pets.
+
+----
+
+This document is uncontrolled when printed.
+Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025
+
+# PROCEDURE
+
+## SECTION: Infection Prevention
+### DESCRIPTION: Residing Pets/Animals
+**INDEX:** IPC2-P10.14
+
+- If a Service Animal lives in the Home with a resident, the owner will follow the requirements of the policy/procedures. However, the Service Animal would be given more freedom within the Home based on a discussion with the Infection Control Professional/DOC/DHW.
+
+## TOOLS
+1. IPC2-P10-T7 - Pet Care Record
+2. IPC2-P10-T8 - Pet Medication Tracking Sheet
+3. IPC2-P10-T9 - Pet Veterinary Record
+4. IPC2-P10-T10 - Pet Plan of Care
+
+----
+
+*This document is uncontrolled when printed.*
+
+Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025
+
+----
+
+*Page 3 of 3*

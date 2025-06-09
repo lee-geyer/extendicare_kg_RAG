@@ -1,0 +1,18 @@
+{
+  "doc_id": "ipc7-p10-t15-alberta-aefiformlink_3cc026e772c1",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "ipc7-p10-t15-alberta-aefiformlink_3cc026e772c1_chunk_000_59fa7a11",
+      "doc_id": "ipc7-p10-t15-alberta-aefiformlink_3cc026e772c1",
+      "chunk_index": 0,
+      "text": "# Extendicare AEFI Reporting Form**Source:** albertahealthservices.ca----**Note:** This document is uncontrolled when printed.Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**----**Page 1 of 1**",
+      "char_count": 426,
+      "token_estimate": 106,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 0
+    }
+  ]
+}

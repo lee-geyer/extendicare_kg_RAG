@@ -1,0 +1,30 @@
+{
+  "doc_id": "epm-addl-019volunteerskillsintheeventofanemergency_5b0062dba001",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "epm-addl-019volunteerskillsintheeventofanemergency_5b0062dba001_chunk_000_260110e9",
+      "doc_id": "epm-addl-019volunteerskillsintheeventofanemergency_5b0062dba001",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Volunteer Skills in the Event of an EmergencyFill out this skill list for each volunteer in the home to determine where they can provide assistance in an emergency situation.| Name                | Phone               | Date: Enter date |\n|---------------------|---------------------|-------------------|\n|                     |                     |                   |### SKILLS/EXPERIENCE| Skill                | Provide Details     |\n|----------------------|---------------------|\n| Provide Care         | Yes / No            |\n| Food Service         | Yes / No            |\n| Transportation       | Yes / No            |\n| Security             | Yes / No            |\n| Recreation           | Yes / No            |\n| Child Care           | Yes / No            |\n| Emotional Support    | Yes / No            |\n| Logistics Support     | Yes / No            |\n| Administrative Support| Yes / No            |----*Helping people Iva better*----> This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.",
+      "char_count": 1211,
+      "token_estimate": 302,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-019volunteerskillsintheeventofanemergency_5b0062dba001_chunk_002_39ce4986",
+      "doc_id": "epm-addl-019volunteerskillsintheeventofanemergency_5b0062dba001",
+      "chunk_index": 2,
+      "text": "> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 1# Volunteer Skills in the Event of an Emergency*This document is uncontrolled when printed.*Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.----**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 1**",
+      "char_count": 689,
+      "token_estimate": 172,
+      "section_title": "Volunteer Skills in the Event of an EmergencyFill out this skill list for each volunteer in the home to determine where they can provide assistance in an emergency situation.| Name                | Phone               | Date: Enter date |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

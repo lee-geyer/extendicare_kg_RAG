@@ -1,0 +1,29 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint3-o1001-t6servicefirmlog_94e6b2309d09_chunk_000_130056bf",
+      "doc_id": "maint3-o1001-t6servicefirmlog_94e6b2309d09",
+      "chunk_index": 0,
+      "text": "# Extendicare Service Firm Log## Facility:\n- **Date**:\n- **Time In**:\n- **Firm Name**:\n- **Service Requested**:\n- **Service Performed**:\n- **Time Out**:\n- **Sign**:\n- **Vendor**:\n- **Invoice or Work Order No.**:----> Helping people live better\n> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 2# SERVICE FIRM LOG**FACILITY:**| DATE       | TIME IN | FIRM NAME | SERVICE REQUESTED | SERVICE PERFORMED | TIME OUT | SIGN | VENDOR | INV. OR W.O. NO. |\n|------------|---------|------------|-------------------|-------------------|----------|------|--------|-------------------|\n|            |         |            |                   |                   |          |      |        |                   |----> This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1062,
+      "token_estimate": 265,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint3-o1001-t6servicefirmlog_94e6b2309d09_chunk_001_36f4caf3",
+      "doc_id": "maint3-o1001-t6servicefirmlog_94e6b2309d09",
+      "chunk_index": 1,
+      "text": "|\n|------------|---------|------------|-------------------|-------------------|----------|------|--------|-------------------|\n|            |         |            |                   |                   |          |      |        |                   |----> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 2 of 2**",
+      "char_count": 598,
+      "token_estimate": 149,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 2
+}

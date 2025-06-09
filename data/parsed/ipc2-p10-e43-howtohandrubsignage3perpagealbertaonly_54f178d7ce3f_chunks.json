@@ -1,0 +1,66 @@
+{
+  "doc_id": "ipc2-p10-e43-howtohandrubsignage3perpagealbertaonly_54f178d7ce3f",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": "ipc2-p10-e43-howtohandrubsignage3perpagealbertaonly_54f178d7ce3f_chunk_000_820a2f78",
+      "doc_id": "ipc2-p10-e43-howtohandrubsignage3perpagealbertaonly_54f178d7ce3f",
+      "chunk_index": 0,
+      "text": "```markdown\n\n# How to Handrub1. Apply 1 to 2 pumps of product to palms of dry hands.",
+      "char_count": 84,
+      "token_estimate": 21,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-e43-howtohandrubsignage3perpagealbertaonly_54f178d7ce3f_chunk_002_e02af7aa",
+      "doc_id": "ipc2-p10-e43-howtohandrubsignage3perpagealbertaonly_54f178d7ce3f",
+      "chunk_index": 2,
+      "text": "2. Rub hands together, palm to palm.\n\n3. Rub in between and around fingers.",
+      "char_count": 75,
+      "token_estimate": 18,
+      "section_title": "Rub hands together, palm to palm.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-e43-howtohandrubsignage3perpagealbertaonly_54f178d7ce3f_chunk_004_65fd4b58",
+      "doc_id": "ipc2-p10-e43-howtohandrubsignage3perpagealbertaonly_54f178d7ce3f",
+      "chunk_index": 4,
+      "text": "4. Rub back of each hand with palm of other hand.\n\n5. Rub fingertips of each hand in opposite palm.",
+      "char_count": 99,
+      "token_estimate": 24,
+      "section_title": "Rub back of each hand with palm of other hand.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-e43-howtohandrubsignage3perpagealbertaonly_54f178d7ce3f_chunk_006_d97deaf7",
+      "doc_id": "ipc2-p10-e43-howtohandrubsignage3perpagealbertaonly_54f178d7ce3f",
+      "chunk_index": 6,
+      "text": "6. Rub each thumb clasped in opposite hand.\n\n7. Rub hands for 20 seconds.",
+      "char_count": 73,
+      "token_estimate": 18,
+      "section_title": "Rub each thumb clasped in opposite hand.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-e43-howtohandrubsignage3perpagealbertaonly_54f178d7ce3f_chunk_008_849a5c5b",
+      "doc_id": "ipc2-p10-e43-howtohandrubsignage3perpagealbertaonly_54f178d7ce3f",
+      "chunk_index": 8,
+      "text": "8. Rub hands until product is dry. Do not use paper towels.\n\n9. Once dry, your hands are safe.\n```",
+      "char_count": 98,
+      "token_estimate": 24,
+      "section_title": "Rub hands until product is dry. Do not use paper towels.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

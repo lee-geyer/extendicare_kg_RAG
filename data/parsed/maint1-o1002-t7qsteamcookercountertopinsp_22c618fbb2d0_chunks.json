@@ -1,0 +1,53 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t7qsteamcookercountertopinsp_22c618fbb2d0_chunk_000_de3473d4",
+      "doc_id": "maint1-o1002-t7qsteamcookercountertopinsp_22c618fbb2d0",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## MAINTENANCE INSPECTION CHECKLIST### Equipment\n**Steam Cooker**- **Name:**\n- **Year:**\n- **Manufacturer:** Cleveland, Market Forge, Pronto\n- **Model:** Counter Top### LEGEND/KEY\n| Legend | Key          |\n|--------|--------------|\n| W      | Weekly       |\n| M      | Monthly      |\n| Q      | Quarterly    |\n| S      | Semi-Annual  |\n| A      | Annual       |\n| O      | Ok           |\n| R      | Repair       |\n| N      | Replace      |### CHECKS\n| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   |   |   | 1. Check for air discharging from steam trap or exhaust valve during warm-up. Check that no steam or water leaks after warm-up. |\n| X |   |   |   |   | 2. Check bottom of cooker for lime buildup. Clean as required. |\n| X |   |   |   |   | 3. Clean door, gasket and exhaust silencer. |\n| X |   |   |   |   | 4. Manually test safety relief valve. |\n| X |   |   |   |   | 5. Blow down boiler. |\n| X |   |   |   |   | 6. Observe automatic blow-down. |\n|   | X |   |   |   | 7. Check water pressure during fill (35 to 60 psig). Adjust as necessary.",
+      "char_count": 1216,
+      "token_estimate": 304,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t7qsteamcookercountertopinsp_22c618fbb2d0_chunk_002_3eda4758",
+      "doc_id": "maint1-o1002-t7qsteamcookercountertopinsp_22c618fbb2d0",
+      "chunk_index": 2,
+      "text": "Check water pressure during fill (35 to 60 psig). Adjust as necessary. |\n|   | X |   |   |   | 8. Check door operation. Lubricate or adjust as necessary. |\n|   | X |   |   |   | 9. De-lime steam generator and water level control device. |\n|   |   | X |   |   | 10. Check that cabling, connections and anti-short bushings are in place, properly secured and in good condition. |\n|   |   |   | X |   | 12. Check and adjust fuel line pressure.*                          |\n|   |   |   | X |   | 13. Check and lubricate gas valve.*                                |\n|   |   |   | X |   | 14. Check all fuel line connections for leaks.",
+      "char_count": 627,
+      "token_estimate": 156,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t7qsteamcookercountertopinsp_22c618fbb2d0_chunk_003_4146f4b2",
+      "doc_id": "maint1-o1002-t7qsteamcookercountertopinsp_22c618fbb2d0",
+      "chunk_index": 3,
+      "text": "Check and lubricate gas valve.*                                |\n|   |   |   | X |   | 14. Check all fuel line connections for leaks. Repair as necessary.* |**NOTE:**\n*The services of qualified personnel may be required.*### Monthly Checklist\n| Month | M | Q | S | A | Month | M | Q | S | A | Month | M | Q | S | A | Month | M | Q | S | A |\n|-------|---|---|---|---|-------|---|---|---|---|-------|---|---|---|---|-------|---|---|---|---|\n| JAN   | W | W | W | W | JUL   | M | Q | S | A | APR   | M | Q | S | A | OCT   | M | Q | S | A |\n| FEB   | W | W | W | W | AUG   | M | Q | S | A | MAY   | M | Q | S | A | NOV   | M | Q | S | A |\n| MAR   | W | W | W | W | SEP   | M | Q | S | A | JUN   | M | Q | S | A | DEC   | M | Q | S | A |----**Helping people live better**This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 1082,
+      "token_estimate": 270,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t7qsteamcookercountertopinsp_22c618fbb2d0_chunk_004_4358013a",
+      "doc_id": "maint1-o1002-t7qsteamcookercountertopinsp_22c618fbb2d0",
+      "chunk_index": 4,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 2 of 2",
+      "char_count": 788,
+      "token_estimate": 197,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 4
+}

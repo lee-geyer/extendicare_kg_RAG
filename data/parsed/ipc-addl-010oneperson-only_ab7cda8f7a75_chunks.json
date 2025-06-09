@@ -1,0 +1,18 @@
+{
+  "doc_id": "ipc-addl-010oneperson-only_ab7cda8f7a75",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "ipc-addl-010oneperson-only_ab7cda8f7a75_chunk_000_fb2817f2",
+      "doc_id": "ipc-addl-010oneperson-only_ab7cda8f7a75",
+      "chunk_index": 0,
+      "text": "# ONLY 1 PERSON MAY SIT HEREMaintain 2 metres of space between you and others... helping people live better# 1 SEULE PERSONNE\n\n## PEUT S’ASSEOIR ICI\n- maintenez un espace de 2 mètres entre vous et les autres... helping people live better",
+      "char_count": 237,
+      "token_estimate": 59,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

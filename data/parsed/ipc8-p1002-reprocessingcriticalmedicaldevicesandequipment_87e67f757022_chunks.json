@@ -1,0 +1,30 @@
+{
+  "doc_id": "ipc8-p1002-reprocessingcriticalmedicaldevicesandequipment_87e67f757022",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "ipc8-p1002-reprocessingcriticalmedicaldevicesandequipment_87e67f757022_chunk_000_49537033",
+      "doc_id": "ipc8-p1002-reprocessingcriticalmedicaldevicesandequipment_87e67f757022",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Infection Prevention and Control\n**INDEX:** IPC8-P10.02\n**SECTION:** Cleaning and Disinfection\n**EFFECTIVE DATE:** February 18, 2025\n**REVIEWED DATE:** February 11, 2025\n**APPROVED BY:** Chief Medical Officer\n**MODIFIED DATE:** May 30, 2025----## POLICY### Cleaning and Disinfection### PROCEDURE- The following list of methods will not be accepted from a contracted service provider for achieving sterilization:\n- dishwasher (including those with sanitizing cycles)\n- boiling\n- ultraviolet light or irradiation\n- glass bead sterilizers\n- microwave ovens\n- domestic ovens\n- pressure cookers\n- flash sterilization/immediate use sterilization (i.e., unwrapped items)\n- chemiclaves\n- glutaraldehyde- Home will ensure that contracted service providers provide proof of appropriate reprocessing for their reusable medical devices/equipment.- The ICP should request completion of the Medical Devices and Equipment Reprocessing Checklist and sterilization log test results from the contractor quarterly.- Any devices or equipment where sterilization packaging has been breached will not be used.- The ICP should complete the Critical Medical Devices/Equipment Audit quarterly.- Medical devices and equipment brought in by the contractor shall not be used between multiple residents without being reprocessed correctly between uses.",
+      "char_count": 1360,
+      "token_estimate": 340,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc8-p1002-reprocessingcriticalmedicaldevicesandequipment_87e67f757022_chunk_001_71f25689",
+      "doc_id": "ipc8-p1002-reprocessingcriticalmedicaldevicesandequipment_87e67f757022",
+      "chunk_index": 1,
+      "text": "A contractor shall not reprocess devices or equipment while in the home.----## EDUCATION1. IPC8-P10-E1 - Cleaning and Disinfecting Guide## TOOLS1. IPC8-P10-T7 - Medical Devices and Equipment Reprocessing Checklist\n\n2. IPC8-P10-T8 - Critical Medical Devices and Equipment Audit----Helping people live betterThis document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 1 of 1",
+      "char_count": 640,
+      "token_estimate": 160,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

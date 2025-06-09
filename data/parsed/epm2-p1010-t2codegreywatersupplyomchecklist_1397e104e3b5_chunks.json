@@ -1,0 +1,42 @@
+{
+  "doc_id": "epm2-p1010-t2codegreywatersupplyomchecklist_1397e104e3b5",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "epm2-p1010-t2codegreywatersupplyomchecklist_1397e104e3b5_chunk_000_35575ddd",
+      "doc_id": "epm2-p1010-t2codegreywatersupplyomchecklist_1397e104e3b5",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Code Grey – Water Supply",
+      "char_count": 42,
+      "token_estimate": 10,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1010-t2codegreywatersupplyomchecklist_1397e104e3b5_chunk_002_a5d94ae3",
+      "doc_id": "epm2-p1010-t2codegreywatersupplyomchecklist_1397e104e3b5",
+      "chunk_index": 2,
+      "text": "### Operations Manager Job Action Checklist**Enter date:**\n**Designated Operations Manager:***Note: You may edit this job action checklist to be home specific.*### Respond\n- Record the time action was initiated\n- Notification received from:\n- Known information:\n- Under the direction of the Incident Manager, make arrangements for additional supplies of bottled water to ensure on-site supplies are equivalent to four (4) liters per person per twelve (12) hours, for cooking and drinking water. - Consider portable toilets for rental. - Note: Some models are self-contained trailers that are wheelchair accessible with heating and air conditioning. - A water tanker can be used to provide water for flushing toilets using a pump/hoses or trolleys/pails to transport the water.",
+      "char_count": 776,
+      "token_estimate": 194,
+      "section_title": "Operations Manager Job Action Checklist**Enter date:**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1010-t2codegreywatersupplyomchecklist_1397e104e3b5_chunk_003_874aa6ea",
+      "doc_id": "epm2-p1010-t2codegreywatersupplyomchecklist_1397e104e3b5",
+      "chunk_index": 3,
+      "text": "- Note: Some models are self-contained trailers that are wheelchair accessible with heating and air conditioning. - A water tanker can be used to provide water for flushing toilets using a pump/hoses or trolleys/pails to transport the water. This is a labour-intensive effort and has the added risk of wet floors causing a slip and fall hazard; therefore, if this option is chosen, caution needs to be exercised.### Recover\n- All Clear\n- Once receiving official word that the Code Grey – Water Supply emergency is over:\n- Record the time action was initiated\n- Notification received from:\n- Participate in the debrief and analysis session.----**Helping people**\n**Iva better**This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 1 of 1",
+      "char_count": 1010,
+      "token_estimate": 252,
+      "section_title": "Operations Manager Job Action Checklist**Enter date:**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

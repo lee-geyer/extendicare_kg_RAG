@@ -1,0 +1,30 @@
+{
+  "doc_id": "prv2-p1001-t4-retentiontable_8b9a11581ceb",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "prv2-p1001-t4-retentiontable_8b9a11581ceb_chunk_000_72874df0",
+      "doc_id": "prv2-p1001-t4-retentiontable_8b9a11581ceb",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Health Care Records Retention Table> **Note:** Where legal action is threatened or has commenced at the time the record would be ordinarily destroyed, the resident record shall be retained until the legal proceedings have been completed including all possible appeals or reviews.| Province/Territory         | Requirements/Recommendations                     |\n|----------------------------|--------------------------------------------------|\n| Ontario                    | 10 years from date of death or discharge         |\n| Alberta                    | 11 years from date of death or discharge         |\n| Manitoba                   | 10 years from date of death or discharge         |\n| British Columbia           | 16 years from date of death or discharge         |\n| Saskatchewan               | 6 years from date of death or discharge          |\n| Quebec                     | 5 years from date of death or discharge          |\n| New Brunswick              | 10 years from date of death or discharge         |\n| Nova Scotia                | 10 years from date of death or discharge         |\n| Prince Edward Island       | 10 years from date of death or discharge         |\n| Newfoundland & Labrador    | 10 years from date of death or discharge         |\n| Yukon                      | 6 years from date of death or discharge          |\n| Northwest Territories       | 10 years from date of death or discharge         |\n| Nunavut                    | 10 years from date of death or discharge         |----> **Helping people**\n> **Iva better**\n> This document is uncontrolled when printed.",
+      "char_count": 1614,
+      "token_estimate": 403,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv2-p1001-t4-retentiontable_8b9a11581ceb_chunk_002_5897457c",
+      "doc_id": "prv2-p1001-t4-retentiontable_8b9a11581ceb",
+      "chunk_index": 2,
+      "text": "> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 1",
+      "char_count": 294,
+      "token_estimate": 73,
+      "section_title": "Health Care Records Retention Table> **Note:** Where legal action is threatened or has commenced at the time the record would be ordinarily destroyed, the resident record shall be retained until the legal proceedings have been completed including all possible appeals or reviews.| Province/Territory         | Requirements/Recommendations                     |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

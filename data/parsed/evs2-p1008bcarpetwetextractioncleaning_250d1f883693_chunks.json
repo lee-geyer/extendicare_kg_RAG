@@ -1,0 +1,150 @@
+{
+  "doc_id": "evs2-p1008bcarpetwetextractioncleaning_250d1f883693",
+  "total_chunks": 12,
+  "chunks": [
+    {
+      "chunk_id": "evs2-p1008bcarpetwetextractioncleaning_250d1f883693_chunk_000_504cac96",
+      "doc_id": "evs2-p1008bcarpetwetextractioncleaning_250d1f883693",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Environmental Services\n**INDEX:** EVS2-P10.08B\n**SECTION:** Cleaning and Organization - Housekeeping\n**EFFECTIVE DATE:** March 18, 2025\n**REVIEWED DATE:** March 7, 2025\n**APPROVED BY:** Senior Director, Operational Quality and Professional Practice\n**MODIFIED DATE:** May 14, 2025----## POLICY### Cleaning and Organization## PROCEDURE### Frequency:\n- All carpets need to be cleaned with this method yearly and up to every six months for areas attracting heavy soil, i.e., front entrances.\n- **Manager/designate:** If your home does not have a carpet extractor, you can rent them from your housekeeping contract supplier or contact an outside company to clean the carpets if permitted.### Collect the following items:\n- carpet extractor with hose and wand or walk-behind extractor\n- traffic lane spray\n- carpet spot cleaning chemical\n- CAUTION WET FLOOR signs\n- walk-off mat, if required\n- foil squares, if required\n- industrial blower\n- vacuum cleaner\n- garden type pressure sprayer, if required\n- appropriate personal protective equipment (PPE)### Carpet (Wet Extraction) Cleaning Procedure:",
+      "char_count": 1129,
+      "token_estimate": 282,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 18
+    },
+    {
+      "chunk_id": "evs2-p1008bcarpetwetextractioncleaning_250d1f883693_chunk_001_7e3ea2e1",
+      "doc_id": "evs2-p1008bcarpetwetextractioncleaning_250d1f883693",
+      "chunk_index": 1,
+      "text": "1. Remove furniture from area being cleaned.\n\n2. Place CAUTION WET FLOOR signs around area being cleaned.",
+      "char_count": 105,
+      "token_estimate": 26,
+      "section_title": "Remove furniture from area being cleaned.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1008bcarpetwetextractioncleaning_250d1f883693_chunk_003_228173da",
+      "doc_id": "evs2-p1008bcarpetwetextractioncleaning_250d1f883693",
+      "chunk_index": 3,
+      "text": "3. Place walk-off mat at edge of carpet, if required.\n\n4. Vacuum area being cleaned.",
+      "char_count": 84,
+      "token_estimate": 21,
+      "section_title": "Place walk-off mat at edge of carpet, if required.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1008bcarpetwetextractioncleaning_250d1f883693_chunk_005_4619b020",
+      "doc_id": "evs2-p1008bcarpetwetextractioncleaning_250d1f883693",
+      "chunk_index": 5,
+      "text": "5. Spray with traffic lane spray and let sit for 10 minutes.\n\n6. Fill solution tank of carpet extractor with hot water only.",
+      "char_count": 124,
+      "token_estimate": 31,
+      "section_title": "Spray with traffic lane spray and let sit for 10 minutes.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1008bcarpetwetextractioncleaning_250d1f883693_chunk_007_0dbb81cc",
+      "doc_id": "evs2-p1008bcarpetwetextractioncleaning_250d1f883693",
+      "chunk_index": 7,
+      "text": "7. Start extraction in the corner of the room furthest from the door or edge of hallway.\n\n8. Work from left to right and across the room.",
+      "char_count": 137,
+      "token_estimate": 34,
+      "section_title": "Start extraction in the corner of the room furthest from the door or edge of hallway.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1008bcarpetwetextractioncleaning_250d1f883693_chunk_009_40140ffe",
+      "doc_id": "evs2-p1008bcarpetwetextractioncleaning_250d1f883693",
+      "chunk_index": 9,
+      "text": "9. Work in area three to four feet wide and long.\n\n10. Overlap strokes by one inch to prevent streaks.----Helping people live betterThis document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 2**# PROCEDURE## SECTION: Cleaning and Organization - Housekeeping",
+      "char_count": 536,
+      "token_estimate": 134,
+      "section_title": "Work in area three to four feet wide and long.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1008bcarpetwetextractioncleaning_250d1f883693_chunk_011_1f9bf6a0",
+      "doc_id": "evs2-p1008bcarpetwetextractioncleaning_250d1f883693",
+      "chunk_index": 11,
+      "text": "### DESCRIPTION: Carpet (Wet Extraction) Cleaning\n\n### INDEX: EVS2-P10.08B1. Spray extractor and advance wand toward you for three feet.",
+      "char_count": 136,
+      "token_estimate": 34,
+      "section_title": "DESCRIPTION: Carpet (Wet Extraction) Cleaning",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1008bcarpetwetextractioncleaning_250d1f883693_chunk_013_b5fd8dca",
+      "doc_id": "evs2-p1008bcarpetwetextractioncleaning_250d1f883693",
+      "chunk_index": 13,
+      "text": "2. Go over area with sprayer off to suction water.\n\n3. Go over area two or three times if heavily soiled. Remove stubborn stains with carpet spotter.",
+      "char_count": 149,
+      "token_estimate": 37,
+      "section_title": "Go over area with sprayer off to suction water.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1008bcarpetwetextractioncleaning_250d1f883693_chunk_015_1d477d5f",
+      "doc_id": "evs2-p1008bcarpetwetextractioncleaning_250d1f883693",
+      "chunk_index": 15,
+      "text": "4. Extract as much moisture as possible.\n\n5. Replace furniture when finished and place foil squares under legs until carpet is dry (if required).",
+      "char_count": 145,
+      "token_estimate": 36,
+      "section_title": "Extract as much moisture as possible.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1008bcarpetwetextractioncleaning_250d1f883693_chunk_017_5c79c7d7",
+      "doc_id": "evs2-p1008bcarpetwetextractioncleaning_250d1f883693",
+      "chunk_index": 17,
+      "text": "6. Mop up any water that is on the floor.\n\n7. If required, place industrial blower in the area to provide good air drying to carpet. Move as necessary during drying.",
+      "char_count": 165,
+      "token_estimate": 41,
+      "section_title": "Mop up any water that is on the floor.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1008bcarpetwetextractioncleaning_250d1f883693_chunk_019_0346e2fc",
+      "doc_id": "evs2-p1008bcarpetwetextractioncleaning_250d1f883693",
+      "chunk_index": 19,
+      "text": "8. Leave up CAUTION WET FLOOR signs and, if possible, keep all traffic off carpet until dry. Remove wet floor signs after area has dried.\n\n9. After completion, clean and store equipment.## TOOLS",
+      "char_count": 194,
+      "token_estimate": 48,
+      "section_title": "Leave up CAUTION WET FLOOR signs and, if possible, keep all traffic off carpet until dry. Remove wet floor signs after area has dried.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1008bcarpetwetextractioncleaning_250d1f883693_chunk_021_4eee01a4",
+      "doc_id": "evs2-p1008bcarpetwetextractioncleaning_250d1f883693",
+      "chunk_index": 21,
+      "text": "1. Floor Care Tips----> Helping people live better\n> This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\n> Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 2 of 2",
+      "char_count": 393,
+      "token_estimate": 98,
+      "section_title": "Floor Care Tips----> Helping people live better",
+      "chunk_type": "content",
+      "start_line": 40,
+      "end_line": 44
+    }
+  ]
+}

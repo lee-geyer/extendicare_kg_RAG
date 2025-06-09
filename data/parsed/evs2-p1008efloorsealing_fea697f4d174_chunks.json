@@ -1,0 +1,102 @@
+{
+  "doc_id": "evs2-p1008efloorsealing_fea697f4d174",
+  "total_chunks": 8,
+  "chunks": [
+    {
+      "chunk_id": "evs2-p1008efloorsealing_fea697f4d174_chunk_000_8e29bfa3",
+      "doc_id": "evs2-p1008efloorsealing_fea697f4d174",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Environmental Services\n**INDEX:** EVS2-P10.08E\n**SECTION:** Cleaning and Organization - Housekeeping\n**EFFECTIVE DATE:** March 18, 2025\n**REVIEWED DATE:** March 7, 2025\n**APPROVED BY:** Senior Director, Operational Quality and Professional Practice\n**MODIFIED DATE:** May 14, 2025----## POLICY### Cleaning and Organization## PROCEDURE### Frequency:\n- Sealer is applied to new flooring prior to floor finish and flooring that has the sealer removed.### Collect the following items:\n- Appropriate personal protective equipment (PPE) as per manufacturer instructions on products and equipment and any infection control directives.\n- Floor machine with red pad.\n- Two buckets and wringers – one for sealer and one with cold water. Sealer one inch deep in bucket.\n- Two mops.\n- Wet vacuum.\n- Neutral floor cleaner.### Floor Sealing:",
+      "char_count": 864,
+      "token_estimate": 216,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 13
+    },
+    {
+      "chunk_id": "evs2-p1008efloorsealing_fea697f4d174_chunk_001_54807d85",
+      "doc_id": "evs2-p1008efloorsealing_fea697f4d174",
+      "chunk_index": 1,
+      "text": "1. Remove furniture and equipment.\n\n2. Place wet floor signs at beginning and end of work area.",
+      "char_count": 95,
+      "token_estimate": 23,
+      "section_title": "Remove furniture and equipment.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1008efloorsealing_fea697f4d174_chunk_003_96d9a69a",
+      "doc_id": "evs2-p1008efloorsealing_fea697f4d174",
+      "chunk_index": 3,
+      "text": "3. If floor has not been cleaned, light scrub entire floor surface with neutral floor cleaner and a red pad.\n\n4. Rinse floor with cold water.",
+      "char_count": 141,
+      "token_estimate": 35,
+      "section_title": "If floor has not been cleaned, light scrub entire floor surface with neutral floor cleaner and a red pad.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1008efloorsealing_fea697f4d174_chunk_005_3ccef12a",
+      "doc_id": "evs2-p1008efloorsealing_fea697f4d174",
+      "chunk_index": 5,
+      "text": "5. Make sure floor is clean and dry before starting.\n\n6. Rinse both mop heads in cold water and wring as dry as possible.",
+      "char_count": 121,
+      "token_estimate": 30,
+      "section_title": "Make sure floor is clean and dry before starting.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1008efloorsealing_fea697f4d174_chunk_007_3cbb8f36",
+      "doc_id": "evs2-p1008efloorsealing_fea697f4d174",
+      "chunk_index": 7,
+      "text": "7. Dip mop in sealer and wring out.\n\n8. Apply thin, even coat as follows:\n- Seal perimeter of the floor.\n- Starting at the furthest boundary, apply finish using figure 8 strokes, flipping the mop head frequently and slightly overlapping the previous coat applied to the perimeter.----**Helping people live better**\nThis document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n**Page 1 of 2**# PROCEDURE## SECTION: Cleaning and Organization - Housekeeping",
+      "char_count": 716,
+      "token_estimate": 179,
+      "section_title": "Dip mop in sealer and wring out.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1008efloorsealing_fea697f4d174_chunk_009_bfdc3e1a",
+      "doc_id": "evs2-p1008efloorsealing_fea697f4d174",
+      "chunk_index": 9,
+      "text": "### DESCRIPTION: Floor Sealing\n\n### INDEX: EVS2-P10.08E----### Procedure Steps1. Allow approximately twenty minutes to dry or time recommended by the manufacturer.",
+      "char_count": 163,
+      "token_estimate": 40,
+      "section_title": "DESCRIPTION: Floor Sealing",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1008efloorsealing_fea697f4d174_chunk_011_6dbf91b0",
+      "doc_id": "evs2-p1008efloorsealing_fea697f4d174",
+      "chunk_index": 11,
+      "text": "2. Repeat the above procedure to apply a second thin coat.\n\n3. When the second coat is dry, apply floor finish.",
+      "char_count": 111,
+      "token_estimate": 27,
+      "section_title": "Repeat the above procedure to apply a second thin coat.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1008efloorsealing_fea697f4d174_chunk_013_6ecadd1c",
+      "doc_id": "evs2-p1008efloorsealing_fea697f4d174",
+      "chunk_index": 13,
+      "text": "4. At completion of the job, remove wet floor signs and clean and put away equipment.\n\n5. Use a “Figure 8” motion in mopping, as well as sealing and floor finishing, which is kept 1 – 3” from baseboards.### Pattern of Movement Across Floor- **START**: Place bucket at rear section. Start here and work backwards to front entrance.\n- Repeat movements for all four sections until complete.----### CAUTION**WET FLOOR**| DRY SIDE | WET |\n|----------|-----|\n| Rear     | Front or Entrance |----### TOOLS1. Floor Care Tips----Helping people live betterThis document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----Page 2 of 2",
+      "char_count": 883,
+      "token_estimate": 220,
+      "section_title": "At completion of the job, remove wet floor signs and clean and put away equipment.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

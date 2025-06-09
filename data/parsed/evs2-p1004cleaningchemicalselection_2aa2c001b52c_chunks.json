@@ -1,0 +1,54 @@
+{
+  "doc_id": "evs2-p1004cleaningchemicalselection_2aa2c001b52c",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "evs2-p1004cleaningchemicalselection_2aa2c001b52c_chunk_000_4acce86d",
+      "doc_id": "evs2-p1004cleaningchemicalselection_2aa2c001b52c",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE- **MANUAL:** Environmental Services\n- **INDEX:** EVS2-P10.04\n- **SECTION:** Cleaning and Organization - Housekeeping\n- **EFFECTIVE DATE:** March 18, 2025\n- **REVIEWED DATE:** March 7, 2025\n- **APPROVED BY:** Senior Director, Operational Quality and Professional Practice\n- **MODIFIED DATE:** May 14, 2025----## POLICY### Cleaning and Organization## PROCEDURE1. Manager/designate to ensure housekeeping chemical suppliers install dispensing systems in appropriate areas.",
+      "char_count": 495,
+      "token_estimate": 123,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 6
+    },
+    {
+      "chunk_id": "evs2-p1004cleaningchemicalselection_2aa2c001b52c_chunk_001_4913f23f",
+      "doc_id": "evs2-p1004cleaningchemicalselection_2aa2c001b52c",
+      "chunk_index": 1,
+      "text": "2. Housekeeping staff/department will document each chemical used including name and dilution ratio rate. See tools – Chemical Usage Chart.\n\n3. Manager/designate will consult the chemical supplier and the home’s Environmental Consultant to determine the appropriate day-to-day cleaning products and dilution ratios for supplies in the automatic dispensing system. Reference the table in tools - Chemical Supplies and Uses.",
+      "char_count": 422,
+      "token_estimate": 105,
+      "section_title": "Housekeeping staff/department will document each chemical used including name and dilution ratio rate. See tools – Chemical Usage Chart.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1004cleaningchemicalselection_2aa2c001b52c_chunk_003_cb4b1e0a",
+      "doc_id": "evs2-p1004cleaningchemicalselection_2aa2c001b52c",
+      "chunk_index": 3,
+      "text": "4. Some products, such as floor finish, floor stripper, and Zochlor tablets, cannot be dispensed through a dispensing system. When automatic dispensing is not possible, staff will follow manufacturer’s instructions.\n\n5. Vinegar and water can be used for cleaning glass as long as it is properly diluted and not overwhelmingly strong. Use 1 part vinegar to 1 part water.",
+      "char_count": 369,
+      "token_estimate": 92,
+      "section_title": "Some products, such as floor finish, floor stripper, and Zochlor tablets, cannot be dispensed through a dispensing system. When automatic dispensing is not possible, staff will follow manufacturer’s instructions.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1004cleaningchemicalselection_2aa2c001b52c_chunk_005_98c1eec2",
+      "doc_id": "evs2-p1004cleaningchemicalselection_2aa2c001b52c",
+      "chunk_index": 5,
+      "text": "6. **AUTOMATIC CHEMICAL DISPENSING SYSTEM** combines water and a chemical product at a specified ratio and dispenses the combined solution at a consistent concentration.## TOOLS1. Chemical Usage Chart\n\n2. Chemical Supplies and Uses----> Helping people live better\n> This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 1",
+      "char_count": 604,
+      "token_estimate": 151,
+      "section_title": "**AUTOMATIC CHEMICAL DISPENSING SYSTEM** combines water and a chemical product at a specified ratio and dispenses the combined solution at a consistent concentration.## TOOLS1. Chemical Usage Chart",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

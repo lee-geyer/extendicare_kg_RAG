@@ -1,0 +1,78 @@
+{
+  "doc_id": "care19-p1001rmmincidentreporting_8a6f4ecc5953",
+  "total_chunks": 6,
+  "chunks": [
+    {
+      "chunk_id": "care19-p1001rmmincidentreporting_8a6f4ecc5953_chunk_000_6372c54d",
+      "doc_id": "care19-p1001rmmincidentreporting_8a6f4ecc5953",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE- **MANUAL:** CARE\n- **INDEX:** CARE19-P10.01\n- **SECTION:** Incident Management\n- **EFFECTIVE DATE:** April 1, 2025\n- **REVIEWED DATE:** March 25, 2025\n- **APPROVED BY:** Senior Director, Operational Quality and Professional Practice\n- **MODIFIED DATE:**----## POLICY### Resident Safety Incident Program### PROCEDURE#### Executive Director and Director of Care/Wellness must:- Ensure all staff are aware of their role in the process of responding, investigating, and documenting resident safety incidents (RSI). - Document RSIs in the Risk Management Module (RMM) in Point Click Care (PCC). - Review the Risk Management (RM) report from PCC for accuracy and completeness weekly. - Sign all risk management reports when the report is finished. - Monitor RSI type and severity to identify patterns and trends, in order to evaluate the effectiveness of the resident safety program, and to address risks. - Prioritize RSIs resulting in severe resident harm or death to be analyzed further as per the Investigation and Analysis of Resident Safety Incidents procedure. - Notify the Regional Director/Operation (RD/O) of RSIs resulting in serious resident harm or death.",
+      "char_count": 1189,
+      "token_estimate": 297,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care19-p1001rmmincidentreporting_8a6f4ecc5953_chunk_001_3879d201",
+      "doc_id": "care19-p1001rmmincidentreporting_8a6f4ecc5953",
+      "chunk_index": 1,
+      "text": "- Prioritize RSIs resulting in severe resident harm or death to be analyzed further as per the Investigation and Analysis of Resident Safety Incidents procedure. - Notify the Regional Director/Operation (RD/O) of RSIs resulting in serious resident harm or death. - Notify regulatory authorities as required by provincial standards or legislation.#### Incident Manager responding to an RSI must:- Organize and direct the appropriate response to an RSI. - Document the RSI in RMM. - Ensure the RMM report includes the immediate response to the incident and immediate action taken to prevent recurrence. - Notify the resident’s Substitute Decision Maker (SDM) or Power of Attorney (POA), Physician, and other stakeholders as appropriate. - Notify Executive Director of any RSI requiring reporting to external authorities. - Contribute to the development and implementation of action plans to prevent reoccurrence of RSIs.> **NOTE:** The Incident Manager’s role will be assumed by the charge nurse or unit supervisor responding to the incident.",
+      "char_count": 1040,
+      "token_estimate": 260,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care19-p1001rmmincidentreporting_8a6f4ecc5953_chunk_002_92da8078",
+      "doc_id": "care19-p1001rmmincidentreporting_8a6f4ecc5953",
+      "chunk_index": 2,
+      "text": "- Notify Executive Director of any RSI requiring reporting to external authorities. - Contribute to the development and implementation of action plans to prevent reoccurrence of RSIs.> **NOTE:** The Incident Manager’s role will be assumed by the charge nurse or unit supervisor responding to the incident. Refer to the Emergency Planning and Management Manual for more information on the Incident Management System.----### Helplng people### Ilve batterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 2**# PROCEDURE## SECTION: Incident Management",
+      "char_count": 835,
+      "token_estimate": 208,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care19-p1001rmmincidentreporting_8a6f4ecc5953_chunk_003_1af2c824",
+      "doc_id": "care19-p1001rmmincidentreporting_8a6f4ecc5953",
+      "chunk_index": 3,
+      "text": "### DESCRIPTION: RMM Incident Reporting\n\n### INDEX: CARE19-P10.01----## TOOLS",
+      "char_count": 77,
+      "token_estimate": 19,
+      "section_title": "DESCRIPTION: RMM Incident Reporting",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care19-p1001rmmincidentreporting_8a6f4ecc5953_chunk_005_609e82cd",
+      "doc_id": "care19-p1001rmmincidentreporting_8a6f4ecc5953",
+      "chunk_index": 5,
+      "text": "1. Completing an RMM Report\n\n2. Incident Severity Levels",
+      "char_count": 56,
+      "token_estimate": 14,
+      "section_title": "Completing an RMM Report",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care19-p1001rmmincidentreporting_8a6f4ecc5953_chunk_007_eff5e487",
+      "doc_id": "care19-p1001rmmincidentreporting_8a6f4ecc5953",
+      "chunk_index": 7,
+      "text": "3. RMM How-to Poster----**Note:** This document is uncontrolled when printed.Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**----**Page 2 of 2**",
+      "char_count": 377,
+      "token_estimate": 94,
+      "section_title": "RMM How-to Poster----**Note:** This document is uncontrolled when printed.Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**----**Page 2 of 2**",
+      "chunk_type": "content",
+      "start_line": 24,
+      "end_line": 24
+    }
+  ]
+}

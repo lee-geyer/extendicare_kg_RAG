@@ -1,0 +1,65 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t5bairconditionerinspec_61e56c83859d_chunk_000_30d97698",
+      "doc_id": "maint1-o1002-t5bairconditionerinspec_61e56c83859d",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## MAINTENANCE INSPECTION CHECKLIST### Equipment\n- **Air Conditioner**\n- **Name:**\n- **Year:**\n- **Unit No.:**\n- **Manufacturer:** All\n- **Model:** All (window, free standing)### LEGEND/KEY\n| LEGEND | KEY       |\n|--------|-----------|\n| W      | Weekly    |\n| M      | Monthly   |\n| Q      | Quarterly |\n| S      | Semi-Annual |\n| A      | Annual    |\n| O      | Ok        |\n| R      | Repair    |\n| N      | Replace   |### CHECKS\n| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   | 1 |   |   | Install the a/c unit for summer operation. |\n|   |   |   |   |   | For Portable units: Install hot air discharge pipe in window. |\n|   |   |   |   |   | For Window units: Remove winter covers if left in window over winter. |\n|   |   |   |   |   | Install unit in window if removed and stored over winter. |\n|   |   |   |   |   | Check operation - ensure that cooling cycle operates properly. |\n|   |   |   |   |   | Complete checks 2 to 7 below for start-up. |\n| X |   | 2 |   |   | Check condition of filters. Clean as required.",
+      "char_count": 1184,
+      "token_estimate": 296,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t5bairconditionerinspec_61e56c83859d_chunk_002_129e12f4",
+      "doc_id": "maint1-o1002-t5bairconditionerinspec_61e56c83859d",
+      "chunk_index": 2,
+      "text": "|\n| X |   | 2 |   |   | Check condition of filters. Clean as required. |\n| X |   | 3 |   |   | Check operation of temperature selector. |\n| X |   | 4 |   |   | Check operation of fan speed selector control. |\n|   | X | 5 |   |   | Inspect coil fins for dirt and lint/fuzz accumulation. Clean as required. |\n|   | X | 6 |   |   | Check to ensure condensate drain is free of scale. |\n|   | X | 7 |   |   | Check for overheating, unusual noises, and vibrations. |\n|   |   |   |   |   | **Note:** This maintenance (items 2 to 7) is required only during the cooling season of the year (i.e., May 15ᵗʰ to September 15ᵗʰ, depending on climate at building location.) |\n|   |   | 8 |   |   | Prepare the a/c unit for winter storage and place a/c removal in Maintenance Care. |\n|   |   |   |   |   | Wipe clean and disinfect the cabinet of the air-conditioner, check for damage. |\n|   |   |   |   |   | Check the electrical cord, condensate drain piping and ventilation hose (as applicable) for damage. |\n|   |   |   |   |   | Remove, clean, and disinfect the air filter (use a HEPA filtered vacuum cleaner).",
+      "char_count": 1098,
+      "token_estimate": 274,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t5bairconditionerinspec_61e56c83859d_chunk_003_a10e0907",
+      "doc_id": "maint1-o1002-t5bairconditionerinspec_61e56c83859d",
+      "chunk_index": 3,
+      "text": "|\n|   |   |   |   |   | Check the electrical cord, condensate drain piping and ventilation hose (as applicable) for damage. |\n|   |   |   |   |   | Remove, clean, and disinfect the air filter (use a HEPA filtered vacuum cleaner). |\n|   |   |   |   |   | Clean the blower section of dirt and scale (use a HEPA filtered vacuum cleaner if required). |\n|   |   |   |   |   | Clean the a/c coil-fins of dirt and debris (use foaming coil cleaner). |\n|   |   |   |   |   | For Portable units: Empty, clean and disinfect the condensate pan, remove, and store the ventilation hose that passes from a/c unit to the window. |\n|   |   |   |   |   | For Window units: If left over winter in window, check that covers and insulation are securely attached to prevent entry of cold air to room. If removed for winter and stored, ensure that window is restored to proper operation.",
+      "char_count": 864,
+      "token_estimate": 216,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t5bairconditionerinspec_61e56c83859d_chunk_004_a9a06d99",
+      "doc_id": "maint1-o1002-t5bairconditionerinspec_61e56c83859d",
+      "chunk_index": 4,
+      "text": "|\n|   |   |   |   |   | For Window units: If left over winter in window, check that covers and insulation are securely attached to prevent entry of cold air to room. If removed for winter and stored, ensure that window is restored to proper operation. |### Monthly Schedule\n| Month | M | Q | S | A |\n|-------|---|---|---|---|\n| JAN   | W | W | W | W |\n| FEB   | W | W | W | W |\n| MAR   | W | W | W | W |\n| APR   | W | W | W | W |\n| MAY   | W | W | W | W |\n| JUN   | W | W | W | W |\n| JUL   | M | Q | S | A |\n| AUG   | M | Q | S | A |\n| SEP   | M | Q | S | A |\n| OCT   | M | Q | S | A |\n| NOV   | M | Q | S | A |\n| DEC   | M | Q | S | A |----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025  Page 1 of 2# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1202,
+      "token_estimate": 300,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t5bairconditionerinspec_61e56c83859d_chunk_005_36f00e88",
+      "doc_id": "maint1-o1002-t5bairconditionerinspec_61e56c83859d",
+      "chunk_index": 5,
+      "text": "© 2025  Page 1 of 2# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 2 of 2**",
+      "char_count": 518,
+      "token_estimate": 129,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 5
+}

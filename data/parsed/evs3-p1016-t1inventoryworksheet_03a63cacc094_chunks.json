@@ -1,0 +1,30 @@
+{
+  "doc_id": "evs3-p1016-t1inventoryworksheet_03a63cacc094",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "evs3-p1016-t1inventoryworksheet_03a63cacc094_chunk_000_d3c69169",
+      "doc_id": "evs3-p1016-t1inventoryworksheet_03a63cacc094",
+      "chunk_index": 0,
+      "text": "# Extendicare Inventory Worksheet**Home:**\n**Date:** Enter date\n**Prepared by:****FLOOR/UNIT:**| ITEM                     | ROOM | ROOM | ROOM | ROOM | ROOM | ROOM | ROOM | ROOM | ROOM | ROOM | ROOM | ROOM | TOTAL |\n|--------------------------|------|------|------|------|------|------|------|------|------|------|------|------|-------|\n| Bottom Sheets            |      |      |      |      |      |      |      |      |      |      |      |      |       |\n| Top Sheets               |      |      |      |      |      |      |      |      |      |      |      |      |       |\n| Flannel Sheets           |      |      |      |      |      |      |      |      |      |      |      |      |       |\n| Pillowcases              |      |      |      |      |      |      |      |      |      |      |      |      |       |\n| Blankets                 |      |      |      |      |      |      |      |      |      |      |      |      |       |\n| Bedspreads               |      |      |      |      |      |      |      |      |      |      |      |      |       |\n| Comforters               |      |      |      |      |      |      |      |      |      |      |      |      |       |\n| Face Cloths             |      |      |      |      |      |      |      |      |      |      |      |      |       |\n| Hand Towels              |      |      |      |      |      |      |      |      |      |      |      |      |       |\n| Bath Towels              |      |      |      |      |      |      |      |      |      |      |      |      |       |\n| Peri Care Towels         |      |      |      |      |      |      |      |      |      |      |      |      |       |\n| Protective Garments      |      |      |      |      |      |      |      |      |      |      |      |      |       |\n| Patient Gowns            |      |      |      |      |      |      |      |      |      |      |      |      |       |\n| Isolation Gowns          |      |      |      |      |      |      |      |      |      |      |      |      |       |\n| Dietary Aprons           |      |      |      |      |      |      |      |      |      |      |      |      |       |\n| Care Staff Aprons        |      |      |      |      |      |      |      |      |      |      |      |      |       |\n| Smoking Aprons           |      |      |      |      |      |      |      |      |      |      |      |      |       |\n| Pillows                  |      |      |      |      |      |      |      |      |      |      |      |      |       |\n| Nylon Bags               |      |      |      |      |      |      |      |      |      |      |      |      |       |\n| Mesh Bag                 |      |      |      |      |      |      |      |      |      |      |      |      |       |\n| Chair Pads               |      |      |      |      |      |      |      |      |      |      |      |      |       |\n| Bed Pads                 |      |      |      |      |      |      |      |      |      |      |      |      |       |\n| Tablecloths              |      |      |      |      |      |      |      |      |      |      |      |      |       |\n| Place Mats               |      |      |      |      |      |      |      |      |      |      |      |      |       |----**Helping people live better.**This document is uncontrolled when printed.",
+      "char_count": 3317,
+      "token_estimate": 829,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs3-p1016-t1inventoryworksheet_03a63cacc094_chunk_001_9fb887dd",
+      "doc_id": "evs3-p1016-t1inventoryworksheet_03a63cacc094",
+      "chunk_index": 1,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 1**",
+      "char_count": 297,
+      "token_estimate": 74,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

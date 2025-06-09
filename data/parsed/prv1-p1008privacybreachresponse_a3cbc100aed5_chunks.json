@@ -1,0 +1,78 @@
+{
+  "doc_id": "prv1-p1008privacybreachresponse_a3cbc100aed5",
+  "total_chunks": 6,
+  "chunks": [
+    {
+      "chunk_id": "prv1-p1008privacybreachresponse_a3cbc100aed5_chunk_000_86dcaf02",
+      "doc_id": "prv1-p1008privacybreachresponse_a3cbc100aed5",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE- **MANUAL:** Privacy and Confidentiality\n- **INDEX:** PRV1-P10.08\n- **SECTION:** Privacy and Confidentiality Program\n- **EFFECTIVE DATE:** April 1, 2025\n- **REVIEWED DATE:** March 25, 2025\n- **APPROVED BY:** Senior Director, Corporate Quality and Risk\n- **MODIFIED DATE:** May 30, 2025----## POLICY### Privacy and Confidentiality Program#### DEFINITION- **Privacy Breach** - A privacy breach occurs when there is unauthorized or inappropriate access to, or collection of, use, or disclosure of, personal health information (PHI).----## PROCEDURE1. All staff will report all suspected or actual breaches as soon as possible to the Regional Director/Operations and Privacy_Officer@extendicare.com. The Privacy Office will lead the breach investigation.",
+      "char_count": 776,
+      "token_estimate": 194,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 6
+    },
+    {
+      "chunk_id": "prv1-p1008privacybreachresponse_a3cbc100aed5_chunk_001_925ff611",
+      "doc_id": "prv1-p1008privacybreachresponse_a3cbc100aed5",
+      "chunk_index": 1,
+      "text": "2. The Executive Director/Director of Care/Designate will initiate an investigation which will include:\n- Identification of the PHI involved\n- Cause and extent of the breach\n- Individuals affected by the breach\n- Foreseeable harm from the breach3. **Alberta and Manitoba only:** Report to the regulatory health authority any collection, access, use or disclosure of information not complying with provincial legislation or regulatory standards as soon as reasonably possible.### Containment- All staff will make every reasonable and immediate effort to contain the privacy breach. A breach is contained when:",
+      "char_count": 608,
+      "token_estimate": 152,
+      "section_title": "The Executive Director/Director of Care/Designate will initiate an investigation which will include:",
+      "chunk_type": "content",
+      "start_line": 7,
+      "end_line": 11
+    },
+    {
+      "chunk_id": "prv1-p1008privacybreachresponse_a3cbc100aed5_chunk_002_ace9f235",
+      "doc_id": "prv1-p1008privacybreachresponse_a3cbc100aed5",
+      "chunk_index": 2,
+      "text": "1. No further information will be disclosed to or accessed by unauthorized parties; and\n\n2. Records and documents have been recovered with reasonable assurances that no further copies have been made or distributed.### Investigation and NotificationThe Executive Director/Director of Care/Designate will:1. Investigate the breach by:\n- Gathering evidence and the facts of the incident\n- Evaluating the risks\n- Recommending remedial action\n- Identifying measures for prevention in the future2. Document any immediate actions taken as a direct result of the investigation.3. **Ontario:** Notify all subjects of a privacy breach per direction of the Privacy Office when the breach is confirmed.4. **Alberta/Manitoba:** Follow Privacy Office advice on how or whether it is necessary to notify subjects of the privacy breach.5. Notify subjects of a breach as required. Provide a description or sample of the specific PHI breached, the high-level circumstances of the breach, and steps taken to mitigate the breach.----> **Helping people live better**\n> This document is uncontrolled when printed. > Extendicare (Canada) Inc.",
+      "char_count": 1118,
+      "token_estimate": 279,
+      "section_title": "No further information will be disclosed to or accessed by unauthorized parties; and",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv1-p1008privacybreachresponse_a3cbc100aed5_chunk_004_6b17bcda",
+      "doc_id": "prv1-p1008privacybreachresponse_a3cbc100aed5",
+      "chunk_index": 4,
+      "text": "Provide a description or sample of the specific PHI breached, the high-level circumstances of the breach, and steps taken to mitigate the breach.----> **Helping people live better**\n> This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 2# PROCEDURE## SECTION: Privacy and Confidentiality",
+      "char_count": 572,
+      "token_estimate": 143,
+      "section_title": "Records and documents have been recovered with reasonable assurances that no further copies have been made or distributed.### Investigation and NotificationThe Executive Director/Director of Care/Designate will:1. Investigate the breach by:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv1-p1008privacybreachresponse_a3cbc100aed5_chunk_005_d71cb336",
+      "doc_id": "prv1-p1008privacybreachresponse_a3cbc100aed5",
+      "chunk_index": 5,
+      "text": "### DESCRIPTION: Privacy Breach Response\n\n### INDEX: PRV1-P10.08----### Reporting\nThe Privacy Office will inform the relevant Privacy Commissioner of privacy breaches that meet notification thresholds in relevant jurisdictions.### EDUCATION",
+      "char_count": 240,
+      "token_estimate": 60,
+      "section_title": "DESCRIPTION: Privacy Breach Response",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv1-p1008privacybreachresponse_a3cbc100aed5_chunk_007_5f4eb669",
+      "doc_id": "prv1-p1008privacybreachresponse_a3cbc100aed5",
+      "chunk_index": 7,
+      "text": "1. Annual Privacy Education----Helping people live betterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 2 of 2**",
+      "char_count": 398,
+      "token_estimate": 99,
+      "section_title": "Annual Privacy Education----Helping people live betterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 2 of 2**",
+      "chunk_type": "content",
+      "start_line": 24,
+      "end_line": 24
+    }
+  ]
+}

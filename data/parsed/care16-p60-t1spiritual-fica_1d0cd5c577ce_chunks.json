@@ -1,0 +1,102 @@
+{
+  "doc_id": "care16-p60-t1spiritual-fica_1d0cd5c577ce",
+  "total_chunks": 8,
+  "chunks": [
+    {
+      "chunk_id": "care16-p60-t1spiritual-fica_1d0cd5c577ce_chunk_000_e8894be9",
+      "doc_id": "care16-p60-t1spiritual-fica_1d0cd5c577ce",
+      "chunk_index": 0,
+      "text": "# Spiritual - FICA## Resident:\n\n## Location:### F. Faith, Belief, Meaning\n- **Religious/Religiosity** - Pertains to one's beliefs, behaviors, values, rules for conduct, and rituals associated with a specific religious tradition or denomination (O'Brien, 1999).\n- **Spirituality** – Generally, an “individual’s attitude and beliefs related to transcendence (God) or to the nonmaterial forces of life and of nature…the dimension of a person that is concerned with ultimate ends and values” and meaning (O’Brien, 1982, p. 88; Taylor, 2006).1. **ASK THE RESIDENT**: \"Do you consider yourself spiritual or religious?\"\n- 1. YES\n- 2. NO",
+      "char_count": 629,
+      "token_estimate": 157,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care16-p60-t1spiritual-fica_1d0cd5c577ce_chunk_002_8e48cfd4",
+      "doc_id": "care16-p60-t1spiritual-fica_1d0cd5c577ce",
+      "chunk_index": 2,
+      "text": "2. Do you have spiritual beliefs that help you cope with stress?\n- 1. YES\n- 2. NO\n\n3. If yes, describe:",
+      "char_count": 103,
+      "token_estimate": 25,
+      "section_title": "Do you have spiritual beliefs that help you cope with stress?",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care16-p60-t1spiritual-fica_1d0cd5c577ce_chunk_004_965ab0b3",
+      "doc_id": "care16-p60-t1spiritual-fica_1d0cd5c577ce",
+      "chunk_index": 4,
+      "text": "4. What gives your life meaning?### I. Importance and Influence\n- What importance does your faith or belief have in your life?\n\n1. On a scale of 0 (not important) to 5 (very important), how would you rate the importance of faith/belief in your life?\n```\n0   1   2   3   4   5\n```",
+      "char_count": 279,
+      "token_estimate": 69,
+      "section_title": "What gives your life meaning?### I. Importance and Influence",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care16-p60-t1spiritual-fica_1d0cd5c577ce_chunk_006_97a25093",
+      "doc_id": "care16-p60-t1spiritual-fica_1d0cd5c577ce",
+      "chunk_index": 6,
+      "text": "2. Have your beliefs influenced you in how you handle stress?\n- 1. YES\n- 2. NO\n\n3. If yes, describe:",
+      "char_count": 100,
+      "token_estimate": 25,
+      "section_title": "Have your beliefs influenced you in how you handle stress?",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care16-p60-t1spiritual-fica_1d0cd5c577ce_chunk_008_9983a3df",
+      "doc_id": "care16-p60-t1spiritual-fica_1d0cd5c577ce",
+      "chunk_index": 8,
+      "text": "4. What role do your beliefs play in your health care decision making?### C. Community\n\n1. Are you a part of a spiritual or religious community?\n- 1. YES\n- 2. NO",
+      "char_count": 161,
+      "token_estimate": 40,
+      "section_title": "What role do your beliefs play in your health care decision making?### C. Community",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care16-p60-t1spiritual-fica_1d0cd5c577ce_chunk_010_37e1cada",
+      "doc_id": "care16-p60-t1spiritual-fica_1d0cd5c577ce",
+      "chunk_index": 10,
+      "text": "2. Is this of support to you?\n- 1. YES\n- 2. NO\n\n3. If yes, describe (S):",
+      "char_count": 72,
+      "token_estimate": 18,
+      "section_title": "Is this of support to you?",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care16-p60-t1spiritual-fica_1d0cd5c577ce_chunk_012_e31c820c",
+      "doc_id": "care16-p60-t1spiritual-fica_1d0cd5c577ce",
+      "chunk_index": 12,
+      "text": "4. Is there a group of people you really love or who are important to you?\n- 1. YES\n- 2. NO\n\n5. If yes, describe:### A. Address in Care\n- We have talked a lot about your spirituality and/or religious beliefs and how they may or may not be of help to you during your illness. How can your health care providers best support your spirituality?\n- Text will populate SPN (structured progress note)",
+      "char_count": 393,
+      "token_estimate": 98,
+      "section_title": "Is there a group of people you really love or who are important to you?",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care16-p60-t1spiritual-fica_1d0cd5c577ce_chunk_014_f22117c4",
+      "doc_id": "care16-p60-t1spiritual-fica_1d0cd5c577ce",
+      "chunk_index": 14,
+      "text": "1. How would you like your health care provider to use this information about your spirituality as they care for you?----**Page 1 of 2**# Spiritual Care Plan## Focus: Spiritual Care### Interventions\n- All staff and departments will ensure that My Wishes (specify) are reviewed and followed with any significant change in health status.\n- Allow resident time for prayer according to wishes and belief system (specify).\n- Contact the chaplain or spiritual church member (specify) as per religious beliefs.\n- Ensure the resident's wishes (specify) during the dying process are followed.### Goals\n- Resident will be able to verbalize that they are at peace with imminent death.\n- Resident will have their choices/wishes (specify) respected during the dying process.\n- Resident will have their spiritual needs met (specify) through the end of life stage.----**Signature:** ____________________\n**Date:** ____________________----**Page 2 of 2**",
+      "char_count": 938,
+      "token_estimate": 234,
+      "section_title": "How would you like your health care provider to use this information about your spirituality as they care for you?----**Page 1 of 2**# Spiritual Care Plan## Focus: Spiritual Care### Interventions",
+      "chunk_type": "content",
+      "start_line": 34,
+      "end_line": 42
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t5zstarterswitches_7fcdf2c86837_chunk_000_464e4d67",
+      "doc_id": "maint1-o1002-t5zstarterswitches_7fcdf2c86837",
+      "chunk_index": 0,
+      "text": "# Extendicare Maintenance Inspection Checklist## Equipment\n- **Name:**\n- **Year:**\n- **Manufacturer:** All\n- **Model:** All## Legend/Key\n| Code | Meaning        |\n|------|----------------|\n| W    | Weekly         |\n| M    | Monthly        |\n| Q    | Quarterly      |\n| S    | Semi-Annual    |\n| A    | Annual         |\n| O    | Ok             |\n| R    | Repair         |\n| N    | Replace        |## Checks\n| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   | 1 |   | Check that time start/stop intervals are properly set. |\n| X |   |   | 2 |   | Check that the equipment controlled starts, stops or changes operation as required. |\n| X |   |   | 3 |   | Check that time is correct – reset for daylight saving time if appropriate.",
+      "char_count": 876,
+      "token_estimate": 219,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t5zstarterswitches_7fcdf2c86837_chunk_001_919a1435",
+      "doc_id": "maint1-o1002-t5zstarterswitches_7fcdf2c86837",
+      "chunk_index": 1,
+      "text": "|\n| X |   |   | 2 |   | Check that the equipment controlled starts, stops or changes operation as required. |\n| X |   |   | 3 |   | Check that time is correct – reset for daylight saving time if appropriate. |## Monthly Schedule\n| Month | M | Q | S | A |\n|-------|---|---|---|---|\n| JAN   | W | W | W | W |\n| FEB   | W | W | W | W |\n| MAR   | W | W | W | W |\n| APR   | W | W | W | W |\n| MAY   | W | W | W | W |\n| JUN   | W | W | W | W |\n| JUL   | W | W | W | W |\n| AUG   | W | W | W | W |\n| SEP   | W | W | W | W |\n| OCT   | W | W | W | W |\n| NOV   | W | W | W | W |\n| DEC   | W | W | W | W |----**Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1174,
+      "token_estimate": 293,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t5zstarterswitches_7fcdf2c86837_chunk_002_ae3e525e",
+      "doc_id": "maint1-o1002-t5zstarterswitches_7fcdf2c86837",
+      "chunk_index": 2,
+      "text": "© 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 2 of 2",
+      "char_count": 515,
+      "token_estimate": 128,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 3
+}

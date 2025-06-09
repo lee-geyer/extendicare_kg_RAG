@@ -1,0 +1,90 @@
+{
+  "doc_id": "care-addl-001watertemperaturelog-resource_fd16121d47e5",
+  "total_chunks": 7,
+  "chunks": [
+    {
+      "chunk_id": "care-addl-001watertemperaturelog-resource_fd16121d47e5_chunk_000_2db7319e",
+      "doc_id": "care-addl-001watertemperaturelog-resource_fd16121d47e5",
+      "chunk_index": 0,
+      "text": "# Extendicare Water Temperature Log## Month/Year: __________### Log for:\n- ☐ Registered Staff (Random Daily Hot Water Temperature)\n- ☐ Care Staff (Daily Temperature prior to first bath/shower of the day)**Acceptable Temperature Range:** 40 - 49°C (104 - 120°F).",
+      "char_count": 261,
+      "token_estimate": 65,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care-addl-001watertemperaturelog-resource_fd16121d47e5_chunk_001_34f36f2e",
+      "doc_id": "care-addl-001watertemperaturelog-resource_fd16121d47e5",
+      "chunk_index": 1,
+      "text": "Contact DOC/Designate if out of range for corrective action.Use this log according to your health region/provincial requirements.| Dt | Shift | Location | Time | Temp | Initi |\n|----|-------|----------|------|------|-------|\n| 1  | Source|          | 7    |      | D     |\n|    |       |          |      |      | E     |\n|    |       |          |      |      | N     |\n| 2  | Source|          | 8    |      | D     |\n|    |       |          |      |      | E     |\n|    |       |          |      |      | N     |\n| 3  | Source|          | 9    |      | D     |\n|    |       |          |      |      | E     |\n|    |       |          |      |      | N     |\n| 4  | Source|          | 10   |      | D     |\n|    |       |          |      |      | E     |\n|    |       |          |      |      | N     |\n| 5  | Source|          | 11   |      | D     |\n|    |       |          |      |      | E     |\n|    |       |          |      |      | N     |\n| 6  | Source|          | 12   |      | D     |\n|    |       |          |      |      | E     |\n|    |       |          |      |      | N     |\n| 7  | Source|          | 13   |      | D     |\n|    |       |          |      |      | E     |\n|    |       |          |      |      | N     |\n| 8  | Source|          | 14   |      | D     |\n|    |       |          |      |      | E     |\n|    |       |          |      |      | N     |\n| 9  | Source|          | 15   |      | D     |\n|    |       |          |      |      | E     |\n|    |       |          |      |      | N     |\n| 10 | Source|          | 16   |      | D     |\n|    |       |          |      |      | E     |\n|    |       |          |      |      | N     |\n| 11 | Source|          | 17   |      | D     |\n|    |       |          |      |      | E     |\n|    |       |          |      |      | N     |----**Helping people live a better life.**\n**Page 1 of 2**# Water Temperature Log| N  | N  | N  |\n|----|----|----|\n| 6  | 12 | 18 |\n| Sour | Sour | Sour |\n| ce  | ce  | ce  |\n| D   | D   | D   |\n| E   | E   | E   |\n| N   | N   | N   |----**Page 2 of 2**# Water Temperature Log| Dt | Shift | Location | Time | Temp | Initial | Dt | Shift | Location | Time | Temp | Initial | Dt | Shift | Location | Time | Temp | Initial |\n|----|-------|----------|------|------|---------|----|-------|----------|------|------|---------|----|-------|----------|------|------|---------|\n| 19 | Sour  |          |      | 24   | D       | 20 | Sour  |          |      | 25   | D       | 21 | Sour  |          |      | 26   | D       |\n|    | ce    |          |      |      | E       |    | ce    |          |      |      | E       |    | ce    |          |      |      | E       |\n|    | N     |          |      |      | N       |    | N     |          |      |      | N       |    | N     |          |      |      | N       |\n| 22 | Sour  |          |      | 27   | D       | 23 | Sour  |          |      | 28   | D       |    |       |          |      |      |         |\n|    | ce    |          |      |      | E       |    | ce    |          |      |      | E       |    |       |          |      |      |         |\n|    | N     |          |      |      | N       |    | N     |          |      |      | N       |    |       |          |      |      |         |\n| 29 | Sour  |          |      | 30   | D       | 31 | Sour  |          |      |      | D       |    |       |          |      |      |         |\n|    | ce    |          |      |      | E       |    | ce    |          |      |      | E       |    |       |          |      |      |         |\n|    | N     |          |      |      | N       |    | N     |          |      |      | N       |    |       |          |      |      |         |----**CARE STAFF:** Do not bathe resident unless water temperature is in range 40–49°C (104–120°F).",
+      "char_count": 3788,
+      "token_estimate": 947,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care-addl-001watertemperaturelog-resource_fd16121d47e5_chunk_002_ec90dba7",
+      "doc_id": "care-addl-001watertemperaturelog-resource_fd16121d47e5",
+      "chunk_index": 2,
+      "text": "Use tag out/lock out process if temperature cannot be manually adjusted. Notify nurse/supervisor and find and document an alternate bathing option.----**When required, document ACTION PLANS:**----**Page 3 of 2**# Water Temperature Log**Page 4 of 2**----## Document Metadata| **Policy Number** | **Effective Date** | **Review Date** |\n|-------------------|--------------------|------------------|\n| 001               | January 1, 2023    | January 1, 2024  |----## Table of Contents1. Introduction",
+      "char_count": 496,
+      "token_estimate": 124,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care-addl-001watertemperaturelog-resource_fd16121d47e5_chunk_003_33b9dfdd",
+      "doc_id": "care-addl-001watertemperaturelog-resource_fd16121d47e5",
+      "chunk_index": 3,
+      "text": "2. Purpose\n\n3. Scope",
+      "char_count": 20,
+      "token_estimate": 5,
+      "section_title": "Purpose",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care-addl-001watertemperaturelog-resource_fd16121d47e5_chunk_005_a8c22207",
+      "doc_id": "care-addl-001watertemperaturelog-resource_fd16121d47e5",
+      "chunk_index": 5,
+      "text": "4. Responsibilities\n\n5. Procedures\n- 5.1 Temperature Measurement\n- 5.2 Data Recording",
+      "char_count": 85,
+      "token_estimate": 21,
+      "section_title": "Responsibilities",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care-addl-001watertemperaturelog-resource_fd16121d47e5_chunk_007_25186d06",
+      "doc_id": "care-addl-001watertemperaturelog-resource_fd16121d47e5",
+      "chunk_index": 7,
+      "text": "6. Review and Revision History----## 1. IntroductionThis document outlines the procedures for logging water temperature in various settings.## 2. PurposeThe purpose of this log is to ensure that water temperature is monitored and recorded accurately to maintain safety and compliance.## 3. ScopeThis log applies to all facilities that require water temperature monitoring.## 4. Responsibilities- **Facility Manager**: Ensure compliance with temperature logging. - **Staff**: Responsible for daily temperature readings.## 5. Procedures### 5.1 Temperature Measurement- Use calibrated thermometers. - Measure temperature at the designated points.### 5.2 Data Recording- Record temperatures in the log immediately after measurement. - Ensure all entries are legible and accurate.| Date       | Time  | Location       | Temperature (°C) | Initials |\n|------------|-------|----------------|-------------------|----------|\n| 2023-01-01 | 08:00 | Pool Area      | 25                | AB       |\n| 2023-01-01 | 12:00 | Pool Area      | 26                | AB       |\n| 2023-01-01 | 16:00 | Pool Area      | 24                | AB       |## 6.",
+      "char_count": 1133,
+      "token_estimate": 283,
+      "section_title": "Review and Revision History----## 1. IntroductionThis document outlines the procedures for logging water temperature in various settings.## 2. PurposeThe purpose of this log is to ensure that water temperature is monitored and recorded accurately to maintain safety and compliance.## 3. ScopeThis log applies to all facilities that require water temperature monitoring.## 4. Responsibilities- **Facility Manager**: Ensure compliance with temperature logging.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care-addl-001watertemperaturelog-resource_fd16121d47e5_chunk_008_2a57499d",
+      "doc_id": "care-addl-001watertemperaturelog-resource_fd16121d47e5",
+      "chunk_index": 8,
+      "text": "- Measure temperature at the designated points.### 5.2 Data Recording- Record temperatures in the log immediately after measurement. - Ensure all entries are legible and accurate.| Date       | Time  | Location       | Temperature (°C) | Initials |\n|------------|-------|----------------|-------------------|----------|\n| 2023-01-01 | 08:00 | Pool Area      | 25                | AB       |\n| 2023-01-01 | 12:00 | Pool Area      | 26                | AB       |\n| 2023-01-01 | 16:00 | Pool Area      | 24                | AB       |## 6. Review and Revision History- **Version 1.0**: Initial release on January 1, 2023. - **Version 1.1**: Minor updates on June 1, 2023.----**End of Document**",
+      "char_count": 692,
+      "token_estimate": 173,
+      "section_title": "Review and Revision History----## 1. IntroductionThis document outlines the procedures for logging water temperature in various settings.## 2. PurposeThe purpose of this log is to ensure that water temperature is monitored and recorded accurately to maintain safety and compliance.## 3. ScopeThis log applies to all facilities that require water temperature monitoring.## 4. Responsibilities- **Facility Manager**: Ensure compliance with temperature logging.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

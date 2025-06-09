@@ -1,0 +1,102 @@
+{
+  "doc_id": "ipc2-p1005-airborneprecautions_fa66d1505829",
+  "total_chunks": 8,
+  "chunks": [
+    {
+      "chunk_id": "ipc2-p1005-airborneprecautions_fa66d1505829_chunk_000_26f2b4e4",
+      "doc_id": "ipc2-p1005-airborneprecautions_fa66d1505829",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE- **MANUAL:** Infection Prevention and Control\n- **INDEX:** IPC2-P10.05\n- **SECTION:** Infection Prevention\n- **EFFECTIVE DATE:** February 18, 2025\n- **REVIEWED DATE:** February 11, 2025\n- **APPROVED BY:** Chief Medical Officer\n- **MODIFIED DATE:** May 30, 2025----## POLICY### Infection Prevention## PROCEDURE### AIRBORNE PRECAUTIONS#### Hand Hygiene as per Routine PracticesHand hygiene to be performed:\n- Before and after each resident contact\n- Before performing invasive procedures\n- Before preparing, handling, serving, or eating food\n- After care involving body fluids and before moving to another activity\n- Before putting on and after taking off gloves and other PPE\n- After personal body functions (e.g., blowing one’s nose)\n- Whenever hands come into contact with secretions, excretions, blood, and body fluids\n- After contact with items in the resident’s environment\n- Whenever there is doubt about the necessity for doing so#### Resident Placement- Appropriate Additional Precautions Signage visible on entry to room\n- Transfer to airborne infection isolation room (AIIR) where possible\n- Private room with dedicated toileting facilities\n- If a private room is not available, the curtains will be drawn, and the resident will wear a procedure mask as tolerated\n- Door must remain closed at all times even if resident is not in the room#### N95 Respirator- Staff will wear a fit-tested, seal-checked N95 respirator for entry to the room for residents with TB and severe acute respiratory infection (SARI)----Helping people live betterThis document is uncontrolled when printed.",
+      "char_count": 1614,
+      "token_estimate": 403,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p1005-airborneprecautions_fa66d1505829_chunk_001_2978d1e9",
+      "doc_id": "ipc2-p1005-airborneprecautions_fa66d1505829",
+      "chunk_index": 1,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----\n\n# PROCEDURE## SECTION: Infection Prevention",
+      "char_count": 327,
+      "token_estimate": 81,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p1005-airborneprecautions_fa66d1505829_chunk_003_ad1974b3",
+      "doc_id": "ipc2-p1005-airborneprecautions_fa66d1505829",
+      "chunk_index": 3,
+      "text": "### DESCRIPTION: Airborne Precautions\n\n### INDEX: IPC2-P10.05----### Environment and Equipment\n- Dedicate equipment to the Resident where possible (e.g., stethoscope, commode).\n- Equipment that is being used by more than one resident must be cleaned and disinfected between use on another resident.\n- All high-touch surfaces in the resident’s room must be cleaned at least daily.\n- Laundry will be treated as isolation laundry.### Transport of Residents\n- Resident to wear a mask during transport.\n- Transport employees to wear an N95 respirator during transport.### Visitors\n- Visitors must be kept to a minimum.\n- Visitors must perform hand hygiene before entry and on leaving the room.\n- For TB and SARI, visitors require an N95 respirator.\n- For measles/varicella, visitors should be counseled before entering the room.----## EDUCATION",
+      "char_count": 839,
+      "token_estimate": 209,
+      "section_title": "DESCRIPTION: Airborne Precautions",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p1005-airborneprecautions_fa66d1505829_chunk_005_0ace9ce4",
+      "doc_id": "ipc2-p1005-airborneprecautions_fa66d1505829",
+      "chunk_index": 5,
+      "text": "1. IPC2-P10-E10 - PPE Guide\n\n2. IPC2-P10-E11 - PPE Doffing Sequence Poster",
+      "char_count": 74,
+      "token_estimate": 18,
+      "section_title": "IPC2-P10-E10 - PPE Guide",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p1005-airborneprecautions_fa66d1505829_chunk_007_b24f0a34",
+      "doc_id": "ipc2-p1005-airborneprecautions_fa66d1505829",
+      "chunk_index": 7,
+      "text": "3. IPC2-P10-E12 - PPE Donning Sequence Poster\n\n4. IPC2-P10-E13 - Six Steps to Removing N95 Respirator",
+      "char_count": 101,
+      "token_estimate": 25,
+      "section_title": "IPC2-P10-E12 - PPE Donning Sequence Poster",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p1005-airborneprecautions_fa66d1505829_chunk_009_87a72857",
+      "doc_id": "ipc2-p1005-airborneprecautions_fa66d1505829",
+      "chunk_index": 9,
+      "text": "5. IPC2-P10-E14 - Six Steps to Wearing N95 Respirator\n\n6. IPC2-P10-E29 - Enhanced Precautions - N95 Poster",
+      "char_count": 106,
+      "token_estimate": 26,
+      "section_title": "IPC2-P10-E14 - Six Steps to Wearing N95 Respirator",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p1005-airborneprecautions_fa66d1505829_chunk_011_0f88aa72",
+      "doc_id": "ipc2-p1005-airborneprecautions_fa66d1505829",
+      "chunk_index": 11,
+      "text": "7. IPC2-P10-E40 - Enhanced Precautions - N95 Poster (French)\n\n8. IPC2-P10-E30 - Airborne Precautions Poster",
+      "char_count": 107,
+      "token_estimate": 26,
+      "section_title": "IPC2-P10-E40 - Enhanced Precautions - N95 Poster (French)",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p1005-airborneprecautions_fa66d1505829_chunk_013_d3da4d16",
+      "doc_id": "ipc2-p1005-airborneprecautions_fa66d1505829",
+      "chunk_index": 13,
+      "text": "9. IPC2-P10-E31 - Airborne Precautions Poster (French)----Helping people live betterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----Page 2 of 2",
+      "char_count": 421,
+      "token_estimate": 105,
+      "section_title": "IPC2-P10-E31 - Airborne Precautions Poster (French)----Helping people live betterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----Page 2 of 2",
+      "chunk_type": "content",
+      "start_line": 41,
+      "end_line": 41
+    }
+  ]
+}

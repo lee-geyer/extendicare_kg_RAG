@@ -1,0 +1,30 @@
+{
+  "doc_id": "care15-p1005-t2referralsocialwork_86a231c695c6",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "care15-p1005-t2referralsocialwork_86a231c695c6_chunk_000_8a1f8cd7",
+      "doc_id": "care15-p1005-t2referralsocialwork_86a231c695c6",
+      "chunk_index": 0,
+      "text": "# Referral - Social Work| Resident: | Effective Date: | Location: |\n|-----------|-----------------|-----------|\n| Initial Admission: | Admission: | Date of Birth: |\n| Score: NA | Category: NA | Physician: |## A. Referral1. **Reason for referral:**\n- Move-in\n- Difficulty with LTC transition\n- Family dynamics\n- Palliation\n- Cognitive assessment (S/MMSE/MoCA)\n- DRS greater than 5\n- Ethical issue\n- Grieving\n- Suicidal ideation\n- Family request\n- Symptoms of depression\n- Behaviour\n- Behavioural Support recommendation\n- Outreach Programs\n- Social systems navigation\n- Facilitation of family and team communications\n- Crisis intervention\n- Links to external resources and or services\n- Discharge planning\n- Resident expressed fear of inadequate financial resources\n- Change in intellectual competency\n- OtherDocument any information that may assist Social Work in addressing Resident needs.2. **Referral Details:**3. **Name and designation/position of staff completing the referral:**## B. Response to referral1. **Name of the Social Worker responding to referral:**2. **Date and Time of referral response:**3.",
+      "char_count": 1109,
+      "token_estimate": 277,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care15-p1005-t2referralsocialwork_86a231c695c6_chunk_001_fa769c40",
+      "doc_id": "care15-p1005-t2referralsocialwork_86a231c695c6",
+      "chunk_index": 1,
+      "text": "**Name of the Social Worker responding to referral:**2. **Date and Time of referral response:**3. **Referral response details:**\n- A delayed progress note will populate when this referral is locked.----**Signature**: ______________________  **Date**: ______________________----**Page 1 of 1**",
+      "char_count": 292,
+      "token_estimate": 73,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

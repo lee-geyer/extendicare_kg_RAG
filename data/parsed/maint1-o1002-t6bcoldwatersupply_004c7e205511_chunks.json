@@ -1,0 +1,41 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t6bcoldwatersupply_004c7e205511_chunk_000_0205c4aa",
+      "doc_id": "maint1-o1002-t6bcoldwatersupply_004c7e205511",
+      "chunk_index": 0,
+      "text": "# Extendicare Maintenance Inspection Checklist## Equipment: Cold Water Supply### LEGEND/KEY| LEGEND | KEY       |\n|--------|-----------|\n| W      | Weekly    |\n| M      | Monthly   |\n| Q      | Quarterly |\n| S      | Semi-Annual |\n| A      | Annual    |### CHECKS| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   |   | 1 | Work all main valves the full travel of stem. |\n| X |   |   |   | 2 | Lubricate stems as required. |\n| X |   |   |   | 3 | Check that all normally open valves are fully open. (Back off ¼ turn) |\n|   | X |   |   | 4 | Check that all normally closed valves are tightly closed. |\n|   | X |   |   | 5 | Check that piping and meter-box insulation is intact. |\n|   | X |   |   | 6 | Check that the pressure regulating valve is adjusted to supply building side pressure NOT exceeding 75 psig. |\n|   |   |   |   | 7 | Test backflow prevention devices*                                    |**NOTE:**\n- *The services of qualified personnel may be required.",
+      "char_count": 1116,
+      "token_estimate": 279,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t6bcoldwatersupply_004c7e205511_chunk_001_a7d07703",
+      "doc_id": "maint1-o1002-t6bcoldwatersupply_004c7e205511",
+      "chunk_index": 1,
+      "text": "|\n|   | X |   |   | 6 | Check that the pressure regulating valve is adjusted to supply building side pressure NOT exceeding 75 psig. |\n|   |   |   |   | 7 | Test backflow prevention devices*                                    |**NOTE:**\n- *The services of qualified personnel may be required. - **Qualified service firms are to be employed.### Monthly Schedule| Month | M | Q | S | A |\n|-------|---|---|---|---|\n| JAN   | W | W | W | W |\n| FEB   | W | W | W | W |\n| MAR   | W | W | W | W |\n| APR   | W | W | W | W |\n| MAY   | W | W | W | W |\n| JUN   | W | W | W | W |\n| JUL   | W | W | W | W |\n| AUG   | W | W | W | W |\n| SEP   | W | W | W | W |\n| OCT   | W | W | W | W |\n| NOV   | W | W | W | W |\n| DEC   | W | W | W | W |----**Helplng people Ilve better**This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**",
+      "char_count": 1082,
+      "token_estimate": 270,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t6bcoldwatersupply_004c7e205511_chunk_002_3771fc82",
+      "doc_id": "maint1-o1002-t6bcoldwatersupply_004c7e205511",
+      "chunk_index": 2,
+      "text": "# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 2 of 2",
+      "char_count": 491,
+      "token_estimate": 122,
+      "section_title": "INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |",
+      "chunk_type": "content",
+      "start_line": 30,
+      "end_line": 33
+    }
+  ],
+  "total_chunks": 3
+}

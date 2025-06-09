@@ -1,0 +1,66 @@
+{
+  "doc_id": "rc-24-01-02-a2hypoglycemic-eventanalysis_e475e17748d9",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": "rc-24-01-02-a2hypoglycemic-eventanalysis_e475e17748d9_chunk_000_93179983",
+      "doc_id": "rc-24-01-02-a2hypoglycemic-eventanalysis_e475e17748d9",
+      "chunk_index": 0,
+      "text": "# Hypoglycemic - Event Analysis (DOC/Designate)**Resident:**\n**Effective Date:**\n**Location:**\n**Physician:**## A. Follow-Up and Review\n*(To be completed once investigation of initial event is finished)*### EVENT. Follow-up to:\n- a. Severe Hypoglycemic Event\n- b. Severe Hypoglycemic Event with Glucagon Administration\n- c. Unresponsive Hypoglycemic Event1. **Date & Time of Event:**\n\n2. **Summarize Contributing Factors:**\n- a. Inadequate carbohydrate intake at meals\n- b. Increased physical activity\n- c. Too much oral anti-hyperglycemic\n- d. Too much insulin\n- e. Other (add to root cause notes)",
+      "char_count": 598,
+      "token_estimate": 149,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "rc-24-01-02-a2hypoglycemic-eventanalysis_e475e17748d9_chunk_002_29b188fb",
+      "doc_id": "rc-24-01-02-a2hypoglycemic-eventanalysis_e475e17748d9",
+      "chunk_index": 2,
+      "text": "3. **Root Cause:**\n\n4. **Identify corrective actions and recommendations to prevent reoccurrence (select all that apply):**\n- a. Antihyperglycemic agent adjusted\n- b. Sliding scale insulin initiated\n- c. Blood sugar monitoring increased\n- d. Food and fluid intake monitoring reviewed\n- e. Dietary intake adjusted\n- f. Seen by Registered Dietitian\n- g. Registered Dietitian referral initiated\n- h. Medication Review completed\n- i. Medication Review initiated\n- j. Plan of Care updated",
+      "char_count": 483,
+      "token_estimate": 120,
+      "section_title": "**Root Cause:**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "rc-24-01-02-a2hypoglycemic-eventanalysis_e475e17748d9_chunk_004_e0e81df7",
+      "doc_id": "rc-24-01-02-a2hypoglycemic-eventanalysis_e475e17748d9",
+      "chunk_index": 4,
+      "text": "5. **Provide any additional details of corrective actions taken to prevent reoccurrence:**\n\n6. **Date and Time of corrective actions:**",
+      "char_count": 135,
+      "token_estimate": 33,
+      "section_title": "**Provide any additional details of corrective actions taken to prevent reoccurrence:**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "rc-24-01-02-a2hypoglycemic-eventanalysis_e475e17748d9_chunk_006_1cf20c44",
+      "doc_id": "rc-24-01-02-a2hypoglycemic-eventanalysis_e475e17748d9",
+      "chunk_index": 6,
+      "text": "7. **Which team members were involved in the follow-up and Root Cause Analysis:**\n- a. Attending Physician/Nurse Practitioner\n- b. Resident\n- c. Family/SDM\n- d. DOC/Designate\n- e. RN/RPN\n- f. Dietary\n- g. Pharmacist\n- h. Medical Director (if not the attending physician)\n- i. Administrator\n- j. Other\n\n8. **Name of the physician/NP and the date they were involved in the root cause analysis:**",
+      "char_count": 393,
+      "token_estimate": 98,
+      "section_title": "**Which team members were involved in the follow-up and Root Cause Analysis:**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "rc-24-01-02-a2hypoglycemic-eventanalysis_e475e17748d9_chunk_008_e8ebd078",
+      "doc_id": "rc-24-01-02-a2hypoglycemic-eventanalysis_e475e17748d9",
+      "chunk_index": 8,
+      "text": "9. **The date the Resident was involved in the root cause analysis:**----*Page 1 of 2*# Root Cause Analysis Involvement## Involvement Details- **6c.** Name of the family/SDM and the date they were involved in the root cause analysis:- **6d.** Name of the DOC or designate and the date they were involved in the root cause analysis: (S)- **6e.** Name of the RN/RPNs and the date they were involved in the root cause analysis:- **6f.** Name and designation/position of the dietary team member and the date they were involved in the root cause analysis:- **6g.** Name of the pharmacist and the date they were involved in the root cause analysis:- **6h.** Name of the medical director and the date they were involved in the root cause analysis:- **6i.** Name of the Administrator and the date they were involved in the root cause analysis:- **6j.** Name of the team member and the date they were involved in the root cause analysis:## Action RequiredAll hypoglycemic events are reported and reviewed at Quarterly and Annual Evaluations.----**Signature**: ________________________**Date**: ________________________----**Page 2 of 2**",
+      "char_count": 1128,
+      "token_estimate": 282,
+      "section_title": "**The date the Resident was involved in the root cause analysis:**----*Page 1 of 2*# Root Cause Analysis Involvement## Involvement Details- **6c.** Name of the family/SDM and the date they were involved in the root cause analysis:- **6d.** Name of the DOC or designate and the date they were involved in the root cause analysis: (S)- **6e.** Name of the RN/RPNs and the date they were involved in the root cause analysis:- **6f.** Name and designation/position of the dietary team member and the date they were involved in the root cause analysis:- **6g.** Name of the pharmacist and the date they were involved in the root cause analysis:- **6h.** Name of the medical director and the date they were involved in the root cause analysis:- **6i.** Name of the Administrator and the date they were involved in the root cause analysis:- **6j.** Name of the team member and the date they were involved in the root cause analysis:## Action RequiredAll hypoglycemic events are reported and reviewed at Quarterly and Annual Evaluations.----**Signature**: ________________________**Date**: ________________________----**Page 2 of 2**",
+      "chunk_type": "content",
+      "start_line": 40,
+      "end_line": 40
+    }
+  ]
+}

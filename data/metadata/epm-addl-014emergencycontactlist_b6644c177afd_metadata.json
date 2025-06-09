@@ -1,0 +1,11 @@
+{
+  "doc_id": "epm-addl-014emergencycontactlist_b6644c177afd",
+  "category": "Emergency Planning and Management",
+  "schema_used": "GenericDocumentMeta",
+  "extraction_success": true,
+  "metadata": {
+    "title": "Extendicare Emergency Contact List"
+  },
+  "error": null,
+  "fallback_metadata": null
+}

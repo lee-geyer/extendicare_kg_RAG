@@ -1,0 +1,42 @@
+{
+  "doc_id": "evs3-p1011-t2personalclothingform_b1bdc2599dfd",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "evs3-p1011-t2personalclothingform_b1bdc2599dfd_chunk_000_7cb12095",
+      "doc_id": "evs3-p1011-t2personalclothingform_b1bdc2599dfd",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Personal Clothing Form**Resident Name:**                                  **Room:**             **New Move-in**  ☐Y   ☐N\n**Person Submitting:**                          **Position:**                   **Date:**  Enter date| ITEM                      | AMOUNT | NOTES | COMP.",
+      "char_count": 292,
+      "token_estimate": 73,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs3-p1011-t2personalclothingform_b1bdc2599dfd_chunk_002_af7a12b7",
+      "doc_id": "evs3-p1011-t2personalclothingform_b1bdc2599dfd",
+      "chunk_index": 2,
+      "text": "|\n|---------------------------|--------|-------|-------|\n| Coats                     |        |       | ☐     |\n| Sweaters/Pullovers        |        |       | ☐     |\n| Cardigans                 |        |       | ☐     |\n| Afghans                   |        |       | ☐     |\n| Dresses                   |        |       | ☐     |\n| Blouses                   |        |       | ☐     |\n| Skirts                    |        |       | ☐     |\n| Slacks                    |        |       | ☐     |\n| Bras                      |        |       | ☐     |\n| Slips                     |        |       | ☐     |\n| Pantyhose                 |        |       | ☐     |\n| Stockings                 |        |       | ☐     |\n| Nightgowns                |        |       | ☐     |\n| Housecoats                |        |       | ☐     |\n| PJs                       |        |       | ☐     |\n| Men’s trousers            |        |       | ☐     |\n| Shirts                    |        |       | ☐     |\n| Undershirts               |        |       | ☐     |\n| Underwear                 |        |       | ☐     |\n| Socks                     |        |       | ☐     |\n| Slippers                  |        |       | ☐     |\n| Shoes                     |        |       | ☐     |\n| Other:                   |        |       | ☐     |\n| Other:                   |        |       | ☐     |\n| Other:                   |        |       | ☐     |\n| Other:                   |        |       | ☐     |Thank you for filling out this form and inserting it in the bag before dropping it in the bin.",
+      "char_count": 1576,
+      "token_estimate": 394,
+      "section_title": "Personal Clothing Form**Resident Name:**                                  **Room:**             **New Move-in**  ☐Y   ☐N",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs3-p1011-t2personalclothingform_b1bdc2599dfd_chunk_003_c119d298",
+      "doc_id": "evs3-p1011-t2personalclothingform_b1bdc2599dfd",
+      "chunk_index": 3,
+      "text": "The Laundry Department will pick up from the box daily.### For use by Laundry Department:\n**Date Received:**  Enter date               **Signature:**----*Helping people Iva better*This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n**Page 1 of 1**",
+      "char_count": 518,
+      "token_estimate": 129,
+      "section_title": "Personal Clothing Form**Resident Name:**                                  **Room:**             **New Move-in**  ☐Y   ☐N",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

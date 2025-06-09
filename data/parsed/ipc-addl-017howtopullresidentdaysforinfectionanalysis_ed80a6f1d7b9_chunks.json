@@ -1,0 +1,18 @@
+{
+  "doc_id": "ipc-addl-017howtopullresidentdaysforinfectionanalysis_ed80a6f1d7b9",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "ipc-addl-017howtopullresidentdaysforinfectionanalysis_ed80a6f1d7b9_chunk_000_f1c1b3c0",
+      "doc_id": "ipc-addl-017howtopullresidentdaysforinfectionanalysis_ed80a6f1d7b9",
+      "chunk_index": 0,
+      "text": "```markdown\n\n# How to Pull Resident Days for Infection AnalysisIn PCC, select **Detailed Census Report** and populate as depicted below, including the required date range. Hit **RUN REPORT**.## Detailed Census Report Setup Page### Report Options| Period Type | Weekly | Monthly | Yearly |\n|-------------|--------|---------|--------|\n| Resident Number: | Leave Blank for Residents | | |\n| Resident: | Clear | | |\n| Date Range | YTD Start | Custom | |\n| | 11/21/22 | | |### Show These Sections- Detail By Resident\n- Summary By Payer (by Day)\n- Summary By Payer (by Care Level)\n- Summary By Care Level\n- Summary By Status\n- Summary By Unit\n- Summary By Rate Type| Payer | Payer Type | Payer Code | Rate Type |\n|-------|------------|------------|-----------|\n| Resident | | | |\n| Third Party Billing | Check | Clear | |### Unit| Unassigned | Check | Clear |\n|------------|-------|-------|### Floor| Unassigned | Check | Clear |\n|------------|-------|-------|### Order By- Name\n- Payer\n- Unit**Effective Date:** November 6, 2024\n```",
+      "char_count": 1027,
+      "token_estimate": 256,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

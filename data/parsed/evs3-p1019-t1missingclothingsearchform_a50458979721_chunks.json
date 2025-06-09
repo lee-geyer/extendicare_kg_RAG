@@ -1,0 +1,18 @@
+{
+  "doc_id": "evs3-p1019-t1missingclothingsearchform_a50458979721",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "evs3-p1019-t1missingclothingsearchform_a50458979721_chunk_000_b5308e78",
+      "doc_id": "evs3-p1019-t1missingclothingsearchform_a50458979721",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Missing Clothing Search Form (Laundry Department)**Date:** Enter date\n**Resident:**\n**Home:**\n**Room:**\n**Reported by:**\n**Telephone:**\n**Recent room change?** Yes / No### DESCRIPTION OF MISSING CLOTHING:### AREAS SEARCHED:\n- Personal laundry delivery carts and/or processed bins: Yes / No\n- Resident Clothing Form to see if clothing had been labelled: Yes / No\n- Designated lost and found clothing area: Yes / No\n- Monitor all clothing handled during processing for the missing clothing: Yes / No### SEARCH RESULTS:\n| Item located? | Y / N | Item returned to resident? | Y / N |\n|---------------|-------|---------------------------|-------|**Signature:**\nForward completed form to the Manager/designate----*Helping people is a better way.*This document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\nConfidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 1 of 1",
+      "char_count": 1092,
+      "token_estimate": 273,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

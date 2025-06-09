@@ -1,0 +1,30 @@
+{
+  "doc_id": "ipc8-p10-t4-weeklysharedequipmentcleaningrecord_2ac359592074",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "ipc8-p10-t4-weeklysharedequipmentcleaningrecord_2ac359592074_chunk_000_37d22e31",
+      "doc_id": "ipc8-p10-t4-weeklysharedequipmentcleaningrecord_2ac359592074",
+      "chunk_index": 0,
+      "text": "# Extendicare Weekly Shared Equipment Cleaning Record**Week of:**\n**Specific instructions:**| Day of Cleaning | Location | Equipment to be Cleaned                     | Date | Initial |\n|------------------|----------|---------------------------------------------|------|---------|\n|                  |          | Medication cart                             |      |         |\n|                  |          | Treatment cart                              |      |         |\n|                  |          | Other cart – Specify:                      |      |         |\n|                  |          | Mechanical lift – Specify # of lifts:      |      |         |\n|                  |          | Sit-to-Stand lift – Specify # of lifts:    |      |         |\n|                  |          | Blood pressure machine and cuffs            |      |         |\n|                  |          | Doppler                                     |      |         |\n|                  |          | Oximeter                                    |      |         |\n|                  |          | Lift slings (communal)                     |      |         |\n|                  |          | Stethoscopes                                |      |         |\n|                  |          | Thermometers                                 |      |         |\n|                  |          | Transfer belts                              |      |         |\n|                  |          | Suction machine                             |      |         |\n|                  |          | Medication fridge                           |      |         |----**Helping people live better**> This document is uncontrolled when printed.",
+      "char_count": 1686,
+      "token_estimate": 421,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc8-p10-t4-weeklysharedequipmentcleaningrecord_2ac359592074_chunk_001_5897457c",
+      "doc_id": "ipc8-p10-t4-weeklysharedequipmentcleaningrecord_2ac359592074",
+      "chunk_index": 1,
+      "text": "> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 1",
+      "char_count": 294,
+      "token_estimate": 73,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

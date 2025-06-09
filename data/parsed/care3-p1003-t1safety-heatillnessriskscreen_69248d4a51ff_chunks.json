@@ -1,0 +1,102 @@
+{
+  "doc_id": "care3-p1003-t1safety-heatillnessriskscreen_69248d4a51ff",
+  "total_chunks": 8,
+  "chunks": [
+    {
+      "chunk_id": "care3-p1003-t1safety-heatillnessriskscreen_69248d4a51ff_chunk_000_1497cb5d",
+      "doc_id": "care3-p1003-t1safety-heatillnessriskscreen_69248d4a51ff",
+      "chunk_index": 0,
+      "text": "# Safety - Heat Illness Risk Screen**Client:**\n**Effective Date:**\n**Location:**\n**Admission:**\n**Score:** NA\n**Category:** NA\n**Physician:**\n**Diagnoses:**## 1. History\na. The resident has a medical history of heat stroke\nb. The resident has a medical history of heat exhaustion\nc. The resident has a medical history of infection without fever## 2. Age & Mobility\na. Age over 90\nb. Limited to bed\nc. Severe general debility\nd. Postural hypotension## 3. Functional Status\na. Skin disease\nb. Diabetes\nc. Obesity\nd. Advanced dementia / Parkinson's\ne. Pacemaker\nf. Cardiovascular disease\ng. Renal Failure\nh. Dysphagia / loss of speech## 4. Medications\na. Diuretics\nb. Antihypertensives\nc. Anticholinergics\nd. Psychotropics\ne. Tricyclic antidepressants\nf. Check if two or more of the above medication groups are checked## 5. Current Condition\na. Check if Resident currently has FEVER, INFECTION, DIARRHEA or VOMITING## 6. Additional Risk Factors\nAll residents are at risk of heat-related illness. After completing the risk assessment, it should be determined whether residents are:\n- at increased risk during hot weather; OR\n- potentially at increased risk during hot weathera.",
+      "char_count": 1173,
+      "token_estimate": 293,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p1003-t1safety-heatillnessriskscreen_69248d4a51ff_chunk_001_51a6788f",
+      "doc_id": "care3-p1003-t1safety-heatillnessriskscreen_69248d4a51ff",
+      "chunk_index": 1,
+      "text": "Additional Risk Factors\nAll residents are at risk of heat-related illness. After completing the risk assessment, it should be determined whether residents are:\n- at increased risk during hot weather; OR\n- potentially at increased risk during hot weathera. There are several additional risk factors that place some residents at an increased risk of hot weather-related illness. Choose all that apply:\n\n1. poor fluid intake or dehydration",
+      "char_count": 436,
+      "token_estimate": 109,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p1003-t1safety-heatillnessriskscreen_69248d4a51ff_chunk_003_0a83d977",
+      "doc_id": "care3-p1003-t1safety-heatillnessriskscreen_69248d4a51ff",
+      "chunk_index": 3,
+      "text": "2. failure to thrive or malnourishment\n\n3. significant decline in activities of daily living",
+      "char_count": 92,
+      "token_estimate": 23,
+      "section_title": "failure to thrive or malnourishment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p1003-t1safety-heatillnessriskscreen_69248d4a51ff_chunk_005_e4d9debc",
+      "doc_id": "care3-p1003-t1safety-heatillnessriskscreen_69248d4a51ff",
+      "chunk_index": 5,
+      "text": "4. cognitive impairment including poor judgment\n\n5. enteral/tube feeds----**Page 1 of 2**# Safety - Heat Illness Risk Screen**Client:**\n**Effective Date:**\n**Location:**## 6. Respiratory Disease## 7. Progress Note\n- Include referrals\n- a. Summary of Assessment and Plan for Structured Progress Note## 8. Plan of Care\n- a.",
+      "char_count": 321,
+      "token_estimate": 80,
+      "section_title": "cognitive impairment including poor judgment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p1003-t1safety-heatillnessriskscreen_69248d4a51ff_chunk_007_6a4a0bfd",
+      "doc_id": "care3-p1003-t1safety-heatillnessriskscreen_69248d4a51ff",
+      "chunk_index": 7,
+      "text": "Summary of Assessment and Plan for Structured Progress Note## 8. Plan of Care\n- a. Initiate new heat-related illness risk plan here or edit existing plan### Interventions\n| Intervention                                                                 | Details                                   |\n|------------------------------------------------------------------------------|-------------------------------------------|\n| Custom                                                                       |                                           |\n| Offer popsicles each nourishment pass                                         |                                           |\n| Provide (specify) fluid per day                                              |                                           |\n| Provide foods high in fluid content (specify)                                |                                           |### Focus: Hydration Related To\n| Intervention                                                                 | Details                                   |\n|------------------------------------------------------------------------------|-------------------------------------------|\n| Schedule additional fluid rounds other than snack time (specify)            |                                           |\n| Offer fluid in the form of jello, popsicles, frozen juices (specify type and times of the day) |                                           |### Focus: Dressing\n| Intervention                                                                 | Details                                   |\n|------------------------------------------------------------------------------|-------------------------------------------|\n| Heat Risk Prevention: Encourage resident to dress appropriately for the weather (specify particular outfits that Resident does have) |                                           |\n| Heat Risk Prevention: Loosen clothing, encourage well-ventilated absorptive clothing (specify any cotton loose outfits or dresses of natural fibers) |                                           |### Focus: Heat-Related Illnesses\n- (specify at increased risk during hot weather; OR potentially at increased risk during hot weather)### Goal\n- Risk of heat-related illness will be reduced by (specify)### Additional Interventions\n| Intervention                                                                 | Details                                   |\n|------------------------------------------------------------------------------|-------------------------------------------|\n| Refer to ADL dressing interventions as they relate to prevention of heat-related illness.",
+      "char_count": 2689,
+      "token_estimate": 672,
+      "section_title": "enteral/tube feeds----**Page 1 of 2**# Safety - Heat Illness Risk Screen**Client:**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p1003-t1safety-heatillnessriskscreen_69248d4a51ff_chunk_008_e5883d31",
+      "doc_id": "care3-p1003-t1safety-heatillnessriskscreen_69248d4a51ff",
+      "chunk_index": 8,
+      "text": "Plan of Care\n- a. Initiate new heat-related illness risk plan here or edit existing plan### Interventions\n| Intervention                                                                 | Details                                   |\n|------------------------------------------------------------------------------|-------------------------------------------|\n| Custom                                                                       |                                           |\n| Offer popsicles each nourishment pass                                         |                                           |\n| Provide (specify) fluid per day                                              |                                           |\n| Provide foods high in fluid content (specify)                                |                                           |### Focus: Hydration Related To\n| Intervention                                                                 | Details                                   |\n|------------------------------------------------------------------------------|-------------------------------------------|\n| Schedule additional fluid rounds other than snack time (specify)            |                                           |\n| Offer fluid in the form of jello, popsicles, frozen juices (specify type and times of the day) |                                           |### Focus: Dressing\n| Intervention                                                                 | Details                                   |\n|------------------------------------------------------------------------------|-------------------------------------------|\n| Heat Risk Prevention: Encourage resident to dress appropriately for the weather (specify particular outfits that Resident does have) |                                           |\n| Heat Risk Prevention: Loosen clothing, encourage well-ventilated absorptive clothing (specify any cotton loose outfits or dresses of natural fibers) |                                           |### Focus: Heat-Related Illnesses\n- (specify at increased risk during hot weather; OR potentially at increased risk during hot weather)### Goal\n- Risk of heat-related illness will be reduced by (specify)### Additional Interventions\n| Intervention                                                                 | Details                                   |\n|------------------------------------------------------------------------------|-------------------------------------------|\n| Refer to ADL dressing interventions as they relate to prevention of heat-related illness. Cotton loose fitting clothing.",
+      "char_count": 2655,
+      "token_estimate": 663,
+      "section_title": "enteral/tube feeds----**Page 1 of 2**# Safety - Heat Illness Risk Screen**Client:**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p1003-t1safety-heatillnessriskscreen_69248d4a51ff_chunk_009_0dc814a9",
+      "doc_id": "care3-p1003-t1safety-heatillnessriskscreen_69248d4a51ff",
+      "chunk_index": 9,
+      "text": "Initiate new heat-related illness risk plan here or edit existing plan### Interventions\n| Intervention                                                                 | Details                                   |\n|------------------------------------------------------------------------------|-------------------------------------------|\n| Custom                                                                       |                                           |\n| Offer popsicles each nourishment pass                                         |                                           |\n| Provide (specify) fluid per day                                              |                                           |\n| Provide foods high in fluid content (specify)                                |                                           |### Focus: Hydration Related To\n| Intervention                                                                 | Details                                   |\n|------------------------------------------------------------------------------|-------------------------------------------|\n| Schedule additional fluid rounds other than snack time (specify)            |                                           |\n| Offer fluid in the form of jello, popsicles, frozen juices (specify type and times of the day) |                                           |### Focus: Dressing\n| Intervention                                                                 | Details                                   |\n|------------------------------------------------------------------------------|-------------------------------------------|\n| Heat Risk Prevention: Encourage resident to dress appropriately for the weather (specify particular outfits that Resident does have) |                                           |\n| Heat Risk Prevention: Loosen clothing, encourage well-ventilated absorptive clothing (specify any cotton loose outfits or dresses of natural fibers) |                                           |### Focus: Heat-Related Illnesses\n- (specify at increased risk during hot weather; OR potentially at increased risk during hot weather)### Goal\n- Risk of heat-related illness will be reduced by (specify)### Additional Interventions\n| Intervention                                                                 | Details                                   |\n|------------------------------------------------------------------------------|-------------------------------------------|\n| Refer to ADL dressing interventions as they relate to prevention of heat-related illness. Cotton loose fitting clothing. |                                           |\n| Refer to Hydration plan as it relates to prevention of heat-related illness.",
+      "char_count": 2762,
+      "token_estimate": 690,
+      "section_title": "enteral/tube feeds----**Page 1 of 2**# Safety - Heat Illness Risk Screen**Client:**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p1003-t1safety-heatillnessriskscreen_69248d4a51ff_chunk_010_b7fdd848",
+      "doc_id": "care3-p1003-t1safety-heatillnessriskscreen_69248d4a51ff",
+      "chunk_index": 10,
+      "text": "Cotton loose fitting clothing. |                                           |\n| Refer to Hydration plan as it relates to prevention of heat-related illness. |                                           |\n| If participating in outdoor activity protect from direct exposure to the sun with hat, clothing, sunscreen (specify) and monitor (specify frequency). |                                           |\n| Move to designated cool areas of the building (specify where and when)      |                                           |\n| Remove excess bedding and loosen bedding by draping sheets over the resident (specify when) |                                           |\n| Close window, drapes, and blinds during the day (specify)                  |                                           |\n| Turn off lights to reduce the temperatures in the room (specify when)      |                                           |----**Signature**\n**Date**----**Page 2 of 2**",
+      "char_count": 954,
+      "token_estimate": 238,
+      "section_title": "enteral/tube feeds----**Page 1 of 2**# Safety - Heat Illness Risk Screen**Client:**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

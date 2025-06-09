@@ -1,0 +1,41 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint6-o1001-e2bedbugsfactsheet_f9da642b7888_chunk_000_19f737a6",
+      "doc_id": "maint6-o1001-e2bedbugsfactsheet_f9da642b7888",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Bed Bug Fact Sheet### What do bed bugs feed on? Bed bugs prefer to feed on human blood but will also bite mammals and birds. Bed bugs bite at night and will bite all over a human body, especially around the face, neck, upper torso, arms, and hands. Bed bugs can survive up to six months without feeding. Both male and female bed bugs bite.### Can I get sick from bed bugs? There are no known cases of infectious disease transmitted by bed bug bites. Most people are not aware that they have been bitten, but some people are more sensitive to the bite and may have a localized reaction. Scratching the bitten areas can lead to infection.### How do bed bugs get into my home? Bed bugs are often carried into homes on objects such as furniture and clothing.",
+      "char_count": 772,
+      "token_estimate": 193,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint6-o1001-e2bedbugsfactsheet_f9da642b7888_chunk_002_46489e4c",
+      "doc_id": "maint6-o1001-e2bedbugsfactsheet_f9da642b7888",
+      "chunk_index": 2,
+      "text": "Scratching the bitten areas can lead to infection.### How do bed bugs get into my home? Bed bugs are often carried into homes on objects such as furniture and clothing. If you think you have a bed bug problem, check for live bed bugs or shells in the following areas:\n- Seams, creases, tufts, and folds of mattresses and box springs\n- Cracks in the bed frame and headboard\n- Under chairs, couches, and beds\n- Between the cushions of couches and chairs\n- Behind baseboards, and around window and door casings\n- Behind electrical plates and under loose wallpaper, paintings, and posters\n- In cracks in plaster\n- In telephones, radios, and clocksIf the infestation is heavy, a sweet smell may be noticed in the room.### What can I do if I have bed bugs in my home? Consult with your local public health department and a professional Pest Control Operator immediately to confirm that you do have a bed bug infestation.### What do bed bugs look like? Although even the cleanest homes can have bed bugs, regular housekeeping can help to prevent an infestation. Clean up clutter to help reduce the number of places bed bugs can hide.",
+      "char_count": 1126,
+      "token_estimate": 281,
+      "section_title": "Bed Bug Fact Sheet### What do bed bugs feed on?",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint6-o1001-e2bedbugsfactsheet_f9da642b7888_chunk_003_d1166514",
+      "doc_id": "maint6-o1001-e2bedbugsfactsheet_f9da642b7888",
+      "chunk_index": 3,
+      "text": "Although even the cleanest homes can have bed bugs, regular housekeeping can help to prevent an infestation. Clean up clutter to help reduce the number of places bed bugs can hide. Be careful when residents bring their personal furniture and clothing into your home. Ensure staff inspects belongings (i.e., furniture, clothing containers) prior to delivering them to the resident’s room.----*Helping people live better*This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 1 of 1",
+      "char_count": 752,
+      "token_estimate": 188,
+      "section_title": "Bed Bug Fact Sheet### What do bed bugs feed on?",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 3
+}

@@ -1,0 +1,66 @@
+{
+  "doc_id": "epm2-p1006naturaldisastersandextremeweatherevents_ad57cf8cf6ed",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": "epm2-p1006naturaldisastersandextremeweatherevents_ad57cf8cf6ed_chunk_000_b8687c0f",
+      "doc_id": "epm2-p1006naturaldisastersandextremeweatherevents_ad57cf8cf6ed",
+      "chunk_index": 0,
+      "text": "```markdown\n\n# Extendicare## PROCEDURE\n**MANUAL:** Emergency Planning and Management\n**INDEX:** EPM1-P10.06\n**SECTION:** Emergency Response Codes\n**EFFECTIVE DATE:** January 13, 2025\n**REVIEWED DATE:** January 6, 2025\n**APPROVED BY:** Senior Director, Corporate Quality and Risk\n**MODIFIED DATE:** May 30, 2025----## POLICY",
+      "char_count": 323,
+      "token_estimate": 80,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1006naturaldisastersandextremeweatherevents_ad57cf8cf6ed_chunk_002_2f2645e5",
+      "doc_id": "epm2-p1006naturaldisastersandextremeweatherevents_ad57cf8cf6ed",
+      "chunk_index": 2,
+      "text": "### Emergency Response Codes## PROCEDURE### Prepare\nThe Executive Director/Designate will:\n- Monitor for local extreme weather alerts or advisories to ensure timely communication with residents and staff. - Do not select another nearby Extendicare home as your home’s only evacuation site as they are likely to be affected by the same disaster. - Know where staff live and where the nearest hotels are located in the event the weather event or disaster will require staff to stay nearby.### Respond\n- Announce the occurring or impending event or disaster. - The Executive Director/Designate and Incident Manager will use their designated Natural Disasters and Extreme Weather Job Action Checklists when responding to any natural disaster or extreme weather event such as a winter storm, tornado, flood, forest fire, earthquake, or hot weather advisory. - All staff will follow instructions provided by the Incident Manager. - All staff will refer to the Natural Disasters and Extreme Weather Events Information to understand what to do during a Tornado or Earthquake. - Refer to policy/procedure, Preventing Heat-Related Illnesses when managing heat-related events.",
+      "char_count": 1165,
+      "token_estimate": 291,
+      "section_title": "Emergency Response Codes## PROCEDURE### Prepare",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1006naturaldisastersandextremeweatherevents_ad57cf8cf6ed_chunk_003_b52d1ac1",
+      "doc_id": "epm2-p1006naturaldisastersandextremeweatherevents_ad57cf8cf6ed",
+      "chunk_index": 3,
+      "text": "- All staff will refer to the Natural Disasters and Extreme Weather Events Information to understand what to do during a Tornado or Earthquake. - Refer to policy/procedure, Preventing Heat-Related Illnesses when managing heat-related events. - Refer to policy/procedure, Preventing Cold-Related Illnesses when managing cold-related events.### TOOLS\n\n1. Natural Disasters and Extreme Weather Incident Manager Job Action Checklist",
+      "char_count": 428,
+      "token_estimate": 107,
+      "section_title": "Emergency Response Codes## PROCEDURE### Prepare",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1006naturaldisastersandextremeweatherevents_ad57cf8cf6ed_chunk_005_daa6d0af",
+      "doc_id": "epm2-p1006naturaldisastersandextremeweatherevents_ad57cf8cf6ed",
+      "chunk_index": 5,
+      "text": "2. Natural Disasters and Extreme Weather Executive Director/Designate Job Action Checklist\n\n3. Natural Disaster and Extreme Weather Events Information Sheet",
+      "char_count": 156,
+      "token_estimate": 39,
+      "section_title": "Natural Disasters and Extreme Weather Executive Director/Designate Job Action Checklist",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1006naturaldisastersandextremeweatherevents_ad57cf8cf6ed_chunk_007_f26277c4",
+      "doc_id": "epm2-p1006naturaldisastersandextremeweatherevents_ad57cf8cf6ed",
+      "chunk_index": 7,
+      "text": "4. Natural Disaster and Extreme Weather Events Poster----**Helping people**\nThis document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n```",
+      "char_count": 402,
+      "token_estimate": 100,
+      "section_title": "Natural Disaster and Extreme Weather Events Poster----**Helping people**",
+      "chunk_type": "content",
+      "start_line": 23,
+      "end_line": 26
+    }
+  ]
+}

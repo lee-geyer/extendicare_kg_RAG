@@ -1,0 +1,53 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t8gwashingmachineinsp_8798497e12b9_chunk_000_b549fef6",
+      "doc_id": "maint1-o1002-t8gwashingmachineinsp_8798497e12b9",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## MAINTENANCE INSPECTION CHECKLIST### Equipment\n**Washing Machine**\n**Name:**\n**Year:**\n**Manufacturer:** Wascomat, Unimac\n**Model:** FL-50, FL-184, W-183### LEGEND/KEY\n| LEGEND | KEY      |\n|--------|----------|\n| W      | Weekly   |\n| O      | Ok       |\n| M      | Monthly  |\n| R      | Repair   |\n| Q      | Quarterly|\n| N      | Replace  |\n| S      | Semi-Annual |\n| A      | Annual   |### CHECKS\n| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   |   |   | 1. Check that door lock and interlock are in place, secure and operating properly. |\n| X |   |   |   |   | 2. Check that door gasket is in good condition. |\n| X |   |   |   |   | 3. Check for unusual noises or vibrations during extract cycle. |\n| X |   |   |   |   | 4. Check that drive belt tension and sheave alignment are proper. |\n| X |   |   |   |   | 5. Check piping connections and drain valves for leaks. |\n|   | X |   |   |   | 6. Open valve and clean quarterly. |\n|   | X |   |   |   | 7. Clean water supply line strainers. |\n|     | X |   |   |   | 8. Lubricate motor and bearings.",
+      "char_count": 1218,
+      "token_estimate": 304,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t8gwashingmachineinsp_8798497e12b9_chunk_002_125e1f1e",
+      "doc_id": "maint1-o1002-t8gwashingmachineinsp_8798497e12b9",
+      "chunk_index": 2,
+      "text": "|\n|     | X |   |   |   | 8. Lubricate motor and bearings. |\n|     | X |   |   |   | 9. Lubricate drive components and linkages. |\n|     | X |   |   |   | 10. Vacuum clean relays (disconnect power supply first). |\n|     | X |   |   |   | 11. Check electrical terminals for corrosion and burnt or melted insulation. |\n|     | X |   |   |   | 12. Check that all hoses are firm and there are no visible defects. |\n|         | X |   |   |   | 13. Clean cabinet thoroughly. |\n|         | X |   |   |   | 14. Clean off rust and spot paint. |### Monthly Schedule\n```\n|      | JAN | FEB | MAR | APR | MAY | JUN | |\n|------|-----|-----|-----|-----|-----|-----|---|\n| M    | Q   | S   | A   | M   | Q   | S   | A   |\n| W    | W   | W   | W   | W   | W   | W   | W   |\n|      |     |     |     |     |     |     |     |\n|      | JUL | AUG | SEP | OCT | NOV | DEC | |\n| M    | Q   | S   | A   | M   | Q   | S   | A   |\n| W    | W   | W   | W   | W   | W   | W   | W   |\n```----**Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1044,
+      "token_estimate": 261,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t8gwashingmachineinsp_8798497e12b9_chunk_003_52fcea08",
+      "doc_id": "maint1-o1002-t8gwashingmachineinsp_8798497e12b9",
+      "chunk_index": 3,
+      "text": "|### Monthly Schedule\n```\n|      | JAN | FEB | MAR | APR | MAY | JUN | |\n|------|-----|-----|-----|-----|-----|-----|---|\n| M    | Q   | S   | A   | M   | Q   | S   | A   |\n| W    | W   | W   | W   | W   | W   | W   | W   |\n|      |     |     |     |     |     |     |     |\n|      | JUL | AUG | SEP | OCT | NOV | DEC | |\n| M    | Q   | S   | A   | M   | Q   | S   | A   |\n| W    | W   | W   | W   | W   | W   | W   | W   |\n```----**Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1009,
+      "token_estimate": 252,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t8gwashingmachineinsp_8798497e12b9_chunk_004_ebe8d70c",
+      "doc_id": "maint1-o1002-t8gwashingmachineinsp_8798497e12b9",
+      "chunk_index": 4,
+      "text": "© 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 2 of 2**",
+      "char_count": 523,
+      "token_estimate": 130,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 4
+}

@@ -1,0 +1,66 @@
+{
+  "doc_id": "ipc-addl-013cheatsheet-infectionsurveillanceentry_ca7c7c06cf53",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": "ipc-addl-013cheatsheet-infectionsurveillanceentry_ca7c7c06cf53_chunk_000_8b3b32a3",
+      "doc_id": "ipc-addl-013cheatsheet-infectionsurveillanceentry_ca7c7c06cf53",
+      "chunk_index": 0,
+      "text": "```markdown\n\n# HealthConnex Cheat Sheets - Infection Surveillance Module**For full data entry see** - Cheat Sheet - HCX Rules and Definitions.pdf## How to enter a resident infection1. Open HealthConnex and click on “Infection Surveillance” on the left-hand side of the screen.",
+      "char_count": 276,
+      "token_estimate": 69,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc-addl-013cheatsheet-infectionsurveillanceentry_ca7c7c06cf53_chunk_002_9b6b7304",
+      "doc_id": "ipc-addl-013cheatsheet-infectionsurveillanceentry_ca7c7c06cf53",
+      "chunk_index": 2,
+      "text": "2. Scroll down to near the middle of the screen and click “+ New case”.\n\n3. Fill in the boxes:\n- **Unit** – select unit resident resides on\n- **Individual** – type resident's name and select\n- **Infection Site** – Select appropriate infection site, do not use Other, Screening\n- **Type** – select appropriate infection type based on case definitions, if not known leave “Not Selected”\n- **Symptoms** – select as appropriate\n- **Onset Date** – enter date symptoms began and/or positive lab result whichever is earlier\n- **Origin** – select “HAI” if acquired within the home, select “Community Acquired” if selected outside the home, select “Other” if not known\n- **Confirmed** – If infection meets case definition (see below), toggle to GREEN",
+      "char_count": 741,
+      "token_estimate": 185,
+      "section_title": "Scroll down to near the middle of the screen and click “+ New case”.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc-addl-013cheatsheet-infectionsurveillanceentry_ca7c7c06cf53_chunk_004_0c385747",
+      "doc_id": "ipc-addl-013cheatsheet-infectionsurveillanceentry_ca7c7c06cf53",
+      "chunk_index": 4,
+      "text": "4. Click ADD to save infection.\n\n5. ADD Precautions as per additional precautions, include end date if known.",
+      "char_count": 109,
+      "token_estimate": 27,
+      "section_title": "Click ADD to save infection.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc-addl-013cheatsheet-infectionsurveillanceentry_ca7c7c06cf53_chunk_006_343b2cba",
+      "doc_id": "ipc-addl-013cheatsheet-infectionsurveillanceentry_ca7c7c06cf53",
+      "chunk_index": 6,
+      "text": "6. Update fields as more information becomes available.## How to select INFECTION TYPE and CONFIRM an infection1. Click on the icon in the upper right corner.\n\n2. See case definitions and select infection type that corresponds to the criteria.",
+      "char_count": 243,
+      "token_estimate": 60,
+      "section_title": "Update fields as more information becomes available.## How to select INFECTION TYPE and CONFIRM an infection1. Click on the icon in the upper right corner.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc-addl-013cheatsheet-infectionsurveillanceentry_ca7c7c06cf53_chunk_008_7878dd8a",
+      "doc_id": "ipc-addl-013cheatsheet-infectionsurveillanceentry_ca7c7c06cf53",
+      "chunk_index": 8,
+      "text": "3. If resident symptoms match the infection site/type definition, toggle the Confirmed to green.## How to resolve an infection1. Click on Infection Surveillance.\n\n2. Click on resident name in the table, this will take you to Case Details:\n- Confirm information is correct.\n- **Resolution Date** – enter day infection resolves, e.g., finishes antibiotic, no longer symptomatic.\n- **Outcome** – select as appropriate:\n- Select Chronic for chronic Hep B/Hep C/HIV only.\n- End additional precautions.\n- Click on Update.**Resolution Date:** April 3, 2024\n**Outcome:** Not Selected\n**Individual Status:** Active\n```",
+      "char_count": 609,
+      "token_estimate": 152,
+      "section_title": "If resident symptoms match the infection site/type definition, toggle the Confirmed to green.## How to resolve an infection1. Click on Infection Surveillance.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

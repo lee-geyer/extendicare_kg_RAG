@@ -1,0 +1,65 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t5wportableelectricalheater_3b8a146491d5_chunk_000_0d938c4e",
+      "doc_id": "maint1-o1002-t5wportableelectricalheater_3b8a146491d5",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## PORTABLE CONVECTION HEATER CHECKLIST**LAST UPDATED:** February 2024### LEGEND/KEY\n| Equipment | Portable Electrical Heating Device |\n|-----------|-----------------------------------|\n| **LEGEND** | **KEY**                          |\n| W         | Weekly                            |\n| O         | Ok                                |\n| M         | Monthly                           |\n| R         | Repair                            |\n| Q         | Quarterly                         |\n| N         | Replace                           |\n| S         | Semi-Annual                       |\n| A         | Annual                            |### MAINTENANCE INSPECTION CHECKLIST\nThe portable Heater shall only be used in accordance with the manufacturer’s instructions. **Use:** Generally used during Heating Season Sept-April and temperatures below 10 Celsius.| W | M | Q | S | A | Item |\n|---|---|---|---|---|------|\n| X |   |   |   |   | 1. Check that the device is equipped with an approval notice (e.g. C.S.A ULC Canada or equivalent) and have a thermostatic control to regulate output temperature. |\n| X |   |   |   |   | 2.",
+      "char_count": 1138,
+      "token_estimate": 284,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t5wportableelectricalheater_3b8a146491d5_chunk_002_97875ddc",
+      "doc_id": "maint1-o1002-t5wportableelectricalheater_3b8a146491d5",
+      "chunk_index": 2,
+      "text": "C.S.A ULC Canada or equivalent) and have a thermostatic control to regulate output temperature. |\n| X |   |   |   |   | 2. Check that the plug connection is in good condition and shows no sign of overheating or damaged pins. |\n| X |   |   |   |   | 3. Check that the ground connection on the plug is in good condition and has not been damaged or removed. |\n| X |   |   |   |   | 4. Check that the power cord is in good condition, does not show signs of having been overheated and is not damaged where it joins the plug or where it connects to the device. |\n| X |   |   |   |   | 5. Check for any obvious damage or soil buildup to the device housing, vents/ dampers if equipped (cracks, damaged casing, etc.). |\n| X |   |   |   |   | 6. Check that the on/off switch operates properly. |\n| X |   |   |   |   | 7. Check and ensure “Tip Over Switch” operates as designed by the manufacturer’s instructions. |**In all Uses:**\n- Unit is installed/placed no closer than 12 inches to a wall, furniture, or 1 meter from a curtain or any combustible material and powered from a wall receptacle (No Power Bars or extension Cords).",
+      "char_count": 1119,
+      "token_estimate": 279,
+      "section_title": "PORTABLE CONVECTION HEATER CHECKLIST**LAST UPDATED:** February 2024### LEGEND/KEY",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t5wportableelectricalheater_3b8a146491d5_chunk_003_d77a7632",
+      "doc_id": "maint1-o1002-t5wportableelectricalheater_3b8a146491d5",
+      "chunk_index": 3,
+      "text": "Check and ensure “Tip Over Switch” operates as designed by the manufacturer’s instructions. |**In all Uses:**\n- Unit is installed/placed no closer than 12 inches to a wall, furniture, or 1 meter from a curtain or any combustible material and powered from a wall receptacle (No Power Bars or extension Cords). - Thermostat to be set NO Higher than 75% (3/4) of highest temperature setting as a starting point when establishing safe setting. Refer to home specific log for exact setting.### NOTE:\n```",
+      "char_count": 498,
+      "token_estimate": 124,
+      "section_title": "PORTABLE CONVECTION HEATER CHECKLIST**LAST UPDATED:** February 2024### LEGEND/KEY",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t5wportableelectricalheater_3b8a146491d5_chunk_004_4fdaf56a",
+      "doc_id": "maint1-o1002-t5wportableelectricalheater_3b8a146491d5",
+      "chunk_index": 4,
+      "text": "W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W\n| JAN | FEB | MAR | APR | MAY | JUN |\n|-----|-----|-----|-----|-----|-----|\n| M   | Q   | S   | A   | M   | Q   |\n| S   | A   | M   | Q   | S   | A   |\n| W   | W   | W   | W   | W   | W   |\n|-----|-----|-----|-----|-----|-----|\n| JUL | AUG | SEP | OCT | NOV | DEC |\n| M   | Q   | S   | A   | M   | Q   |\n| S   | A   | M   | Q   | S   | A   |\n| W   | W   | W   | W   | W   | W   |\n```----**Helplng people**\n**Ilva better**This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\nConfidential and Proprietary Information of Extendicare (Canada) Inc. © 2025",
+      "char_count": 809,
+      "token_estimate": 202,
+      "section_title": "W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W",
+      "chunk_type": "content",
+      "start_line": 26,
+      "end_line": 39
+    },
+    {
+      "chunk_id": "maint1-o1002-t5wportableelectricalheater_3b8a146491d5_chunk_005_ded22458",
+      "doc_id": "maint1-o1002-t5wportableelectricalheater_3b8a146491d5",
+      "chunk_index": 5,
+      "text": "# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 2 of 2**",
+      "char_count": 499,
+      "token_estimate": 124,
+      "section_title": "INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |",
+      "chunk_type": "content",
+      "start_line": 40,
+      "end_line": 43
+    }
+  ],
+  "total_chunks": 5
+}

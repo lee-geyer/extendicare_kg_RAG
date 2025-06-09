@@ -1,0 +1,54 @@
+{
+  "doc_id": "evs1-p1001inventorymanagementhousekeeping_823c78742804",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "evs1-p1001inventorymanagementhousekeeping_823c78742804_chunk_000_6e1d3f8a",
+      "doc_id": "evs1-p1001inventorymanagementhousekeeping_823c78742804",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE- **MANUAL:** Environmental Services\n- **INDEX:** EVS1-P10.01\n- **SECTION:** Purchasing, Inventory and Supplier Complaints\n- **EFFECTIVE DATE:** March 18, 2025\n- **REVIEWED DATE:** March 7, 2025\n- **APPROVED BY:** Senior Director, Operational Quality and Professional Practice\n- **MODIFIED DATE:** May 14, 2025----## POLICY### Purchasing, Inventory and Supplier Complaints## PROCEDURE1. Determine minimum inventory levels for high-volume items.",
+      "char_count": 469,
+      "token_estimate": 117,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 6
+    },
+    {
+      "chunk_id": "evs1-p1001inventorymanagementhousekeeping_823c78742804_chunk_001_df81cb9e",
+      "doc_id": "evs1-p1001inventorymanagementhousekeeping_823c78742804",
+      "chunk_index": 1,
+      "text": "2. Determine quantity to be ordered by comparing quantity on hand.\n\n3. If required, prepare a Purchase Order.",
+      "char_count": 109,
+      "token_estimate": 27,
+      "section_title": "Determine quantity to be ordered by comparing quantity on hand.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs1-p1001inventorymanagementhousekeeping_823c78742804_chunk_003_65df5468",
+      "doc_id": "evs1-p1001inventorymanagementhousekeeping_823c78742804",
+      "chunk_index": 3,
+      "text": "4. When ordering, be aware of the shelf life of the product. Do not order large quantities or large sizes if the product has a short shelf life.\n\n5. Notify the Manager/designate when a specific supply item is in low supply.",
+      "char_count": 223,
+      "token_estimate": 55,
+      "section_title": "When ordering, be aware of the shelf life of the product. Do not order large quantities or large sizes if the product has a short shelf life.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs1-p1001inventorymanagementhousekeeping_823c78742804_chunk_005_0b71a32c",
+      "doc_id": "evs1-p1001inventorymanagementhousekeeping_823c78742804",
+      "chunk_index": 5,
+      "text": "6. Some suppliers have minimum order requirements that must be met to avoid delivery charges or high unit prices.\n\n7. Be knowledgeable of the delivery dates to your home or region.----> Helping people live better.\n> This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 1",
+      "char_count": 554,
+      "token_estimate": 138,
+      "section_title": "Some suppliers have minimum order requirements that must be met to avoid delivery charges or high unit prices.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

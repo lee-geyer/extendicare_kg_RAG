@@ -1,0 +1,78 @@
+{
+  "doc_id": "epm-addl-031imsleaderjobactionchecklistliaison_77bebcfab1a4",
+  "total_chunks": 6,
+  "chunks": [
+    {
+      "chunk_id": "epm-addl-031imsleaderjobactionchecklistliaison_77bebcfab1a4_chunk_000_c6bcf226",
+      "doc_id": "epm-addl-031imsleaderjobactionchecklistliaison_77bebcfab1a4",
+      "chunk_index": 0,
+      "text": "# Extendicare IMS Leader Job Action Checklist – Liaison**Note:** All documentation during the emergency must be given to the Administrator/Executive Director daily and kept on file for a minimum of three years.## Liaison – Job Action Sheet### Role\nThe Liaison functions as the incident contact person for representatives from other agencies.**Name:****Record the time action was initiated (note on the line below):**1. Receive appointment and briefing from the Incident Manager.",
+      "char_count": 478,
+      "token_estimate": 119,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 1
+    },
+    {
+      "chunk_id": "epm-addl-031imsleaderjobactionchecklistliaison_77bebcfab1a4_chunk_001_eb3005b8",
+      "doc_id": "epm-addl-031imsleaderjobactionchecklistliaison_77bebcfab1a4",
+      "chunk_index": 1,
+      "text": "2. Read this entire Job Action sheet.\n\n3. Establish a list of key contacts from other agencies:\n- Provincial Health authorities:\n- Public Health:\n- EMS: 9-1-1\n- Municipal Emergency Operation Center (EOC):\n- Other agencies:\n- Other homes (as appropriate):",
+      "char_count": 254,
+      "token_estimate": 63,
+      "section_title": "Read this entire Job Action sheet.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-031imsleaderjobactionchecklistliaison_77bebcfab1a4_chunk_003_9ce2a1b2",
+      "doc_id": "epm-addl-031imsleaderjobactionchecklistliaison_77bebcfab1a4",
+      "chunk_index": 3,
+      "text": "4. **Code Orange** – obtain information on the number of incoming residents that can be received and the type of care that can be provided.\n\n5. **Code Green** – obtain information on the number of residents that need to be transferred and the type of care required.",
+      "char_count": 265,
+      "token_estimate": 66,
+      "section_title": "**Code Orange** – obtain information on the number of incoming residents that can be received and the type of care that can be provided.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-031imsleaderjobactionchecklistliaison_77bebcfab1a4_chunk_005_c271c9ac",
+      "doc_id": "epm-addl-031imsleaderjobactionchecklistliaison_77bebcfab1a4",
+      "chunk_index": 5,
+      "text": "6. Keep the applicable health authority contacts updated as per their directives and requirements.\n\n7. Request assistance from other residential care homes or agencies, as required.",
+      "char_count": 181,
+      "token_estimate": 45,
+      "section_title": "Keep the applicable health authority contacts updated as per their directives and requirements.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-031imsleaderjobactionchecklistliaison_77bebcfab1a4_chunk_007_af3e53f3",
+      "doc_id": "epm-addl-031imsleaderjobactionchecklistliaison_77bebcfab1a4",
+      "chunk_index": 7,
+      "text": "8. Request assistance from municipal agencies, as required.\n\n9. Respond to requests and concerns from the IMS Team regarding organizational issues.",
+      "char_count": 147,
+      "token_estimate": 36,
+      "section_title": "Request assistance from municipal agencies, as required.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-031imsleaderjobactionchecklistliaison_77bebcfab1a4_chunk_009_90d25a18",
+      "doc_id": "epm-addl-031imsleaderjobactionchecklistliaison_77bebcfab1a4",
+      "chunk_index": 9,
+      "text": "10. Assist the Operations and Logistics managers in soliciting additional staffing resources from other agencies.----**This document is uncontrolled when printed.**Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025****Page 1 of 2**# IMS Leader Job Action Checklist – Liaison- Appoint Liaison support staff, as required.\n- Attend IMS Team meetings.----**Note:** This document is uncontrolled when printed.Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.----**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025****Page 2 of 2**",
+      "char_count": 933,
+      "token_estimate": 233,
+      "section_title": "Assist the Operations and Logistics managers in soliciting additional staffing resources from other agencies.----**This document is uncontrolled when printed.**Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025****Page 1 of 2**# IMS Leader Job Action Checklist – Liaison- Appoint Liaison support staff, as required.",
+      "chunk_type": "content",
+      "start_line": 16,
+      "end_line": 17
+    }
+  ]
+}

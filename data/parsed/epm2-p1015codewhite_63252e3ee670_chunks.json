@@ -1,0 +1,54 @@
+{
+  "doc_id": "epm2-p1015codewhite_63252e3ee670",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "epm2-p1015codewhite_63252e3ee670_chunk_000_c5f67375",
+      "doc_id": "epm2-p1015codewhite_63252e3ee670",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE\n**MANUAL:** Emergency Planning and Management\n**INDEX:** EPM2-P10.15\n**SECTION:** Emergency Response Codes\n**EFFECTIVE DATE:** January 13, 2025\n**REVIEWED DATE:** January 6, 2025\n**APPROVED BY:** Senior Director, Corporate Quality and Risk\n**MODIFIED DATE:** May 30, 2025----## POLICY\n\n### Emergency Response Codes## PROCEDURE\n**Code White** is announced when there is a violent situation or person that is posing a threat to themselves, others, or property.### Prevent/Prepare\n- Do not allow entry to an individual acting aggressive or violent.\n- Registered staff:\n- Conduct a risk assessment at admission on all residents to evaluate the risk of verbal or physical responsive behaviours.\n- Document and communicate strategies to mitigate any risk from such behaviours.\n- Executive Director/Designate:\n- Ensure all staff receive training to support individuals with a cognitive impairment or mental health disorder (e.g., Gentle Persuasive Approach).### Respond\n- Announce Code White when there is a violent situation or person that is posing a threat to themselves, others, or property.\n- Use the De-Escalation Techniques tool when trying to de-escalate a potentially violent situation.\n- Follow the procedures for Code White as per the designated Job Action checklists and follow direction from the Incident Manager.### TOOLS",
+      "char_count": 1354,
+      "token_estimate": 338,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1015codewhite_63252e3ee670_chunk_002_c79fc11f",
+      "doc_id": "epm2-p1015codewhite_63252e3ee670",
+      "chunk_index": 2,
+      "text": "1. Code White Incident Manager Job Action Checklist\n\n2. De-escalation Techniques",
+      "char_count": 80,
+      "token_estimate": 20,
+      "section_title": "Code White Incident Manager Job Action Checklist",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1015codewhite_63252e3ee670_chunk_004_853d6063",
+      "doc_id": "epm2-p1015codewhite_63252e3ee670",
+      "chunk_index": 4,
+      "text": "3. Code White All Staff Job Action Checklist\n\n4. Code White Executive Director/Designate Job Action Checklist",
+      "char_count": 109,
+      "token_estimate": 27,
+      "section_title": "Code White All Staff Job Action Checklist",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1015codewhite_63252e3ee670_chunk_006_97c8ccc8",
+      "doc_id": "epm2-p1015codewhite_63252e3ee670",
+      "chunk_index": 6,
+      "text": "5. Code White Poster----**Helping people**\nThis document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 1 of 1",
+      "char_count": 377,
+      "token_estimate": 94,
+      "section_title": "Code White Poster----**Helping people**",
+      "chunk_type": "content",
+      "start_line": 23,
+      "end_line": 26
+    }
+  ]
+}

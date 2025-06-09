@@ -1,0 +1,42 @@
+{
+  "doc_id": "care-addl-002officedutiesadmissionchecklist-resource_1c1e83003174",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "care-addl-002officedutiesadmissionchecklist-resource_1c1e83003174_chunk_000_e62ef644",
+      "doc_id": "care-addl-002officedutiesadmissionchecklist-resource_1c1e83003174",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Office Duties Admission Checklist| Resident Name: | Room/Unit: | Date of Admission: | Enter date |\n|----------------|-------------|--------------------|------------|### ROLE: UNIT CLERK / BUSINESS OFFICE / DESIGNATE\n| TASK                                                                 | DATE        | SIGNATURE |\n|----------------------------------------------------------------------|-------------|-----------|\n| Name on door, bed and closet                                         | Enter date  |           |\n| Chart assembled with all paperwork & deliver to admissions office    | Enter date  |           |\n| Ensure adequate number of charts and admission packages are in stock | Enter date  |           |\n| (Call unit clerk if 5 or less binders are available)                |             |           |\n| Personalize contracts, chiropody form, admission screening questionnaire and sheet with contact numbers for unit | Enter date  |           |\n| Make labels as per home specific procedure.",
+      "char_count": 1015,
+      "token_estimate": 253,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care-addl-002officedutiesadmissionchecklist-resource_1c1e83003174_chunk_002_49b89409",
+      "doc_id": "care-addl-002officedutiesadmissionchecklist-resource_1c1e83003174",
+      "chunk_index": 2,
+      "text": "| Enter date  |           |\n| Review admission package with resident and family                    | Enter date  |           |\n| Power of Attorney (POA) for personal and financial care identified   | Enter date  |           |\n| Contact numbers for inquiries given                                   | Enter date  |           |\n| Chiropody service:    Yes      No                                    | Enter date  |           |\n| Frequency:    Monthly       Bi-Monthly                               |             |           |\n| Addressograph card                                                   | Enter date  |           |\n| Picture of new resident taken                                        | Enter date  |           |\n| MDCC explained                                                       | Enter date  |           |\n| Leave of Absence (LOA) procedure                                     | Enter date  |           |\n| New clothing and belongings procedure                                 | Enter date  |           |\n| Meal and nourishment procedure                                        | Enter date  |           |\n| Laundry procedure:                                                   | Enter date  |           |\n| - Home will do laundry                                               |             |           |\n| - Family will do laundry                                             |             |           |\n| (If family is doing laundry, please print out 2 signs for room: 1 above bed and 1 on closet door) | |           |\n| Tour of unit and introductions                                        | Enter date  |           |### ROLE: FINANCE\n| TASK                                                                 | DATE        | SIGNATURE |\n|----------------------------------------------------------------------|-------------|-----------|\n| Payment and documents signed                                          | Enter date  |           |\n| Explanation of financial services                                      | Enter date  |           |### ROLE: LAUNDRY\n| TASK                                                                 | DATE        | SIGNATURE |\n|----------------------------------------------------------------------|-------------|-----------|\n| Clothing Labelled                                                    | Enter date  |           |----**Helping people live better**This document is uncontrolled when printed.",
+      "char_count": 2439,
+      "token_estimate": 609,
+      "section_title": "Office Duties Admission Checklist| Resident Name: | Room/Unit: | Date of Admission: | Enter date |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care-addl-002officedutiesadmissionchecklist-resource_1c1e83003174_chunk_003_298d0200",
+      "doc_id": "care-addl-002officedutiesadmissionchecklist-resource_1c1e83003174",
+      "chunk_index": 3,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 1 of 1",
+      "char_count": 290,
+      "token_estimate": 72,
+      "section_title": "Office Duties Admission Checklist| Resident Name: | Room/Unit: | Date of Admission: | Enter date |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

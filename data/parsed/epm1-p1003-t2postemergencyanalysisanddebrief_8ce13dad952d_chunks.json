@@ -1,0 +1,138 @@
+{
+  "doc_id": "epm1-p1003-t2postemergencyanalysisanddebrief_8ce13dad952d",
+  "total_chunks": 11,
+  "chunks": [
+    {
+      "chunk_id": "epm1-p1003-t2postemergencyanalysisanddebrief_8ce13dad952d_chunk_000_7a0e65c4",
+      "doc_id": "epm1-p1003-t2postemergencyanalysisanddebrief_8ce13dad952d",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Post Emergency Analysis and DebriefInclude staff, residents, visitors, families, students, volunteers, and community partners involved in the emergency.**Home:**                                  **Date:**Please save this report in the Emergency Debrief folder in the Quality and Operations Team.### Location of Emergency:\n| Color Code | Nature of Event                      |\n|------------|--------------------------------------|\n| Red        | Real                                 |\n| Orange     | Table Top Exercise                   |\n| Yellow     | Drill                                |\n| Green      | Extreme Weather Event                |\n| Blue       | No Code Called                       |\n| Purple     | Other Emergency Event                |\n| Black      |                                      |\n| White      |                                      |\n| Silver     |                                      |\n| Brown      |                                      |\n| Grey       |                                      |### Time of Emergency:\n**Time of All Clear:**\n**Time of Debrief:**----### Section A\nSection A can be completed by the Administrator or Incident Manager and then shared with all others involved.- Provide a description of the event (attach any related documents).",
+      "char_count": 1302,
+      "token_estimate": 325,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm1-p1003-t2postemergencyanalysisanddebrief_8ce13dad952d_chunk_002_41b64427",
+      "doc_id": "epm1-p1003-t2postemergencyanalysisanddebrief_8ce13dad952d",
+      "chunk_index": 2,
+      "text": "- Identify community partners that responded or participated:\n- Identify CIS number/health authority report number if the incident required reporting to the health authority: ______________________________________________________________\n- Were individuals assigned any specific tasks? Yes   No    N/A**Incident Manager:**\n**Administrator/Designate:**\n**Receptionist/Designate:**\n**Registered Nurse:**----*Helping people*\n*Iva better*----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025",
+      "char_count": 760,
+      "token_estimate": 190,
+      "section_title": "Post Emergency Analysis and DebriefInclude staff, residents, visitors, families, students, volunteers, and community partners involved in the emergency.**Home:**                                  **Date:**Please save this report in the Emergency Debrief folder in the Quality and Operations Team.### Location of Emergency:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm1-p1003-t2postemergencyanalysisanddebrief_8ce13dad952d_chunk_003_4bb58d88",
+      "doc_id": "epm1-p1003-t2postemergencyanalysisanddebrief_8ce13dad952d",
+      "chunk_index": 3,
+      "text": "# Post Emergency Analysis and Debrief## Other Nursing Staff\n\n## Housekeeping Staff",
+      "char_count": 82,
+      "token_estimate": 20,
+      "section_title": "Post Emergency Analysis and Debrief## Other Nursing Staff",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm1-p1003-t2postemergencyanalysisanddebrief_8ce13dad952d_chunk_005_5e98c10b",
+      "doc_id": "epm1-p1003-t2postemergencyanalysisanddebrief_8ce13dad952d",
+      "chunk_index": 5,
+      "text": "## Maintenance Staff\n\n## Dietary Staff",
+      "char_count": 38,
+      "token_estimate": 9,
+      "section_title": "Maintenance Staff",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm1-p1003-t2postemergencyanalysisanddebrief_8ce13dad952d_chunk_007_ec8e8a46",
+      "doc_id": "epm1-p1003-t2postemergencyanalysisanddebrief_8ce13dad952d",
+      "chunk_index": 7,
+      "text": "## Activities\n\n## Other Service Providers (Beautician, PT, OT, Podiatrist)",
+      "char_count": 74,
+      "token_estimate": 18,
+      "section_title": "Activities",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm1-p1003-t2postemergencyanalysisanddebrief_8ce13dad952d_chunk_009_62efc146",
+      "doc_id": "epm1-p1003-t2postemergencyanalysisanddebrief_8ce13dad952d",
+      "chunk_index": 9,
+      "text": "## Residents and Visitors### General Procedures| Question                                                                 | Yes | No | N/A |\n|--------------------------------------------------------------------------|-----|----|-----|\n| 1. How quickly was the location of the emergency identified? |     |    |     |\n|    _______ minutes                                                        |     |    |     |\n| 2. Were appropriate steps taken to respond? |     |    |     |\n|    (If no, please explain in detail on next page)                       |     |    |     |\n| 3. If a code was called, was code and location heard clearly on the P.A. system? |     |    |     |\n| For Code Red                                                             |     |    |     |\n| 4. Did all fire/smoke doors close automatically? |     |    |     |\n| 5. Did all fire bells ring? |     |    |     |\n| 6. If a drill, was the Fire Department notified before and after the drill? |     |    |     |\n| 7. Did the Fire Department monitoring service receive the signal? |     |    |     |\n| 8. Was the evacuation done correctly as per the Emergency Response Plan?",
+      "char_count": 1143,
+      "token_estimate": 285,
+      "section_title": "Residents and Visitors### General Procedures| Question                                                                 | Yes | No | N/A |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm1-p1003-t2postemergencyanalysisanddebrief_8ce13dad952d_chunk_010_0c3f5561",
+      "doc_id": "epm1-p1003-t2postemergencyanalysisanddebrief_8ce13dad952d",
+      "chunk_index": 10,
+      "text": "|     |    |     |\n| 8. Was the evacuation done correctly as per the Emergency Response Plan? |     |    |     |### Were The Following Tasks Completed During The Emergency?| Task                                                                 | Yes | No | N/A |\n|----------------------------------------------------------------------|-----|----|-----|\n| Command Centre was set up and IMS was implemented. |     |    |     |\n| Checklists for the corresponding emergencies were utilized and easily found. |     |    |     |\n| Activities were logged immediately and during the event in the corresponding checklists. |     |    |     |\n| Huddles/debriefs/meetings were conducted as needed. |     |    |     |----> This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 1029,
+      "token_estimate": 257,
+      "section_title": "Residents and Visitors### General Procedures| Question                                                                 | Yes | No | N/A |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm1-p1003-t2postemergencyanalysisanddebrief_8ce13dad952d_chunk_011_885676f1",
+      "doc_id": "epm1-p1003-t2postemergencyanalysisanddebrief_8ce13dad952d",
+      "chunk_index": 11,
+      "text": "will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 2 of 5# Post Emergency Analysis and DebriefThe emergency was escalated to the next appropriate person in a timely manner.- Complete Critical Incident Report if applicable## Section B - AnalysisMust be completed with everyone involved in the incident, utilized to foster a discussion and make changes to emergency plans as needed.- What was the root cause of the event? - What steps can be taken to prevent it from happening again or lessen the chances of it happening again? - What went well with the emergency response? - What are some opportunities for improvement for staff/residents? - What are some opportunities for improvement for policy/procedures (review the procedures against the actions taken and their effectiveness)? - What did you learn from the experience?----This document is uncontrolled when printed.Extendicare (Canada) Inc.",
+      "char_count": 1106,
+      "token_estimate": 276,
+      "section_title": "Residents and Visitors### General Procedures| Question                                                                 | Yes | No | N/A |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm1-p1003-t2postemergencyanalysisanddebrief_8ce13dad952d_chunk_012_d704450c",
+      "doc_id": "epm1-p1003-t2postemergencyanalysisanddebrief_8ce13dad952d",
+      "chunk_index": 12,
+      "text": "- What are some opportunities for improvement for policy/procedures (review the procedures against the actions taken and their effectiveness)? - What did you learn from the experience?----This document is uncontrolled when printed.Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----",
+      "char_count": 512,
+      "token_estimate": 128,
+      "section_title": "Residents and Visitors### General Procedures| Question                                                                 | Yes | No | N/A |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm1-p1003-t2postemergencyanalysisanddebrief_8ce13dad952d_chunk_013_79dc0a51",
+      "doc_id": "epm1-p1003-t2postemergencyanalysisanddebrief_8ce13dad952d",
+      "chunk_index": 13,
+      "text": "# Post Emergency Analysis and Debrief## Did anything not go as planned? - Were issues identified pertaining to any other emergency plans? - ________________________\n- Are updates required to other emergency plans based on this analysis? - ___________________## Other notes:\n- Other                                                                                      YES N/A\n- Canvas staff, residents and visitors to determine if support may be needed (through EAP for staff)\n- Save the completed Debrief Report in the Home Status Report Emergency Debriefs folder. - Update home specific emergency plans with findings from this analysis. - Contact the corporate risk team (RiskManagement@extendicare.com) with recommended changes to policy and procedures from this analysis.## Signature of person completing this report\n- Please print your name and department below----> **Note:** This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 1200,
+      "token_estimate": 300,
+      "section_title": "Post Emergency Analysis and Debrief## Did anything not go as planned?",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm1-p1003-t2postemergencyanalysisanddebrief_8ce13dad952d_chunk_014_545ea558",
+      "doc_id": "epm1-p1003-t2postemergencyanalysisanddebrief_8ce13dad952d",
+      "chunk_index": 14,
+      "text": "will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 4 of 5# Post Emergency Analysis and Debrief\n*(include residents, visitors, families, students, volunteers and community partners)*| Name | Department |\n|------|------------|\n|      |            |----> This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 5 of 5",
+      "char_count": 803,
+      "token_estimate": 200,
+      "section_title": "Post Emergency Analysis and Debrief## Did anything not go as planned?",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

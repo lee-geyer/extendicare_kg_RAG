@@ -1,0 +1,53 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t6edomesticwaterheaterstoragetank_594f69d7d38e_chunk_000_89001428",
+      "doc_id": "maint1-o1002-t6edomesticwaterheaterstoragetank_594f69d7d38e",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## MAINTENANCE INSPECTION CHECKLIST### LEGEND/KEY\n| Equipment | Domestic Water Heater/Storage |\n|-----------|-------------------------------|\n| Name:     | Tank                          |\n| Year:     |                               |\n| Unit No.: |                               |\n| Manufacturer: | A.O. Smith, Ruud, etc. |\n| Model:    | BT Style, GL Style (heater/storage tank combined) |### CHECKS\n| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   |   |   | 1. Check that the combustion air-inlet to the boiler room is clear and free of obstructions. |\n| X |   |   |   |   | 2. Test temperature controller and high limit device. |\n| X |   |   |   |   | 3. Check the pilot and burner for proper flame size, ignition and colour. |\n| X |   |   |   |   | 4. Test draft on draft hoods. |\n| X |   |   |   |   | 5. Inspect piping for leaks. |\n|   |   |   | X |   | 6. Check that circulation pump operates properly. Add 2 or 3 drops of oil to the pump. |\n|   | X |   |   |   | 7. Manually test safety relief valve. |\n|   | X |   |   |   | 8.",
+      "char_count": 1197,
+      "token_estimate": 299,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t6edomesticwaterheaterstoragetank_594f69d7d38e_chunk_002_77884789",
+      "doc_id": "maint1-o1002-t6edomesticwaterheaterstoragetank_594f69d7d38e",
+      "chunk_index": 2,
+      "text": "Manually test safety relief valve. |\n|   | X |   |   |   | 8. Inspect sacrificial anode for wear. Replace as required. |\n|   |   |   |   |   | Refer to “Annual Heating Inspection SPECIFICATIONS” for annual requirements. * |**NOTE:**\n* The services of qualified personnel may be required.\n\n|\n|   |   |   |   |   | Refer to “Annual Heating Inspection SPECIFICATIONS” for annual requirements. * |**NOTE:**\n* The services of qualified personnel may be required. ** Qualified service firms are to be employed.### MONTHLY CHECKLIST\n|   | JAN | FEB | MAR | APR | MAY | JUN | | | | | | | | | | | | | |\n|---|-----|-----|-----|-----|-----|-----|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| M | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   |\n| W | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   ||   | JUL | AUG | SEP | OCT | NOV | DEC | | | | | | | | | | | | | |\n|---|-----|-----|-----|-----|-----|-----|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| M | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   |\n| W | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   |----This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1401,
+      "token_estimate": 350,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### LEGEND/KEY",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t6edomesticwaterheaterstoragetank_594f69d7d38e_chunk_004_87d7e33f",
+      "doc_id": "maint1-o1002-t6edomesticwaterheaterstoragetank_594f69d7d38e",
+      "chunk_index": 4,
+      "text": "** Qualified service firms are to be employed.### MONTHLY CHECKLIST\n|   | JAN | FEB | MAR | APR | MAY | JUN | | | | | | | | | | | | | |\n|---|-----|-----|-----|-----|-----|-----|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| M | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   |\n| W | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   ||   | JUL | AUG | SEP | OCT | NOV | DEC | | | | | | | | | | | | | |\n|---|-----|-----|-----|-----|-----|-----|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| M | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   |\n| W | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   |----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 1188,
+      "token_estimate": 297,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### LEGEND/KEY",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t6edomesticwaterheaterstoragetank_594f69d7d38e_chunk_005_74fc64bc",
+      "doc_id": "maint1-o1002-t6edomesticwaterheaterstoragetank_594f69d7d38e",
+      "chunk_index": 5,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025  Page 1 of 2# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 2 of 2**",
+      "char_count": 789,
+      "token_estimate": 197,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### LEGEND/KEY",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 4
+}

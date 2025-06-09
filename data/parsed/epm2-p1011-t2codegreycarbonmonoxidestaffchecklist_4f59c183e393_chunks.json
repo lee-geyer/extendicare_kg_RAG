@@ -1,0 +1,42 @@
+{
+  "doc_id": "epm2-p1011-t2codegreycarbonmonoxidestaffchecklist_4f59c183e393",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "epm2-p1011-t2codegreycarbonmonoxidestaffchecklist_4f59c183e393_chunk_000_4971e2e5",
+      "doc_id": "epm2-p1011-t2codegreycarbonmonoxidestaffchecklist_4f59c183e393",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Code Grey – Carbon Monoxide Staff Checklist**Date:** Enter date\n**Staff Member:***Note: You may edit this job action checklist to be home specific.*### Respond\n- Record the time action was initiated\n- Notification received from:\n- Known information:\n- Notify the Incident Manager upon hearing a carbon monoxide alarm. - Follow the directions of the Incident Manager. - Begin evacuating residents from the affected area where the alarm is sounding immediately. (Refer to Code Green – Evacuation)\n- Open all windows and outside doors in the affected area. - Turn on any electric-run exhaust fans including cooking hoods, tub room exhaust fans, and air exchange systems, as applicable, within the area where the carbon monoxide was detected. **Note:** Carbon monoxide is not combustible and does not pose a fire/explosion hazard. - Turn off all fuel burning appliances in the area (e.g., furnace, stove, dryer, etc.). - Report to the Incident Manager any symptoms of carbon monoxide poisoning (headache, dizziness, weakness, vomiting, chest pain, confusion) being felt by you or any other staff, resident, or visitor.",
+      "char_count": 1132,
+      "token_estimate": 283,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1011-t2codegreycarbonmonoxidestaffchecklist_4f59c183e393_chunk_002_d6a350e8",
+      "doc_id": "epm2-p1011-t2codegreycarbonmonoxidestaffchecklist_4f59c183e393",
+      "chunk_index": 2,
+      "text": "- Turn off all fuel burning appliances in the area (e.g., furnace, stove, dryer, etc.). - Report to the Incident Manager any symptoms of carbon monoxide poisoning (headache, dizziness, weakness, vomiting, chest pain, confusion) being felt by you or any other staff, resident, or visitor. - Restrict the entry of individuals into the affected area until the Incident Manager announces an All Clear.----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025",
+      "char_count": 723,
+      "token_estimate": 180,
+      "section_title": "Code Grey – Carbon Monoxide Staff Checklist**Date:** Enter date",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1011-t2codegreycarbonmonoxidestaffchecklist_4f59c183e393_chunk_003_36c1ac02",
+      "doc_id": "epm2-p1011-t2codegreycarbonmonoxidestaffchecklist_4f59c183e393",
+      "chunk_index": 3,
+      "text": "# Code Grey – Carbon Monoxide\n\n## Staff ChecklistAfter being notified that it is safe to return to the home area and the “all clear” has been announced:- Return residents back to their home area.\n- Participate in the debrief and analysis session.----> **Note:** This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\n> Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 2 of 2",
+      "char_count": 602,
+      "token_estimate": 150,
+      "section_title": "Code Grey – Carbon Monoxide",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

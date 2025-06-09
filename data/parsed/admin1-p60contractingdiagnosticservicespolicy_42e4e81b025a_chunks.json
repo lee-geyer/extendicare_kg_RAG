@@ -1,0 +1,41 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "admin1-p60contractingdiagnosticservicespolicy_42e4e81b025a_chunk_000_929e70fe",
+      "doc_id": "admin1-p60contractingdiagnosticservicespolicy_42e4e81b025a",
+      "chunk_index": 0,
+      "text": "# Extendicare## POLICY MANUAL:\n**Administration**\n**INDEX:** ADMIN1-P60\n**SECTION:** Medical and Professional Services\n**EFFECTIVE DATE:** July 15, 2025\n**REVIEWED DATE:** July 8, 2025\n**APPROVED BY:** VP, LTC Operations\n**MODIFIED DATE:**----## POLICY\nA home may have a written agreement with a third-party diagnostic services provider where services are available, and in consultation with the Regional Director of Operations.## STANDARD\nThe written agreement must provide for, at minimum:\n- The terms of the agreement;\n- The responsibilities of the home;\n- Submission of documented evidence by the diagnostic services provider on the qualifications of their staff directly or indirectly providing services to the home; and\n- The responsibilities and duties of the diagnostic services vendor, including accountability to the Executive Director for adhering to the company’s policies, the provision of diagnostic services by a qualified technician, and the provision of regular and after-hours availability.## PROCEDURE",
+      "char_count": 1020,
+      "token_estimate": 255,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 13
+    },
+    {
+      "chunk_id": "admin1-p60contractingdiagnosticservicespolicy_42e4e81b025a_chunk_001_b927e93d",
+      "doc_id": "admin1-p60contractingdiagnosticservicespolicy_42e4e81b025a",
+      "chunk_index": 1,
+      "text": "1. Contracting Diagnostic Services## REFERENCES\n\n1. Alberta\n- a. Continuing Care Act\n- b. Alberta Continuing Care Accommodation and Health Service Standards",
+      "char_count": 156,
+      "token_estimate": 39,
+      "section_title": "Contracting Diagnostic Services## REFERENCES",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "admin1-p60contractingdiagnosticservicespolicy_42e4e81b025a_chunk_003_8099efbd",
+      "doc_id": "admin1-p60contractingdiagnosticservicespolicy_42e4e81b025a",
+      "chunk_index": 3,
+      "text": "2. Manitoba\n- a. The Health Services Insurance Act, 2025\n\n3. Ontario\n- a. Ontario Fixing Long-Term Care Act, 2021\n- b. Ontario Regulation 246/22 under the Fixing Long-Term Care Act, 2021----*Helping people live better*\nThis document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 1 of 1",
+      "char_count": 553,
+      "token_estimate": 138,
+      "section_title": "Manitoba",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 3
+}

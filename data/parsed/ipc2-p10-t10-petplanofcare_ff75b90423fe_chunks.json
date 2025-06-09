@@ -1,0 +1,30 @@
+{
+  "doc_id": "ipc2-p10-t10-petplanofcare_ff75b90423fe",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "ipc2-p10-t10-petplanofcare_ff75b90423fe_chunk_000_b51a7bc6",
+      "doc_id": "ipc2-p10-t10-petplanofcare_ff75b90423fe",
+      "chunk_index": 0,
+      "text": "# Extendicare Pet Plan of Care| **Pet Name:** | **Home** | **Type of Animals:** |\n|---------------|----------|----------------------|\n|               |          |                      |## Animal History- **Admitted:**\n- **Description:**\n- **Sex:**\n- **Weight:**\n- **Age:**\n- **Medical issues:**\n- **Veterinarian:**\n- **Last vaccinations/medical care:**\n- **Rabies:**\n- **Date:**\n- **FVRCP:**\n- **Date:**\n- **Annual Health Exam:**\n- **Date:**\n- **Other:**## Identified Pet Needs- **Behavioural:**\n- **Feeding:**\n- **Grooming:**\n- **Play:**\n- **Environmental/Elimination:**## Treatment Plan- **Grooming:**\n- **Behavioural:**\n- **Feeding:**----> Helping people live better> This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 988,
+      "token_estimate": 247,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-t10-petplanofcare_ff75b90423fe_chunk_001_57b327a9",
+      "doc_id": "ipc2-p10-t10-petplanofcare_ff75b90423fe",
+      "chunk_index": 1,
+      "text": "will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 2**# Pet Plan of Care## Environmental/Elimination:## Medication:## Pet Care Goals## Plan of Care Review/Update**Signature:**                     **Review Date:**\n**Signature:**                     **Review Date:**----> This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 2 of 2",
+      "char_count": 825,
+      "token_estimate": 206,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

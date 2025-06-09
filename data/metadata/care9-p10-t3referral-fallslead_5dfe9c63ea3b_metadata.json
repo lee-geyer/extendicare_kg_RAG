@@ -1,0 +1,11 @@
+{
+  "doc_id": "care9-p10-t3referral-fallslead_5dfe9c63ea3b",
+  "category": "Care",
+  "schema_used": "GenericDocumentMeta",
+  "extraction_success": true,
+  "metadata": {
+    "title": "Referral - Falls Lead"
+  },
+  "error": null,
+  "fallback_metadata": null
+}

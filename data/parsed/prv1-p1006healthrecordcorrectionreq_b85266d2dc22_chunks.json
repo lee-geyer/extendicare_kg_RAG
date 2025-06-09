@@ -1,0 +1,66 @@
+{
+  "doc_id": "prv1-p1006healthrecordcorrectionreq_b85266d2dc22",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": "prv1-p1006healthrecordcorrectionreq_b85266d2dc22_chunk_000_9c5d38d5",
+      "doc_id": "prv1-p1006healthrecordcorrectionreq_b85266d2dc22",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Privacy and Confidentiality\n**INDEX:** PRV1-P10.06\n**SECTION:** Privacy and Confidentiality Program\n**EFFECTIVE DATE:** April 1, 2025\n**REVIEWED DATE:** March 25, 2025\n**APPROVED BY:** Senior Director, Corporate Quality and Risk\n**MODIFIED DATE:** May 30, 2025----## POLICY### Privacy and Confidentiality Program## PROCEDUREA resident or their substitute decision maker (“SDM”) (resident or SDM, the “requestor”) may submit a written health record correction request. Only factual information can be subject to a correction. The following will not be corrected:- opinions or assessments made by staff as part of their duties; or\n- information that was not created by the staff of Extendicare.### ResponsibilitiesThe Head Office/Executive Director/Director of Care or Delegate is responsible for:1. Sending the health record correction request to Privacy_Officer@extendicare.com for review before responding.",
+      "char_count": 944,
+      "token_estimate": 236,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 7
+    },
+    {
+      "chunk_id": "prv1-p1006healthrecordcorrectionreq_b85266d2dc22_chunk_001_1fe38b96",
+      "doc_id": "prv1-p1006healthrecordcorrectionreq_b85266d2dc22",
+      "chunk_index": 1,
+      "text": "2. Reviewing all consents for health record correction requests to ensure that an original copy of the witnessed consent has been signed by either the resident (if competent), or the SDM, Power of Attorney, or Executor of the estate (if resident is deceased).\n\n3. Responding to the request within 30 calendar days. Provide the requestor a timely response after receipt of the request form indicating the request has been received and is being reviewed. Contact Privacy_Officer@extendicare.com for all time extension requests.",
+      "char_count": 525,
+      "token_estimate": 131,
+      "section_title": "Reviewing all consents for health record correction requests to ensure that an original copy of the witnessed consent has been signed by either the resident (if competent), or the SDM, Power of Attorney, or Executor of the estate (if resident is deceased).",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv1-p1006healthrecordcorrectionreq_b85266d2dc22_chunk_003_2285f612",
+      "doc_id": "prv1-p1006healthrecordcorrectionreq_b85266d2dc22",
+      "chunk_index": 3,
+      "text": "4. Consulting with the resident’s physician for all health record correction requests.\n\n5. If a correction is made, ensuring, for accountability purposes, that a copy of the original information is saved separately and can still be reviewed.",
+      "char_count": 241,
+      "token_estimate": 60,
+      "section_title": "Consulting with the resident’s physician for all health record correction requests.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv1-p1006healthrecordcorrectionreq_b85266d2dc22_chunk_005_427bed6a",
+      "doc_id": "prv1-p1006healthrecordcorrectionreq_b85266d2dc22",
+      "chunk_index": 5,
+      "text": "6. In response to correction requests, advising the requestor in writing if the correction has not been made and providing the specific reasons for withholding or refusing to correct. Contact Privacy_Officer@extendicare.com for legislative language to reference in responding to the requestor.\n\n7. Attaching or linking the statement of disagreement to the information that is the subject of the request in the health record. A written statement of disagreement, which outlines the requester’s reasons for disagreeing with Extendicare’s decision, may be submitted by the requester where information is not corrected.",
+      "char_count": 615,
+      "token_estimate": 153,
+      "section_title": "In response to correction requests, advising the requestor in writing if the correction has not been made and providing the specific reasons for withholding or refusing to correct. Contact Privacy_Officer@extendicare.com for legislative language to reference in responding to the requestor.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv1-p1006healthrecordcorrectionreq_b85266d2dc22_chunk_007_dcce0994",
+      "doc_id": "prv1-p1006healthrecordcorrectionreq_b85266d2dc22",
+      "chunk_index": 7,
+      "text": "8. Contacting Privacy_Officer@extendicare.com to discuss the requirement, which may be applicable to Extendicare, to notify persons or agencies to whom the information was disclosed in the preceding year that a correction has been made or that a statement of disagreement has been filed.## EDUCATION1. Annual Privacy Education----**Helping people live better**\nThis document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 1 of 1",
+      "char_count": 695,
+      "token_estimate": 173,
+      "section_title": "Contacting Privacy_Officer@extendicare.com to discuss the requirement, which may be applicable to Extendicare, to notify persons or agencies to whom the information was disclosed in the preceding year that a correction has been made or that a statement of disagreement has been filed.## EDUCATION1. Annual Privacy Education----**Helping people live better**",
+      "chunk_type": "content",
+      "start_line": 14,
+      "end_line": 17
+    }
+  ]
+}

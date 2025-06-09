@@ -1,0 +1,18 @@
+{
+  "doc_id": "ipc8-p10-t5-weeklyresidentequipmentcleaningrecord_23b22bf50340",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "ipc8-p10-t5-weeklyresidentequipmentcleaningrecord_23b22bf50340_chunk_000_6c1d3777",
+      "doc_id": "ipc8-p10-t5-weeklyresidentequipmentcleaningrecord_23b22bf50340",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Weekly Resident Equipment Cleaning Record**Week of:**### Specific Instructions:\n- Equipment to be Cleaned (check items that apply; cross out items that do not apply)| Day | RM (M-F) | # Resident | Signature | W/C, Board | Cane and Cushion | CPAP/Nebulizer | Bed Mattress | Care Pan | Basins | Urinal | Sling | Aerochamber | Walker/Mouth | Date Cleaned |\n|-----|----------|------------|-----------|------------|------------------|----------------|--------------|----------|--------|--------|-------|-------------|--------------|--------------|\n|     |          |            |           |            |                  |                |              |          |        |        |       |             |              |              |----**Helping people live better**> This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\n> Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 1",
+      "char_count": 1125,
+      "token_estimate": 281,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

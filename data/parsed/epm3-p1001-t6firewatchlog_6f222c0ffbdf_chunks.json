@@ -1,0 +1,30 @@
+{
+  "doc_id": "epm3-p1001-t6firewatchlog_6f222c0ffbdf",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "epm3-p1001-t6firewatchlog_6f222c0ffbdf_chunk_000_5ec66312",
+      "doc_id": "epm3-p1001-t6firewatchlog_6f222c0ffbdf",
+      "chunk_index": 0,
+      "text": "# Extendicare Fire Watch Log**Area:**## BUILDING AREA/ROOM CHECK Q 1 HOUR INTERVALS> **Note:** This form may be used to document visual checks of the home during loss of fire safety systems. This form may also be useful when monitoring the loss of other essential services such as call bells or used at the discretion of the Incident Manager. Initial under the time you have conducted the check.| Date       | AM | 0000 | 0100 | 0200 | 0300 | 0400 | 0500 | 0600 | 0700 | 0800 | 0900 | 1000 | 1100 | 1200 | 1300 | 1400 | 1500 | 1600 | 1700 | 1800 | 1900 | 2000 | 2100 | 2200 | 2300 |\n|------------|----|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|---|\n| Of Day     |    |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      | |----> Helping people live a better life. > This document is uncontrolled when printed. > Extendicare (Canada) Inc.",
+      "char_count": 1064,
+      "token_estimate": 266,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm3-p1001-t6firewatchlog_6f222c0ffbdf_chunk_001_4045a61b",
+      "doc_id": "epm3-p1001-t6firewatchlog_6f222c0ffbdf",
+      "chunk_index": 1,
+      "text": "> This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 1",
+      "char_count": 342,
+      "token_estimate": 85,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

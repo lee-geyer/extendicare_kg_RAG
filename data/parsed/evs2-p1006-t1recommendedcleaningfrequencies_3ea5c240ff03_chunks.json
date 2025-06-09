@@ -1,0 +1,90 @@
+{
+  "doc_id": "evs2-p1006-t1recommendedcleaningfrequencies_3ea5c240ff03",
+  "total_chunks": 7,
+  "chunks": [
+    {
+      "chunk_id": "evs2-p1006-t1recommendedcleaningfrequencies_3ea5c240ff03_chunk_000_028b12df",
+      "doc_id": "evs2-p1006-t1recommendedcleaningfrequencies_3ea5c240ff03",
+      "chunk_index": 0,
+      "text": "# Extendicare",
+      "char_count": 13,
+      "token_estimate": 3,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chunk_id": "evs2-p1006-t1recommendedcleaningfrequencies_3ea5c240ff03_chunk_001_5190be06",
+      "doc_id": "evs2-p1006-t1recommendedcleaningfrequencies_3ea5c240ff03",
+      "chunk_index": 1,
+      "text": "## Recommended Cleaning Frequencies| AREA/TASK                     | DAILY | AS REQUIRED | WEEKLY | MONTHLY | QUARTERLY | ANNUALLY |\n|-------------------------------|-------|-------------|--------|---------|-----------|----------|\n| Activity/Craft Areas          | Floor, sink, counter |             |        |         |           |          |\n| Balconies/Patios              |       | X           |        |         |           |          |\n| Beauty Salon                   |       |             | floor, hand sink |         |           |          |\n| Corridors                      |       |             | Or every two weeks |         |           |          |\n| Lounge Areas                   |       |             |        | X       |           |          |\n| Buffing: Resident Rooms        |       |             | Traffic lane |         |           |          |\n| Dining Rooms                   |       |             |        | X       |           |          |\n| Storerooms                     |       |             |        |         |           | X        |\n| Utility Rooms                  | X     |             | 30 – 60 days |         |           |          |\n| Vacuum – spot                  | X     |             |        |         |           |          |\n| Carpets: Vacuum – full         |       |             | X      | X       |           |          |\n| Hot water extract              |       |             | X      |         |           | X        |\n| Celebration Room               |       |             | X      |         |           |          |\n| Chapel                         |       | When open   |        |         |           |          |\n| Helping people                 |       |             |        |         |           |          |\n| Resident room                  |       | On discharge |         |         |           | 60 – 90 days |\n| Deep Cleaning                  | Common areas | X       |         | X       |           |          |\n| Helping people                 |       | During stripping program or on deep cleaning schedule | | | | |\n| Baseboards (all areas)        |       |             |        |         |           |          |\n| Walls – all areas              | Spot clean | Full wash |        |         |           |          |\n| Privacy drapes                 |       | On discharge or after isolation | | | | X |\n| Window drapes                  |       | X           |        |         |           | X        |\n| Furniture                      | Spot clean | Full clean |        |         |           |          |\n| Helping people                 |       |             | Iva better |         |           |          |\n| Kitchen                        |       |             |         |         |           |          |\n| Dining Rooms                   | Floors, spot clean |        |         | 30 – 90 days: deep clean table and chairs | | |\n| Helping people                 |       |             | walls   |         |           |          |\n| Dusting                        | Resident Rooms |       |         |         |           |          |\n| Helping people                 |       |             | Iva better |         |           |          |----This document is uncontrolled when printed.",
+      "char_count": 3245,
+      "token_estimate": 811,
+      "section_title": "Recommended Cleaning Frequencies| AREA/TASK                     | DAILY | AS REQUIRED | WEEKLY | MONTHLY | QUARTERLY | ANNUALLY |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1006-t1recommendedcleaningfrequencies_3ea5c240ff03_chunk_002_e6e5f0d6",
+      "doc_id": "evs2-p1006-t1recommendedcleaningfrequencies_3ea5c240ff03",
+      "chunk_index": 2,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025",
+      "char_count": 278,
+      "token_estimate": 69,
+      "section_title": "Recommended Cleaning Frequencies| AREA/TASK                     | DAILY | AS REQUIRED | WEEKLY | MONTHLY | QUARTERLY | ANNUALLY |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1006-t1recommendedcleaningfrequencies_3ea5c240ff03_chunk_003_bf8cb39f",
+      "doc_id": "evs2-p1006-t1recommendedcleaningfrequencies_3ea5c240ff03",
+      "chunk_index": 3,
+      "text": "# Recommended Cleaning Frequencies| AREA/TASK                     | DAILY | AS REQUIRED | WEEKLY | MONTHLY | QUARTERLY | ANNUALLY |\n|-------------------------------|-------|-------------|--------|---------|-----------|----------|\n| **(high/low):**               |       |             |        |         |           |          |\n| Corridors                     |       | two weeks   | X      |         |           |          |\n| Common Areas                  |       |             | X      |         |           |          |\n| Elevators                     | X     |             |        |         |           |          |\n| Family Sleep-Over Room        |       |             | X      |         |           |          |\n| **Floors:**                   |       |             |        |         |           |          |\n| Dust mop                      | X     |             |        |         |           |          |\n| Spot mop                      |       |             |        |         |           |          |\n| Wet/damp mop                  |       |             |        |         |           |          |\n| Washroom                      |       | Full wash   |        |         |           |          |\n| Re-finishing floors           |       |             | X      |         |           |          |\n| Kitchenettes                  |       |             | X      |         |           |          |\n| Kitchen                       |       | 30 – 90 days: auto scrub floors | |         |           |          |\n| Laundry Chute Room            |       |             |        | Semi-annually |           |          |\n| Laundry Room                  |       |             |        |         |           |          |\n| **Floors**                    |       |             |        |         |           |          |\n| Corridors & Lounges          |       |             | X      |         |           |          |\n| Office & Resident Areas       |       |             | X      |         |           |          |\n| **Lights:**                   |       |             |        |         |           |          |\n| Resident Rooms & Bathrooms     |       | Or every two weeks (high & low dusting) | |         |           |          |\n| Service Areas                 |       |             |        |         | X         |          |\n| Lounge Areas                  | X     |             |        |         |           |          |\n| Main Entrance                 | X     |             |        |         |           |          |\n| Nursing Station/Med.",
+      "char_count": 2546,
+      "token_estimate": 636,
+      "section_title": "Recommended Cleaning Frequencies| AREA/TASK                     | DAILY | AS REQUIRED | WEEKLY | MONTHLY | QUARTERLY | ANNUALLY |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1006-t1recommendedcleaningfrequencies_3ea5c240ff03_chunk_004_a035c080",
+      "doc_id": "evs2-p1006-t1recommendedcleaningfrequencies_3ea5c240ff03",
+      "chunk_index": 4,
+      "text": "Room     | X     |             |        |         |           |          |\n| Office Areas/Boardrooms       |       |             | X      |         |           |          |\n| Public/Staff Washroom         |       |             | X      |         |           |          |\n| Receiving Area                |       | 2 times/week|        |         |           |          |\n| Reception                     | X     |             |        |         |           |          |\n| Resident Rooms                | X     |             |        |         |           |          |\n| Resident Washrooms            | X     |             |        |         |           |          |\n| Serveries                     |       | Floors, hand sink | |         |           |          |\n| Staff Locker Rooms            | X     |             |        |         |           |          |\n| Staff Lunch Rooms             | X     |             |        |         |           |          |\n| Stairwell                     |       | High traffic areas | Low traffic areas | Low traffic areas | | |\n| Stock rooms                   |       |             |        |         |           |          |----This document is uncontrolled when printed.",
+      "char_count": 1207,
+      "token_estimate": 301,
+      "section_title": "Recommended Cleaning Frequencies| AREA/TASK                     | DAILY | AS REQUIRED | WEEKLY | MONTHLY | QUARTERLY | ANNUALLY |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1006-t1recommendedcleaningfrequencies_3ea5c240ff03_chunk_005_b83edcc7",
+      "doc_id": "evs2-p1006-t1recommendedcleaningfrequencies_3ea5c240ff03",
+      "chunk_index": 5,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n\n# Recommended Cleaning Frequencies| AREA/TASK                     | DAILY | AS REQUIRED | WEEKLY | MONTHLY | QUARTERLY | ANNUALLY |\n|-------------------------------|-------|-------------|--------|---------|-----------|----------|\n| Therapy Room                  | X     |             |        |         |           |          |\n| Trash/Garbage Collection      | X     |             |        |         |           |          |\n| Tub/Spas                      |       |             |        |         |           |          |\n| Tub/Spa Washroom              | X     |             |        |         |           |          |\n| Utility Rooms                 | X     |             |        |         |           |          |\n| Vents (all areas)            |       |             | Or bi-  |         | Deep clean |          |\n|                               |       |             | weekly  |         | (Maintenance) |        |\n| All Areas                     | Spot clean | Spot clean |        | Full clean |           |          |\n| Windows:                      |       |             |        |         |           |          |\n| Interior                      | Spot clean | Spot clean |        | Full clean |           |          |\n| Exterior                      | Spot clean | Spot clean |        | Full clean |           |          |----This document is uncontrolled when printed.",
+      "char_count": 1659,
+      "token_estimate": 414,
+      "section_title": "Recommended Cleaning Frequencies| AREA/TASK                     | DAILY | AS REQUIRED | WEEKLY | MONTHLY | QUARTERLY | ANNUALLY |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1006-t1recommendedcleaningfrequencies_3ea5c240ff03_chunk_007_eeeea429",
+      "doc_id": "evs2-p1006-t1recommendedcleaningfrequencies_3ea5c240ff03",
+      "chunk_index": 7,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 3 of 3",
+      "char_count": 290,
+      "token_estimate": 72,
+      "section_title": "Recommended Cleaning Frequencies| AREA/TASK                     | DAILY | AS REQUIRED | WEEKLY | MONTHLY | QUARTERLY | ANNUALLY |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "doc_id": "care3-p10-e1residentsafetyeducation_f2870a2a751e",
+  "total_chunks": 13,
+  "chunks": [
+    {
+      "chunk_id": "care3-p10-e1residentsafetyeducation_f2870a2a751e_chunk_000_a1029e47",
+      "doc_id": "care3-p10-e1residentsafetyeducation_f2870a2a751e",
+      "chunk_index": 0,
+      "text": "# Resident Safety## A Proactive Approach to Resident Safety: Prevention and Best Practices**Effective Date:** 2025\n**Policy Number:** [Insert Policy Number Here]\n**Review Date:** [Insert Review Date Here]----### Table of Contents1. Introduction\n\n2. Objectives",
+      "char_count": 259,
+      "token_estimate": 64,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p10-e1residentsafetyeducation_f2870a2a751e_chunk_002_c9dbf0ee",
+      "doc_id": "care3-p10-e1residentsafetyeducation_f2870a2a751e",
+      "chunk_index": 2,
+      "text": "3. Definitions\n\n4. Responsibilities",
+      "char_count": 35,
+      "token_estimate": 8,
+      "section_title": "Definitions",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p10-e1residentsafetyeducation_f2870a2a751e_chunk_004_7de19c36",
+      "doc_id": "care3-p10-e1residentsafetyeducation_f2870a2a751e",
+      "chunk_index": 4,
+      "text": "5. Prevention Strategies\n\n6. Best Practices",
+      "char_count": 43,
+      "token_estimate": 10,
+      "section_title": "Prevention Strategies",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p10-e1residentsafetyeducation_f2870a2a751e_chunk_006_dafdd492",
+      "doc_id": "care3-p10-e1residentsafetyeducation_f2870a2a751e",
+      "chunk_index": 6,
+      "text": "7. Training and Education\n\n8. Incident Reporting",
+      "char_count": 48,
+      "token_estimate": 12,
+      "section_title": "Training and Education",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p10-e1residentsafetyeducation_f2870a2a751e_chunk_008_f761a37d",
+      "doc_id": "care3-p10-e1residentsafetyeducation_f2870a2a751e",
+      "chunk_index": 8,
+      "text": "9. Review and Evaluation----### 1. IntroductionThe safety of residents is a top priority at Extendicare. This document outlines the proactive measures and best practices to ensure a safe living environment.### 2. Objectives- To minimize risks to residents. - To promote a culture of safety. - To ensure compliance with safety regulations.### 3. Definitions- **Resident Safety:** The condition of being protected from harm or injury. - **Best Practices:** Methods or techniques that have consistently shown results superior to those achieved by other means.### 4. Responsibilities- **Staff:** Responsible for implementing safety measures. - **Management:** Oversee safety protocols and ensure staff training.### 5. Prevention Strategies- Regular safety audits\n- Risk assessments\n- Environmental modifications### 6. Best Practices- Maintain clear pathways\n- Use non-slip mats\n- Ensure proper lighting### 7. Training and Education- Regular training sessions for staff\n- Safety drills and simulations### 8. Incident Reporting- All incidents must be reported immediately.",
+      "char_count": 1066,
+      "token_estimate": 266,
+      "section_title": "Review and Evaluation----### 1. IntroductionThe safety of residents is a top priority at Extendicare. This document outlines the proactive measures and best practices to ensure a safe living environment.### 2. Objectives- To minimize risks to residents.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p10-e1residentsafetyeducation_f2870a2a751e_chunk_009_2defcbb3",
+      "doc_id": "care3-p10-e1residentsafetyeducation_f2870a2a751e",
+      "chunk_index": 9,
+      "text": "Training and Education- Regular training sessions for staff\n- Safety drills and simulations### 8. Incident Reporting- All incidents must be reported immediately. - Use the following table for incident documentation:| Incident Type      | Date       | Time  | Staff Involved | Action Taken          |\n|--------------------|------------|-------|----------------|-----------------------|\n| Fall               | YYYY-MM-DD | HH:MM | [Staff Names]  | [Actions Taken]       |\n| Medication Error    | YYYY-MM-DD | HH:MM | [Staff Names]  | [Actions Taken]       |### 9.",
+      "char_count": 561,
+      "token_estimate": 140,
+      "section_title": "Review and Evaluation----### 1. IntroductionThe safety of residents is a top priority at Extendicare. This document outlines the proactive measures and best practices to ensure a safe living environment.### 2. Objectives- To minimize risks to residents.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p10-e1residentsafetyeducation_f2870a2a751e_chunk_010_c469b1ae",
+      "doc_id": "care3-p10-e1residentsafetyeducation_f2870a2a751e",
+      "chunk_index": 10,
+      "text": "Incident Reporting- All incidents must be reported immediately. - Use the following table for incident documentation:| Incident Type      | Date       | Time  | Staff Involved | Action Taken          |\n|--------------------|------------|-------|----------------|-----------------------|\n| Fall               | YYYY-MM-DD | HH:MM | [Staff Names]  | [Actions Taken]       |\n| Medication Error    | YYYY-MM-DD | HH:MM | [Staff Names]  | [Actions Taken]       |### 9. Review and EvaluationThis policy will be reviewed annually to ensure its effectiveness and compliance with current regulations.----**Note:** For any questions regarding this policy, please contact the safety officer at Extendicare.# Intended Audience & Training## Who is this training for and what other training is required- All staff taking part in residents’ identification, safety rounds, risk assessment\n- Role Specific Education (e.g., nurse)# Learning Objectives## What You’ll Learn in This Session\n- **Define how to** properly verify resident identity prior to treatment\n- **Describe how to** do regular Safety Rounds\n- **Identify strategies** for preventing Heat-Related Illness\n- **Explain guidelines** for safe tobacco, cannabis, and alcohol use# Resident Safety Program Overview## Policy, Procedures and Corresponding Tools### Resident Safety Policy#### Resident Identification Procedure\n- **Tools**\n- Night Nurse Safety Rounds Checklist#### Safety Rounds Procedure\n- **Tools**\n- Safety – Heat Illness Risk Screen\n- Heat Alert Poster\n- Interdisciplinary Response Plan#### Heat Related Illness Procedure\n- **Tools**\n- Tobacco and Cannabis Risk Screen#### Tobacco & Cannabis Use Procedure\n- **Tools**\n- Tobacco & Cannabis Consumption Agreement#### Safe Alcohol Consumption Procedure\n- **Tools**\n- [Details not provided in the text]----### Document Metadata\n- **Policy Number:** [Not provided]\n- **Effective Date:** [Not provided]\n- **Review Date:** [Not provided]----### Section References\n- [Details not provided in the text]### Cross-References\n- [Details not provided in the text]# Resident Identification Procedure## Overview- **Verify identity**\n- Always use at least two identifiers (e.g., a photo and full name)\n- Ensure resident photos are updated upon move-in and annually\n- Before providing medication, treatments, or procedures to avoid errors----This document outlines the procedures for verifying the identity of residents to ensure safety and accuracy in the provision of care.# Safety Rounds Procedure## OverviewProactively check residents for:\n- Pain\n- Discomfort\n- Toileting needs\n- Mobility needsUse the Night Nurse Safety Rounds Checklist for evening/overnight.",
+      "char_count": 2654,
+      "token_estimate": 663,
+      "section_title": "Review and Evaluation----### 1. IntroductionThe safety of residents is a top priority at Extendicare. This document outlines the proactive measures and best practices to ensure a safe living environment.### 2. Objectives- To minimize risks to residents.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p10-e1residentsafetyeducation_f2870a2a751e_chunk_011_7429ddcf",
+      "doc_id": "care3-p10-e1residentsafetyeducation_f2870a2a751e",
+      "chunk_index": 11,
+      "text": "- Use the following table for incident documentation:| Incident Type      | Date       | Time  | Staff Involved | Action Taken          |\n|--------------------|------------|-------|----------------|-----------------------|\n| Fall               | YYYY-MM-DD | HH:MM | [Staff Names]  | [Actions Taken]       |\n| Medication Error    | YYYY-MM-DD | HH:MM | [Staff Names]  | [Actions Taken]       |### 9. Review and EvaluationThis policy will be reviewed annually to ensure its effectiveness and compliance with current regulations.----**Note:** For any questions regarding this policy, please contact the safety officer at Extendicare.# Intended Audience & Training## Who is this training for and what other training is required- All staff taking part in residents’ identification, safety rounds, risk assessment\n- Role Specific Education (e.g., nurse)# Learning Objectives## What You’ll Learn in This Session\n- **Define how to** properly verify resident identity prior to treatment\n- **Describe how to** do regular Safety Rounds\n- **Identify strategies** for preventing Heat-Related Illness\n- **Explain guidelines** for safe tobacco, cannabis, and alcohol use# Resident Safety Program Overview## Policy, Procedures and Corresponding Tools### Resident Safety Policy#### Resident Identification Procedure\n- **Tools**\n- Night Nurse Safety Rounds Checklist#### Safety Rounds Procedure\n- **Tools**\n- Safety – Heat Illness Risk Screen\n- Heat Alert Poster\n- Interdisciplinary Response Plan#### Heat Related Illness Procedure\n- **Tools**\n- Tobacco and Cannabis Risk Screen#### Tobacco & Cannabis Use Procedure\n- **Tools**\n- Tobacco & Cannabis Consumption Agreement#### Safe Alcohol Consumption Procedure\n- **Tools**\n- [Details not provided in the text]----### Document Metadata\n- **Policy Number:** [Not provided]\n- **Effective Date:** [Not provided]\n- **Review Date:** [Not provided]----### Section References\n- [Details not provided in the text]### Cross-References\n- [Details not provided in the text]# Resident Identification Procedure## Overview- **Verify identity**\n- Always use at least two identifiers (e.g., a photo and full name)\n- Ensure resident photos are updated upon move-in and annually\n- Before providing medication, treatments, or procedures to avoid errors----This document outlines the procedures for verifying the identity of residents to ensure safety and accuracy in the provision of care.# Safety Rounds Procedure## OverviewProactively check residents for:\n- Pain\n- Discomfort\n- Toileting needs\n- Mobility needsUse the Night Nurse Safety Rounds Checklist for evening/overnight. Checks overall safety and environmental security.----### Document Metadata| Policy Number | Effective Date | Review Date |\n|---------------|----------------|-------------|\n| 001           | 2023-01-01     | 2024-01-01  |----### Procedure Details1.",
+      "char_count": 2838,
+      "token_estimate": 709,
+      "section_title": "Review and Evaluation----### 1. IntroductionThe safety of residents is a top priority at Extendicare. This document outlines the proactive measures and best practices to ensure a safe living environment.### 2. Objectives- To minimize risks to residents.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p10-e1residentsafetyeducation_f2870a2a751e_chunk_012_6a8aca17",
+      "doc_id": "care3-p10-e1residentsafetyeducation_f2870a2a751e",
+      "chunk_index": 12,
+      "text": "Review and EvaluationThis policy will be reviewed annually to ensure its effectiveness and compliance with current regulations.----**Note:** For any questions regarding this policy, please contact the safety officer at Extendicare.# Intended Audience & Training## Who is this training for and what other training is required- All staff taking part in residents’ identification, safety rounds, risk assessment\n- Role Specific Education (e.g., nurse)# Learning Objectives## What You’ll Learn in This Session\n- **Define how to** properly verify resident identity prior to treatment\n- **Describe how to** do regular Safety Rounds\n- **Identify strategies** for preventing Heat-Related Illness\n- **Explain guidelines** for safe tobacco, cannabis, and alcohol use# Resident Safety Program Overview## Policy, Procedures and Corresponding Tools### Resident Safety Policy#### Resident Identification Procedure\n- **Tools**\n- Night Nurse Safety Rounds Checklist#### Safety Rounds Procedure\n- **Tools**\n- Safety – Heat Illness Risk Screen\n- Heat Alert Poster\n- Interdisciplinary Response Plan#### Heat Related Illness Procedure\n- **Tools**\n- Tobacco and Cannabis Risk Screen#### Tobacco & Cannabis Use Procedure\n- **Tools**\n- Tobacco & Cannabis Consumption Agreement#### Safe Alcohol Consumption Procedure\n- **Tools**\n- [Details not provided in the text]----### Document Metadata\n- **Policy Number:** [Not provided]\n- **Effective Date:** [Not provided]\n- **Review Date:** [Not provided]----### Section References\n- [Details not provided in the text]### Cross-References\n- [Details not provided in the text]# Resident Identification Procedure## Overview- **Verify identity**\n- Always use at least two identifiers (e.g., a photo and full name)\n- Ensure resident photos are updated upon move-in and annually\n- Before providing medication, treatments, or procedures to avoid errors----This document outlines the procedures for verifying the identity of residents to ensure safety and accuracy in the provision of care.# Safety Rounds Procedure## OverviewProactively check residents for:\n- Pain\n- Discomfort\n- Toileting needs\n- Mobility needsUse the Night Nurse Safety Rounds Checklist for evening/overnight. Checks overall safety and environmental security.----### Document Metadata| Policy Number | Effective Date | Review Date |\n|---------------|----------------|-------------|\n| 001           | 2023-01-01     | 2024-01-01  |----### Procedure Details1. **Hourly Checks**\n- Conducted by personal care staff or nurses.",
+      "char_count": 2502,
+      "token_estimate": 625,
+      "section_title": "Review and Evaluation----### 1. IntroductionThe safety of residents is a top priority at Extendicare. This document outlines the proactive measures and best practices to ensure a safe living environment.### 2. Objectives- To minimize risks to residents.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p10-e1residentsafetyeducation_f2870a2a751e_chunk_013_a363909d",
+      "doc_id": "care3-p10-e1residentsafetyeducation_f2870a2a751e",
+      "chunk_index": 13,
+      "text": "Checks overall safety and environmental security.----### Document Metadata| Policy Number | Effective Date | Review Date |\n|---------------|----------------|-------------|\n| 001           | 2023-01-01     | 2024-01-01  |----### Procedure Details1. **Hourly Checks**\n- Conducted by personal care staff or nurses. - Ensure all residents are monitored regularly.2. **Checklist Usage**\n- Utilize the Night Nurse Safety Rounds Checklist. - Focus on:\n- Resident comfort\n- Safety measures\n- Environmental conditions----### References- Refer to Section 2.3 for additional guidelines on safety protocols. - Cross-reference with the Emergency Response Plan for immediate actions.----This document outlines the procedures for conducting safety rounds to ensure the well-being of residents.# Heat-Related Illness Procedure## Overview\n- Nurse will complete a Heat-Illness Risk Screen for all residents annually between March 1st to April 30th. - Post the Heat Alert Poster throughout the home for awareness. - Implement Interdisciplinary Heat Response Plan (May 15th to September 15th).",
+      "char_count": 1073,
+      "token_estimate": 268,
+      "section_title": "Review and Evaluation----### 1. IntroductionThe safety of residents is a top priority at Extendicare. This document outlines the proactive measures and best practices to ensure a safe living environment.### 2. Objectives- To minimize risks to residents.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p10-e1residentsafetyeducation_f2870a2a751e_chunk_014_56539b30",
+      "doc_id": "care3-p10-e1residentsafetyeducation_f2870a2a751e",
+      "chunk_index": 14,
+      "text": "- Post the Heat Alert Poster throughout the home for awareness. - Implement Interdisciplinary Heat Response Plan (May 15th to September 15th). - Staff monitor resident temperature and implement cooling strategies.# Tobacco and Cannabis Use Procedure## Overview- Nurse completes Tobacco & Cannabis Risk Screen to evaluate resident's ability to safely and independently use these substances. - Executive Director and resident review and sign the Tobacco and Cannabis Consumption Agreement.",
+      "char_count": 487,
+      "token_estimate": 121,
+      "section_title": "Review and Evaluation----### 1. IntroductionThe safety of residents is a top priority at Extendicare. This document outlines the proactive measures and best practices to ensure a safe living environment.### 2. Objectives- To minimize risks to residents.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p10-e1residentsafetyeducation_f2870a2a751e_chunk_015_71916464",
+      "doc_id": "care3-p10-e1residentsafetyeducation_f2870a2a751e",
+      "chunk_index": 15,
+      "text": "- Staff monitor resident temperature and implement cooling strategies.# Tobacco and Cannabis Use Procedure## Overview- Nurse completes Tobacco & Cannabis Risk Screen to evaluate resident's ability to safely and independently use these substances. - Executive Director and resident review and sign the Tobacco and Cannabis Consumption Agreement. - Resident will be directed to use designated smoking areas and annually review the agreement.# Safe Alcohol Consumption Procedure## Overview### Physician or Nurse Practitioner\n- Assessment### Plan of Care\n- Documentation### Store & Secure in the locked Medication Room----**Policy Number:** [Insert Policy Number]\n**Effective Date:** [Insert Effective Date]\n**Review Date:** [Insert Review Date]----This document outlines the procedures for safe alcohol consumption, including the roles of healthcare professionals and the necessary documentation and storage protocols.# Roles and Responsibilities## Everyone’s Role in Resident Safety| Front-line Staff            | Leadership                     | Resident/Family              | Interdisciplinary Teams       |\n|----------------------------|--------------------------------|------------------------------|-------------------------------|\n| Take proactive measures,    | Oversee interdisciplinary       | Collaboration:              | Collaborate on                |\n| follow care plans and       | action plan and                | Involve and educate         | assessments, quality          |\n| proactively report safety   | agreements, ensure follow      | residents and families       | improvement and care plan     |\n| concerns                    | up with raised safety          |                              | updates                       |# Summary and Take Aways## Moving Forward Together- **Correct Identification Prevents Errors**\n- **Regular Safety Rounds Reduce Risk**\n- **Heat-Related Illness is Preventable**\n- **Substance Use Must be Safe**\n- **Safety is a Team Effort**It seems that the text you provided is empty.",
+      "char_count": 2029,
+      "token_estimate": 507,
+      "section_title": "Review and Evaluation----### 1. IntroductionThe safety of residents is a top priority at Extendicare. This document outlines the proactive measures and best practices to ensure a safe living environment.### 2. Objectives- To minimize risks to residents.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p10-e1residentsafetyeducation_f2870a2a751e_chunk_016_87dba1f9",
+      "doc_id": "care3-p10-e1residentsafetyeducation_f2870a2a751e",
+      "chunk_index": 16,
+      "text": "- Executive Director and resident review and sign the Tobacco and Cannabis Consumption Agreement. - Resident will be directed to use designated smoking areas and annually review the agreement.# Safe Alcohol Consumption Procedure## Overview### Physician or Nurse Practitioner\n- Assessment### Plan of Care\n- Documentation### Store & Secure in the locked Medication Room----**Policy Number:** [Insert Policy Number]\n**Effective Date:** [Insert Effective Date]\n**Review Date:** [Insert Review Date]----This document outlines the procedures for safe alcohol consumption, including the roles of healthcare professionals and the necessary documentation and storage protocols.# Roles and Responsibilities## Everyone’s Role in Resident Safety| Front-line Staff            | Leadership                     | Resident/Family              | Interdisciplinary Teams       |\n|----------------------------|--------------------------------|------------------------------|-------------------------------|\n| Take proactive measures,    | Oversee interdisciplinary       | Collaboration:              | Collaborate on                |\n| follow care plans and       | action plan and                | Involve and educate         | assessments, quality          |\n| proactively report safety   | agreements, ensure follow      | residents and families       | improvement and care plan     |\n| concerns                    | up with raised safety          |                              | updates                       |# Summary and Take Aways## Moving Forward Together- **Correct Identification Prevents Errors**\n- **Regular Safety Rounds Reduce Risk**\n- **Heat-Related Illness is Preventable**\n- **Substance Use Must be Safe**\n- **Safety is a Team Effort**It seems that the text you provided is empty. Please provide the content or document you would like me to extract and preserve the structure from, and I will be happy to assist you!",
+      "char_count": 1918,
+      "token_estimate": 479,
+      "section_title": "Review and Evaluation----### 1. IntroductionThe safety of residents is a top priority at Extendicare. This document outlines the proactive measures and best practices to ensure a safe living environment.### 2. Objectives- To minimize risks to residents.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

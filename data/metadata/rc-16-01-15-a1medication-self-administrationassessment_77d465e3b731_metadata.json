@@ -1,0 +1,11 @@
+{
+  "doc_id": "rc-16-01-15-a1medication-self-administrationassessment_77d465e3b731",
+  "category": "Care",
+  "schema_used": "GenericDocumentMeta",
+  "extraction_success": true,
+  "metadata": {
+    "title": "Medication - Self - Administration Assessment"
+  },
+  "error": null,
+  "fallback_metadata": null
+}

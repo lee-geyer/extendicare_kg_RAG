@@ -1,0 +1,18 @@
+{
+  "doc_id": "ipc2-p10-e14-sixstepstowearingn95respirator_491b5ad9ab6f",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "ipc2-p10-e14-sixstepstowearingn95respirator_491b5ad9ab6f_chunk_000_c980324a",
+      "doc_id": "ipc2-p10-e14-sixstepstowearingn95respirator_491b5ad9ab6f",
+      "chunk_index": 0,
+      "text": "# Six Steps to Wearing the N95 Respirator## Step 1\nWash your hands thoroughly before putting on the respirator.## Step 2\nUse an N95 respirator that has been fit-tested for you.## Step 3\nHold the respirator in your hand and place it firmly over your nose, mouth, and chin.## Step 4\nFirst, stretch and position the bottom band under your ears. Then, stretch and position the top band high at the back of your head.## Step 5\nPress the thin metal wire along the upper edge gently against the bridge of your nose so that the respirator fits snugly on your face.## Step 6\nPerform a fit check by breathing in and out. While breathing out, check for air leakage around your face.",
+      "char_count": 671,
+      "token_estimate": 167,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 6
+    }
+  ]
+}

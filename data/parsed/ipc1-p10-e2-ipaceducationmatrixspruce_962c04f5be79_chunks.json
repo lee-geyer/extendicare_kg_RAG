@@ -1,0 +1,162 @@
+{
+  "doc_id": "ipc1-p10-e2-ipaceducationmatrixspruce_962c04f5be79",
+  "total_chunks": 13,
+  "chunks": [
+    {
+      "chunk_id": "ipc1-p10-e2-ipaceducationmatrixspruce_962c04f5be79_chunk_000_be500d6e",
+      "doc_id": "ipc1-p10-e2-ipaceducationmatrixspruce_962c04f5be79",
+      "chunk_index": 0,
+      "text": "```markdown\n\n# Infection Prevention & Control Program ~ Inter-professional Education Matrix – Spruce only",
+      "char_count": 105,
+      "token_estimate": 26,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc1-p10-e2-ipaceducationmatrixspruce_962c04f5be79_chunk_002_958d64ec",
+      "doc_id": "ipc1-p10-e2-ipaceducationmatrixspruce_962c04f5be79",
+      "chunk_index": 2,
+      "text": "## “A Pathway to Excellence”| Education | Delivery Method | Frequency | Provided/Facilitated by | Competency Assessment | Competency Re-Assessment | Accountability | Governance | Additional Resources |\n|-----------|----------------|-----------|-------------------------|-----------------------|--------------------------|----------------|------------|----------------------|\n| All employees within the Home | 1. hand hygiene and basic personal hygiene, including the use of alcohol-based hand rubs and hand washing; | Upon Orientation & annually thereafter | Employee Educator or designate | Application of knowledge - interactive activities | Performance Appraisals, observation | DOC/ADOC Employee | RMCS / RMERS Educator or designate |  |\n| | 2. disease transmission, the risks associated with infectious diseases and basic epidemiology of health care-associated infections specific to the setting; | | | | | | | |\n| | 3. assessment of the risk of infection transmission and the appropriate use of personal protective equipment (PPE), including safe application, removal and disposal; | | | | | | | |\n| | 4.",
+      "char_count": 1110,
+      "token_estimate": 277,
+      "section_title": "“A Pathway to Excellence”| Education | Delivery Method | Frequency | Provided/Facilitated by | Competency Assessment | Competency Re-Assessment | Accountability | Governance | Additional Resources |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc1-p10-e2-ipaceducationmatrixspruce_962c04f5be79_chunk_003_406d305d",
+      "doc_id": "ipc1-p10-e2-ipaceducationmatrixspruce_962c04f5be79",
+      "chunk_index": 3,
+      "text": "disease transmission, the risks associated with infectious diseases and basic epidemiology of health care-associated infections specific to the setting; | | | | | | | |\n| | 3. assessment of the risk of infection transmission and the appropriate use of personal protective equipment (PPE), including safe application, removal and disposal; | | | | | | | |\n| | 4. appropriate cleaning and/or disinfection of equipment, supplies and surfaces or items in the Resident environment (e.g. beds, bed tables, call bells, toilets, privacy | | | | | | | |\n| | 5. Power point, vendor education on products | | | | | | | |``````markdown",
+      "char_count": 623,
+      "token_estimate": 155,
+      "section_title": "“A Pathway to Excellence”| Education | Delivery Method | Frequency | Provided/Facilitated by | Competency Assessment | Competency Re-Assessment | Accountability | Governance | Additional Resources |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc1-p10-e2-ipaceducationmatrixspruce_962c04f5be79_chunk_004_fc7dd840",
+      "doc_id": "ipc1-p10-e2-ipaceducationmatrixspruce_962c04f5be79",
+      "chunk_index": 4,
+      "text": "# Infection Prevention & Control Program\n\n## Inter-professional Education Matrix – Spruce only",
+      "char_count": 94,
+      "token_estimate": 23,
+      "section_title": "Infection Prevention & Control Program",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc1-p10-e2-ipaceducationmatrixspruce_962c04f5be79_chunk_006_9069dfaa",
+      "doc_id": "ipc1-p10-e2-ipaceducationmatrixspruce_962c04f5be79",
+      "chunk_index": 6,
+      "text": "### “A Pathway to Excellence”| Education | Delivery Method | Frequency | Provided/Facilitated by | Competency Assessment | Competency Re-assessment | Accountability | Governance | Additional Resources |\n|-----------|----------------|-----------|-------------------------|-----------------------|-------------------------|----------------|------------|----------------------|\n|           |                |           |                         |                       |                         |                |            |                      |\n|           |                |           |                         |                       |                         |                |            |                      |\n|           |                |           |                         |                       |                         |                |            |                      |1. **Education on seasonal and non-seasonal vaccination** as applicable to Resident / SDM and employees",
+      "char_count": 993,
+      "token_estimate": 248,
+      "section_title": "“A Pathway to Excellence”| Education | Delivery Method | Frequency | Provided/Facilitated by | Competency Assessment | Competency Re-assessment | Accountability | Governance | Additional Resources |",
+      "chunk_type": "content",
+      "start_line": 11,
+      "end_line": 15
+    },
+    {
+      "chunk_id": "ipc1-p10-e2-ipaceducationmatrixspruce_962c04f5be79_chunk_007_16d55fb1",
+      "doc_id": "ipc1-p10-e2-ipaceducationmatrixspruce_962c04f5be79",
+      "chunk_index": 7,
+      "text": "2. **Pandemic Planning**\n\n3. **Outbreak recognition and management**",
+      "char_count": 68,
+      "token_estimate": 17,
+      "section_title": "**Pandemic Planning**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc1-p10-e2-ipaceducationmatrixspruce_962c04f5be79_chunk_009_ee52af67",
+      "doc_id": "ipc1-p10-e2-ipaceducationmatrixspruce_962c04f5be79",
+      "chunk_index": 9,
+      "text": "4. **The benefits of case finding/surveillance** and the extent and nature of existing and potential problems related to infection in the organization (e.g. ARO, endemic organisms)\n\n5. **Principles and components of Routine Practices** as well as additional precautions",
+      "char_count": 269,
+      "token_estimate": 67,
+      "section_title": "**The benefits of case finding/surveillance** and the extent and nature of existing and potential problems related to infection in the organization (e.g. ARO, endemic organisms)",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc1-p10-e2-ipaceducationmatrixspruce_962c04f5be79_chunk_011_4a12ae93",
+      "doc_id": "ipc1-p10-e2-ipaceducationmatrixspruce_962c04f5be79",
+      "chunk_index": 11,
+      "text": "6. **Routine and additional precautions for control of exposure**### Notes:\n- Seasonal education literature available at the time of vaccinations.\n- PowerPoint and any other material provided at the time.\n- May be included in annual education and/or as an identified need by the Home/region/support office.\n``````markdown\n\n# Infection Prevention & Control Program ~ Inter-professional Education Matrix – Spruce only",
+      "char_count": 415,
+      "token_estimate": 103,
+      "section_title": "**Routine and additional precautions for control of exposure**### Notes:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc1-p10-e2-ipaceducationmatrixspruce_962c04f5be79_chunk_013_e6b3914d",
+      "doc_id": "ipc1-p10-e2-ipaceducationmatrixspruce_962c04f5be79",
+      "chunk_index": 13,
+      "text": "## “A Pathway to Excellence”| Position                          | Education Method | Delivery Frequency | Facilitated by       | Competency Assessment | Competency Re-Assessment | Accountability | Governance Level | Additional Resources |\n|-----------------------------------|------------------|--------------------|----------------------|-----------------------|--------------------------|----------------|------------------|----------------------|\n| Infection Prevention & Control Lead (IPC) | Upon Orientation & annually thereafter | Employee Educator or designate | Application of knowledge - interactive activities | Application of knowledge – Performance Appraisals, observation | DOC/ADOC | Employee | RMCS / RMERS | Educator or designate |\n| Executive Directors/ DOC/ADOC & All Managers | Upon Orientation & annually thereafter | Employee Educator or designate | Application of knowledge - interactive activities | Application of knowledge – Performance Appraisals, observation | Mentor/PD | Employee | RMCS / RMERS | Educator or designate |\n| Residents, Families, & Visitors   | Upon Move In & as required | RSC or designate | Application of knowledge | Application of knowledge | ED | Employee | RMCS / RMERS | Educator or designate |### Key Learning Objectives",
+      "char_count": 1271,
+      "token_estimate": 317,
+      "section_title": "“A Pathway to Excellence”| Position                          | Education Method | Delivery Frequency | Facilitated by       | Competency Assessment | Competency Re-Assessment | Accountability | Governance Level | Additional Resources |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc1-p10-e2-ipaceducationmatrixspruce_962c04f5be79_chunk_014_29b55b9e",
+      "doc_id": "ipc1-p10-e2-ipaceducationmatrixspruce_962c04f5be79",
+      "chunk_index": 14,
+      "text": "1. Understanding of infectious material and bloodborne pathogens.\n\n2. The importance of proper and prudent use of antibiotics.",
+      "char_count": 126,
+      "token_estimate": 31,
+      "section_title": "Understanding of infectious material and bloodborne pathogens.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc1-p10-e2-ipaceducationmatrixspruce_962c04f5be79_chunk_016_8fa49149",
+      "doc_id": "ipc1-p10-e2-ipaceducationmatrixspruce_962c04f5be79",
+      "chunk_index": 16,
+      "text": "3. Individual employee responsibility for keeping residents, themselves, and coworkers safe.\n\n4. Prevention of blood and body fluid exposure.",
+      "char_count": 141,
+      "token_estimate": 35,
+      "section_title": "Individual employee responsibility for keeping residents, themselves, and coworkers safe.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc1-p10-e2-ipaceducationmatrixspruce_962c04f5be79_chunk_018_779f07dd",
+      "doc_id": "ipc1-p10-e2-ipaceducationmatrixspruce_962c04f5be79",
+      "chunk_index": 18,
+      "text": "5. Education in early symptom recognition.\n\n6. Sharps management.\n``````markdown",
+      "char_count": 80,
+      "token_estimate": 20,
+      "section_title": "Education in early symptom recognition.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc1-p10-e2-ipaceducationmatrixspruce_962c04f5be79_chunk_020_01d0da8e",
+      "doc_id": "ipc1-p10-e2-ipaceducationmatrixspruce_962c04f5be79",
+      "chunk_index": 20,
+      "text": "# Infection Prevention & Control Program ~ Inter-professional Education Matrix – Spruce only\n\n## “A Pathway to Excellence”| Position                | Education Method | Frequency          | Facilitated by | Competency Assessment       | Competency Re-assessment | Accountability | Governance Site | Region | Additional Resources |\n|------------------------|------------------|--------------------|----------------|-----------------------------|--------------------------|----------------|------------------|--------|----------------------|\n| Regional Employee      | 1.               | Upon Orientation & annually thereafter | Mentor/Coach   | Application of knowledge - interactive activities during training | Performance Appraisals, observation | PD             | Mentor           | N/A    |                      |\n| Regional Directors of Operations | 1. | Upon Orientation & annually thereafter | Mentor/Coach   | Application of knowledge - interactive activities during training | Performance Appraisals, observation | Mentor or Coach | Mentor           | N/A    |                      |\n```",
+      "char_count": 1096,
+      "token_estimate": 274,
+      "section_title": "Infection Prevention & Control Program ~ Inter-professional Education Matrix – Spruce only",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}
