@@ -1,0 +1,90 @@
+{
+  "doc_id": "ipc2-p10-e37-howtohandwashsignage2perpage_504f5e16b16a",
+  "total_chunks": 7,
+  "chunks": [
+    {
+      "chunk_id": "ipc2-p10-e37-howtohandwashsignage2perpage_504f5e16b16a_chunk_000_c0d99ed9",
+      "doc_id": "ipc2-p10-e37-howtohandwashsignage2perpage_504f5e16b16a",
+      "chunk_index": 0,
+      "text": "```markdown\n\n# How to Handwash1. **Wet hands with warm water**",
+      "char_count": 62,
+      "token_estimate": 15,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-e37-howtohandwashsignage2perpage_504f5e16b16a_chunk_002_abd2efa5",
+      "doc_id": "ipc2-p10-e37-howtohandwashsignage2perpage_504f5e16b16a",
+      "chunk_index": 2,
+      "text": "2. **Apply soap**\n\n3. **Lather soap and rub hands palm to palm**",
+      "char_count": 64,
+      "token_estimate": 16,
+      "section_title": "**Apply soap**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-e37-howtohandwashsignage2perpage_504f5e16b16a_chunk_004_f55290b3",
+      "doc_id": "ipc2-p10-e37-howtohandwashsignage2perpage_504f5e16b16a",
+      "chunk_index": 4,
+      "text": "4. **Rub in between hand with palm of other hand**\n\n5. **Rub back of each hand with palm of other hand**",
+      "char_count": 104,
+      "token_estimate": 26,
+      "section_title": "**Rub in between hand with palm of other hand**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-e37-howtohandwashsignage2perpage_504f5e16b16a_chunk_006_9cba35bf",
+      "doc_id": "ipc2-p10-e37-howtohandwashsignage2perpage_504f5e16b16a",
+      "chunk_index": 6,
+      "text": "6. **Rub fingertips of each hand in opposite palm**\n\n7. **Rub each thumb clasped in opposite hand**",
+      "char_count": 99,
+      "token_estimate": 24,
+      "section_title": "**Rub fingertips of each hand in opposite palm**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-e37-howtohandwashsignage2perpage_504f5e16b16a_chunk_008_a7801e56",
+      "doc_id": "ipc2-p10-e37-howtohandwashsignage2perpage_504f5e16b16a",
+      "chunk_index": 8,
+      "text": "8. **Lather hands for 15 seconds**\n\n9. **Rinse thoroughly under running water**",
+      "char_count": 79,
+      "token_estimate": 19,
+      "section_title": "**Lather hands for 15 seconds**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-e37-howtohandwashsignage2perpage_504f5e16b16a_chunk_010_65fbbe49",
+      "doc_id": "ipc2-p10-e37-howtohandwashsignage2perpage_504f5e16b16a",
+      "chunk_index": 10,
+      "text": "10. **Pat hands dry with paper towel**\n\n11. **Turn off water using paper towel**",
+      "char_count": 80,
+      "token_estimate": 20,
+      "section_title": "**Pat hands dry with paper towel**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-e37-howtohandwashsignage2perpage_504f5e16b16a_chunk_012_0fcce219",
+      "doc_id": "ipc2-p10-e37-howtohandwashsignage2perpage_504f5e16b16a",
+      "chunk_index": 12,
+      "text": "12. **Your hands are safe**\n```This markdown format preserves the structure and readability of the original document while clearly outlining the steps for handwashing.",
+      "char_count": 167,
+      "token_estimate": 41,
+      "section_title": "**Your hands are safe**",
+      "chunk_type": "content",
+      "start_line": 12,
+      "end_line": 13
+    }
+  ]
+}

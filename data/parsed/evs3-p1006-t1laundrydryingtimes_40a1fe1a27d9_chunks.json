@@ -1,0 +1,30 @@
+{
+  "doc_id": "evs3-p1006-t1laundrydryingtimes_40a1fe1a27d9",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "evs3-p1006-t1laundrydryingtimes_40a1fe1a27d9_chunk_000_0a052d9e",
+      "doc_id": "evs3-p1006-t1laundrydryingtimes_40a1fe1a27d9",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Laundry Drying Times| Item                           | Cycle/Temperature             | Time      | Cool Down |\n|--------------------------------|-------------------------------|-----------|-----------|\n| Sheets and gowns               | Medium High / 140°F           | 30 min. | 7 min. |\n| Toweling/flannels              | High / 160°F                  | 35 min. | 13 min. |\n| Blankets                       | Medium High / 140°F           | 30 min. | 7 min. |\n| Spreads                        | Medium Low / 130°F            | 35 min. | 10 min. |\n| Comforters                     | Medium Low / 140°F            | 30 min. | 10 min. |\n| Clothing protectors            | Medium Low / 130°F            | 35 min. | 10 min. |\n| Bed pads                       | High / 160°F                  | 35 min. | 13 min. |\n| Personal – light weight        | Low / 120°F                   | 25 min. | 8 min. |\n| Personal – heavy weight        | Medium Low / 130°F            | 35 min. | 10 min. |\n| Table linen/nursing aprons     | Medium Low / 130°F            | 25 min. | 10 min.",
+      "char_count": 1084,
+      "token_estimate": 271,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs3-p1006-t1laundrydryingtimes_40a1fe1a27d9_chunk_002_e1f5c773",
+      "doc_id": "evs3-p1006-t1laundrydryingtimes_40a1fe1a27d9",
+      "chunk_index": 2,
+      "text": "|\n| Table linen/nursing aprons     | Medium Low / 130°F            | 25 min. | 10 min. |\n| Laundry bags                   | Hang to Dry                   |           |           |\n| Mops/String mops (wet)        | Hang to Dry                   |           |           |\n| Privacy curtains and window drapes | Hang to Dry               |           |           |\n| Slings                         | Follow manufacturers’ instructions |         |           |\n| Microfibre mops and cloths     | Medium Low / 120 – 130°F      | 10 min. | 10 min. |\n| Cleaning cloths and dust mops  | Medium High / 150°F           | 20 min. | 10 min. |----This document is uncontrolled when printed.Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----Page 1 of 1",
+      "char_count": 968,
+      "token_estimate": 242,
+      "section_title": "Laundry Drying Times| Item                           | Cycle/Temperature             | Time      | Cool Down |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+# Extendicare
+
+## PROCEDURE
+
+- **MANUAL:** Maintenance
+- **INDEX:** MAINT4-O10.03
+- **SECTION:** Equipment and Inventory Records
+- **EFFECTIVE DATE:**
+- **REVIEWED DATE:**
+- **MODIFIED DATE:**
+- **APPROVED BY:** VP LTC Operations
+
+----
+
+## POLICY
+
+### Equipment Inventory and Records
+
+## PROCEDURE
+
+Upon acquisition of new equipment:
+
+- A new “Equipment Record” shall be prepared.
+- The Preventive Maintenance procedure for this equipment shall be reviewed and, if necessary, revised or a new procedure prepared if the operating manual for the new equipment suggests different tasks or different frequencies than had been done for similar equipment in the past. The Extendicare Asset Management Department can be contacted for assistance with revising or creating these procedures.
+- Update the annual calendar to coordinate annual inspection or maintenance as appropriate.
+- All manuals for this new equipment shall be added to the maintenance library.
+- The equipment shall be clearly identified by name, preferably using a plastic limacoid or metal label securely fastened to the equipment that provides the equipment name (e.g. “Boiler #1”).
+- The electrical breaker for the equipment shall be identified by adding the equipment name to the breaker index in the breaker panel. The location of the breaker and the breaker number shall also be indicated on the equipment, near the electrical disconnect.
+- All valves for the new equipment shall be tagged with a metal disk carrying a unique identifying number. The valve description and number shall be added to the facility valve chart.
+- A pre-start up assessment will be completed prior to the new equipment being put in use.
+
+## TOOLS
+
+1. Equipment Record
+
+----
+
+> **Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.
+> Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025
+> Page 1 of 1

@@ -1,0 +1,54 @@
+{
+  "doc_id": "prv1-p1005disclosureforresearch_93edc8214e13",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "prv1-p1005disclosureforresearch_93edc8214e13_chunk_000_ca97027c",
+      "doc_id": "prv1-p1005disclosureforresearch_93edc8214e13",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE- **MANUAL:** Privacy and Confidentiality\n- **INDEX:** PRV1-P10.05\n- **SECTION:** Privacy and Confidentiality\n- **EFFECTIVE DATE:** April 1, 2025\n- **REVIEWED DATE:** March 25, 2025\n- **APPROVED BY:** Senior Director, Corporate Quality and Risk\n- **MODIFIED DATE:** May 30, 2025----## POLICY### Privacy and Confidentiality Program## PROCEDURE### Collection, Use and Disclosure for ResearchAny collection of, or access to, Extendicare personal health information (PHI) for research purposes, either by Extendicare staff, service providers or by outside researchers, must follow protocols approved by a designated Research Ethics Board (REB) following the principles and standards of the Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans.Unless specifically allowed by REB approval, only Extendicare staff directly involved in the care of the subject individual may identify a potential resident for participation in a research project.Consent for collection, use or disclosure of PHI for research purposes conforms to REB criteria.",
+      "char_count": 1081,
+      "token_estimate": 270,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv1-p1005disclosureforresearch_93edc8214e13_chunk_001_b0693530",
+      "doc_id": "prv1-p1005disclosureforresearch_93edc8214e13",
+      "chunk_index": 1,
+      "text": "Where no criteria are defined, Extendicare consent forms are used.In addition to the Extendicare Privacy and Confidentiality policy and any conditions required by REB review, researchers accessing the PHI of Extendicare residents or clients are obligated to:1. comply with any additional conditions imposed by Extendicare relating to the use, protection, return, or disclosure of the PHI;\n\n2. comply with any requirements imposed by Extendicare to safeguard against the identification, direct or indirect, of any individual who is the subject of the PHI;",
+      "char_count": 554,
+      "token_estimate": 138,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv1-p1005disclosureforresearch_93edc8214e13_chunk_003_116f7ecc",
+      "doc_id": "prv1-p1005disclosureforresearch_93edc8214e13",
+      "chunk_index": 3,
+      "text": "3. only use the requested PHI for conducting the proposed research;\n\n4. not publish the PHI in a form that could reasonably reveal the identity of an individual who is the subject of the information;",
+      "char_count": 199,
+      "token_estimate": 49,
+      "section_title": "only use the requested PHI for conducting the proposed research;",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv1-p1005disclosureforresearch_93edc8214e13_chunk_005_b402c15b",
+      "doc_id": "prv1-p1005disclosureforresearch_93edc8214e13",
+      "chunk_index": 5,
+      "text": "5. not make any attempt to contact the resident or client to obtain additional PHI unless the resident has previously provided their consent to do so;\n\n6. allow Extendicare to access or inspect the researcher’s premises to confirm that the research is complying with the above conditions.External researchers using Extendicare PHI must sign an agreement with Extendicare stating that they will comply with obligations set out in this policy.Research information must be securely saved as required to support and validate the research findings.## EDUCATION1. Annual Privacy Education----**Helping people live better**This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 1**",
+      "char_count": 957,
+      "token_estimate": 239,
+      "section_title": "not make any attempt to contact the resident or client to obtain additional PHI unless the resident has previously provided their consent to do so;",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

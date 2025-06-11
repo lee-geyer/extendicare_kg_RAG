@@ -1,0 +1,17 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint5-o1003-t1fireextinguisherandfirehoseinspectionform_c75b1a1e6ae5_chunk_000_65f97631",
+      "doc_id": "maint5-o1003-t1fireextinguisherandfirehoseinspectionform_c75b1a1e6ae5",
+      "chunk_index": 0,
+      "text": "# Extendicare Fire Extinguisher and Fire Hose Inspection Form**Facility Name:** [Enter Facility Name]\n**Date of Inspection:** [Enter date]\n**Inspection Company:**\n- **Name:** [Enter Company Name]\n- **Address:** [Enter Company Address]\n- **Inspector:** [Enter Inspector Name]\n- **Signature:** [Enter Signature]| NO. OF UNIT | LOCATION | SIZE & TYPE | MANUFACTURER NAME | CONDITION | RECHARGE LAST | RECHARGE NEXT | H.T. TEST LAST | H.T. TEST NEXT |\n|-------------|----------|-------------|--------------------|-----------|----------------|----------------|----------------|----------------|\n| [Enter Data] | [Enter Data] | [Enter Data] | [Enter Data] | [Enter Data] | [Enter Data] | [Enter Data] | [Enter Data] | [Enter Data] |----**Note:**\nHelping people live better.\nThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\nConfidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 1 of 1",
+      "char_count": 1102,
+      "token_estimate": 275,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 12
+    }
+  ],
+  "total_chunks": 1
+}

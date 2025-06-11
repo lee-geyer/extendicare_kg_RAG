@@ -1,0 +1,42 @@
+{
+  "doc_id": "epm2-p1013-t6codesilverposter_7b9bdb915c53",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "epm2-p1013-t6codesilverposter_7b9bdb915c53_chunk_000_7f0d0180",
+      "doc_id": "epm2-p1013-t6codesilverposter_7b9bdb915c53",
+      "chunk_index": 0,
+      "text": "```markdown\n\n# CODE SILVER",
+      "char_count": 26,
+      "token_estimate": 6,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1013-t6codesilverposter_7b9bdb915c53_chunk_002_ad7f1336",
+      "doc_id": "epm2-p1013-t6codesilverposter_7b9bdb915c53",
+      "chunk_index": 2,
+      "text": "## Emergency response - Active Assailant### What does it mean? Code Silver is the designated phrase used to communicate and activate a standard organizational response to an incident in which a weapon (firearm, edged weapon, explosive device, or instrument that can cause bodily harm or injury) is being used by an individual(s) actively engaged in killing, attempting to kill or harm people within any of our Resident Care Homes.### What do I do? - Hide and Call 9-1-1 immediately. Provide as much information as possible about the situation. - Remain calm and evacuate if safe to do so. - Do NOT confront any individual that is armed with a weapon. - If possible, assist residents and others to evacuate the area and redirect others attempting to enter the area. - Hide if you are unable to evacuate. - Fight, only if you have no other option. Work together with nearby team members and use objects around you to assist.",
+      "char_count": 922,
+      "token_estimate": 230,
+      "section_title": "Emergency response - Active Assailant### What does it mean?",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1013-t6codesilverposter_7b9bdb915c53_chunk_003_ccace1cb",
+      "doc_id": "epm2-p1013-t6codesilverposter_7b9bdb915c53",
+      "chunk_index": 3,
+      "text": "- Fight, only if you have no other option. Work together with nearby team members and use objects around you to assist. - Announce 3 times, “Code Silver + location” so that others know to stay away.| Action                | Description                          |\n|----------------------|--------------------------------------|\n| Run                  | Run as quickly and safely as possible |\n| Hide                  | Hide if you can’t run/evacuate      |\n| Fight                 | Only if you have no other option     |### Review it before you need it:\n- Refer to your Home’s Emergency Planning and Management Manual, Code Silver. - Review the Code Silver plan and checklists that describe your area’s role if you are in an Active Assailant emergency. ```",
+      "char_count": 756,
+      "token_estimate": 189,
+      "section_title": "Emergency response - Active Assailant### What does it mean?",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

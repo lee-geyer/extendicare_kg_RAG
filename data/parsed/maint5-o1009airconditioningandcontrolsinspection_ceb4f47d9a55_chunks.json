@@ -1,0 +1,29 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint5-o1009airconditioningandcontrolsinspection_ceb4f47d9a55_chunk_000_92d4251b",
+      "doc_id": "maint5-o1009airconditioningandcontrolsinspection_ceb4f47d9a55",
+      "chunk_index": 0,
+      "text": "# Extendjcare## PROCEDURE- **MANUAL:** Maintenance\n- **INDEX:** MAINT5-O10.09\n- **SECTION:** Certified Inspections\n- **DESCRIPTION:** Air Conditioning and Controls Inspection\n- **APPROVED BY:** VP LTC Operations\n- **EFFECTIVE DATE:**\n- **REVIEWED DATE:**\n- **MODIFIED DATE:**----## POLICY### Certified Inspection Work#### PROCEDURE1. Complete the inspection list as outlined on the Air Conditioning and Controls Inspection Form for the appropriate season. The “X” on the form indicates the items to be checked. Sign and date the form at the bottom.",
+      "char_count": 548,
+      "token_estimate": 137,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 7
+    },
+    {
+      "chunk_id": "maint5-o1009airconditioningandcontrolsinspection_ceb4f47d9a55_chunk_001_38529631",
+      "doc_id": "maint5-o1009airconditioningandcontrolsinspection_ceb4f47d9a55",
+      "chunk_index": 1,
+      "text": "2. For any items that require repairs, notify the Executive Director/Designate with details and cost.\n\n3. The equipment and controls shall be left in good operating condition.----## TOOLS- Air Conditioning and Controls Inspection Form----> Helping people live betterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 1**",
+      "char_count": 606,
+      "token_estimate": 151,
+      "section_title": "For any items that require repairs, notify the Executive Director/Designate with details and cost.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 2
+}

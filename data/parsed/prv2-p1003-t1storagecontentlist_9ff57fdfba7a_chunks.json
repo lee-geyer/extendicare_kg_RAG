@@ -1,0 +1,18 @@
+{
+  "doc_id": "prv2-p1003-t1storagecontentlist_9ff57fdfba7a",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "prv2-p1003-t1storagecontentlist_9ff57fdfba7a_chunk_000_808bb7ba",
+      "doc_id": "prv2-p1003-t1storagecontentlist_9ff57fdfba7a",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Health Records Storage Content List| Box Storage Code/Number | Description of Record                       | Destruction Date | Staff Initials |\n|-------------------------|--------------------------------------------|------------------|-----------------|\n|                         |                                            |                  |                 |----This document is uncontrolled when printed.Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**----**Page 1 of 1**",
+      "char_count": 729,
+      "token_estimate": 182,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

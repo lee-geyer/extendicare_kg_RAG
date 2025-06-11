@@ -1,0 +1,1 @@
+# Configs package for metadata extraction schemas

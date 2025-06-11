@@ -1,0 +1,18 @@
+{
+  "doc_id": "epm3-p1002-t2staffcallbackflowchart_43d666dbafbe",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "epm3-p1002-t2staffcallbackflowchart_43d666dbafbe_chunk_000_20f629c0",
+      "doc_id": "epm3-p1002-t2staffcallbackflowchart_43d666dbafbe",
+      "chunk_index": 0,
+      "text": "# Extendicare Staff Call Back Flow Chart## Incident reported to Incident Manager\n- Call emergency services if required### Call back\n- **<10 staff**\n- Incident Manager determines that extra staff are required\n- Notifies Incident Manager/Delegate\n- Calls staff- **>10 staff**\n- Administrator/ED/Designate determines required department staff and skill set\n- Incident Manager calls all department managers as required### Results of call reported back to Incident Manager\n- Confirms staff----**Helping people**This document is uncontrolled when printed.**Extendicare (Canada) Inc.** will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025****Page 1 of 1**",
+      "char_count": 849,
+      "token_estimate": 212,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 8
+    }
+  ]
+}

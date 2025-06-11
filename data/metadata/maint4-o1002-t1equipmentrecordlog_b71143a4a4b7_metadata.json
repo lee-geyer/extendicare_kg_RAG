@@ -1,0 +1,11 @@
+{
+  "doc_id": "maint4-o1002-t1equipmentrecordlog_b71143a4a4b7",
+  "category": "Maintenance",
+  "metadata": {
+    "title": "Extendicare Equipment Record"
+  },
+  "schema_used": "GenericDocumentMeta",
+  "extraction_success": true,
+  "error": null,
+  "fallback_metadata": null
+}

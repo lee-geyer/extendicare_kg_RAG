@@ -1,0 +1,18 @@
+{
+  "doc_id": "ipc8-p10-t6-monthlyresidentequipmentcleaningrecord_144d19d2c1b1",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "ipc8-p10-t6-monthlyresidentequipmentcleaningrecord_144d19d2c1b1_chunk_000_4cd95060",
+      "doc_id": "ipc8-p10-t6-monthlyresidentequipmentcleaningrecord_144d19d2c1b1",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Monthly Resident Equipment Cleaning Record| Month | Year |\n|-------|------|\n|       |      |### Specific Instructions:\n| RM# | Resident | Day (M-F) | Equipment to be Cleaned | Signature | Date |\n|-----|----------|-----------|-------------------------|-----------|------|\n|     |          |           | Lifts                   |           |      |\n|     |          |           | Bed                     |           |      |\n|     |          |           | Mattress                |           |      |\n|     |          |           | East Wing               |           |      |\n|     |          |           | Other                   |           |      |----Helping people live better> This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 1",
+      "char_count": 1038,
+      "token_estimate": 259,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "doc_id": "care12-p1001-t3referral-painlead_655c6dbf9e6f",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "care12-p1001-t3referral-painlead_655c6dbf9e6f_chunk_000_100f8830",
+      "doc_id": "care12-p1001-t3referral-painlead_655c6dbf9e6f",
+      "chunk_index": 0,
+      "text": "# Referral - Pain Lead| Resident: | Effective Date: | Location: |\n|-----------|-----------------|-----------|\n| Initial Admission: | Admission: | Date of Birth: |\n| Score: NA | Category: NA | Physician: |## A. Referral1. **Reason for referral:**\n- New pain\n- Worsening pain\n- Family concerns with pain management\n- Resident concerns with pain management\n- Staff concerns with pain management\n- Alternative therapies\n- Non-analgesic approaches\n- Plan of Care revision\n- Education / Support - Family\n- Education / Support - Resident\n- OtherDocument any other information that may assist the Pain Lead in addressing the issue.2. **Referral Details:** (S)3. **Name and designation of staff completing the referral:**SAVE the Referral, do not lock. The pain lead will lock the referral.## B. Response to referral1. **Name and designation of Pain Lead responding to referral:**2. **Date and Time of response to referral:**3. **Referral response details:**A progress note will populate the Resident chart when this assessment is locked for the date and time that the referral was opened.----**Signature**: ____________________  **Date**: ____________________----**Page 1 of 1**",
+      "char_count": 1170,
+      "token_estimate": 292,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 14
+    }
+  ]
+}

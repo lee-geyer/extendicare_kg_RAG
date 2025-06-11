@@ -1,0 +1,41 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t5ysplitsystemairconditioner_30edd7358464_chunk_000_6f8b7d6c",
+      "doc_id": "maint1-o1002-t5ysplitsystemairconditioner_30edd7358464",
+      "chunk_index": 0,
+      "text": "# Extendicare Maintenance Inspection Checklist## Equipment\n**Split System Air Conditioner**\n**Name:**\n**Year:**\n**Unit No.:**\n**Manufacturer:** All\n**Model:** All (DX coil, ductless systems)### LEGEND/KEY\n| Legend | Key         |\n|--------|-------------|\n| W      | Weekly      |\n| M      | Monthly     |\n| Q      | Quarterly   |\n| S      | Semi-Annual |\n| A      | Annual      |\n| O      | Ok          |\n| R      | Repair      |\n| N      | Replace     |### CHECKS\n| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   |   |   | 1. Check filter on evaporator. |\n| X |   |   |   |   | 2. Check drain pan for cleanliness, corrosion, flow. |\n| X |   |   |   |   | 3. Check condition of “P” trap. |\n| X |   |   |   |   | 4. Check cleanliness of evaporation coil, freezing, etc. |\n|   |   |   |   |   |    Check blower on independent unit. |\n| X |   |   |   |   | 5. Check control settings for proper temperature (not set too low).|\n| X |   |   |   |   | 6. Check panels & casing for damage, secure mountings etc. |\n|   |   |   |   |   | 7.",
+      "char_count": 1179,
+      "token_estimate": 294,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t5ysplitsystemairconditioner_30edd7358464_chunk_001_4bb3b78a",
+      "doc_id": "maint1-o1002-t5ysplitsystemairconditioner_30edd7358464",
+      "chunk_index": 1,
+      "text": "Check panels & casing for damage, secure mountings etc. |\n|   |   |   |   |   | 7. See “Semi-Annual Ventilation Inspection SPECIFICATIONS” for annual inspection. |\n|   |   |   | X |   | 8. |### Monthly Schedule\n| Month | M | Q | S | A |\n|-------|---|---|---|---|\n| JAN   | W | W | W | W |\n| FEB   | W | W | W | W |\n| MAR   | W | W | W | W |\n| APR   | W | W | W | W |\n| MAY   | W | W | W | W |\n| JUN   | W | W | W | W |\n| JUL   | W | W | W | W |\n| AUG   | W | W | W | W |\n| SEP   | W | W | W | W |\n| OCT   | W | W | W | W |\n| NOV   | W | W | W | W |\n| DEC   | W | W | W | W |----**Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1156,
+      "token_estimate": 289,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t5ysplitsystemairconditioner_30edd7358464_chunk_002_ae3e525e",
+      "doc_id": "maint1-o1002-t5ysplitsystemairconditioner_30edd7358464",
+      "chunk_index": 2,
+      "text": "© 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 2 of 2",
+      "char_count": 515,
+      "token_estimate": 128,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 3
+}

@@ -1,0 +1,12 @@
+{
+  "doc_id": "ipc7-p10-t4-staffimmunizationandtbtestingrecord_e56064a2d0c7",
+  "category": "Infection Prevention and Control",
+  "schema_used": "GenericDocumentMeta",
+  "extraction_success": true,
+  "metadata": {
+    "title": "Extendicare Staff Immunization/TB Testing Record",
+    "department": "**"
+  },
+  "error": null,
+  "fallback_metadata": null
+}

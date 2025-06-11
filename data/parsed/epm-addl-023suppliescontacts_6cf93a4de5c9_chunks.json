@@ -1,0 +1,42 @@
+{
+  "doc_id": "epm-addl-023suppliescontacts_6cf93a4de5c9",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "epm-addl-023suppliescontacts_6cf93a4de5c9_chunk_000_6da7f019",
+      "doc_id": "epm-addl-023suppliescontacts_6cf93a4de5c9",
+      "chunk_index": 0,
+      "text": "# Extendicare Supplies ContactsIn the event of an emergency, the home may need to contact suppliers to obtain food, PPE, medication, bedding, etc. This list contains contacts to reach out to for such supplies.| Supply                          | Name | Contact Information |\n|---------------------------------|------|---------------------|\n| Food                            |      |                     |\n| PPE                             |      |                     |\n| Medication                      |      |                     |\n| Bedding                         |      |                     |\n| Medical Supplies                |      |                     |\n| Oxygen                          |      |                     |\n| Water / water truck (think everyone in town may need water too) | |                     |\n| Refrigeration Truck             |      |                     |\n| Laundry Services                |      |                     |\n| Portable washroom facilities / porta-potty | |                     |----> **Note:** This document is uncontrolled when printed. > Extendicare (Canada) Inc.",
+      "char_count": 1108,
+      "token_estimate": 277,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-023suppliescontacts_6cf93a4de5c9_chunk_001_1076ebb2",
+      "doc_id": "epm-addl-023suppliescontacts_6cf93a4de5c9",
+      "chunk_index": 1,
+      "text": "This list contains contacts to reach out to for such supplies.| Supply                          | Name | Contact Information |\n|---------------------------------|------|---------------------|\n| Food                            |      |                     |\n| PPE                             |      |                     |\n| Medication                      |      |                     |\n| Bedding                         |      |                     |\n| Medical Supplies                |      |                     |\n| Oxygen                          |      |                     |\n| Water / water truck (think everyone in town may need water too) | |                     |\n| Refrigeration Truck             |      |                     |\n| Laundry Services                |      |                     |\n| Portable washroom facilities / porta-potty | |                     |----> **Note:** This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.",
+      "char_count": 1137,
+      "token_estimate": 284,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-023suppliescontacts_6cf93a4de5c9_chunk_002_5416b2ba",
+      "doc_id": "epm-addl-023suppliescontacts_6cf93a4de5c9",
+      "chunk_index": 2,
+      "text": "> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 1",
+      "char_count": 296,
+      "token_estimate": 74,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

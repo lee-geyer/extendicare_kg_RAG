@@ -1,0 +1,29 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint3-o1002referencedocuments_b028b32fe129_chunk_000_adb1edcc",
+      "doc_id": "maint3-o1002referencedocuments_b028b32fe129",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Maintenance\n**INDEX:** MAINT3-O10.02\n**SECTION:** Maintenance Program Documentation\n**EFFECTIVE DATE:**\n**REVIEWED DATE:**\n**APPROVED BY:** VP LTC Operations\n**MODIFIED DATE:**----## POLICY### Maintenance Program Documentation### PROCEDURE- There are a large number of documents that should be kept as reference documents. They provide additional information related to the design of the building, the equipment, equipment parts lists, regulations that must be met, etc. - They should be filed neatly and orderly in the Maintenance Library where they are accessible to people working on the equipment. - Reference documents include such documents as:\n- Design drawings (blueprints)\n- Owner’s manuals for equipment\n- Equipment records forms (listed in the Preventative Maintenance Program)\n- System descriptions\n- Hazardous material surveys (such as asbestos reports)\n- Codes and regulations\n- Policies and procedures\n- Building and equipment specifications\n- Valve location charts.----> This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1093,
+      "token_estimate": 273,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint3-o1002referencedocuments_b028b32fe129_chunk_001_2e8227d9",
+      "doc_id": "maint3-o1002referencedocuments_b028b32fe129",
+      "chunk_index": 1,
+      "text": "- Reference documents include such documents as:\n- Design drawings (blueprints)\n- Owner’s manuals for equipment\n- Equipment records forms (listed in the Preventative Maintenance Program)\n- System descriptions\n- Hazardous material surveys (such as asbestos reports)\n- Codes and regulations\n- Policies and procedures\n- Building and equipment specifications\n- Valve location charts.----> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 1",
+      "char_count": 723,
+      "token_estimate": 180,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 2
+}

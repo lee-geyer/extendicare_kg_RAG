@@ -1,0 +1,42 @@
+{
+  "doc_id": "ipc7-p10-t8-residentinformedconsentfortbscreeningandvaccina_716614a3b58f",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "ipc7-p10-t8-residentinformedconsentfortbscreeningandvaccina_716614a3b58f_chunk_000_36700d72",
+      "doc_id": "ipc7-p10-t8-residentinformedconsentfortbscreeningandvaccina_716614a3b58f",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Resident Informed Consent for TB Screening and Vaccinations| Resident’s Name: |                                   | Date of Birth: |                                   |\n|------------------|-----------------------------------|----------------|-----------------------------------|\n|                  |                                   |                |                                   |I, **[Resident’s Name]**, authorize the home to administer the following:| Vaccination                                          | Yes | No |\n|-----------------------------------------------------|-----|----|\n| Pneumococcus Vaccination                             | [ ] | [ ] |\n| Tetanus and Diphtheria                               | [ ] | [ ] |\n| Tetanus, Diphtheria and Acellular Pertussis        | [ ] | [ ] |\n| Shingles Vaccination                                 | [ ] | [ ] |\n| Other: (please specify)                             |     |    |----I have read or had explained to me the information about vaccination protocols.",
+      "char_count": 1037,
+      "token_estimate": 259,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t8-residentinformedconsentfortbscreeningandvaccina_716614a3b58f_chunk_002_23d9e7a9",
+      "doc_id": "ipc7-p10-t8-residentinformedconsentfortbscreeningandvaccina_716614a3b58f",
+      "chunk_index": 2,
+      "text": "I have had the chance to ask questions, which were answered to my satisfaction.| Resident Signature: |                                   | Date: |                                   |\n|---------------------|-----------------------------------|-------|-----------------------------------|\n|                     |                                   |       |                                   |If resident is unable to consent:| Signature: |                                   | Relationship to Resident: |                                   |\n|------------|-----------------------------------|--------------------------|-----------------------------------|\n|            |                                   |                          |                                   || Witness: |                                   | Registered Staff Signature: |                                   |\n|----------|-----------------------------------|----------------------------|-----------------------------------|\n|          |                                   |                            |                                   || Date: |                                   |\n|-------|-----------------------------------|\n|       |                                   |Copy offered to Resident: **[Initial]**----*This document is uncontrolled when printed.*\n*Extendicare (Canada) Inc.",
+      "char_count": 1359,
+      "token_estimate": 339,
+      "section_title": "Resident Informed Consent for TB Screening and Vaccinations| Resident’s Name: |                                   | Date of Birth: |                                   |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t8-residentinformedconsentfortbscreeningandvaccina_716614a3b58f_chunk_003_6979ce28",
+      "doc_id": "ipc7-p10-t8-residentinformedconsentfortbscreeningandvaccina_716614a3b58f",
+      "chunk_index": 3,
+      "text": "will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.*\n*Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025*\n*Page 1 of 1*# Resident Informed Consent for TB Screening and Vaccinations\n\n## InitialCopy offered to SDM*Funding, availability, and provision of vaccines may vary from province to province. Consult with your provincial health authority.*----### FOR OFFICE USE ONLYThe province-specific screener for TB has been completed.----> **Note:** This document is uncontrolled when printed.Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.----**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**----**Page 1 of 1**",
+      "char_count": 941,
+      "token_estimate": 235,
+      "section_title": "Resident Informed Consent for TB Screening and Vaccinations| Resident’s Name: |                                   | Date of Birth: |                                   |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

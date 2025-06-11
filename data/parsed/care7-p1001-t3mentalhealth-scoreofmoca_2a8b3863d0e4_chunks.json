@@ -1,0 +1,18 @@
+{
+  "doc_id": "care7-p1001-t3mentalhealth-scoreofmoca_2a8b3863d0e4",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "care7-p1001-t3mentalhealth-scoreofmoca_2a8b3863d0e4_chunk_000_f7428abf",
+      "doc_id": "care7-p1001-t3mentalhealth-scoreofmoca_2a8b3863d0e4",
+      "chunk_index": 0,
+      "text": "# Mental Health - Score of MoCA| Resident:                | Effective Date:         | Location:               |\n|-------------------------|------------------------|-------------------------|\n| Initial Admission:      | Admission:             | Date of Birth:          |\n| Score: NA               | Category: NA           | Physician:              |## A. Score of MoCA1. Record Score of MoCA| Score | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |\n|-------|---|---|---|---|---|---|---|---|---|---|----|\n|       |   |   |   |   |   |   |   |   |   |   |    |----**Signature**: ______________________\n**Date**: ___________________________----**Page 1 of 1**",
+      "char_count": 652,
+      "token_estimate": 163,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 6
+    }
+  ]
+}

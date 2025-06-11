@@ -1,0 +1,41 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t7tsteamtablestationaryinsp_8358e741e128_chunk_000_eddb00ca",
+      "doc_id": "maint1-o1002-t7tsteamtablestationaryinsp_8358e741e128",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## MAINTENANCE INSPECTION CHECKLIST### Equipment\n**Name:** Steam Table\n**Year:**\n**Manufacturer:** All\n**Model:** Stationary### LEGEND/KEY\n| Legend | Key         |\n|--------|-------------|\n| W      | Weekly      |\n| M      | Monthly     |\n| Q      | Quarterly   |\n| S      | Semi-Annual |\n| A      | Annual      |\n| O      | Ok          |\n| R      | Repair      |\n| N      | Replace     |### CHECKS\n| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   |   | 1 | Check that catches and hinges and door locks operate smoothly. |\n| X |   |   |   | 2 | Check that sneeze guards are in place, secure and in good condition.|\n|   | X |   |   | 3 | Test temperature controller for proper operation. |\n|   | X |   |   | 4 | Check that cabling, connections and anti-short bushings are in place, secure and in good condition. |\n|   | X |   |   | 5 | Check that compartment drains are clear and free flowing. |\n|   | X |   |   | 6 | Check compartments for leaks.",
+      "char_count": 1110,
+      "token_estimate": 277,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t7tsteamtablestationaryinsp_8358e741e128_chunk_002_9f831f94",
+      "doc_id": "maint1-o1002-t7tsteamtablestationaryinsp_8358e741e128",
+      "chunk_index": 2,
+      "text": "|\n|   | X |   |   | 5 | Check that compartment drains are clear and free flowing. |\n|   | X |   |   | 6 | Check compartments for leaks. |### MONTHLY CHECKLIST\n| Month | M | Q | S | A |\n|-------|---|---|---|---|\n| JAN   | W | W | W | W |\n| FEB   | W | W | W | W |\n| MAR   | W | W | W | W |\n| APR   | W | W | W | W |\n| MAY   | W | W | W | W |\n| JUN   | W | W | W | W |\n| JUL   | W | W | W | W |\n| AUG   | W | W | W | W |\n| SEP   | W | W | W | W |\n| OCT   | W | W | W | W |\n| NOV   | W | W | W | W |\n| DEC   | W | W | W | W |----**Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1104,
+      "token_estimate": 276,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t7tsteamtablestationaryinsp_8358e741e128_chunk_003_ebe8d70c",
+      "doc_id": "maint1-o1002-t7tsteamtablestationaryinsp_8358e741e128",
+      "chunk_index": 3,
+      "text": "© 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 2 of 2**",
+      "char_count": 523,
+      "token_estimate": 130,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 3
+}

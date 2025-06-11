@@ -1,0 +1,114 @@
+{
+  "doc_id": "ipc9-p10-t2-preduringconstructionchecklist_bb90ac778d2f",
+  "total_chunks": 9,
+  "chunks": [
+    {
+      "chunk_id": "ipc9-p10-t2-preduringconstructionchecklist_bb90ac778d2f_chunk_000_028b12df",
+      "doc_id": "ipc9-p10-t2-preduringconstructionchecklist_bb90ac778d2f",
+      "chunk_index": 0,
+      "text": "# Extendicare",
+      "char_count": 13,
+      "token_estimate": 3,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chunk_id": "ipc9-p10-t2-preduringconstructionchecklist_bb90ac778d2f_chunk_001_8f59ee26",
+      "doc_id": "ipc9-p10-t2-preduringconstructionchecklist_bb90ac778d2f",
+      "chunk_index": 1,
+      "text": "## Pre-Construction Checklist| Level of Preventive Measure | Preventive Measure                                                                 | Compliance | Comments/Recommendations | |\n|-----------------------------|------------------------------------------------------------------------------------|------------|--------------------------|---|\n|                             |                                                                                    | Yes        | No         | N/A      |\n| **Before Construction**     |                                                                                    |            |            |          |\n| I                           | Pre-construction clean of the affected area is completed                           |            |            |          |\n| I                           | All staff have been educated on the Preventive Measures                           |            |            |          |\n| I                           | A contingency plan is in place for all disturbed essential services (e.g., water & HVAC) |            |            |          |\n| I                           | All the affected residents have been moved                                         |            |            |          |\n| I                           | All the resident personal care items and equipment have been protected and/or moved |            |            |          |\n| II                          | A route for is established for the movement of clean supplies & equipment          |            |            |          |\n| II                          | A traffic route is established for the construction workers                        |            |            |          |\n| II                          | A service elevator is dedicated to the construction workers, if needed             |            |            |          |\n| II                          | All air vents, electrical plugs, drains, laundry chutes, and other sources of air leak have been sealed |            |            |          |\n| II                          | Seal the air intakes/exhausts in the construction area, along with duct openings   |            |            |          |\n| II                          | All unused doors and adjacent areas have been sealed                               |            |            |          |----Helping people live better> This document is uncontrolled when printed.",
+      "char_count": 2452,
+      "token_estimate": 613,
+      "section_title": "Pre-Construction Checklist| Level of Preventive Measure | Preventive Measure                                                                 | Compliance | Comments/Recommendations | |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc9-p10-t2-preduringconstructionchecklist_bb90ac778d2f_chunk_002_81d56eb5",
+      "doc_id": "ipc9-p10-t2-preduringconstructionchecklist_bb90ac778d2f",
+      "chunk_index": 2,
+      "text": "> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 4```markdown\n\n# HVAC Construction Zone Protocol## Document Metadata\n- **Policy Number:** [Insert Policy Number]\n- **Effective Date:** [Insert Effective Date]\n- **Review Date:** [Insert Review Date]## Protocol Steps### II. Isolation and Containment\n- The HVAC system in the construction zone has been isolated. - Drop sheets are used to contain the work area and the dust generated. - A walk-off mat is placed at the entrance to and exit from the construction area.### III. Dust Barrier and Pressure Maintenance\n- An impermeable dust barrier is erected from the floor to the underside of the deck (including the areas above false ceilings) consisting of two layers of 0.15 mm (6 mil) poly plastic sheets. - If applicable, a containment cube is constructed around the work area. - A minimum negative pressure of 7.5 Pa is maintained at all times in the construction zone.### IV. Anteroom Construction\n- An anteroom is constructed at access points to the construction area if access is from within the home. - A walk-off mat is placed outside and inside the anteroom to trap dust from equipment, debris, and the footwear of personnel leaving the construction area.",
+      "char_count": 1454,
+      "token_estimate": 363,
+      "section_title": "Pre-Construction Checklist| Level of Preventive Measure | Preventive Measure                                                                 | Compliance | Comments/Recommendations | |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc9-p10-t2-preduringconstructionchecklist_bb90ac778d2f_chunk_004_241fb13f",
+      "doc_id": "ipc9-p10-t2-preduringconstructionchecklist_bb90ac778d2f",
+      "chunk_index": 4,
+      "text": "Anteroom Construction\n- An anteroom is constructed at access points to the construction area if access is from within the home. - A walk-off mat is placed outside and inside the anteroom to trap dust from equipment, debris, and the footwear of personnel leaving the construction area. - The anteroom shall contain a HEPA vacuum to allow workers to vacuum themselves before exiting.----> This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 704,
+      "token_estimate": 176,
+      "section_title": "HVAC Construction Zone Protocol## Document Metadata",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc9-p10-t2-preduringconstructionchecklist_bb90ac778d2f_chunk_005_b67161ef",
+      "doc_id": "ipc9-p10-t2-preduringconstructionchecklist_bb90ac778d2f",
+      "chunk_index": 5,
+      "text": "will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n```# During Construction Checklist| Level of Preventive Measure | Preventive Measure                                                                 | Compliance | Comments/Recommendations | |\n|-----------------------------|------------------------------------------------------------------------------------|------------|---------------------------|---|\n|                             |                                                                                    | Yes        | No         | N/A       |\n| I                           | Any displaced ceiling tiles are immediately replaced                                |            |            |           |\n| I                           | There is no discolored water and/or water leaks in the adjacent areas              |            |            |           |\n| II                          | Water misting is used with cutting activities                                       |            |            |           |\n| II                          | All surfaces are HEPA vacuumed and disinfected after the completion of each task   |            |            |           |\n| II                          | Drop sheets are used to contain the work area and the dust generated               |            |            |           |\n| II                          | The construction zone is HEPA vacuumed and wet mopped with a disinfectant, at the end of each day |            |            |           |\n| II                          | All construction debris is well contained during transport (e.g., in tightly covered carts) |            |            |           |\n| II                          | The walk-off mats are cleaned/changed daily, and when soiled                       |            |            |           |\n| II                          | The construction workers maintain their clothing in a clean state, including their boots, when in the home.",
+      "char_count": 2168,
+      "token_estimate": 542,
+      "section_title": "HVAC Construction Zone Protocol## Document Metadata",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc9-p10-t2-preduringconstructionchecklist_bb90ac778d2f_chunk_006_1a7c78d5",
+      "doc_id": "ipc9-p10-t2-preduringconstructionchecklist_bb90ac778d2f",
+      "chunk_index": 6,
+      "text": "Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n```# During Construction Checklist| Level of Preventive Measure | Preventive Measure                                                                 | Compliance | Comments/Recommendations | |\n|-----------------------------|------------------------------------------------------------------------------------|------------|---------------------------|---|\n|                             |                                                                                    | Yes        | No         | N/A       |\n| I                           | Any displaced ceiling tiles are immediately replaced                                |            |            |           |\n| I                           | There is no discolored water and/or water leaks in the adjacent areas              |            |            |           |\n| II                          | Water misting is used with cutting activities                                       |            |            |           |\n| II                          | All surfaces are HEPA vacuumed and disinfected after the completion of each task   |            |            |           |\n| II                          | Drop sheets are used to contain the work area and the dust generated               |            |            |           |\n| II                          | The construction zone is HEPA vacuumed and wet mopped with a disinfectant, at the end of each day |            |            |           |\n| II                          | All construction debris is well contained during transport (e.g., in tightly covered carts) |            |            |           |\n| II                          | The walk-off mats are cleaned/changed daily, and when soiled                       |            |            |           |\n| II                          | The construction workers maintain their clothing in a clean state, including their boots, when in the home. They HEPA vacuum their clothes and boots before |            |            |           |----> This document is uncontrolled when printed.",
+      "char_count": 2129,
+      "token_estimate": 532,
+      "section_title": "HVAC Construction Zone Protocol## Document Metadata",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc9-p10-t2-preduringconstructionchecklist_bb90ac778d2f_chunk_007_010233ca",
+      "doc_id": "ipc9-p10-t2-preduringconstructionchecklist_bb90ac778d2f",
+      "chunk_index": 7,
+      "text": "© 2025\n```# During Construction Checklist| Level of Preventive Measure | Preventive Measure                                                                 | Compliance | Comments/Recommendations | |\n|-----------------------------|------------------------------------------------------------------------------------|------------|---------------------------|---|\n|                             |                                                                                    | Yes        | No         | N/A       |\n| I                           | Any displaced ceiling tiles are immediately replaced                                |            |            |           |\n| I                           | There is no discolored water and/or water leaks in the adjacent areas              |            |            |           |\n| II                          | Water misting is used with cutting activities                                       |            |            |           |\n| II                          | All surfaces are HEPA vacuumed and disinfected after the completion of each task   |            |            |           |\n| II                          | Drop sheets are used to contain the work area and the dust generated               |            |            |           |\n| II                          | The construction zone is HEPA vacuumed and wet mopped with a disinfectant, at the end of each day |            |            |           |\n| II                          | All construction debris is well contained during transport (e.g., in tightly covered carts) |            |            |           |\n| II                          | The walk-off mats are cleaned/changed daily, and when soiled                       |            |            |           |\n| II                          | The construction workers maintain their clothing in a clean state, including their boots, when in the home. They HEPA vacuum their clothes and boots before |            |            |           |----> This document is uncontrolled when printed. > Extendicare (Canada) Inc.",
+      "char_count": 2087,
+      "token_estimate": 521,
+      "section_title": "HVAC Construction Zone Protocol## Document Metadata",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc9-p10-t2-preduringconstructionchecklist_bb90ac778d2f_chunk_008_484cb8b7",
+      "doc_id": "ipc9-p10-t2-preduringconstructionchecklist_bb90ac778d2f",
+      "chunk_index": 8,
+      "text": "They HEPA vacuum their clothes and boots before |            |            |           |----> This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025# Exiting the Construction Area## Procedures### III. Construction Debris Management\n- The construction debris is removed at the end of each day, at minimum. - The area is vacuumed frequently (with a HEPA-filtered vacuum) and wet mopped daily with a medical-grade low level disinfectant. - The pressure of the construction area must be monitored daily, ensuring that a minimum negative pressure of 7.5 Pa is maintained in the construction area.### IV. Access Control\n- Ensure that entry into and exit from the construction area takes place through the anteroom only. This will ensure that the negative pressure is well maintained. - Workers are to HEPA vacuum their clothing, including their boots, in the anteroom before leaving the construction zone.",
+      "char_count": 1168,
+      "token_estimate": 292,
+      "section_title": "HVAC Construction Zone Protocol## Document Metadata",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc9-p10-t2-preduringconstructionchecklist_bb90ac778d2f_chunk_009_dcc3e96c",
+      "doc_id": "ipc9-p10-t2-preduringconstructionchecklist_bb90ac778d2f",
+      "chunk_index": 9,
+      "text": "This will ensure that the negative pressure is well maintained. - Workers are to HEPA vacuum their clothing, including their boots, in the anteroom before leaving the construction zone. - Repair holes in walls within 8 hours or seal them temporarily. - Ensure that ventilation systems are working properly in adjacent areas.----> This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 4 of 4",
+      "char_count": 668,
+      "token_estimate": 167,
+      "section_title": "HVAC Construction Zone Protocol## Document Metadata",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

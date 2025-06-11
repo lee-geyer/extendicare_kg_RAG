@@ -1,0 +1,18 @@
+{
+  "doc_id": "care5-p1002-t1continenceproductutilizationsheet_18172b45dc59",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "care5-p1002-t1continenceproductutilizationsheet_18172b45dc59_chunk_000_18256052",
+      "doc_id": "care5-p1002-t1continenceproductutilizationsheet_18172b45dc59",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## CONTINENCE PRODUCT UTILIZATION SHEET| DATE       | SHIFT | RESIDENT | REASON | PRODUCT | SIGNATURE |\n|------------|-------|----------|--------|---------|-----------|\n|            |       |          |        |         |           |----### Helping people live better**Note:** This document is uncontrolled when printed.Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**----**Page 1 of 1**",
+      "char_count": 635,
+      "token_estimate": 158,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

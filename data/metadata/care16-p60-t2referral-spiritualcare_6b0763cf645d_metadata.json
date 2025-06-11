@@ -1,0 +1,11 @@
+{
+  "doc_id": "care16-p60-t2referral-spiritualcare_6b0763cf645d",
+  "category": "Care",
+  "schema_used": "GenericDocumentMeta",
+  "extraction_success": true,
+  "metadata": {
+    "title": "Referral - Spiritual Care"
+  },
+  "error": null,
+  "fallback_metadata": null
+}

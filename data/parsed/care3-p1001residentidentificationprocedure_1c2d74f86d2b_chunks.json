@@ -1,0 +1,30 @@
+{
+  "doc_id": "care3-p1001residentidentificationprocedure_1c2d74f86d2b",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "care3-p1001residentidentificationprocedure_1c2d74f86d2b_chunk_000_2a4d7684",
+      "doc_id": "care3-p1001residentidentificationprocedure_1c2d74f86d2b",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE- **MANUAL:** CARE\n- **INDEX:** CARE3-P10.01\n- **SECTION:** Resident Safety\n- **EFFECTIVE DATE:** June 16, 2025\n- **REVIEWED DATE:** June 9, 2025\n- **APPROVED BY:** Director, Education and Resident Services\n- **MODIFIED DATE:**----## POLICY### Resident Safety## PROCEDURE- All healthcare providers, including external health providers, will verify the resident’s identity prior to the delivery of any service, procedure, treatment, or medication administration.- A minimum of two resident identifiers must be used, including:\n- A photograph of the resident’s current likeness\n- Self-identification (asking residents to indicate their first and last name and date of birth)\n- Date of birth (DOB)\n- Resident ID number\n- Government-issued identification\n- Double witness verification by a second staff member\n- Asking the family to confirm the resident’s identity- Identifiers will be distinct and involve a combination of personal details, such as name and date of birth, with a resident photograph used as the primary identifier.- The home will have a process to ensure the residents’ digital photograph is taken initially on the day of move-in, updated annually, or upon significant change in physical appearance (e.g., significant weight gain or loss).- Resident photographs will be taken by a member of the program team in collaboration with clinical staff using Extendicare’s preferred photo application and uploaded to the Electronic Health Record (EHR) and any other designated location determined by the home.- When receiving telephone orders or critical lab results, the nurse will verify the resident’s identity by confirming both the resident’s full name and their date of birth (DOB).----**Note:** This document is uncontrolled when printed.",
+      "char_count": 1776,
+      "token_estimate": 444,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p1001residentidentificationprocedure_1c2d74f86d2b_chunk_001_9fb887dd",
+      "doc_id": "care3-p1001residentidentificationprocedure_1c2d74f86d2b",
+      "chunk_index": 1,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 1**",
+      "char_count": 297,
+      "token_estimate": 74,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

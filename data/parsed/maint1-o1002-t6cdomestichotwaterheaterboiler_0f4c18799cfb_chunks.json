@@ -1,0 +1,41 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t6cdomestichotwaterheaterboiler_0f4c18799cfb_chunk_000_e59d2688",
+      "doc_id": "maint1-o1002-t6cdomestichotwaterheaterboiler_0f4c18799cfb",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## MAINTENANCE INSPECTION CHECKLIST### Equipment\n**Domestic Hot Water Heater – Boiler**\n- **Year:**\n- **Unit No.:**\n- **Manufacturer:** All\n- **Model:** All### LEGEND/KEY\n| Legend | Key          |\n|--------|--------------|\n| W      | Weekly       |\n| M      | Monthly      |\n| Q      | Quarterly    |\n| S      | Semi-Annual  |\n| A      | Annual       |\n| O      | Ok           |\n| R      | Repair       |\n| N      | Replace      |### CHECKS\n| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   |   | 1 | Check that the combustion air-inlet to the boiler room is clear and free of obstructions. |\n| X |   |   |   | 2 | Observe the boiler vent and chimney for any obvious signs of cracks or leaks. |\n| X |   |   |   | 3 | Test temperature controller (on storage tank) and high limit device on heater. |\n| X |   |   |   | 4 | Check the pilot and burner for proper flame size, ignition and colour. |\n| X |   |   |   | 5 | Test draft on flues. |\n| X |   |   |   | 6 | Inspect piping for leaks.",
+      "char_count": 1148,
+      "token_estimate": 287,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t6cdomestichotwaterheaterboiler_0f4c18799cfb_chunk_002_980ee728",
+      "doc_id": "maint1-o1002-t6cdomestichotwaterheaterboiler_0f4c18799cfb",
+      "chunk_index": 2,
+      "text": "|\n| X |   |   |   | 5 | Test draft on flues. |\n| X |   |   |   | 6 | Inspect piping for leaks. |\n|   | X |   |   | 7 | Check that circulation pump operates properly. Add 2 or 3 drops of oil to the pump. |\n|   |   | X |   | 8 | Manually test safety relief valve. |\n|   |   |   | X | 9 | Refer to “Annual Heating Inspection SPECIFICATIONS” for annual requirements. * |**NOTE:**\n*The services of qualified personnel may be required. **Qualified service firms are to be employed.**### Monthly Schedule\n| Month | M | Q | S | A |\n|-------|---|---|---|---|\n| JAN   | W | W | W | W |\n| FEB   | W | W | W | W |\n| MAR   | W | W | W | W |\n| APR   | W | W | W | W |\n| MAY   | W | W | W | W |\n| JUN   | W | W | W | W |\n| JUL   | W | W | W | W |\n| AUG   | W | W | W | W |\n| SEP   | W | W | W | W |\n| OCT   | W | W | W | W |\n| NOV   | W | W | W | W |\n| DEC   | W | W | W | W |----**Helping people live better**\nThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.",
+      "char_count": 1141,
+      "token_estimate": 285,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t6cdomestichotwaterheaterboiler_0f4c18799cfb_chunk_003_95fcefc1",
+      "doc_id": "maint1-o1002-t6cdomestichotwaterheaterboiler_0f4c18799cfb",
+      "chunk_index": 3,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n\n# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 2 of 2",
+      "char_count": 771,
+      "token_estimate": 192,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 3
+}

@@ -1,0 +1,53 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t7nrangegrillovenelectricinsp_852344a9de20_chunk_000_fa6f86e2",
+      "doc_id": "maint1-o1002-t7nrangegrillovenelectricinsp_852344a9de20",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## MAINTENANCE INSPECTION CHECKLIST### Equipment\n**Range/Grill/Oven**\n**Name:**\n**Year:**\n**Manufacturer:** Garland\n**Model:** Electric### LEGEND/KEY\n| Legend | Key         |\n|--------|-------------|\n| W      | Weekly      |\n| M      | Monthly     |\n| Q      | Quarterly   |\n| S      | Semi-Annual |\n| A      | Annual      |\n| O      | Ok          |\n| R      | Repair      |\n| N      | Replace     |### CHECKS\n| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   |   |   | 1. Check that oven doors close properly and handles are in place and secure. Adjust as necessary. |\n| X |   |   |   |   | 2. Check pilot light lamps are functioning. |\n|   | X |   |   |   | 3. Check all knobs are in place, secure, functional and legible. Repair or replace as necessary. |\n|   | X |   |   |   | 4. Check circuit breakers for proper tripping action and overheating. |\n|   |   | X |   |   | 5. Check internal wiring for insulation damage and tightness of connections. |\n|   |   | X |   |   | 6. Test oven temperature against thermostat set-point (350F).",
+      "char_count": 1200,
+      "token_estimate": 300,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t7nrangegrillovenelectricinsp_852344a9de20_chunk_002_2590557c",
+      "doc_id": "maint1-o1002-t7nrangegrillovenelectricinsp_852344a9de20",
+      "chunk_index": 2,
+      "text": "|\n|   |   | X |   |   | 6. Test oven temperature against thermostat set-point (350F). Recalibrate only if variance exceeds +/- 15F. |\n|   |   | X |   |   | 7. Test grill surface temperature against thermostat set-point (350F). Recalibrate only if variance exceeds +/- 15F. |\n|   |   |   | X |   | 8. Check electrical connections at receptacle or junction box for tightness and proper grounding.* |\n|   |   |   | X |   | 9. Clean heating element compartments. |\n|   |   |   | X |   | 10. Check that cabling, connections and anti-short bushings are in place, properly secured and in good condition. |**NOTE:**\n*The services of qualified personnel may be required. **Qualified service firms are to be employed.**### Monthly Schedule\n| Month | M | Q | S | A |\n|-------|---|---|---|---|\n| JAN   | W | W | W | W |\n| FEB   | W | W | W | W |\n| MAR   | W | W | W | W |\n| APR   | W | W | W | W |\n| MAY   | W | W | W | W |\n| JUN   | W | W | W | W |\n| JUL   | W | W | W | W |\n| AUG   | W | W | W | W |\n| SEP   | W | W | W | W |\n| OCT   | W | W | W | W |\n| NOV   | W | W | W | W |\n| DEC   | W | W | W | W |----**Helping people live better**\nThis document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1197,
+      "token_estimate": 299,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t7nrangegrillovenelectricinsp_852344a9de20_chunk_003_322e2d19",
+      "doc_id": "maint1-o1002-t7nrangegrillovenelectricinsp_852344a9de20",
+      "chunk_index": 3,
+      "text": "**Qualified service firms are to be employed.**### Monthly Schedule\n| Month | M | Q | S | A |\n|-------|---|---|---|---|\n| JAN   | W | W | W | W |\n| FEB   | W | W | W | W |\n| MAR   | W | W | W | W |\n| APR   | W | W | W | W |\n| MAY   | W | W | W | W |\n| JUN   | W | W | W | W |\n| JUL   | W | W | W | W |\n| AUG   | W | W | W | W |\n| SEP   | W | W | W | W |\n| OCT   | W | W | W | W |\n| NOV   | W | W | W | W |\n| DEC   | W | W | W | W |----**Helping people live better**\nThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025  Page 1 of 2# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1028,
+      "token_estimate": 257,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t7nrangegrillovenelectricinsp_852344a9de20_chunk_004_f1d0c72d",
+      "doc_id": "maint1-o1002-t7nrangegrillovenelectricinsp_852344a9de20",
+      "chunk_index": 4,
+      "text": "© 2025  Page 1 of 2# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 2 of 2",
+      "char_count": 510,
+      "token_estimate": 127,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 4
+}

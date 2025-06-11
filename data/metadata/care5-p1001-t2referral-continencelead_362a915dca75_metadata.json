@@ -1,0 +1,11 @@
+{
+  "doc_id": "care5-p1001-t2referral-continencelead_362a915dca75",
+  "category": "Care",
+  "schema_used": "GenericDocumentMeta",
+  "extraction_success": true,
+  "metadata": {
+    "title": "Referral - Continence Lead"
+  },
+  "error": null,
+  "fallback_metadata": null
+}

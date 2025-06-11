@@ -1,0 +1,42 @@
+{
+  "doc_id": "prv2-p1004healthrecordondischargeortransfer_4d5da08c8f66",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "prv2-p1004healthrecordondischargeortransfer_4d5da08c8f66_chunk_000_01c893c2",
+      "doc_id": "prv2-p1004healthrecordondischargeortransfer_4d5da08c8f66",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Privacy and Confidentiality\n**INDEX:** PRV2-P10.04\n**SECTION:** Health Records Management\n**EFFECTIVE DATE:** April 1, 2025\n**REVIEWED DATE:** March 25, 2025\n**APPROVED BY:** Senior Director, Corporate Quality and Risk\n**MODIFIED DATE:** May 30, 2025----## POLICY### Health Record Management#### BACKGROUND:\nA health care provider (HCP) will ensure that upon death or discharge of a resident, any active chart and overflow file are combined to produce a complete, permanent health record.----## PROCEDURE### Health Care Provider (HCP) will:\n- Record final disposition and discharge in the progress notes. - Request that the physician complete a discharge summary in the progress notes. - Collect the following forms or records:\n- Active Health Care Record\n- Overflow File\n- Care Plan\n- Current MAR/TAR\n- Current Daily Care Record\n- Copies of record of signatures and initials, reflecting the years the resident resided in the home\n- Departmental records, if required, i.e., Dietary Notes, Recreation/Activities Resident Participation Records\n- Assemble the health record.",
+      "char_count": 1108,
+      "token_estimate": 277,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv2-p1004healthrecordondischargeortransfer_4d5da08c8f66_chunk_001_be13dc99",
+      "doc_id": "prv2-p1004healthrecordondischargeortransfer_4d5da08c8f66",
+      "chunk_index": 1,
+      "text": "- Request that the physician complete a discharge summary in the progress notes. - Collect the following forms or records:\n- Active Health Care Record\n- Overflow File\n- Care Plan\n- Current MAR/TAR\n- Current Daily Care Record\n- Copies of record of signatures and initials, reflecting the years the resident resided in the home\n- Departmental records, if required, i.e., Dietary Notes, Recreation/Activities Resident Participation Records\n- Assemble the health record. - Perform final review (i.e., discharge checklist) to ensure that documentation is completed by interdisciplinary team members.### Nursing Clerk or Delegate will:\n- Update the resident’s health record in PointClickCare (PCC), if applicable. - File the health care record as per the home’s process. - File discharged health records alphabetically according to the year of discharge or according to register number. - Store health records separate from other records (e.g., accounting), in a manner that prevents unauthorized persons from accessing, and prevents damage by environmental hazards.----## EDUCATION",
+      "char_count": 1076,
+      "token_estimate": 269,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv2-p1004healthrecordondischargeortransfer_4d5da08c8f66_chunk_002_abeda177",
+      "doc_id": "prv2-p1004healthrecordondischargeortransfer_4d5da08c8f66",
+      "chunk_index": 2,
+      "text": "1. Annual Privacy Education----**Helping people live better**\nThis document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 1 of 1",
+      "char_count": 396,
+      "token_estimate": 99,
+      "section_title": "Annual Privacy Education----**Helping people live better**",
+      "chunk_type": "content",
+      "start_line": 24,
+      "end_line": 27
+    }
+  ]
+}

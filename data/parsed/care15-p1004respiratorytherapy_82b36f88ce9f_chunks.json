@@ -1,0 +1,150 @@
+{
+  "doc_id": "care15-p1004respiratorytherapy_82b36f88ce9f",
+  "total_chunks": 12,
+  "chunks": [
+    {
+      "chunk_id": "care15-p1004respiratorytherapy_82b36f88ce9f_chunk_000_67c0392e",
+      "doc_id": "care15-p1004respiratorytherapy_82b36f88ce9f",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE MANUAL: CARE\n\n### INDEX: CARE15-P10.04",
+      "char_count": 64,
+      "token_estimate": 16,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care15-p1004respiratorytherapy_82b36f88ce9f_chunk_002_c29ffe0f",
+      "doc_id": "care15-p1004respiratorytherapy_82b36f88ce9f",
+      "chunk_index": 2,
+      "text": "### SECTION: Restorative Care\n\n### EFFECTIVE DATE: June 16, 2025",
+      "char_count": 64,
+      "token_estimate": 16,
+      "section_title": "SECTION: Restorative Care",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care15-p1004respiratorytherapy_82b36f88ce9f_chunk_004_7dc54376",
+      "doc_id": "care15-p1004respiratorytherapy_82b36f88ce9f",
+      "chunk_index": 4,
+      "text": "### REVIEWED DATE: June 9, 2025\n\n### APPROVED BY: Director, Education and Resident Services",
+      "char_count": 91,
+      "token_estimate": 22,
+      "section_title": "REVIEWED DATE: June 9, 2025",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care15-p1004respiratorytherapy_82b36f88ce9f_chunk_006_a11e0f8d",
+      "doc_id": "care15-p1004respiratorytherapy_82b36f88ce9f",
+      "chunk_index": 6,
+      "text": "### MODIFIED DATE:----## POLICY\n\n### Restorative Care### PROCEDURE\nRespiratory therapy services will focus on supporting and enhancing residents’ quality of life by maintaining and/or improving respiratory function through a restorative care approach. This approach emphasizes resident strengths, promotes independence, and maximizes participation in meaningful Activities of Daily Living (ADLs).1. The interRAI assessment must be completed by the interdisciplinary team, including a review of relevant respiratory indicators such as:\n- Dyspnea\n- Oxygen use\n- ADL performance\n- Diagnoses\n- Recurring respiratory infections\n- Any assessment protocols2. The nurse conducting the interRAI review must refer to the Restorative Care Coordinating Committee, where the Restorative Care Lead will complete the Restorative – Needs Assessment & Evaluation to determine the resident’s capacity for improvement and suitability for restorative respiratory therapies.3. The Restorative Care Co-Lead, in collaboration with the interdisciplinary team, may also coordinate referrals and assessments by Extendicare’s preferred respiratory service provider as needed.4.",
+      "char_count": 1150,
+      "token_estimate": 287,
+      "section_title": "MODIFIED DATE:----## POLICY",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care15-p1004respiratorytherapy_82b36f88ce9f_chunk_008_5e105454",
+      "doc_id": "care15-p1004respiratorytherapy_82b36f88ce9f",
+      "chunk_index": 8,
+      "text": "The nurse conducting the interRAI review must refer to the Restorative Care Coordinating Committee, where the Restorative Care Lead will complete the Restorative – Needs Assessment & Evaluation to determine the resident’s capacity for improvement and suitability for restorative respiratory therapies.3. The Restorative Care Co-Lead, in collaboration with the interdisciplinary team, may also coordinate referrals and assessments by Extendicare’s preferred respiratory service provider as needed.4. Based on assessment outcomes, the most appropriate pulmonary exercises and treatments must be identified. This includes the implementation and training for any necessary respiratory equipment.5. Restorative respiratory therapies are not intended as passive treatments, but are intended as function-enhancing supports, emphasizing resident engagement and active participation.",
+      "char_count": 874,
+      "token_estimate": 218,
+      "section_title": "Restorative Care### PROCEDURE",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care15-p1004respiratorytherapy_82b36f88ce9f_chunk_009_6ca0df6e",
+      "doc_id": "care15-p1004respiratorytherapy_82b36f88ce9f",
+      "chunk_index": 9,
+      "text": "This includes the implementation and training for any necessary respiratory equipment.5. Restorative respiratory therapies are not intended as passive treatments, but are intended as function-enhancing supports, emphasizing resident engagement and active participation. Restorative respiratory interventions may include the following:- **Breathing retraining techniques:**\n- Diaphragmatic breathing\n- Pursed-lip breathing- **Therapy devices and methods:**\n- Incentive spirometry\n- Chest physiotherapy\n- Postural drainage\n- Non-invasive ventilation (e.g., CPAP/BiPAP)\n- Nebulizer treatments (e.g., bronchodilators, saline)6. An individualized plan of care must be developed with the resident and/or Substitute Decision Maker (SDM)/Power of Attorney (POA) based on assessment findings. Plans must specify treatment types, frequency, and duration.----**Helping people live better**This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 1193,
+      "token_estimate": 298,
+      "section_title": "Restorative Care### PROCEDURE",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care15-p1004respiratorytherapy_82b36f88ce9f_chunk_010_425f6a44",
+      "doc_id": "care15-p1004respiratorytherapy_82b36f88ce9f",
+      "chunk_index": 10,
+      "text": "will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 2**# PROCEDURE## SECTION: Restorative Care\n\n## DESCRIPTION: Respiratory Therapy",
+      "char_count": 347,
+      "token_estimate": 86,
+      "section_title": "Restorative Care### PROCEDURE",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care15-p1004respiratorytherapy_82b36f88ce9f_chunk_012_dc6af1e3",
+      "doc_id": "care15-p1004respiratorytherapy_82b36f88ce9f",
+      "chunk_index": 12,
+      "text": "## INDEX: CARE15-P10.04### Education and Training\n- The resident and/or SDM/POA must receive education and training, in collaboration with respiratory service providers as appropriate. Education may include:\n- Use and maintenance of respiratory equipment\n- Techniques for self-care and symptom management\n- Recognizing early signs of respiratory decline### Interventions\n- Interventions must be delivered by qualified professionals, such as trained nurses or registered respiratory therapists. - Therapy minutes and intervention details must be documented in the treatment record and captured in the interRAI assessment. - The Restorative Care Co-Lead or designate must evaluate intervention effectiveness monthly, with integration into quarterly reviews and the Restorative – Care Needs Assessment and Evaluation.",
+      "char_count": 814,
+      "token_estimate": 203,
+      "section_title": "INDEX: CARE15-P10.04### Education and Training",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care15-p1004respiratorytherapy_82b36f88ce9f_chunk_013_ac9f4551",
+      "doc_id": "care15-p1004respiratorytherapy_82b36f88ce9f",
+      "chunk_index": 13,
+      "text": "- Therapy minutes and intervention details must be documented in the treatment record and captured in the interRAI assessment. - The Restorative Care Co-Lead or designate must evaluate intervention effectiveness monthly, with integration into quarterly reviews and the Restorative – Care Needs Assessment and Evaluation. Evaluation criteria must include:\n- Changes in respiratory symptoms\n- Functional improvements (e.g., increased ADL participation)\n- Resident feedback on comfort, participation, and progress toward goals### Documentation and Communication\n- Significant changes or concerns in respiratory status (e.g., increased dyspnea, decreased oxygen saturation) must be documented in the resident’s health record and communicated to the physician or Nurse Practitioner (NP) in a timely manner.",
+      "char_count": 801,
+      "token_estimate": 200,
+      "section_title": "INDEX: CARE15-P10.04### Education and Training",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care15-p1004respiratorytherapy_82b36f88ce9f_chunk_014_1cc74ecc",
+      "doc_id": "care15-p1004respiratorytherapy_82b36f88ce9f",
+      "chunk_index": 14,
+      "text": "- The Restorative Care Co-Lead or designate must evaluate intervention effectiveness monthly, with integration into quarterly reviews and the Restorative – Care Needs Assessment and Evaluation. Evaluation criteria must include:\n- Changes in respiratory symptoms\n- Functional improvements (e.g., increased ADL participation)\n- Resident feedback on comfort, participation, and progress toward goals### Documentation and Communication\n- Significant changes or concerns in respiratory status (e.g., increased dyspnea, decreased oxygen saturation) must be documented in the resident’s health record and communicated to the physician or Nurse Practitioner (NP) in a timely manner. - Respiratory therapy outcomes must be reviewed during Restorative Care Coordinating Committee meetings, which may include:\n- Number of residents with documented respiratory goals\n- Reductions in respiratory symptoms\n- Maintenance or improvement in ADL self-performance### Staff Training\n- Staff responsible for delivering respiratory interventions must receive initial training, with refreshers and ongoing competency evaluations to ensure safe, evidence-based care as needed.## EDUCATION",
+      "char_count": 1164,
+      "token_estimate": 291,
+      "section_title": "INDEX: CARE15-P10.04### Education and Training",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care15-p1004respiratorytherapy_82b36f88ce9f_chunk_015_0d395b79",
+      "doc_id": "care15-p1004respiratorytherapy_82b36f88ce9f",
+      "chunk_index": 15,
+      "text": "1. Restorative Care Program Education\n\n2. Restorative Care Program Guide## TOOLS",
+      "char_count": 80,
+      "token_estimate": 20,
+      "section_title": "Restorative Care Program Education",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care15-p1004respiratorytherapy_82b36f88ce9f_chunk_017_79d46386",
+      "doc_id": "care15-p1004respiratorytherapy_82b36f88ce9f",
+      "chunk_index": 17,
+      "text": "1. Referral – Restorative Care Coordinating Committee\n\n2. Restorative – Needs Assessment & Evaluation----This document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 2 of 2",
+      "char_count": 439,
+      "token_estimate": 109,
+      "section_title": "Referral – Restorative Care Coordinating Committee",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

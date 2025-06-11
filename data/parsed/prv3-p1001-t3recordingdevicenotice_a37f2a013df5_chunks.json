@@ -1,0 +1,18 @@
+{
+  "doc_id": "prv3-p1001-t3recordingdevicenotice_a37f2a013df5",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "prv3-p1001-t3recordingdevicenotice_a37f2a013df5_chunk_000_9b8cb822",
+      "doc_id": "prv3-p1001-t3recordingdevicenotice_a37f2a013df5",
+      "chunk_index": 0,
+      "text": "# Notice**THIS ROOM MAY BE MONITORED BY VIDEO SURVEILLANCE**----**Extendicare**----**Notice****THIS ROOM MAY BE MONITORED BY VIDEO SURVEILLANCE**----**Extendicare**----**Notice****THIS ROOM MAY BE MONITORED BY VIDEO SURVEILLANCE**----**Extendicare**",
+      "char_count": 249,
+      "token_estimate": 62,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 0
+    }
+  ]
+}

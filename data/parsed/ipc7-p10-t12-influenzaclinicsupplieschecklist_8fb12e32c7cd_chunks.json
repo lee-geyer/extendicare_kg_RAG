@@ -1,0 +1,54 @@
+{
+  "doc_id": "ipc7-p10-t12-influenzaclinicsupplieschecklist_8fb12e32c7cd",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "ipc7-p10-t12-influenzaclinicsupplieschecklist_8fb12e32c7cd_chunk_000_5c4d68a0",
+      "doc_id": "ipc7-p10-t12-influenzaclinicsupplieschecklist_8fb12e32c7cd",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Influenza Clinic Supplies Checklist**Home Name:**\n**Clinic Organizer:**\n**Date of Clinic:**### PRE-CLINIC",
+      "char_count": 123,
+      "token_estimate": 30,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t12-influenzaclinicsupplieschecklist_8fb12e32c7cd_chunk_002_4a51fb06",
+      "doc_id": "ipc7-p10-t12-influenzaclinicsupplieschecklist_8fb12e32c7cd",
+      "chunk_index": 2,
+      "text": "#### Supplies available\n- [ ] Consents and refusals\n- [ ] Flu fact sheets/monograph\n- [ ] Campaign Thermometer\n- [ ] Clinic date posters\n- [ ] Medical Directive WITH adverse event directive\n- [ ] Cooler for vaccine pickup with thermometer (HI/LO) and cold packs\n- [ ] PH vaccine pickup certificate\n- [ ] Consider scheduling extra registered staff and PSWs on the clinic day\n- [ ] Order required supplies (see list below)### CLINIC DAY",
+      "char_count": 434,
+      "token_estimate": 108,
+      "section_title": "Supplies available",
+      "chunk_type": "content",
+      "start_line": 4,
+      "end_line": 13
+    },
+    {
+      "chunk_id": "ipc7-p10-t12-influenzaclinicsupplieschecklist_8fb12e32c7cd_chunk_003_b19d6d59",
+      "doc_id": "ipc7-p10-t12-influenzaclinicsupplieschecklist_8fb12e32c7cd",
+      "chunk_index": 3,
+      "text": "#### Supplies available\n- [ ] 5/8” and 1” needles and 1 cc syringes\n- [ ] Alcohol wipes and gauze squares\n- [ ] Non latex band aids\n- [ ] Cart for supplies\n- ID system: Have a resident list of consents and ensure to cross reference with immunizations\n- [ ] Sharps containers\n- [ ] Hand sanitizer\n- [ ] Accel wipes\n- [ ] Gloves\n- [ ] Garbage bags----*Helping people live better*This document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\nConfidential and Proprietary Information of Extendicare (Canada) Inc. © 2025",
+      "char_count": 699,
+      "token_estimate": 174,
+      "section_title": "Supplies available",
+      "chunk_type": "content",
+      "start_line": 14,
+      "end_line": 26
+    },
+    {
+      "chunk_id": "ipc7-p10-t12-influenzaclinicsupplieschecklist_8fb12e32c7cd_chunk_004_94f464c2",
+      "doc_id": "ipc7-p10-t12-influenzaclinicsupplieschecklist_8fb12e32c7cd",
+      "chunk_index": 4,
+      "text": "# Influenza Clinic Supplies Checklist## Emergency Supplies:\n- Epinephrine and Benadryl\n- BP cuff and stethoscope\n- CPR mask\n- Oxygen supplies----> **Note:** This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\n> Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 2 of 2",
+      "char_count": 497,
+      "token_estimate": 124,
+      "section_title": "Influenza Clinic Supplies Checklist## Emergency Supplies:",
+      "chunk_type": "content",
+      "start_line": 27,
+      "end_line": 34
+    }
+  ]
+}

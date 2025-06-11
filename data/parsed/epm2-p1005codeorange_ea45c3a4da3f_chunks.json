@@ -1,0 +1,30 @@
+{
+  "doc_id": "epm2-p1005codeorange_ea45c3a4da3f",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "epm2-p1005codeorange_ea45c3a4da3f_chunk_000_a2318fcb",
+      "doc_id": "epm2-p1005codeorange_ea45c3a4da3f",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Emergency Planning and Management\n**INDEX:** EPM2-P10.05\n**SECTION:** Emergency Response Codes\n**EFFECTIVE DATE:** January 13, 2025\n**REVIEWED DATE:** January 6, 2025\n**APPROVED BY:** Senior Director, Corporate Quality and Risk\n**MODIFIED DATE:** May 30, 2025----## POLICY### Emergency Response Codes## PROCEDURECode Orange is announced when the home is about to receive an influx of people requiring emergency care due to an external or natural disaster such as a tornado, earthquake, hurricane, or severe storm or internal evacuation.- When Code Orange is announced, all staff must return to their assigned stations and report to their supervisor.\n- All staff must follow direction from their supervisor/manager and the Incident Manager.\n- When Code Orange is announced, department managers and supervisors are to proceed to the Emergency Operations Centre for instructions within 10 minutes.\n- The Incident Manager and Executive Director/Designate must follow the procedures for Code Orange as per their designated Job Action checklists.## TOOLS1. Code Orange Incident Manager Job Action Checklist",
+      "char_count": 1137,
+      "token_estimate": 284,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 9
+    },
+    {
+      "chunk_id": "epm2-p1005codeorange_ea45c3a4da3f_chunk_001_02aebb75",
+      "doc_id": "epm2-p1005codeorange_ea45c3a4da3f",
+      "chunk_index": 1,
+      "text": "2. Code Orange Executive Director/Designate Job Action Checklist\n\n3. Code Orange Poster----**Helping people**\nThis document is uncontrolled when printed.\n**Ikva bettar**\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 1**",
+      "char_count": 467,
+      "token_estimate": 116,
+      "section_title": "Code Orange Executive Director/Designate Job Action Checklist",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

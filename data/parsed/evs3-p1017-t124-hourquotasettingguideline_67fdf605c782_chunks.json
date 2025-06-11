@@ -1,0 +1,42 @@
+{
+  "doc_id": "evs3-p1017-t124-hourquotasettingguideline_67fdf605c782",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "evs3-p1017-t124-hourquotasettingguideline_67fdf605c782_chunk_000_b9b50d4b",
+      "doc_id": "evs3-p1017-t124-hourquotasettingguideline_67fdf605c782",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## 24-Hour Quota Setting Guideline| ITEM                          | 24 HOUR QUOTA                                                                                     |\n|-------------------------------|---------------------------------------------------------------------------------------------------|\n| Hand towels                   | 2 to 2.5 for each resident (Personal Care). |\n| Face cloths                   | 2 for each resident (Personal Care) plus 1 per resident per schedule bath and 1 per resident requiring total a.m. care/bed bath +10% emergency supply. |\n| Peri cloths                   | 2 per shift per incontinent resident. |\n| Bath towels                   | 2 to 3 per bath day to cover scheduled baths and demand baths. |\n| Blankets/spreads/comforters   | 10% of scheduled baths per day. |\n| Sheets/pillowcases            | 2 sheets (top/bottom) and 2 pillowcases for each home area’s scheduled changes. |\n|                               | 2 sheets (top/bottom) for demand changes (25% of incontinent residents).",
+      "char_count": 1047,
+      "token_estimate": 261,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs3-p1017-t124-hourquotasettingguideline_67fdf605c782_chunk_002_c7119c44",
+      "doc_id": "evs3-p1017-t124-hourquotasettingguideline_67fdf605c782",
+      "chunk_index": 2,
+      "text": "|\n| Sheets/pillowcases            | 2 sheets (top/bottom) and 2 pillowcases for each home area’s scheduled changes. |\n|                               | 2 sheets (top/bottom) for demand changes (25% of incontinent residents). || ITEM                          | EXPLANATION                                                                                       |\n|-------------------------------|---------------------------------------------------------------------------------------------------|\n| Hand towels                   | Each resident will receive two hand towels for their personal use every day. These towels will be put out by the night or day staff. Extra hand towels (.5 per resident) will be available to replace products that become too soiled throughout the day. These towels are not to be used for peri care. |\n| Face cloths                   | Same as above. In addition, one added face cloth for each scheduled bath and residents requiring total a.m. care in bed. These towels are not to be used for peri care. |\n| Peri cloths                   | Used only for incontinence care needs.",
+      "char_count": 1103,
+      "token_estimate": 275,
+      "section_title": "24-Hour Quota Setting Guideline| ITEM                          | 24 HOUR QUOTA                                                                                     |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs3-p1017-t124-hourquotasettingguideline_67fdf605c782_chunk_003_15161f38",
+      "doc_id": "evs3-p1017-t124-hourquotasettingguideline_67fdf605c782",
+      "chunk_index": 3,
+      "text": "These towels are not to be used for peri care. |\n| Peri cloths                   | Used only for incontinence care needs. |\n| Bath towels                   | Each resident scheduled for a bath will receive 2-3 towels for bathing. On home areas that have some residents requiring demand baths over and above scheduled bath, 2 or 3 bath towels will be provided. Residents requiring total body a.m. care will be provided 1-2 bath towels. |\n| Sheets/pillowcases            | 2 sheets or 1 top and 1 fitted will be required for each scheduled bed change as well as 2 pillowcases. Two additional sheets (mix of top and bottom) will be required for demand changes of 25% of incontinent residents. |\n| Blankets/spreads/comforters   | Only change if soiled. |----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 1 of 1",
+      "char_count": 1088,
+      "token_estimate": 272,
+      "section_title": "24-Hour Quota Setting Guideline| ITEM                          | 24 HOUR QUOTA                                                                                     |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

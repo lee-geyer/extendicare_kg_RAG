@@ -1,0 +1,126 @@
+{
+  "doc_id": "care7-p1002-t2mentalhealth-cornellscalefordepressionindementia_134b83c518c1",
+  "total_chunks": 10,
+  "chunks": [
+    {
+      "chunk_id": "care7-p1002-t2mentalhealth-cornellscalefordepressionindementia_134b83c518c1_chunk_000_d43b11a7",
+      "doc_id": "care7-p1002-t2mentalhealth-cornellscalefordepressionindementia_134b83c518c1",
+      "chunk_index": 0,
+      "text": "# Mental Health - Cornell Scale for Depression in Dementia**Resident:**                            **Location:**                               **Score:** NA\n**Category:** NA## A. Mood-Related Signs\nThe scale is designed as a screening tool and is not diagnostic.\n**2 steps:**\n\n1. The clinician interviews the resident's caregiver on each of the 19 items of the scale. The caregiver is instructed to base his/her report on observations of the resident's behaviour during the week prior to the interview.",
+      "char_count": 502,
+      "token_estimate": 125,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care7-p1002-t2mentalhealth-cornellscalefordepressionindementia_134b83c518c1_chunk_002_88527269",
+      "doc_id": "care7-p1002-t2mentalhealth-cornellscalefordepressionindementia_134b83c518c1",
+      "chunk_index": 2,
+      "text": "2. The clinician briefly interviews the resident.**Total time of administration:** approximately 30 minutes\n**For use with:** moderate to severely impaired elders with dementia. The scale is valuable to demonstrate effectiveness of interventions, especially antidepressant treatment, when it is completed before the intervention and several weeks after.| Rating | Description                                   |\n|--------|-----------------------------------------------|\n| a      | unable to evaluate                           |\n| 0      | absent                                       |\n| 1      | mild to intermittent                         |\n| 2      | severe                                       |1. **Anxiety:** anxious expression, rumination, worrying\n| a | 0 | 1 | 2 |\n|---|---|---|---|2. **Sadness:** sad expression, sad voice, tearfulness\n| a | 0 | 1 | 2 |\n|---|---|---|---|3. **Lack of reaction to present events**\n| a | 0 | 1 | 2 |\n|---|---|---|---|4. **Irritability:** annoyed, short tempered\n| a | 0 | 1 | 2 |\n|---|---|---|---|## B.",
+      "char_count": 1046,
+      "token_estimate": 261,
+      "section_title": "The clinician briefly interviews the resident.**Total time of administration:** approximately 30 minutes",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care7-p1002-t2mentalhealth-cornellscalefordepressionindementia_134b83c518c1_chunk_003_2c768ba4",
+      "doc_id": "care7-p1002-t2mentalhealth-cornellscalefordepressionindementia_134b83c518c1",
+      "chunk_index": 3,
+      "text": "**Lack of reaction to present events**\n| a | 0 | 1 | 2 |\n|---|---|---|---|4. **Irritability:** annoyed, short tempered\n| a | 0 | 1 | 2 |\n|---|---|---|---|## B. Behavioral Disturbance\n| Rating | Description                                   |\n|--------|-----------------------------------------------|\n| a      | unable to evaluate                           |\n| 0      | absent                                       |\n| 1      | mild to intermittent                         |\n| 2      | severe                                       |5. **Agitation:** restlessness, hand wringing, hair pulling\n| a | 0 | 1 | 2 |\n|---|---|---|---|6. **Retardation:** slow movements, slow speech, slow reactions\n| a | 0 | 1 | 2 |\n|---|---|---|---|7. **Multiple physical complaints** (score 0 if gastrointestinal symptoms only)\n| a | 0 | 1 | 2 |\n|---|---|---|---|8. **Loss of interest:** less involved in usual activities (score only if change occurred in the last month)\n| a | 0 | 1 | 2 |\n|---|---|---|---|## C.",
+      "char_count": 990,
+      "token_estimate": 247,
+      "section_title": "The clinician briefly interviews the resident.**Total time of administration:** approximately 30 minutes",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care7-p1002-t2mentalhealth-cornellscalefordepressionindementia_134b83c518c1_chunk_004_6793756e",
+      "doc_id": "care7-p1002-t2mentalhealth-cornellscalefordepressionindementia_134b83c518c1",
+      "chunk_index": 4,
+      "text": "**Multiple physical complaints** (score 0 if gastrointestinal symptoms only)\n| a | 0 | 1 | 2 |\n|---|---|---|---|8. **Loss of interest:** less involved in usual activities (score only if change occurred in the last month)\n| a | 0 | 1 | 2 |\n|---|---|---|---|## C. Physical Signs\n| Rating | Description                                   |\n|--------|-----------------------------------------------|\n| a      | unable to evaluate                           |\n| 0      | absent                                       |\n| 1      | mild to intermittent                         |\n| 2      | severe                                       |9. **Appetite loss:** eating less than usual\n| a | 0 | 1 | 2 |\n|---|---|---|---|----**Page 1 of 3**# Document Title## A. Introduction\n- Overview of the assessment criteria.## B. Assessment Criteria",
+      "char_count": 823,
+      "token_estimate": 205,
+      "section_title": "The clinician briefly interviews the resident.**Total time of administration:** approximately 30 minutes",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care7-p1002-t2mentalhealth-cornellscalefordepressionindementia_134b83c518c1_chunk_005_e8d56c63",
+      "doc_id": "care7-p1002-t2mentalhealth-cornellscalefordepressionindementia_134b83c518c1",
+      "chunk_index": 5,
+      "text": "### 1. Weight Loss\n- Score 2 if greater than 5 lbs in 1 month\n- a: unable to evaluate\n- 0: absent\n- 1: mild to intermittent\n- 2: severe### 2. Lack of Energy\n- Fatigues easily, unable to sustain activities (score only if change occurred acutely, i.e., in less than 1 month)\n- a: unable to evaluate\n- 0: absent\n- 1: mild to intermittent\n- 2: severe## C. Cyclic Functions\n- a: unable to evaluate; 0: absent; 1: mild to intermittent; 2: severe",
+      "char_count": 439,
+      "token_estimate": 109,
+      "section_title": "1. Weight Loss",
+      "chunk_type": "content",
+      "start_line": 44,
+      "end_line": 55
+    },
+    {
+      "chunk_id": "care7-p1002-t2mentalhealth-cornellscalefordepressionindementia_134b83c518c1_chunk_006_af3d915b",
+      "doc_id": "care7-p1002-t2mentalhealth-cornellscalefordepressionindementia_134b83c518c1",
+      "chunk_index": 6,
+      "text": "1. Daytime variation of mood; symptoms worse in morning\n- a: unable to evaluate\n- 0: absent\n- 1: mild to intermittent\n- 2: severe\n\n2. Difficulty falling asleep; later than usual\n- a: unable to evaluate\n- 0: absent\n- 1: mild to intermittent\n- 2: severe",
+      "char_count": 251,
+      "token_estimate": 62,
+      "section_title": "Daytime variation of mood; symptoms worse in morning",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care7-p1002-t2mentalhealth-cornellscalefordepressionindementia_134b83c518c1_chunk_008_4f81b8ee",
+      "doc_id": "care7-p1002-t2mentalhealth-cornellscalefordepressionindementia_134b83c518c1",
+      "chunk_index": 8,
+      "text": "3. Multiple awakenings during sleep\n- a: unable to evaluate\n- 0: absent\n- 1: mild to intermittent\n- 2: severe\n\n4. Early morning awakening; earlier than usual\n- a: unable to evaluate\n- 0: absent\n- 1: mild to intermittent\n- 2: severe## D. Ideational Disturbance\n- Rate 1 for passive suicidal ideation (i.e., feels life isn't worth living).\n- Rate 2 for active suicidal wishes, and/or any recent suicide attempts, gestures, or plans.\n- History of suicide attempt in a Resident with no passive or active suicidal ideation does not in itself justify a score.\n- a: unable to evaluate; 0: absent; 1: mild to intermittent; 2: severe",
+      "char_count": 624,
+      "token_estimate": 156,
+      "section_title": "Multiple awakenings during sleep",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care7-p1002-t2mentalhealth-cornellscalefordepressionindementia_134b83c518c1_chunk_010_7fe20aae",
+      "doc_id": "care7-p1002-t2mentalhealth-cornellscalefordepressionindementia_134b83c518c1",
+      "chunk_index": 10,
+      "text": "1. Suicidal; feels life is not worth living, has suicidal wishes or makes suicidal attempts\n- a: unable to evaluate\n- 0: absent\n- 1: mild to intermittent\n- 2: severe\n\n2. Poor self-esteem; self-blame, self-depreciation, feelings of failure\n- a: unable to evaluate\n- 0: absent\n- 1: mild to intermittent\n- 2: severe",
+      "char_count": 312,
+      "token_estimate": 78,
+      "section_title": "Suicidal; feels life is not worth living, has suicidal wishes or makes suicidal attempts",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care7-p1002-t2mentalhealth-cornellscalefordepressionindementia_134b83c518c1_chunk_012_5616cb05",
+      "doc_id": "care7-p1002-t2mentalhealth-cornellscalefordepressionindementia_134b83c518c1",
+      "chunk_index": 12,
+      "text": "3. Pessimism; anticipation of the worst\n- a: unable to evaluate\n- 0: absent\n- 1: mild to intermittent\n- 2: severe\n\n4. Mood congruent delusions; delusions of poverty, illness or loss\n- a: unable to evaluate\n- 0: absent\n- 1: mild to intermittent\n- 2: severe## E. Scoring\n- Detailed scoring instructions and guidelines.----### Document Metadata\n- **Policy Number:** [Insert Policy Number]\n- **Effective Date:** [Insert Effective Date]\n- **Review Date:** [Insert Review Date]# Major Depressive Episode Assessment## Scoring Criteria\n- A score >10 indicates a probably major depressive episode. - A score >18 indicates a definite major depressive episode.## Important Notes\n- If there is a disagreement between the clinician's impression and the caregiver's report, the caregiver is interviewed again to clarify the source of discrepancy. - Older persons often have disabilities or medical illnesses with symptoms and signs similar to those of depression. - Scoring of the Cornell scale on items such as:\n- Multiple physical complaints\n- Appetite loss\n- Weight loss\n- Lack of energy\n- Possibly othersmay be confounded by disability or physical disorder.",
+      "char_count": 1147,
+      "token_estimate": 286,
+      "section_title": "Pessimism; anticipation of the worst",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care7-p1002-t2mentalhealth-cornellscalefordepressionindementia_134b83c518c1_chunk_014_c0b00197",
+      "doc_id": "care7-p1002-t2mentalhealth-cornellscalefordepressionindementia_134b83c518c1",
+      "chunk_index": 14,
+      "text": "- Older persons often have disabilities or medical illnesses with symptoms and signs similar to those of depression. - Scoring of the Cornell scale on items such as:\n- Multiple physical complaints\n- Appetite loss\n- Weight loss\n- Lack of energy\n- Possibly othersmay be confounded by disability or physical disorder. To minimize the assignment of falsely high Cornell scale scores in disabled or medically ill residents, raters are instructed to assign a score of \"0\" for symptoms and signs associated with these conditions.- In many cases, the relationship between disability or illness is obvious. In some residents, this determination cannot be made reliably.----**Signature:** ______________________\n**Date:** ___________________________----**Page 3 of 3**",
+      "char_count": 758,
+      "token_estimate": 189,
+      "section_title": "Mood congruent delusions; delusions of poverty, illness or loss",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "doc_id": "epm2-p1009-t3floodwatersuppycarbonmonoxideposter_321c073e4efe",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "epm2-p1009-t3floodwatersuppycarbonmonoxideposter_321c073e4efe_chunk_000_f531437c",
+      "doc_id": "epm2-p1009-t3floodwatersuppycarbonmonoxideposter_321c073e4efe",
+      "chunk_index": 0,
+      "text": "# CODE GREY\n\n## Emergency response - Building flood, water supply and carbon monoxide### What does it mean? Code Grey is the designated phrase used to alert staff of a loss of any critical infrastructure in the home. There are 5 categories to a Code Grey that each have their own set of procedures regarding how to respond in the emergency event.",
+      "char_count": 346,
+      "token_estimate": 86,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1009-t3floodwatersuppycarbonmonoxideposter_321c073e4efe_chunk_002_6ffbe825",
+      "doc_id": "epm2-p1009-t3floodwatersuppycarbonmonoxideposter_321c073e4efe",
+      "chunk_index": 2,
+      "text": "Code Grey is the designated phrase used to alert staff of a loss of any critical infrastructure in the home. There are 5 categories to a Code Grey that each have their own set of procedures regarding how to respond in the emergency event. These Code Grey categories are:\n- Air Exclusion\n- Essential Services\n- Building Flood\n- Water Supply\n- Carbon Monoxide### What do I do?#### Code Grey - Building Flood\n- Remove residents/staff from affected area and restrict access to the area\n- Announce code grey – Building flood - Location 3Xs\n- Turn off the water supply at only the affected area if possible, or at the main valve if required (if the main valve is shut off, a Code Grey - Water Supply will be in effect)\n- Contain the flood if possible, and mop up the water if a small amount; if a large amount, a sump pump rental or assistance from the local fire department may be required#### Code Grey - Water Supply\n- Announce code grey - Water supply - Do not consume tap water 3Xs\n- Provide residents with bottled water for drinking\n- Use bottled water for cooking\n- If it is a boil water advisory, follow instructions on the boil water Advisory Information Sheet\n- Alternate sources of washrooms must be identified; these may be nearby facilities or portable toilet rentals#### Code Grey - Carbon Monoxide\n- Immediately evacuate all individuals from the area the alarm is sounding and restrict access to the area\n- Announce code grey – Carbon monoxide - Location 3Xs\n- Open all windows and outside doors in the area\n- Shut down all fuel burning appliances in the area### For all Code Grey emergencies:\nBe prepared to evacuate if necessary.### Review it before you need it:\n- Refer to your home’s Emergency Planning and Management Manual, Code Grey\n- Review the Code Grey plan that describes your area’s role if a Code Grey occurs.",
+      "char_count": 1831,
+      "token_estimate": 457,
+      "section_title": "Emergency response - Building flood, water supply and carbon monoxide### What does it mean?",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

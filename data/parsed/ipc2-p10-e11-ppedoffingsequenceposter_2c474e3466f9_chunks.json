@@ -1,0 +1,54 @@
+{
+  "doc_id": "ipc2-p10-e11-ppedoffingsequenceposter_2c474e3466f9",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "ipc2-p10-e11-ppedoffingsequenceposter_2c474e3466f9_chunk_000_c845a3fa",
+      "doc_id": "ipc2-p10-e11-ppedoffingsequenceposter_2c474e3466f9",
+      "chunk_index": 0,
+      "text": "# PPE DOFFING Sequence1. **Take off gloves**\n\n2. **Perform hand hygiene**",
+      "char_count": 73,
+      "token_estimate": 18,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-e11-ppedoffingsequenceposter_2c474e3466f9_chunk_002_c925e62f",
+      "doc_id": "ipc2-p10-e11-ppedoffingsequenceposter_2c474e3466f9",
+      "chunk_index": 2,
+      "text": "3. **Take off gown**\n\n4. **Perform hand hygiene**",
+      "char_count": 49,
+      "token_estimate": 12,
+      "section_title": "**Take off gown**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-e11-ppedoffingsequenceposter_2c474e3466f9_chunk_004_e83d2e2d",
+      "doc_id": "ipc2-p10-e11-ppedoffingsequenceposter_2c474e3466f9",
+      "chunk_index": 4,
+      "text": "5. **Take off eye protection (goggles/face shield)**\n\n6. **Perform hand hygiene**",
+      "char_count": 81,
+      "token_estimate": 20,
+      "section_title": "**Take off eye protection (goggles/face shield)**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-e11-ppedoffingsequenceposter_2c474e3466f9_chunk_006_3c8016d0",
+      "doc_id": "ipc2-p10-e11-ppedoffingsequenceposter_2c474e3466f9",
+      "chunk_index": 6,
+      "text": "7. **Take off mask or N95 Respirator**\n\n8. **Perform hand hygiene**> **Note:** Follow Universal PPE Strategy principles when policy is in effect.----**Extendicare**\nHelping people live better",
+      "char_count": 191,
+      "token_estimate": 47,
+      "section_title": "**Take off mask or N95 Respirator**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

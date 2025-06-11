@@ -1,0 +1,150 @@
+{
+  "doc_id": "epm2-p1006-t1natural-disasters-and-extreme-weather-im_87489f22fea2",
+  "total_chunks": 12,
+  "chunks": [
+    {
+      "chunk_id": "epm2-p1006-t1natural-disasters-and-extreme-weather-im_87489f22fea2_chunk_000_93923e81",
+      "doc_id": "epm2-p1006-t1natural-disasters-and-extreme-weather-im_87489f22fea2",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Natural Disasters and Extreme Weather Events",
+      "char_count": 62,
+      "token_estimate": 15,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1006-t1natural-disasters-and-extreme-weather-im_87489f22fea2_chunk_002_cf11a045",
+      "doc_id": "epm2-p1006-t1natural-disasters-and-extreme-weather-im_87489f22fea2",
+      "chunk_index": 2,
+      "text": "### Incident Manager Job Action Checklist**Date:** Enter date\n**Incident Manager:***Note: You may edit this job action checklist to be home specific.*----## Respond### Impending Winter Storm, Tornado, Flood or Forest Fire:**Time:** Record the time action was initiated\n**Notification received from:**\n**Agency:**\n**Contact Information:**\n**Known information:**If your local weather service issues a weather warning indicating a high likelihood of extremely bad road conditions or danger:- Contact the Executive Director/Designate if not already aware. - Shelter in place until the weather event has passed. - Close all outside windows and doors. - Move residents and instruct residents and visitors to move away from windows and doors. - Conduct a meeting with staff, residents, and visitors to inform of the extreme weather event and what safety precautions have been put in place. - Have staff stay at nearby hotels to ensure they can get to work. - Ensure staff are available to stay past their shift end time in the event the next shift cannot arrive on time. - Call in extra staff if ability to get to work will be severely compromised.",
+      "char_count": 1141,
+      "token_estimate": 285,
+      "section_title": "Incident Manager Job Action Checklist**Date:** Enter date",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1006-t1natural-disasters-and-extreme-weather-im_87489f22fea2_chunk_003_44b0e1b4",
+      "doc_id": "epm2-p1006-t1natural-disasters-and-extreme-weather-im_87489f22fea2",
+      "chunk_index": 3,
+      "text": "- Ensure staff are available to stay past their shift end time in the event the next shift cannot arrive on time. - Call in extra staff if ability to get to work will be severely compromised. - Modify the menu or find another source of food in the event food delivery cannot arrive on time. - Escalate to your Regional Director if extra assistance is required.### During/Immediately After a Winter Storm, Tornado, Flood, Forest Fire or Earthquake**Time:** Record the time action was initiated----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025",
+      "char_count": 818,
+      "token_estimate": 204,
+      "section_title": "Incident Manager Job Action Checklist**Date:** Enter date",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1006-t1natural-disasters-and-extreme-weather-im_87489f22fea2_chunk_004_69726381",
+      "doc_id": "epm2-p1006-t1natural-disasters-and-extreme-weather-im_87489f22fea2",
+      "chunk_index": 4,
+      "text": "# Natural Disasters and Extreme Weather Events\n\n## Incident Manager Job Action Checklist- If pipes freeze or water is not drinkable, enact **Code Grey – Water Supply**.\n- If there is a power loss or HVAC Systems fail, enact **Code Grey – Essential Services**.\n- If notified by municipality to evacuate, enact **Code Green**.\n- If storm/disaster causes another facility to be evacuated to the home, enact **Code Orange**.\n- If air outside is not safe to breathe, enact **Code Grey – Air Exclusion**.\n- If managing cold temperatures, see **Preventing Cold-Related Illnesses**.### During a Tornado\n**Time**: Record the time action was initiated1. Ensure residents, visitors and staff are away from windows and doors. Move them into rooms without windows and exterior walls if possible.",
+      "char_count": 782,
+      "token_estimate": 195,
+      "section_title": "Natural Disasters and Extreme Weather Events",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1006-t1natural-disasters-and-extreme-weather-im_87489f22fea2_chunk_006_488a02e8",
+      "doc_id": "epm2-p1006-t1natural-disasters-and-extreme-weather-im_87489f22fea2",
+      "chunk_index": 6,
+      "text": "2. Close doors of rooms with windows and exterior walls.\n\n3. Instruct and assist residents, visitors and staff to crouch close to the floor away from any heavy and unrestrained equipment. If there is a sturdy table or countertop, crouch underneath it.",
+      "char_count": 251,
+      "token_estimate": 62,
+      "section_title": "Close doors of rooms with windows and exterior walls.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1006-t1natural-disasters-and-extreme-weather-im_87489f22fea2_chunk_008_196fc092",
+      "doc_id": "epm2-p1006-t1natural-disasters-and-extreme-weather-im_87489f22fea2",
+      "chunk_index": 8,
+      "text": "4. Instruct and assist residents, visitors and staff to cover their head with their arms, pillows, blankets and mattresses if available. If a resident cannot be removed from a bed, cover them with a blanket.\n\n5. Ensure no one moves until confirmation is received that the Tornado has passed.",
+      "char_count": 291,
+      "token_estimate": 72,
+      "section_title": "Instruct and assist residents, visitors and staff to cover their head with their arms, pillows, blankets and mattresses if available. If a resident cannot be removed from a bed, cover them with a blanket.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1006-t1natural-disasters-and-extreme-weather-im_87489f22fea2_chunk_010_23cf2b15",
+      "doc_id": "epm2-p1006-t1natural-disasters-and-extreme-weather-im_87489f22fea2",
+      "chunk_index": 10,
+      "text": "6. If there is fallen debris and anyone is trapped, do not attempt to remove them, call 9-1-1 and wait for assistance.### During an Earthquake\n**Time**: Record the time action was initiated1. As soon as you begin to feel the shake, ensure anyone who is able drops to their knees and crawls.\n\n2. Ensure residents and visitors are away from windows and doors. Move them into rooms without...----> This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\n> Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 2 of 4# Natural Disasters and Extreme Weather Events",
+      "char_count": 781,
+      "token_estimate": 195,
+      "section_title": "If there is fallen debris and anyone is trapped, do not attempt to remove them, call 9-1-1 and wait for assistance.### During an Earthquake",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1006-t1natural-disasters-and-extreme-weather-im_87489f22fea2_chunk_012_9fea51f4",
+      "doc_id": "epm2-p1006-t1natural-disasters-and-extreme-weather-im_87489f22fea2",
+      "chunk_index": 12,
+      "text": "## Incident Manager Job Action Checklist### Earthquake Procedures\n- Instruct and assist residents, visitors, and staff to crouch close to the floor away from any heavy and unrestrained equipment. - Instruct and assist residents, visitors, and staff to hide underneath a sturdy table or countertop (if there is one) and hold on. - Assist residents in walkers to:\n- Put on the brake\n- Sit on their walker\n- Lean forward and put their arms and hands over their neck and head\n- Place a blanket or pillow for protection if possible. - Assist residents in wheelchairs to:\n- Put on the brake\n- Lean forward and put their arms and hands over their neck and head\n- Place a blanket or pillow for protection if possible. - Assist residents who cannot be removed from beds to:\n- Roll into their stomach\n- Cover their back, neck, and head with pillows and blankets. - Ensure no one moves until the shaking stops. There may continue to be aftershocks; instruct staff, residents, and visitors to crawl on the floor, stay down, cover themselves, and hold onto a sturdy object as before.",
+      "char_count": 1070,
+      "token_estimate": 267,
+      "section_title": "Incident Manager Job Action Checklist### Earthquake Procedures",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1006-t1natural-disasters-and-extreme-weather-im_87489f22fea2_chunk_013_712784bb",
+      "doc_id": "epm2-p1006-t1natural-disasters-and-extreme-weather-im_87489f22fea2",
+      "chunk_index": 13,
+      "text": "- Ensure no one moves until the shaking stops. There may continue to be aftershocks; instruct staff, residents, and visitors to crawl on the floor, stay down, cover themselves, and hold onto a sturdy object as before. - If there is fallen debris and anyone is trapped, do not attempt to remove them, call 9-1-1 and wait for assistance.### Hot Weather Advisory\n- **Time**: Record the time action was initiated. - Stay inside the building with windows and doors closed and Air Conditioning running. - Provide staff and residents with water, other cold beverages, and snacks (popsicles, ice cream, etc.). Encourage residents to take a sip every time you walk past them. - Ensure activities do not include a lot of exertion. - Call in extra staff so team members can take more frequent breaks. - Reference: Preventing Heat Related Illnesses. - Utilize hot weather checklists.#### If air conditioning units are not working:\n- Enact procedures for Code Grey – Essential Services, Failure of HVAC Systems, Cooling Systems:\n- Ensure curtains and blinds are closed to areas exposed to the sun. - Move residents out of rooms where the exterior walls are exposed to the sun.",
+      "char_count": 1163,
+      "token_estimate": 290,
+      "section_title": "Incident Manager Job Action Checklist### Earthquake Procedures",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1006-t1natural-disasters-and-extreme-weather-im_87489f22fea2_chunk_014_83d1e7dc",
+      "doc_id": "epm2-p1006-t1natural-disasters-and-extreme-weather-im_87489f22fea2",
+      "chunk_index": 14,
+      "text": "- Utilize hot weather checklists.#### If air conditioning units are not working:\n- Enact procedures for Code Grey – Essential Services, Failure of HVAC Systems, Cooling Systems:\n- Ensure curtains and blinds are closed to areas exposed to the sun. - Move residents out of rooms where the exterior walls are exposed to the sun. - Open windows and exterior doors, with proper supervision, during cooler night-time hours. - Monitor conditions to ensure the safety of residents and staff when a cooling failure is extended.----> This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 3 of 4# Natural Disasters and Extreme Weather Events",
+      "char_count": 910,
+      "token_estimate": 227,
+      "section_title": "Incident Manager Job Action Checklist### Earthquake Procedures",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1006-t1natural-disasters-and-extreme-weather-im_87489f22fea2_chunk_015_d46f4a6b",
+      "doc_id": "epm2-p1006-t1natural-disasters-and-extreme-weather-im_87489f22fea2",
+      "chunk_index": 15,
+      "text": "## Incident Manager Job Action Checklist- Ensure clinical assessments have been completed that identify which residents are most at risk during extreme hot weather. - Ensure an adequate amount of cold beverages and snacks are available for residents and staff. - Notify the Executive Director/Designate to discuss alternate climate control options. - Initiate non-emergency evacuation in situations where the temperature becomes a health or safety risk.## Recover### Time\n- Record the time action was initiated. - When the extreme weather event or warning of an extreme weather event has ended, notify residents, staff, and visitors that it has ended. - Provide support to residents, staff, and volunteers impacted by the situation. Arrange for medical aid and/or counseling services as needed and requested. - Hold Analysis and Debrief with staff, residents, and visitors involved. - Analysis and Debriefing notes will include:\n- The time and date of the debriefing\n- The location\n- List of attendees\n- Notes from the discussion; what went well and what needs to be improved. - Appropriate stakeholders and resident families notified of the event.",
+      "char_count": 1148,
+      "token_estimate": 287,
+      "section_title": "Incident Manager Job Action Checklist- Ensure clinical assessments have been completed that identify which residents are most at risk during extreme hot weather.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1006-t1natural-disasters-and-extreme-weather-im_87489f22fea2_chunk_016_cabef903",
+      "doc_id": "epm2-p1006-t1natural-disasters-and-extreme-weather-im_87489f22fea2",
+      "chunk_index": 16,
+      "text": "- Analysis and Debriefing notes will include:\n- The time and date of the debriefing\n- The location\n- List of attendees\n- Notes from the discussion; what went well and what needs to be improved. - Appropriate stakeholders and resident families notified of the event. - Complete a situation/incident report and send to provincial authorities as required. - Replenish used Job Action Checklists.----> This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 4 of 4",
+      "char_count": 738,
+      "token_estimate": 184,
+      "section_title": "Incident Manager Job Action Checklist- Ensure clinical assessments have been completed that identify which residents are most at risk during extreme hot weather.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "admin1-p4001medicalservicesevaluationprocedure_edda41b58949_chunk_000_f9fbba04",
+      "doc_id": "admin1-p4001medicalservicesevaluationprocedure_edda41b58949",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Administration\n**INDEX:** ADMIN1-P40.01\n**SECTION:** Medical and Professional Services\n**DESCRIPTION:** Medical Services Evaluation\n**EFFECTIVE DATE:** July 15, 2025\n**REVIEWED DATE:** July 8, 2025\n**APPROVED BY:** VP, LTC Operations\n**MODIFIED DATE:**----## POLICY### Medical Services Evaluation### PROCEDUREApplicable to all Extendicare homes: the home’s Medical / Professional Advisory Committee is responsible for each of the procedures listed below.1. Develop a written plan that describes the Medical Services Quality Assurance Program which may include:\n- Review of the quality of resident care;\n- Review of health care records;\n- Participation in infection control program;\n- Analysis of statistics related to admissions, discharges, deaths, resident incidents, infection rates; and\n- Planning and review of medication utilization and contracted pharmacy services provider.2.",
+      "char_count": 920,
+      "token_estimate": 230,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "admin1-p4001medicalservicesevaluationprocedure_edda41b58949_chunk_001_f145cea0",
+      "doc_id": "admin1-p4001medicalservicesevaluationprocedure_edda41b58949",
+      "chunk_index": 1,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Administration\n**INDEX:** ADMIN1-P40.01\n**SECTION:** Medical and Professional Services\n**DESCRIPTION:** Medical Services Evaluation\n**EFFECTIVE DATE:** July 15, 2025\n**REVIEWED DATE:** July 8, 2025\n**APPROVED BY:** VP, LTC Operations\n**MODIFIED DATE:**----## POLICY### Medical Services Evaluation### PROCEDUREApplicable to all Extendicare homes: the home’s Medical / Professional Advisory Committee is responsible for each of the procedures listed below.1. Develop a written plan that describes the Medical Services Quality Assurance Program which may include:\n- Review of the quality of resident care;\n- Review of health care records;\n- Participation in infection control program;\n- Analysis of statistics related to admissions, discharges, deaths, resident incidents, infection rates; and\n- Planning and review of medication utilization and contracted pharmacy services provider.2. Be involved in the planning, evaluation, review, and continuous quality improvement of the medical services provided to residents, through the establishment of a Medical / Professional Advisory Committee.----> Helping people\n> Iva better\n> This document is uncontrolled when printed.",
+      "char_count": 1204,
+      "token_estimate": 301,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "admin1-p4001medicalservicesevaluationprocedure_edda41b58949_chunk_002_07048a95",
+      "doc_id": "admin1-p4001medicalservicesevaluationprocedure_edda41b58949",
+      "chunk_index": 2,
+      "text": "Develop a written plan that describes the Medical Services Quality Assurance Program which may include:\n- Review of the quality of resident care;\n- Review of health care records;\n- Participation in infection control program;\n- Analysis of statistics related to admissions, discharges, deaths, resident incidents, infection rates; and\n- Planning and review of medication utilization and contracted pharmacy services provider.2. Be involved in the planning, evaluation, review, and continuous quality improvement of the medical services provided to residents, through the establishment of a Medical / Professional Advisory Committee.----> Helping people\n> Iva better\n> This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 1**",
+      "char_count": 1010,
+      "token_estimate": 252,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 3
+}

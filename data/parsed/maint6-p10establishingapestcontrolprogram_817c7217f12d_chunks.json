@@ -1,0 +1,77 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint6-p10establishingapestcontrolprogram_817c7217f12d_chunk_000_9e27b647",
+      "doc_id": "maint6-p10establishingapestcontrolprogram_817c7217f12d",
+      "chunk_index": 0,
+      "text": "# Extendicare## POLICY MANUAL: Maintenance\n\n### INDEX: MAINT6-P10### SECTION: Establishing a Pest Control Program",
+      "char_count": 113,
+      "token_estimate": 28,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint6-p10establishingapestcontrolprogram_817c7217f12d_chunk_002_2c89a95b",
+      "doc_id": "maint6-p10establishingapestcontrolprogram_817c7217f12d",
+      "chunk_index": 2,
+      "text": "#### EFFECTIVE DATE:\n\n#### REVIEWED DATE:",
+      "char_count": 41,
+      "token_estimate": 10,
+      "section_title": "EFFECTIVE DATE:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint6-p10establishingapestcontrolprogram_817c7217f12d_chunk_004_23dbd6eb",
+      "doc_id": "maint6-p10establishingapestcontrolprogram_817c7217f12d",
+      "chunk_index": 4,
+      "text": "#### APPROVED BY: VP LTC Operations\n\n#### MODIFIED DATE:----## POLICY\nAn organized preventive pest control program will be in place in the home that includes the services of a licensed pest control company. Records will be kept for all visits by the pest control company, which include the date and actions taken.## STANDARD\n- Maintenance Department/Designate will ensure a preventive pest control program is in place in the home.\n- The home will take all reasonable measures and precautions to control and eradicate the presence of bed bugs.\n- The home will take all reasonable measures and precautions to control and eradicate the presence of cockroaches.## PROCEDURE",
+      "char_count": 669,
+      "token_estimate": 167,
+      "section_title": "APPROVED BY: VP LTC Operations",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint6-p10establishingapestcontrolprogram_817c7217f12d_chunk_006_90a9e8dd",
+      "doc_id": "maint6-p10establishingapestcontrolprogram_817c7217f12d",
+      "chunk_index": 6,
+      "text": "1. Pest Control Program## EDUCATION\n\n1. Cockroach Fact Sheet",
+      "char_count": 60,
+      "token_estimate": 15,
+      "section_title": "Pest Control Program## EDUCATION",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint6-p10establishingapestcontrolprogram_817c7217f12d_chunk_008_6862d18b",
+      "doc_id": "maint6-p10establishingapestcontrolprogram_817c7217f12d",
+      "chunk_index": 8,
+      "text": "2. Bed Bug Fact Sheet## REFERENCES\n- Public Health Ontario - Best Practices for Environmental Cleaning for Prevention and Control of Infections in All Health Care Settings – 3rd edition, Provincial Infectious Diseases Advisory Committee (PIDAC)\n- Environmental Cleaning Toolkit: Routine Practices, Public Health Ontario\n- Manitoba Health, Seniors and Active Living, Environmental Health\n- IPC Guidelines for Principles of Environmental Cleaning & Disinfection, Alberta Health Services\n- Health and Safety Information Guide for Adult Care Facilities, Alberta Health Services\n- Ontario Fixing Long Term Care Homes Act, 2021\n- Alberta Continuing Care Accommodation and Health Service Standards\n- Manitoba Personal Care Homes Standards----> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\n> Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 2# POLICY## SECTION: Establishing a Pest Control Program",
+      "char_count": 1130,
+      "token_estimate": 282,
+      "section_title": "Bed Bug Fact Sheet## REFERENCES",
+      "chunk_type": "content",
+      "start_line": 12,
+      "end_line": 22
+    },
+    {
+      "chunk_id": "maint6-p10establishingapestcontrolprogram_817c7217f12d_chunk_009_d943fef8",
+      "doc_id": "maint6-p10establishingapestcontrolprogram_817c7217f12d",
+      "chunk_index": 9,
+      "text": "### DESCRIPTION: Establishing a Pest Control Program\n\n### INDEX: EVS4-P60> This document is uncontrolled when printed. Extendicare Canada Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.----Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2024\nPage 2 of 2",
+      "char_count": 410,
+      "token_estimate": 102,
+      "section_title": "DESCRIPTION: Establishing a Pest Control Program",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 6
+}

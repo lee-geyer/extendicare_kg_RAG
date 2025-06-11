@@ -1,0 +1,42 @@
+{
+  "doc_id": "epm-addl-020evacuationagreementtemplate_af4b538e3ac5",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "epm-addl-020evacuationagreementtemplate_af4b538e3ac5_chunk_000_6f5c0756",
+      "doc_id": "epm-addl-020evacuationagreementtemplate_af4b538e3ac5",
+      "chunk_index": 0,
+      "text": "# Extendicare Agreement**Date:**This agreement is between **HOME NAME** and **FACILITY** for emergency accommodation services.In the event of an emergency evacuation at **HOME NAME**, **FACILITY** agrees to temporarily accommodate **#** of our residents.Upon evacuation to **FACILITY**, the home will be required to supply the following:1. Resident Identification and medical information\n\n2. Resident medication",
+      "char_count": 411,
+      "token_estimate": 102,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-020evacuationagreementtemplate_af4b538e3ac5_chunk_002_834bf57c",
+      "doc_id": "epm-addl-020evacuationagreementtemplate_af4b538e3ac5",
+      "chunk_index": 2,
+      "text": "3. Contact information for residents POA/SDM/primary contact\n\n4. Staff (#/resident)",
+      "char_count": 83,
+      "token_estimate": 20,
+      "section_title": "Contact information for residents POA/SDM/primary contact",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-020evacuationagreementtemplate_af4b538e3ac5_chunk_004_14f169b9",
+      "doc_id": "epm-addl-020evacuationagreementtemplate_af4b538e3ac5",
+      "chunk_index": 4,
+      "text": "5. Beds and linen\n\n6. Required Medical equipmentIn the event of an evacuation, the home will contact **NAME** at **PHONE NUMBER** during regular business hours and **NAME** at **PHONE NUMBER** after hours on evenings and weekends.This agreement will be in effect until **DATE** at which time another agreement can be signed.----**Signed by NAME on behalf of HOME NAME**\n_________________________________          **Date** _______________________________\nName, Title**AND****Signed by NAME on behalf of FACILITY**\n_________________________________          **Date** _______________________________\nName, Title----*Helping people live a better life*This document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 1 of 1",
+      "char_count": 981,
+      "token_estimate": 245,
+      "section_title": "Beds and linen",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "doc_id": "ipc6-p1003-vancomycin-resistantenterococcivre_31211b744da1",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "ipc6-p1003-vancomycin-resistantenterococcivre_31211b744da1_chunk_000_a8b2d7a8",
+      "doc_id": "ipc6-p1003-vancomycin-resistantenterococcivre_31211b744da1",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Infection Prevention and Control\n**INDEX:** IPC6-P10.03\n**SECTION:** Multi-Drug-Resistant Organisms (MDROs)\n**DESCRIPTION:** Vancomycin-Resistant Enterococci (VRE)\n**APPROVED BY:** Chief Medical Officer\n**EFFECTIVE DATE:** February 18, 2025\n**REVIEWED DATE:** February 11, 2025\n**MODIFIED DATE:** May 30, 2025----## POLICY### Multi-Drug-Resistant Organisms (MDROs)## PROCEDURE### Screening\n- The MDRO Screening Tool will be completed within 24 hours of admission or readmission from hospital where stay was greater than 12 hours. - If warranted by the MDRO Assessment or per health authority requirements, complete surveillance screening for VRE. - Screening includes:\n- A stool specimen or rectal swab (stained with feces)\n- Laboratory results will be recorded in the health care record and HealthConnex (if applicable).### Management\n- Decolonization is not effective and is not recommended. - For a VRE infection, implement contact precautions and as per health authority guidelines. - For a VRE colonization, implement contact precautions for direct care.",
+      "char_count": 1096,
+      "token_estimate": 274,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p1003-vancomycin-resistantenterococcivre_31211b744da1_chunk_001_98cb04fe",
+      "doc_id": "ipc6-p1003-vancomycin-resistantenterococcivre_31211b744da1",
+      "chunk_index": 1,
+      "text": "- For a VRE infection, implement contact precautions and as per health authority guidelines. - For a VRE colonization, implement contact precautions for direct care. - Follow Testing for Multi-Drug-Resistant-Organism Algorithm for surveillance testing.#### Retirement Specific:\n- If VRE is identified, it will be noted on the plan of care. Appropriate precautions will remain in place until it is cleared, or the resident moves out.#### Alberta and Manitoba Specific:\n- Admission and clearance testing for VRE is not recommended. - Maintain routine practices, implement additional precautions if required based on risk assessment.## EDUCATION",
+      "char_count": 642,
+      "token_estimate": 160,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p1003-vancomycin-resistantenterococcivre_31211b744da1_chunk_002_a68f6649",
+      "doc_id": "ipc6-p1003-vancomycin-resistantenterococcivre_31211b744da1",
+      "chunk_index": 2,
+      "text": "1. IPC6-P10-E1 - MDRO Guide----Helping people live betterThis document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----\n\n# PROCEDURE## SECTION: Multi-Drug-Resistant Organisms (MDROs)### DESCRIPTION: Vancomycin-Resistant Enterococci (VRE)### INDEX: IPC6-P10.03#### TOOLS",
+      "char_count": 533,
+      "token_estimate": 133,
+      "section_title": "IPC6-P10-E1 - MDRO Guide----Helping people live betterThis document is uncontrolled when printed.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p1003-vancomycin-resistantenterococcivre_31211b744da1_chunk_004_1b710f5a",
+      "doc_id": "ipc6-p1003-vancomycin-resistantenterococcivre_31211b744da1",
+      "chunk_index": 4,
+      "text": "1. IPC6-P10-T1 – MDRO Screening\n\n2. IPC6-P10-T2 – MDRO Risk Assessment----Helping people live better> This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 2 of 2**",
+      "char_count": 445,
+      "token_estimate": 111,
+      "section_title": "IPC6-P10-T1 – MDRO Screening",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "doc_id": "ipc2-p10-e30-airborneprecautionsposter_b990b2e44d10",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "ipc2-p10-e30-airborneprecautionsposter_b990b2e44d10_chunk_000_5ad97c13",
+      "doc_id": "ipc2-p10-e30-airborneprecautionsposter_b990b2e44d10",
+      "chunk_index": 0,
+      "text": "# VISITORS - GET INSTRUCTIONS FROM STAFF BEFORE ENTERING## AIRBORNE PRECAUTIONS### IN ADDITION TO ROUTINE PRACTICES- Keep door and windows closed\n- Transport resident if necessary\n- Wear N95, N95 fit tested and seal-checked respirator for TB.\n- Use also when transporting residents\n- Resident must wear mask for transport",
+      "char_count": 321,
+      "token_estimate": 80,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 4
+    }
+  ]
+}

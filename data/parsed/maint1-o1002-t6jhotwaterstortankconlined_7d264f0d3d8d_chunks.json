@@ -1,0 +1,53 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t6jhotwaterstortankconlined_7d264f0d3d8d_chunk_000_24d1dac4",
+      "doc_id": "maint1-o1002-t6jhotwaterstortankconlined_7d264f0d3d8d",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## MAINTENANCE INSPECTION CHECKLIST### LEGEND/KEY\n| Equipment Name                               | Hot Water Storage Tank – Concrete Lined |\n|----------------------------------------------|-----------------------------------------|\n| **Manufacturer:**                            | All                                     |\n| **Model:**                                   | Separate Storage Vessel (no heat source of its own) |### Inspection Frequency Key\n| Frequency | Description      |\n|-----------|------------------|\n| W         | Weekly           |\n| M         | Monthly          |\n| Q         | Quarterly        |\n| S         | Semi-Annual      |\n| A         | Annual           |\n| T         | Triennial       |### CHECKS\n| W | M | Q | S | A | T | Item                                                                 |\n|---|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   |   |   |   | 1. Manually test safety relief valve. |\n|   | X |   |   |   |   | 2. Check that metal outer casing is intact and not severely rusted or check blanket insulation is not loose or damaged. |\n|   |   | X |   |   |   | 3.",
+      "char_count": 1178,
+      "token_estimate": 294,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t6jhotwaterstortankconlined_7d264f0d3d8d_chunk_002_a5f83720",
+      "doc_id": "maint1-o1002-t6jhotwaterstortankconlined_7d264f0d3d8d",
+      "chunk_index": 2,
+      "text": "Check that metal outer casing is intact and not severely rusted or check blanket insulation is not loose or damaged. |\n|   |   | X |   |   |   | 3. Drain tank and flush tank to remove build-up from bottom of tank. |\n|   |   |   | X |   |   | 4. Every 3 years, have contractor inspect the inside of the tank, reline if required, and replace sacrificial anodes if required. * |**NOTE:**\n- *The services of qualified personnel may be required. - **Qualified service firms are to be employed.### Monthly Inspection Schedule\n| Month | M | Q | S | A |\n|-------|---|---|---|---|\n| JAN   | W | W | W | W |\n| FEB   | W | W | W | W |\n| MAR   | W | W | W | W |\n| APR   | W | W | W | W |\n| MAY   | W | W | W | W |\n| JUN   | W | W | W | W |\n| JUL   | W | W | W | W |\n| AUG   | W | W | W | W |\n| SEP   | W | W | W | W |\n| OCT   | W | W | W | W |\n| NOV   | W | W | W | W |\n| DEC   | W | W | W | W |----**Helping people live better.**This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 987,
+      "token_estimate": 246,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### LEGEND/KEY",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t6jhotwaterstortankconlined_7d264f0d3d8d_chunk_003_7fb6a8ce",
+      "doc_id": "maint1-o1002-t6jhotwaterstortankconlined_7d264f0d3d8d",
+      "chunk_index": 3,
+      "text": "- **Qualified service firms are to be employed.### Monthly Inspection Schedule\n| Month | M | Q | S | A |\n|-------|---|---|---|---|\n| JAN   | W | W | W | W |\n| FEB   | W | W | W | W |\n| MAR   | W | W | W | W |\n| APR   | W | W | W | W |\n| MAY   | W | W | W | W |\n| JUN   | W | W | W | W |\n| JUL   | W | W | W | W |\n| AUG   | W | W | W | W |\n| SEP   | W | W | W | W |\n| OCT   | W | W | W | W |\n| NOV   | W | W | W | W |\n| DEC   | W | W | W | W |----**Helping people live better.**This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**",
+      "char_count": 802,
+      "token_estimate": 200,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### LEGEND/KEY",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t6jhotwaterstortankconlined_7d264f0d3d8d_chunk_004_3771fc82",
+      "doc_id": "maint1-o1002-t6jhotwaterstortankconlined_7d264f0d3d8d",
+      "chunk_index": 4,
+      "text": "# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 2 of 2",
+      "char_count": 491,
+      "token_estimate": 122,
+      "section_title": "INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |",
+      "chunk_type": "content",
+      "start_line": 36,
+      "end_line": 39
+    }
+  ],
+  "total_chunks": 4
+}

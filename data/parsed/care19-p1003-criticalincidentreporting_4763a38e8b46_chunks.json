@@ -1,0 +1,42 @@
+{
+  "doc_id": "care19-p1003-criticalincidentreporting_4763a38e8b46",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "care19-p1003-criticalincidentreporting_4763a38e8b46_chunk_000_8c7f81e9",
+      "doc_id": "care19-p1003-criticalincidentreporting_4763a38e8b46",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE- **MANUAL:** CARE\n- **INDEX:** CARE19-P10.03\n- **SECTION:** Incident Management\n- **EFFECTIVE DATE:** April 1, 2025\n- **DESCRIPTION:** Critical Incident Reporting\n- **REVIEWED DATE:** March 25, 2025\n- **APPROVED BY:** Senior Director, Operational Quality and Professional Practice\n- **MODIFIED DATE:**----## POLICY### Resident Safety Incident Program### PROCEDUREThe Executive Director and Director of Care/Wellness must:- Follow all regulatory requirements or provincial, regional, local health and/or other authority written directives applicable for critical incident/mandatory report submissions. - Amend the report, as appropriate, with new or additional information as it becomes available and within established timeframes. - Address root causes of incidents to ensure resident safety and continuity of care. - Refer to the Critical Incident Reporting Guide for additional support for submitting, investigating, and mitigating incidents. - Consult the Regional Director/Operations (RD/O) for further direction and guidance where required. - Track reportable incidents in the Critical Incident Tracking Log.",
+      "char_count": 1139,
+      "token_estimate": 284,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care19-p1003-criticalincidentreporting_4763a38e8b46_chunk_001_ac7d95b2",
+      "doc_id": "care19-p1003-criticalincidentreporting_4763a38e8b46",
+      "chunk_index": 1,
+      "text": "- Consult the Regional Director/Operations (RD/O) for further direction and guidance where required. - Track reportable incidents in the Critical Incident Tracking Log. - Review incidents monthly and identify trends and issues that require further resolution. - Develop, implement, and evaluate action plans with appropriate team members to address all areas of concern identified on the critical incident tracker.### Tools1. Critical Incident Tracking Log",
+      "char_count": 456,
+      "token_estimate": 114,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care19-p1003-criticalincidentreporting_4763a38e8b46_chunk_002_71246705",
+      "doc_id": "care19-p1003-criticalincidentreporting_4763a38e8b46",
+      "chunk_index": 2,
+      "text": "2. Critical Incident Reporting Guide----**Halplng peoplo**\n**Ikva bettar**This document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 1**",
+      "char_count": 415,
+      "token_estimate": 103,
+      "section_title": "Critical Incident Reporting Guide----**Halplng peoplo**",
+      "chunk_type": "content",
+      "start_line": 15,
+      "end_line": 17
+    }
+  ]
+}

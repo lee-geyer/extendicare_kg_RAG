@@ -1,0 +1,54 @@
+{
+  "doc_id": "epm2-p1011-t1codegrey-carbon-monoxide-im-checklist_80debed64345",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "epm2-p1011-t1codegrey-carbon-monoxide-im-checklist_80debed64345_chunk_000_99fb0d15",
+      "doc_id": "epm2-p1011-t1codegrey-carbon-monoxide-im-checklist_80debed64345",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Code Grey – Carbon Monoxide Incident Manager Job Action Checklist**Date:** Enter date\n**Incident Manager:***Note: You may edit this job action checklist to be home specific.*### Respond\n- Record the time action was initiated\n- Notification received from:\n- Agency, if applicable:\n- Contact Information:\n- Known information:\n- Announce or delegate a staff member to announce (repeat three times):\n- “CODE GREY – CARBON MONOXIDE – LOCATION”\n- “CODE GREY – CARBON MONOXIDE – LOCATION”\n- “CODE GREY – CARBON MONOXIDE – LOCATION”\n- Begin evacuation of the affected area where the alarm is sounding immediately. (Refer to Code Green – Evacuation)\n- Instruct staff and provide assistance to open all windows and outside doors in the affected area. - Instruct staff and provide assistance to turn off all fuel burning appliances in the area (e.g., stove, dryer, etc.). - Call for a qualified service technician to attend. - Notify Executive Director/Designate. - Notify Maintenance Lead. - Call 9-1-1 in the event residents and/or staff are feeling unwell.----*Helping people is a better way.*This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1172,
+      "token_estimate": 293,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1011-t1codegrey-carbon-monoxide-im-checklist_80debed64345_chunk_002_fe17fd74",
+      "doc_id": "epm2-p1011-t1codegrey-carbon-monoxide-im-checklist_80debed64345",
+      "chunk_index": 2,
+      "text": "- Call 9-1-1 in the event residents and/or staff are feeling unwell.----*Helping people is a better way.*This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025",
+      "char_count": 427,
+      "token_estimate": 106,
+      "section_title": "Code Grey – Carbon Monoxide Incident Manager Job Action Checklist**Date:** Enter date",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1011-t1codegrey-carbon-monoxide-im-checklist_80debed64345_chunk_003_2224846c",
+      "doc_id": "epm2-p1011-t1codegrey-carbon-monoxide-im-checklist_80debed64345",
+      "chunk_index": 3,
+      "text": "# Code Grey – Carbon Monoxide Incident Manager Job Action Checklist## Recover### All ClearOnce a qualified service technician has fixed or eliminated the source of the leak and testing has determined no further presence of Carbon Monoxide:- Record the time action was initiated\n- Notification received from:\n- Known information:\n- Call an end to the Code Grey – Carbon Monoxide emergency by announcing or delegating a staff member to announce (repeat three times):\n- “CODE GREY – CARBON MONOXIDE – ALL CLEAR”\n- “CODE GREY – CARBON MONOXIDE – ALL CLEAR”\n- “CODE GREY – CARBON MONOXIDE – ALL CLEAR”\n- Notify appropriate stakeholders (family, staff, senior management, etc.). - Hold Debrief and analysis with staff, residents, and visitors involved. - Debriefing and analysis notes will include the time and date of the debriefing, the location, list of attendees, and notes from the discussion; what went well and what needs to be improved. - Complete a situation/incident report and send to provincial authorities as required. - Replenish used Job Action Checklists.----> This document is uncontrolled when printed. > Extendicare (Canada) Inc.",
+      "char_count": 1142,
+      "token_estimate": 285,
+      "section_title": "Code Grey – Carbon Monoxide Incident Manager Job Action Checklist## Recover### All ClearOnce a qualified service technician has fixed or eliminated the source of the leak and testing has determined no further presence of Carbon Monoxide:- Record the time action was initiated",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1011-t1codegrey-carbon-monoxide-im-checklist_80debed64345_chunk_004_16911ae3",
+      "doc_id": "epm2-p1011-t1codegrey-carbon-monoxide-im-checklist_80debed64345",
+      "chunk_index": 4,
+      "text": "- Replenish used Job Action Checklists.----> This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 2 of 2",
+      "char_count": 385,
+      "token_estimate": 96,
+      "section_title": "Code Grey – Carbon Monoxide Incident Manager Job Action Checklist## Recover### All ClearOnce a qualified service technician has fixed or eliminated the source of the leak and testing has determined no further presence of Carbon Monoxide:- Record the time action was initiated",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

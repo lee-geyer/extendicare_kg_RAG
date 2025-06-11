@@ -1,0 +1,77 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint4-o1002equipmentrecords_a94a73382f94_chunk_000_4fe3f920",
+      "doc_id": "maint4-o1002equipmentrecords_a94a73382f94",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE- **MANUAL:** Maintenance\n- **INDEX:** MAINT4-O10.02\n- **SECTION:** Equipment and Inventory Records\n- **EFFECTIVE DATE:**\n- **REVIEWED DATE:**\n- **APPROVED BY:** VP LTC Operations\n- **MODIFIED DATE:**----## POLICY### Equipment Inventory and Records## PROCEDURE1. For all key equipment, complete an Equipment Record. This is a single page for each piece of equipment that lists the pertinent information that will be needed if parts are being ordered, or a replacement unit is needed. A sample of a typical equipment record is found as a tool for this procedure.2. Information listed includes:\n- type of equipment\n- date installed\n- manufacturer's name and address\n- model and serial numbers\n- electrical characteristics (volts, amps, phase)\n- mechanical characteristics (cfm, rpm, heat rise, etc.)\n- contact information for parts or service of the equipment\n- any additional information (such as special features, additional components, etc.)3. The equipment record shall also be used to record any major repairs or upgrades to the equipment over its operating life.4.",
+      "char_count": 1093,
+      "token_estimate": 273,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint4-o1002equipmentrecords_a94a73382f94_chunk_001_3d9121e3",
+      "doc_id": "maint4-o1002equipmentrecords_a94a73382f94",
+      "chunk_index": 1,
+      "text": "Information listed includes:\n- type of equipment\n- date installed\n- manufacturer's name and address\n- model and serial numbers\n- electrical characteristics (volts, amps, phase)\n- mechanical characteristics (cfm, rpm, heat rise, etc.)\n- contact information for parts or service of the equipment\n- any additional information (such as special features, additional components, etc.)3. The equipment record shall also be used to record any major repairs or upgrades to the equipment over its operating life.4. The equipment records of all key equipment shall be collected and kept in an Equipment Records Binder in the maintenance office, where it is accessible when calling suppliers or contractors to order replacement parts or service for the equipment.5. The serial numbers and electrical characteristics are very important pieces of information when discussing repairs to the equipment. It is also useful to have quick access to information regarding what major repairs have been done to the equipment and when this occurred, particularly when discussing warranties on the equipment or major components.6.",
+      "char_count": 1105,
+      "token_estimate": 276,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint4-o1002equipmentrecords_a94a73382f94_chunk_002_d1cb6ce0",
+      "doc_id": "maint4-o1002equipmentrecords_a94a73382f94",
+      "chunk_index": 2,
+      "text": "The serial numbers and electrical characteristics are very important pieces of information when discussing repairs to the equipment. It is also useful to have quick access to information regarding what major repairs have been done to the equipment and when this occurred, particularly when discussing warranties on the equipment or major components.6. Equipment Record Form is provided as a simple means to keep track of important information pertaining to the major pieces of equipment in place at the home. An individual record form should be kept for each major piece of equipment and filed in alphanumerical order, usually in a 3-ring binder that is kept in the maintenance office. A new form should be filled out whenever a new piece of major equipment arrives at the home.----> **Helping people**\n>\n> **Ikva bettar**\n>\n> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. >\n> Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 1146,
+      "token_estimate": 286,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint4-o1002equipmentrecords_a94a73382f94_chunk_003_4ed8c4f0",
+      "doc_id": "maint4-o1002equipmentrecords_a94a73382f94",
+      "chunk_index": 3,
+      "text": "will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. >\n> Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n>\n> Page 1 of 2# Extendicare## PROCEDURE### SECTION: Equipment and Inventory Records\n\n### DESCRIPTION: Equipment Records",
+      "char_count": 377,
+      "token_estimate": 94,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint4-o1002equipmentrecords_a94a73382f94_chunk_005_1cf31f40",
+      "doc_id": "maint4-o1002equipmentrecords_a94a73382f94",
+      "chunk_index": 5,
+      "text": "### INDEX: MAINT4-O10.02This form serves several functions:\n- It provides an easy way for maintenance people to have access to the important specifications of the equipment when calling for parts or repairs, such as model and serial numbers, voltage and phase of electrical parts, etc.\n- It lists the optional and special accessories that were provided to a piece of equipment.\n- It provides a history of the life of the equipment for warranty purposes.\n- On the back of the form is a place where all major service work or replacement of major parts can be recorded and easily accessed to assist in warranties related to that repair or replacement or in determining the total cost that has been spent to maintain that piece of equipment.### TOOLS",
+      "char_count": 746,
+      "token_estimate": 186,
+      "section_title": "INDEX: MAINT4-O10.02This form serves several functions:",
+      "chunk_type": "content",
+      "start_line": 24,
+      "end_line": 28
+    },
+    {
+      "chunk_id": "maint4-o1002equipmentrecords_a94a73382f94_chunk_006_2b4c3dd6",
+      "doc_id": "maint4-o1002equipmentrecords_a94a73382f94",
+      "chunk_index": 6,
+      "text": "1. Equipment Record> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\n> Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 2 of 2",
+      "char_count": 359,
+      "token_estimate": 89,
+      "section_title": "Equipment Record> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.",
+      "chunk_type": "content",
+      "start_line": 29,
+      "end_line": 31
+    }
+  ],
+  "total_chunks": 6
+}

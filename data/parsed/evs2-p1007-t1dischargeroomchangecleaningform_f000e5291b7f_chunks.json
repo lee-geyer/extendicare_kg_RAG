@@ -1,0 +1,54 @@
+{
+  "doc_id": "evs2-p1007-t1dischargeroomchangecleaningform_f000e5291b7f",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "evs2-p1007-t1dischargeroomchangecleaningform_f000e5291b7f_chunk_000_1d33f76c",
+      "doc_id": "evs2-p1007-t1dischargeroomchangecleaningform_f000e5291b7f",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Discharge/Room Change Cleaning Form| Room Number & Unit: | Housekeeper: |\n|----------------------|---------------|\n| Resident Name:      | Date:         |**Note:** If resident is relocating and furnishings (bed, bedside table, over-bed table, chair) are being moved to the new location, cleaning of these items is not required. Place N/A in “Done” column. Report any damaged areas for repairs following homes’ procedure for documenting maintenance repair needs.### REPAIR| ITEM             | DESCRIPTION                                                                 | DONE | INITIAL | REQUIRED |\n|------------------|-----------------------------------------------------------------------------|------|---------|----------|\n| Room             | All personal belongings and nursing items have been removed from the room. |      |         |          |\n| Bed              | Full cleaning including undercarriage, footboard, headboard and rails, pillow, bed control, mattress. |      |         |          |\n| Bedside Table    | Complete outside cleaning and inside of the drawers. |      |         |          |\n| Dresser          | Complete outside cleaning and inside of the drawers.",
+      "char_count": 1199,
+      "token_estimate": 299,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1007-t1dischargeroomchangecleaningform_f000e5291b7f_chunk_002_19898b50",
+      "doc_id": "evs2-p1007-t1dischargeroomchangecleaningform_f000e5291b7f",
+      "chunk_index": 2,
+      "text": "|      |         |          |\n| Bedside Table    | Complete outside cleaning and inside of the drawers. |      |         |          |\n| Dresser          | Complete outside cleaning and inside of the drawers. |      |         |          |\n| Chair            | Complete cleaning – seat, back, legs and arms. |      |         |          |\n| Over-bed Table    | Top, under table and base. |      |         |          |\n| Walls            | Clean all soil marks from walls including behind the bed. |      |         |          |\n| Privacy Curtain   | Remove and take to laundry for washing. |      |         |          |\n| Window Drapes    | Remove and take to laundry for washing, if required. |      |         |          |\n| Window           | Spot clean windows. |      |         |          |\n| Mirrors          | Complete cleaning of frame and glass. |      |         |          |\n| Washroom         | Full cleaning of toilet, sink, bathtub, soap dispenser, paper towel dispenser, medicine cabinet, drawers, etc. |      |         |          |\n| Baseboards       | Check and clean – including bathroom area. |      |         |          |\n| Floors           | Full washing of bedroom and bathroom floor.",
+      "char_count": 1200,
+      "token_estimate": 300,
+      "section_title": "Discharge/Room Change Cleaning Form| Room Number & Unit: | Housekeeper: |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1007-t1dischargeroomchangecleaningform_f000e5291b7f_chunk_003_655d8a46",
+      "doc_id": "evs2-p1007-t1dischargeroomchangecleaningform_f000e5291b7f",
+      "chunk_index": 3,
+      "text": "|      |         |          |\n| Baseboards       | Check and clean – including bathroom area. |      |         |          |\n| Floors           | Full washing of bedroom and bathroom floor. Notify manager if stripping required. |      |         |          |\n| Waste Basket     | Complete cleaning inside and outside including washroom garbage can. |      |         |          |\n| Resident Closet   | Full clean including inside and outside surfaces. |      |         |          |\n| High Touch Surfaces | Call bell cords, light switches & cords, telephone, door handles, grab bars etc. |      |         |          |----**This document is uncontrolled when printed.**Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 2**# Discharge/Room Change Cleaning Form**Comments:**\nThis document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1081,
+      "token_estimate": 270,
+      "section_title": "Discharge/Room Change Cleaning Form| Room Number & Unit: | Housekeeper: |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1007-t1dischargeroomchangecleaningform_f000e5291b7f_chunk_004_7292ca93",
+      "doc_id": "evs2-p1007-t1dischargeroomchangecleaningform_f000e5291b7f",
+      "chunk_index": 4,
+      "text": "© 2025**\n**Page 1 of 2**# Discharge/Room Change Cleaning Form**Comments:**\nThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 2 of 2**",
+      "char_count": 416,
+      "token_estimate": 104,
+      "section_title": "Discharge/Room Change Cleaning Form| Room Number & Unit: | Housekeeper: |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

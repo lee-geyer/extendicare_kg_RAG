@@ -1,0 +1,12 @@
+{
+  "doc_id": "evs3-p1011-t2personalclothingform_b1bdc2599dfd",
+  "category": "Environmental Services",
+  "schema_used": "GenericDocumentMeta",
+  "extraction_success": true,
+  "metadata": {
+    "title": "Extendicare",
+    "department": "**Date Received:**  Enter date               **Signature:**"
+  },
+  "error": null,
+  "fallback_metadata": null
+}

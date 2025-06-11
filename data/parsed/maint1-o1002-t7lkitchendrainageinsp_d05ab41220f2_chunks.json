@@ -1,0 +1,41 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t7lkitchendrainageinsp_d05ab41220f2_chunk_000_bc2406e0",
+      "doc_id": "maint1-o1002-t7lkitchendrainageinsp_d05ab41220f2",
+      "chunk_index": 0,
+      "text": "# Extendicare Maintenance Inspection Checklist## Equipment: Kitchen Drainage### LEGEND/KEY| LEGEND | KEY       |\n|--------|-----------|\n| W      | Weekly    |\n| M      | Monthly   |\n| Q      | Quarterly |\n| S      | Semi-Annual |\n| A      | Annual    |\n| O      | Ok       |\n| R      | Repair    |\n| N      | Replace   |### CHECKS| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   |   |   | 1. Check that all fixtures and trim are securely mounted. |\n| X |   |   |   |   | 2. Check all fixtures, trim and drainage piping for leaks. |\n| X |   |   |   |   | 3. Flush all drains with water and ensure flow.*                   |\n|   |   |   |   |   | *NOTE: Caustic drain cleaners are NOT to be used to open clogged drain lines.",
+      "char_count": 871,
+      "token_estimate": 217,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t7lkitchendrainageinsp_d05ab41220f2_chunk_001_9acde01a",
+      "doc_id": "maint1-o1002-t7lkitchendrainageinsp_d05ab41220f2",
+      "chunk_index": 1,
+      "text": "|\n| X |   |   |   |   | 3. Flush all drains with water and ensure flow.*                   |\n|   |   |   |   |   | *NOTE: Caustic drain cleaners are NOT to be used to open clogged drain lines. |### MONTHLY CHECKLIST|     | JAN | FEB | MAR | APR | MAY | JUN | |\n|-----|-----|-----|-----|-----|-----|-----|---|\n| M   | Q   | S   | A   | M   | Q   | S   | A   |\n| W   | W   | W   | W   | W   | W   | W   | W   ||     | JUL | AUG | SEP | OCT | NOV | DEC | |\n|-----|-----|-----|-----|-----|-----|-----|---|\n| M   | Q   | S   | A   | M   | Q   | S   | A   |\n| W   | W   | W   | W   | W   | W   | W   | W   |----> **Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.> **Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n> Page 1 of 2# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1185,
+      "token_estimate": 296,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t7lkitchendrainageinsp_d05ab41220f2_chunk_002_d0007544",
+      "doc_id": "maint1-o1002-t7lkitchendrainageinsp_d05ab41220f2",
+      "chunk_index": 2,
+      "text": "© 2025**\n> Page 1 of 2# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 2 of 2**",
+      "char_count": 521,
+      "token_estimate": 130,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 3
+}

@@ -1,0 +1,30 @@
+{
+  "doc_id": "care15-p1003-t7referraloccupationaltherapy_110eece48fa4",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "care15-p1003-t7referraloccupationaltherapy_110eece48fa4_chunk_000_e02901af",
+      "doc_id": "care15-p1003-t7referraloccupationaltherapy_110eece48fa4",
+      "chunk_index": 0,
+      "text": "# Referral - Occupational Therapy| Resident: | Effective Date: | Location: |\n|-----------|-----------------|-----------|\n| Initial Admission: | Admission: | Date of Birth: |\n| Score: NA | Category: NA | Physician: |## A. Reason for Referral1. **Reason for Referral**\n- a. Wheelchair assessment\n- b. Walker/mobility aids assessment\n- c. Wheelchair seating and positioning\n- d. Toilet seating assessment\n- e. Pressure relief and ulcer prevention\n- f. Splinting and contracture management\n- g. Chest physiotherapy\n- h. Environment safety assessment (fall assessment)\n- i. Adaptive eating aids and assistive devices\n- j. Power-wheelchair driving assessment\n- k. Restraint/PASD review\n- l. Transfer assessment\n- m. Resident education\n- n. Family education\n- o. Fine motor skills\n- p. OtherDocument any other information that may assist the Occupational therapist in addressing the issue.2. **Referral Details:**3. **Name and designation/position of staff completing the referral:**SAVE referral, do NOT lock. Occupational therapist will lock referral after assessment is completed.## B. Occupational Therapist Referral Response1. **Name of Occupational Therapist responding to referral:**2.",
+      "char_count": 1185,
+      "token_estimate": 296,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care15-p1003-t7referraloccupationaltherapy_110eece48fa4_chunk_001_0e7d71fb",
+      "doc_id": "care15-p1003-t7referraloccupationaltherapy_110eece48fa4",
+      "chunk_index": 1,
+      "text": "Occupational Therapist Referral Response1. **Name of Occupational Therapist responding to referral:**2. **Date and Time of Occupational therapy response to referral:**3. **Occupational therapist referral response details:**A progress note will populate the Resident chart when this assessment is locked for the date and time that the referral was opened.----**Page 1 of 1**",
+      "char_count": 373,
+      "token_estimate": 93,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

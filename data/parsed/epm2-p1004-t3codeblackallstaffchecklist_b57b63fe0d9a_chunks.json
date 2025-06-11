@@ -1,0 +1,54 @@
+{
+  "doc_id": "epm2-p1004-t3codeblackallstaffchecklist_b57b63fe0d9a",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "epm2-p1004-t3codeblackallstaffchecklist_b57b63fe0d9a_chunk_000_bd28a646",
+      "doc_id": "epm2-p1004-t3codeblackallstaffchecklist_b57b63fe0d9a",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Code Black - Bomb Threat",
+      "char_count": 42,
+      "token_estimate": 10,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1004-t3codeblackallstaffchecklist_b57b63fe0d9a_chunk_002_8e8d7c4d",
+      "doc_id": "epm2-p1004-t3codeblackallstaffchecklist_b57b63fe0d9a",
+      "chunk_index": 2,
+      "text": "### All Staff Checklist#### Respond\nIf you are the individual who received the threat, refer to the “Staff Receiving the Threat Job Action Checklists”.- [ ] Follow all instructions from the Incident Manager. - [ ] Inform the Incident Manager of any suspicious objects or suspicious events observed. - [ ] Turn off cell and wireless phones immediately upon hearing the Code Black announcement. - [ ] Conduct a visual search as per procedures below if instructed to do so by the Incident Manager. - [ ] Report suspicious, unusual, or unknown items, packages, and people to the Incident Manager. - [ ] If a Code Green is called, assist in the evacuation. Ensure all doors remain open upon evacuation to allow entry to potential Bomb Squad robot.### Visual Search Procedures\nStaff should conduct a visual search of the area they are in to determine if there are any suspicious items. For the visual search staff should:- Visually search for any unusual or suspicious objects around the home.",
+      "char_count": 987,
+      "token_estimate": 246,
+      "section_title": "All Staff Checklist#### Respond",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1004-t3codeblackallstaffchecklist_b57b63fe0d9a_chunk_003_3e27acfc",
+      "doc_id": "epm2-p1004-t3codeblackallstaffchecklist_b57b63fe0d9a",
+      "chunk_index": 3,
+      "text": "Ensure all doors remain open upon evacuation to allow entry to potential Bomb Squad robot.### Visual Search Procedures\nStaff should conduct a visual search of the area they are in to determine if there are any suspicious items. For the visual search staff should:- Visually search for any unusual or suspicious objects around the home. Visual searches will be conducted in the areas the staff are currently located in and include:\n- Open closets\n- Bathrooms\n- Toilets\n- Garbage cans\n- Recycling bins\n- Laundry carts\n- Medication carts\n- Cabinets\n- Under chairs, tables, and beds (do not open anything to conduct your search, only search cabinets, drawers, etc. that are already open).- Rooms should be searched in a counterclockwise rotation and from ceiling to floor. - Look only with your eyes. - Stand in the room in silence and listen for any unusual sounds. - Do not open any doors, cabinets, or drawers. - Do not close any doors, cabinets, or drawers. - Do not turn on or off any lights. - Look for any trip wires (an object such as a string or wire that if touched may cause an explosive device to detonate) and avoid the area if found. - Visually search from floor to ceiling.",
+      "char_count": 1184,
+      "token_estimate": 296,
+      "section_title": "All Staff Checklist#### Respond",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1004-t3codeblackallstaffchecklist_b57b63fe0d9a_chunk_004_9a2e34c9",
+      "doc_id": "epm2-p1004-t3codeblackallstaffchecklist_b57b63fe0d9a",
+      "chunk_index": 4,
+      "text": "- Look for any trip wires (an object such as a string or wire that if touched may cause an explosive device to detonate) and avoid the area if found. - Visually search from floor to ceiling. - If a suspicious item is discovered, evacuate the area and notify the Incident Manager immediately. - Advise any residents and visitors in the area to remain still and silent. - Check in with the nurse in the unit every 10 minutes to report findings.#### Recover\nAfter hearing the “all clear” announced:- [ ] Participate in the analysis and debrief session.----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025Page 1 of 1",
+      "char_count": 886,
+      "token_estimate": 221,
+      "section_title": "All Staff Checklist#### Respond",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

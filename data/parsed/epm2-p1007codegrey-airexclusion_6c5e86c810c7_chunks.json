@@ -1,0 +1,90 @@
+{
+  "doc_id": "epm2-p1007codegrey-airexclusion_6c5e86c810c7",
+  "total_chunks": 7,
+  "chunks": [
+    {
+      "chunk_id": "epm2-p1007codegrey-airexclusion_6c5e86c810c7_chunk_000_7ef847f8",
+      "doc_id": "epm2-p1007codegrey-airexclusion_6c5e86c810c7",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE\n- **MANUAL:** Emergency Planning and Management\n- **INDEX:** EPM2-P10.07\n- **SECTION:** Emergency Response Codes\n- **EFFECTIVE DATE:** January 13, 2025\n- **REVIEWED DATE:** January 6, 2025\n- **APPROVED BY:** Senior Director, Corporate Quality and Risk\n- **MODIFIED DATE:** May 30, 2025## POLICY\n\n### Emergency Response Codes## PROCEDURE",
+      "char_count": 362,
+      "token_estimate": 90,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1007codegrey-airexclusion_6c5e86c810c7_chunk_002_dcdeacbe",
+      "doc_id": "epm2-p1007codegrey-airexclusion_6c5e86c810c7",
+      "chunk_index": 2,
+      "text": "### Code Grey- Air Exclusion\nCode Grey- Air Exclusion is announced when there is an occurrence outside the home that has the potential to contaminate the air and affect the health and safety of residents, families, staff, and volunteers.1. Close any open windows.\n\n2. Apply wet towels or linens to seal any external air infiltration (i.e., from window air conditioning units once unplugged), as able.",
+      "char_count": 400,
+      "token_estimate": 100,
+      "section_title": "Code Grey- Air Exclusion",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1007codegrey-airexclusion_6c5e86c810c7_chunk_004_2b9321df",
+      "doc_id": "epm2-p1007codegrey-airexclusion_6c5e86c810c7",
+      "chunk_index": 4,
+      "text": "3. Turn off local air exchange systems, including individual air conditioning units in offices and residents’ rooms.\n\n4. Remain inside the home unless instructed otherwise.",
+      "char_count": 172,
+      "token_estimate": 43,
+      "section_title": "Turn off local air exchange systems, including individual air conditioning units in offices and residents’ rooms.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1007codegrey-airexclusion_6c5e86c810c7_chunk_006_bebd51c0",
+      "doc_id": "epm2-p1007codegrey-airexclusion_6c5e86c810c7",
+      "chunk_index": 6,
+      "text": "5. Follow the procedures for air exclusion as per your designated Job Action checklists and follow direction from the Incident Manager.\n\n6. Registered staff, monitor residents for respiratory symptoms and treat accordingly.",
+      "char_count": 223,
+      "token_estimate": 55,
+      "section_title": "Follow the procedures for air exclusion as per your designated Job Action checklists and follow direction from the Incident Manager.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1007codegrey-airexclusion_6c5e86c810c7_chunk_008_4e5b7721",
+      "doc_id": "epm2-p1007codegrey-airexclusion_6c5e86c810c7",
+      "chunk_index": 8,
+      "text": "7. Care staff, assist with resident assessment and interventions, as required.## TOOLS\n\n1. Code Grey- Air Exclusion Incident Manager Job Action Checklist",
+      "char_count": 153,
+      "token_estimate": 38,
+      "section_title": "Care staff, assist with resident assessment and interventions, as required.## TOOLS",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1007codegrey-airexclusion_6c5e86c810c7_chunk_010_4ea256b6",
+      "doc_id": "epm2-p1007codegrey-airexclusion_6c5e86c810c7",
+      "chunk_index": 10,
+      "text": "2. Code Grey- Air Exclusion Maintenance Job Action Checklist\n\n3. Code Grey- Air Exclusion All Staff Job Action Checklist",
+      "char_count": 120,
+      "token_estimate": 30,
+      "section_title": "Code Grey- Air Exclusion Maintenance Job Action Checklist",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1007codegrey-airexclusion_6c5e86c810c7_chunk_012_4ef15d19",
+      "doc_id": "epm2-p1007codegrey-airexclusion_6c5e86c810c7",
+      "chunk_index": 12,
+      "text": "4. Code Grey- Executive Director/Designate Job Action Checklist\n\n5. Code Grey- Air Exclusion and Essential Services Poster----**Helping people**\nThis document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 1 of 1",
+      "char_count": 479,
+      "token_estimate": 119,
+      "section_title": "Code Grey- Executive Director/Designate Job Action Checklist",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "doc_id": "care7-p1001-t1mentalhealth-cohenmansfieldagitationinventorycmai_db810002e15a",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "care7-p1001-t1mentalhealth-cohenmansfieldagitationinventorycmai_db810002e15a_chunk_000_e3f268b5",
+      "doc_id": "care7-p1001-t1mentalhealth-cohenmansfieldagitationinventorycmai_db810002e15a",
+      "chunk_index": 0,
+      "text": "# Mental Health - Cohen Mansfield Agitation Inventory (CMAI)**Resident:**                       **Location:**                        **Score:** NA\n**Category:** NA## A. Physical Aggression\nReview each of 29 agitated behaviours and click on how often each was manifested by the Resident over the last 2 weeks. POC homes can summarize the documentation captured in the CMAI-SF lookback report as well as mood, behaviour and cognition tasks. **1=never, 2= less than once/wk, 3=1-2x/wk, 4=few x/wk, 5=1-2x/day, 6=few x/day, 7=few x/hr**| Behavior                                          | 1 | 2 | 3 | 4 | 5 | 6 | 7 |\n|---------------------------------------------------|---|---|---|---|---|---|---|\n| 1. Hitting (including self)                       |   |   |   |   |   |   |   |\n| 2. Kicking                                        |   |   |   |   |   |   |   |\n| 3. Grabbing onto people                           |   |   |   |   |   |   |   |\n| 4. Pushing                                        |   |   |   |   |   |   |   |\n| 5. Throwing things                                |   |   |   |   |   |   |   |\n| 6. Biting                                         |   |   |   |   |   |   |   |\n| 7.",
+      "char_count": 1192,
+      "token_estimate": 298,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care7-p1001-t1mentalhealth-cohenmansfieldagitationinventorycmai_db810002e15a_chunk_001_e60609ff",
+      "doc_id": "care7-p1001-t1mentalhealth-cohenmansfieldagitationinventorycmai_db810002e15a",
+      "chunk_index": 1,
+      "text": "Throwing things                                |   |   |   |   |   |   |   |\n| 6. Biting                                         |   |   |   |   |   |   |   |\n| 7. Scratching                                     |   |   |   |   |   |   |   |\n| 8. Spitting                                       |   |   |   |   |   |   |   |\n| 9. Hurt self or others                            |   |   |   |   |   |   |   |\n| 10. Tearing things or destroying property         |   |   |   |   |   |   |   |\n| 11. Making physical sexual advances                |   |   |   |   |   |   |   |## B. Physical/ Non-Aggressive\n| Behavior                                          | 1 | 2 | 3 | 4 | 5 | 6 | 7 |\n|---------------------------------------------------|---|---|---|---|---|---|---|\n| 12. Pace, aimless wandering                        |   |   |   |   |   |   |   |\n| 13. Inappropriate dress or disrobing              |   |   |   |   |   |   |   |\n| 14. Trying to get to a different place            |   |   |   |   |   |   |   |\n| 15. Intentional falling                            |   |   |   |   |   |   |   |\n| 16. Eating/drinking inappropriate substances       |   |   |   |   |   |   |   |\n| 17.",
+      "char_count": 1182,
+      "token_estimate": 295,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care7-p1001-t1mentalhealth-cohenmansfieldagitationinventorycmai_db810002e15a_chunk_002_5090f6d3",
+      "doc_id": "care7-p1001-t1mentalhealth-cohenmansfieldagitationinventorycmai_db810002e15a",
+      "chunk_index": 2,
+      "text": "Intentional falling                            |   |   |   |   |   |   |   |\n| 16. Eating/drinking inappropriate substances       |   |   |   |   |   |   |   |\n| 17. Handling things inappropriately                |   |   |   |   |   |   |   |----**Page 1 of 2**# Agitation Inventory## A. Behavioral Indicators1. Hiding things\n- 1\n- 2\n- 3\n- 4\n- 5\n- 6\n- 72. Hoarding things\n- 1\n- 2\n- 3\n- 4\n- 5\n- 6\n- 73. Performing repetitive mannerisms\n- 1\n- 2\n- 3\n- 4\n- 5\n- 6\n- 74. General restlessness\n- 1\n- 2\n- 3\n- 4\n- 5\n- 6\n- 7## B. Verbal/Aggressive1. Screaming\n- 1\n- 2\n- 3\n- 4\n- 5\n- 6\n- 72. Making verbal sexual advances\n- 1\n- 2\n- 3\n- 4\n- 5\n- 6\n- 73. Cursing or verbal aggression\n- 1\n- 2\n- 3\n- 4\n- 5\n- 6\n- 7## C. Verbal/Non-Aggressive1. Repeating sentences or questions\n- 1\n- 2\n- 3\n- 4\n- 5\n- 6\n- 72. Strange noises (weird laughter or crying)\n- 1\n- 2\n- 3\n- 4\n- 5\n- 6\n- 73. Complaining\n- 1\n- 2\n- 3\n- 4\n- 5\n- 6\n- 74. Negativism\n- 1\n- 2\n- 3\n- 4\n- 5\n- 6\n- 75. Constant unwarranted requests for attention or help\n- 1\n- 2\n- 3\n- 4\n- 5\n- 6\n- 7## D. Summary1. Narrative summary of Agitation Inventory. This will populate progress note.----**Page 2 of 2**",
+      "char_count": 1132,
+      "token_estimate": 283,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

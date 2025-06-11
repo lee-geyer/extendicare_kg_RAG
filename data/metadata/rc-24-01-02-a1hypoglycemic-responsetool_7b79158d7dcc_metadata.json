@@ -1,0 +1,11 @@
+{
+  "doc_id": "rc-24-01-02-a1hypoglycemic-responsetool_7b79158d7dcc",
+  "category": "Care",
+  "schema_used": "GenericDocumentMeta",
+  "extraction_success": true,
+  "metadata": {
+    "title": "Hypoglycemic - Severe Event, Unresponsive Event and/or Glucagon Administered Response Tool"
+  },
+  "error": null,
+  "fallback_metadata": null
+}

@@ -1,0 +1,90 @@
+{
+  "doc_id": "care1-p1002-t1dischargechecklist_cff845ebbd99",
+  "total_chunks": 7,
+  "chunks": [
+    {
+      "chunk_id": "care1-p1002-t1dischargechecklist_cff845ebbd99_chunk_000_93037a4f",
+      "doc_id": "care1-p1002-t1dischargechecklist_cff845ebbd99",
+      "chunk_index": 0,
+      "text": "# Extendicare Discharge Checklist**Resident:**                        **Room:**                        **Discharge Date:**| PCC   | Complete Upon Discharge                           | Initial as     | Action Required/Follow-up |\n|-------|--------------------------------------------------|----------------|---------------------------|\n| √     | Notification of discharge or death, as applicable, to: |                |                           |\n|       | - SDM/POA                                       |                |                           |\n|       | - Physician/nurse practitioner (NP)            |                |                           |\n|       | - Interdisciplinary team                         |                |                           |\n|       | Document on progress notes, document details on 24-hour report. | |                           |\n|       | Notify home’s contracted pharmacy, and follow medication destruction, as per Extendicare process.",
+      "char_count": 975,
+      "token_estimate": 243,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care1-p1002-t1dischargechecklist_cff845ebbd99_chunk_001_c4ff242d",
+      "doc_id": "care1-p1002-t1dischargechecklist_cff845ebbd99",
+      "chunk_index": 1,
+      "text": "# Extendicare Discharge Checklist**Resident:**                        **Room:**                        **Discharge Date:**| PCC   | Complete Upon Discharge                           | Initial as     | Action Required/Follow-up |\n|-------|--------------------------------------------------|----------------|---------------------------|\n| √     | Notification of discharge or death, as applicable, to: |                |                           |\n|       | - SDM/POA                                       |                |                           |\n|       | - Physician/nurse practitioner (NP)            |                |                           |\n|       | - Interdisciplinary team                         |                |                           |\n|       | Document on progress notes, document details on 24-hour report. | |                           |\n|       | Notify home’s contracted pharmacy, and follow medication destruction, as per Extendicare process. | |                           |\n|       | Death registration process as per provincial requirements: | |                           |\n|       | - (ON)                                          |                |                           |\n|       |   Part 1 – To be completed on the day of death OR when a notice of death is received from the hospital.",
+      "char_count": 1327,
+      "token_estimate": 331,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care1-p1002-t1dischargechecklist_cff845ebbd99_chunk_002_ec3eed89",
+      "doc_id": "care1-p1002-t1dischargechecklist_cff845ebbd99",
+      "chunk_index": 2,
+      "text": "| |                           |\n|       | Notify home’s contracted pharmacy, and follow medication destruction, as per Extendicare process. | |                           |\n|       | Death registration process as per provincial requirements: | |                           |\n|       | - (ON)                                          |                |                           |\n|       |   Part 1 – To be completed on the day of death OR when a notice of death is received from the hospital. | |                           |\n|       |   Part 2 – To be completed and submitted within 5 days of death OR within 5 days of receiving notice of death from the hospital. | |                           |\n|       | - Personal Care Home Death Report Form (MB)    |                |                           |\n|       |   Page 1 – To be faxed to the chief medical examiner’s office immediately following death. | |                           |\n|       |   Page 2 – To be submitted after the medical certificate of death (form 5) has been completed/signed by the physician, and the medical cause of death is known.",
+      "char_count": 1101,
+      "token_estimate": 275,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care1-p1002-t1dischargechecklist_cff845ebbd99_chunk_003_d5aa4a0d",
+      "doc_id": "care1-p1002-t1dischargechecklist_cff845ebbd99",
+      "chunk_index": 3,
+      "text": "| |                           |\n|       | - Personal Care Home Death Report Form (MB)    |                |                           |\n|       |   Page 1 – To be faxed to the chief medical examiner’s office immediately following death. | |                           |\n|       |   Page 2 – To be submitted after the medical certificate of death (form 5) has been completed/signed by the physician, and the medical cause of death is known. | |                           |\n|       | - Attending Physician’s Medical Certificate of Death (AB) | |                           |\n|       |   To be completed by physician. |                |                           |\n| √     | Death and Aftercare:                            |                |                           |\n|       | - Complete Record of Resident Death (if applicable). | |                           |\n|       | - Complete Discharge Death Record for Funeral Home Form (if applicable). | |                           |\n| √     | Obtain physician/NP order to discontinue all    |                |                           |----**Helping people live better**This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1182,
+      "token_estimate": 295,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care1-p1002-t1dischargechecklist_cff845ebbd99_chunk_004_42e81901",
+      "doc_id": "care1-p1002-t1dischargechecklist_cff845ebbd99",
+      "chunk_index": 4,
+      "text": "| |                           |\n| √     | Obtain physician/NP order to discontinue all    |                |                           |----**Helping people live better**This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 2**# Discharge Checklist## Medication/Treatments\n- √ Discontinue all active orders in PCC. - √ Address ‘in progress’ interRAI assessment (if applicable)\n- Ensure coding is complete\n- Ensure care plan protocols are addressed as ‘discharged’ or ‘deceased’ and signed off. - √ ‘In progress’ UDA assessments in PCC must be completed and locked OR closed as applicable. - Paper assessment tools will be filed and placed in resident chart as applicable. - Contact and ensure family/SDM/POA remove personal belongings including clothing items upon discharge.",
+      "char_count": 1059,
+      "token_estimate": 264,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care1-p1002-t1dischargechecklist_cff845ebbd99_chunk_005_1c3de32d",
+      "doc_id": "care1-p1002-t1dischargechecklist_cff845ebbd99",
+      "chunk_index": 5,
+      "text": "- Paper assessment tools will be filed and placed in resident chart as applicable. - Contact and ensure family/SDM/POA remove personal belongings including clothing items upon discharge. - Please refer to:\n- Personal Belongings Inventory List (in chart)\n- Note: Follow procedure for unclaimed items and report to DOC/designate.## Progress Notes\n- √ Complete progress notes under ‘transfer/discharge/LOA’ category. Please include the following:\n- Reason for discharge\n- Communication with physician/NP\n- Communication with family/SDM/POA (include name of individual spoken to) regarding the reason for discharge\n- Communication to interdisciplinary team\n- Indicate cause of death if known\n- If discharge is due to death, include:\n- Time funeral home/coroner removed the body\n- Name of funeral home or morgue## Review Process\n- Discharge checklist forwarded to DOC for review and sign off. - Signature of DOC/Designate completing checklist review: _____________________\n- Date of Review: __________________----**Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1087,
+      "token_estimate": 271,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care1-p1002-t1dischargechecklist_cff845ebbd99_chunk_006_8210699b",
+      "doc_id": "care1-p1002-t1dischargechecklist_cff845ebbd99",
+      "chunk_index": 6,
+      "text": "- Signature of DOC/Designate completing checklist review: _____________________\n- Date of Review: __________________----**Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 2 of 2**",
+      "char_count": 471,
+      "token_estimate": 117,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

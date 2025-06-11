@@ -1,0 +1,78 @@
+{
+  "doc_id": "ipc7-p10-e1packingcoolerforvaccinetransport_770803df6d8b",
+  "total_chunks": 6,
+  "chunks": [
+    {
+      "chunk_id": "ipc7-p10-e1packingcoolerforvaccinetransport_770803df6d8b_chunk_000_4924819a",
+      "doc_id": "ipc7-p10-e1packingcoolerforvaccinetransport_770803df6d8b",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Packing Cooler for Vaccine Transport1. Approved insulated hard sided cooler",
+      "char_count": 93,
+      "token_estimate": 23,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-e1packingcoolerforvaccinetransport_770803df6d8b_chunk_002_099f53e4",
+      "doc_id": "ipc7-p10-e1packingcoolerforvaccinetransport_770803df6d8b",
+      "chunk_index": 2,
+      "text": "2. Frozen ice packs to cover bottom, cover with one layer of bubble wrap\n\n3. Layer chilled cryopak blanket on bubble wrap, place thermometer probe on the blanket",
+      "char_count": 161,
+      "token_estimate": 40,
+      "section_title": "Frozen ice packs to cover bottom, cover with one layer of bubble wrap",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-e1packingcoolerforvaccinetransport_770803df6d8b_chunk_004_30fe66d8",
+      "doc_id": "ipc7-p10-e1packingcoolerforvaccinetransport_770803df6d8b",
+      "chunk_index": 4,
+      "text": "4. Fold cryopak blanket over thermometer probe, close lid of cooler\n\n5. Monitor until temperature is between 2 and 8 degrees Celsius",
+      "char_count": 132,
+      "token_estimate": 33,
+      "section_title": "Fold cryopak blanket over thermometer probe, close lid of cooler",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-e1packingcoolerforvaccinetransport_770803df6d8b_chunk_006_a6a281df",
+      "doc_id": "ipc7-p10-e1packingcoolerforvaccinetransport_770803df6d8b",
+      "chunk_index": 6,
+      "text": "6. Once desired temperature range has been reached, place vaccine----Helping people live better> This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----",
+      "char_count": 425,
+      "token_estimate": 106,
+      "section_title": "Once desired temperature range has been reached, place vaccine----Helping people live better> This document is uncontrolled when printed.",
+      "chunk_type": "content",
+      "start_line": 6,
+      "end_line": 7
+    },
+    {
+      "chunk_id": "ipc7-p10-e1packingcoolerforvaccinetransport_770803df6d8b_chunk_007_33474fcc",
+      "doc_id": "ipc7-p10-e1packingcoolerforvaccinetransport_770803df6d8b",
+      "chunk_index": 7,
+      "text": "# Packing Cooler for Vaccine Transport## Instructions1. Place a layer of **cryopak** in the cooler.\n\n2. Fold a **blanket** over the vaccine.",
+      "char_count": 140,
+      "token_estimate": 35,
+      "section_title": "Packing Cooler for Vaccine Transport## Instructions1. Place a layer of **cryopak** in the cooler.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-e1packingcoolerforvaccinetransport_770803df6d8b_chunk_009_b24c3655",
+      "doc_id": "ipc7-p10-e1packingcoolerforvaccinetransport_770803df6d8b",
+      "chunk_index": 9,
+      "text": "3. Close the lid; the cooler is now ready for transportation.----**Note:** This document is uncontrolled when printed.**Extendicare (Canada) Inc.** will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**----**Page 2 of 2**",
+      "char_count": 422,
+      "token_estimate": 105,
+      "section_title": "Close the lid; the cooler is now ready for transportation.----**Note:** This document is uncontrolled when printed.**Extendicare (Canada) Inc.** will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**----**Page 2 of 2**",
+      "chunk_type": "content",
+      "start_line": 10,
+      "end_line": 10
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "doc_id": "ipc4-p10-t3-monthlyinfectionsurveillanceform_5004a49b49df",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "ipc4-p10-t3-monthlyinfectionsurveillanceform_5004a49b49df_chunk_000_95df21ba",
+      "doc_id": "ipc4-p10-t3-monthlyinfectionsurveillanceform_5004a49b49df",
+      "chunk_index": 0,
+      "text": "```markdown\n\n# Extendicare Monthly Infection Surveillance Form| Month: | Insert year | Year: | Page: | of |\n|--------|-------------|-------|-------|----|## Infection Category| Date | Resident | Rm # | Gast | Resp upper | Resp lower | Eyes | Ears | Nose | Mouth | UTI-Cath | UTI-Non | Skin & MRSA | MRSA | VRE | VRE | C-Diff | C-Diff | ESBL | ESBL | CPE | CPE | Systemic | Other | Culture Taken | Results Received | Organism | Treatment | Precautions implemented | Care Plan | Follow-up Required | Date Resolved |\n|------|----------|-------|------|------------|------------|------|------|------|-------|----------|---------|-------------|------|-----|-----|--------|--------|------|------|-----|-----|----------|-------|----------------|------------------|----------|-----------|------------------------|-----------|-------------------|---------------|\n| Enter | Enter    | Enter | Enter | Enter      | Enter      | Enter| Enter| Enter| Enter | Enter    | Enter   | Enter       | Enter| Enter| Enter| Enter  | Enter  | Enter| Enter| Enter| Enter| Enter    | Enter | Enter          | Enter            | Enter    | Enter     | Enter                  | Enter     | Enter             | Enter         |----**Note:** This document is uncontrolled when printed.",
+      "char_count": 1253,
+      "token_estimate": 313,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc4-p10-t3-monthlyinfectionsurveillanceform_5004a49b49df_chunk_002_b4802206",
+      "doc_id": "ipc4-p10-t3-monthlyinfectionsurveillanceform_5004a49b49df",
+      "chunk_index": 2,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n```It seems that the provided text does not contain any specific content to convert into markdown format. If you have a document or specific content that you would like me to parse and convert, please provide that text, and I will assist you in formatting it according to your instructions.",
+      "char_count": 569,
+      "token_estimate": 142,
+      "section_title": "Extendicare Monthly Infection Surveillance Form| Month: | Insert year | Year: | Page: | of |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

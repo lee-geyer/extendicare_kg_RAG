@@ -1,0 +1,114 @@
+{
+  "doc_id": "care8-p1004-t1death-recordofresidentdeath_937ec8f5105d",
+  "total_chunks": 9,
+  "chunks": [
+    {
+      "chunk_id": "care8-p1004-t1death-recordofresidentdeath_937ec8f5105d_chunk_000_701a84cc",
+      "doc_id": "care8-p1004-t1death-recordofresidentdeath_937ec8f5105d",
+      "chunk_index": 0,
+      "text": "# Death - Record of Resident Death| Resident: | Date of Birth: | Physician: |\n|-----------|----------------|------------|\n|           |                |            |## A. Death Record1. **Date and Time of Death:**\n\n2. **Location of Death:**\n- a) LTC Home\n- b) Hospital\n- c) Home\n- d) Hospice\n- e) Other",
+      "char_count": 302,
+      "token_estimate": 75,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care8-p1004-t1death-recordofresidentdeath_937ec8f5105d_chunk_002_859503b7",
+      "doc_id": "care8-p1004-t1death-recordofresidentdeath_937ec8f5105d",
+      "chunk_index": 2,
+      "text": "3. **Other:** (S)\n\n4. **Is the Preliminary cause of death known?**\n- a. Yes\n- b. No",
+      "char_count": 83,
+      "token_estimate": 20,
+      "section_title": "**Other:** (S)",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care8-p1004-t1death-recordofresidentdeath_937ec8f5105d_chunk_004_b7334747",
+      "doc_id": "care8-p1004-t1death-recordofresidentdeath_937ec8f5105d",
+      "chunk_index": 4,
+      "text": "5. **Preliminary cause of death:**\n- a. Dementia\n- b. Cancer\n- c. Heart Disease\n- d. Infection\n- e. Injury related\n- f. Other\n\n6. **Any further details of preliminary cause of death:**",
+      "char_count": 184,
+      "token_estimate": 46,
+      "section_title": "**Preliminary cause of death:**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care8-p1004-t1death-recordofresidentdeath_937ec8f5105d_chunk_006_db9986cb",
+      "doc_id": "care8-p1004-t1death-recordofresidentdeath_937ec8f5105d",
+      "chunk_index": 6,
+      "text": "7. **Select any circumstances of expected death:**\n- a. Resident has been on palliative care.\n- b. Resident has been receiving end of life care.\n- c. Resident disease trajectory resulted in anticipated death.\n- d. Resident participated in MAID.\n\n8. **Province of Death?**\n- a. Alberta\n- b. Manitoba\n- c. Ontario",
+      "char_count": 311,
+      "token_estimate": 77,
+      "section_title": "**Select any circumstances of expected death:**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care8-p1004-t1death-recordofresidentdeath_937ec8f5105d_chunk_008_0e8d53b1",
+      "doc_id": "care8-p1004-t1death-recordofresidentdeath_937ec8f5105d",
+      "chunk_index": 8,
+      "text": "9. **In Alberta, physicians must report all unexpected or unexplained deaths to the Office of the Chief Medical Examiner (OCME).**\n- Indicate any of the following circumstances of death:\n- a. Unexplained or unexpected\n- b. Due to violence, accident, or suicide\n- c. Resulting from negligent treatment\n- d. Occurring during or shortly after operative procedures\n- e. Due to poisoning\n- f. Resident was not under a physician’s care\n- g. None of the Above### ACTION REQUIRED:",
+      "char_count": 472,
+      "token_estimate": 118,
+      "section_title": "**In Alberta, physicians must report all unexpected or unexplained deaths to the Office of the Chief Medical Examiner (OCME).**",
+      "chunk_type": "content",
+      "start_line": 30,
+      "end_line": 38
+    },
+    {
+      "chunk_id": "care8-p1004-t1death-recordofresidentdeath_937ec8f5105d_chunk_009_a9343ad3",
+      "doc_id": "care8-p1004-t1death-recordofresidentdeath_937ec8f5105d",
+      "chunk_index": 9,
+      "text": "10. **Notify the Office of the Chief Medical Examiner (OCME)**\n\n11. **In Manitoba, when a resident of a care institution dies, the licensee or person in charge must immediately notify the attending physician and obtain a death certificate.**\n- Indicate any of the following circumstances of death:\n- a. Unexpected or unexplained\n- b. Due to accident, suicide, negligence, or homicide\n- c. Resulting from poisoning----**Page 1 of 3**# Death Reporting Procedures## Circumstances of Death\nIndicate any of the following circumstances of death:\n- a. A recent or remote injury contributed to this death\n- b. The Resident had a fall that resulted in an injury in the previous 12 months (e.g., hip fracture, head injury)\n- c. Unexplained injuries present\n- d. There are other concerning findings\n- e. Substitute decision maker/family/friend has concerns regarding this death\n- f. LTC caregiver(s) have concerns regarding this death\n- g. There are concerns that this resident suffered intentional harm or neglect\n- h. The death was unanticipated given the resident’s medical conditions and medical trajectory\n- i.",
+      "char_count": 1104,
+      "token_estimate": 276,
+      "section_title": "**Notify the Office of the Chief Medical Examiner (OCME)**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care8-p1004-t1death-recordofresidentdeath_937ec8f5105d_chunk_011_ab8a971b",
+      "doc_id": "care8-p1004-t1death-recordofresidentdeath_937ec8f5105d",
+      "chunk_index": 11,
+      "text": "There are concerns that this resident suffered intentional harm or neglect\n- h. The death was unanticipated given the resident’s medical conditions and medical trajectory\n- i. None of the Above### Action Required\n- **5bb.** Notify a coroner and refrain from moving the body without permission from a medical examiner appointed under the Fatality Inquiries Act. - **5c.** In Ontario, the death must be reported to the Office of the Chief Coroner. If the coroner determines that the death should be investigated, they will investigate the circumstances of the death. - **5cc.** If the resident did not receive Medical Assistance in Dying (MAiD), notify a coroner by reporting the death to Provincial Dispatch.## Notifications\nAt the time of form completion, indicate notifications, pending actions, and actions taken:\n- a. DOC or designate notified\n- b. LTC Physician notified\n- c. NP notified\n- d. Coroner notified\n- e. Police notified\n- f. Family notified\n- g. Pharmacy notified of Resident death\n- h. Funeral Home notified of Resident death\n- i. Crematorium notified of Resident death\n- j. Organ donation notified## Pending Actions\n- a. Physician will be in to pronounce death\n- b.",
+      "char_count": 1182,
+      "token_estimate": 295,
+      "section_title": "**In Manitoba, when a resident of a care institution dies, the licensee or person in charge must immediately notify the attending physician and obtain a death certificate.**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care8-p1004-t1death-recordofresidentdeath_937ec8f5105d_chunk_012_a9b4e623",
+      "doc_id": "care8-p1004-t1death-recordofresidentdeath_937ec8f5105d",
+      "chunk_index": 12,
+      "text": "Organ donation notified## Pending Actions\n- a. Physician will be in to pronounce death\n- b. NP will be in to pronounce death\n- c. Coroner will be in\n- d. Police will be in\n- e. Family will be in\n- f. Orders received to release Resident body\n- g. Orders received to discontinue all medications\n- h. Orders received to destroy all medications## Actions Completed\n- a. Death has been pronounced by Physician\n- b. Death has been pronounced by Nurse Practitioner\n- c. Death has been pronounced by Nurse\n- d. Death has been pronounced by Coroner\n- e. Police have been in\n- f. Family have been in----**Page 2 of 3**# Record of Resident Death## 1. Documentation of Death\n- Resident body released\n- Signature obtained from staff receiving body and personal effects on the Discharge Death Record for Funeral Homes form. - Resident wishes honored as per plan of care\n- A dignity walk, honour guard accompanied the Resident’s body to the front door## 2. Additional Information",
+      "char_count": 964,
+      "token_estimate": 241,
+      "section_title": "**In Manitoba, when a resident of a care institution dies, the licensee or person in charge must immediately notify the attending physician and obtain a death certificate.**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care8-p1004-t1death-recordofresidentdeath_937ec8f5105d_chunk_013_e45a852e",
+      "doc_id": "care8-p1004-t1death-recordofresidentdeath_937ec8f5105d",
+      "chunk_index": 13,
+      "text": "### 2.1 Notifications and Actions\n- Any additional information about the Resident's death, notifications, pending actions, or actions taken:\n- This \"Record of Resident Death\" is internal electronic documentation on Resident death and does not replace any provincially required form, record, or notification.## 3. Action Required\n\n### 3.1 Alberta\n- The physician has completed the 'Attending Physician’s Medical Certificate of Death'### 3.2 Manitoba\n- The 'Personal Care Home (PCH) Death Report Form' has been completed.### 3.3 Ontario\n- A Nurse has completed part 1 of the 'Resident Death Notice' (RDN) via the portal.----**Signature**: ______________________\n**Date**: ______________________----**Page 3 of 3**",
+      "char_count": 711,
+      "token_estimate": 177,
+      "section_title": "2.1 Notifications and Actions",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

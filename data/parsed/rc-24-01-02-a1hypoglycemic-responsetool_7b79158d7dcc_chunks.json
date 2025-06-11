@@ -1,0 +1,54 @@
+{
+  "doc_id": "rc-24-01-02-a1hypoglycemic-responsetool_7b79158d7dcc",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "rc-24-01-02-a1hypoglycemic-responsetool_7b79158d7dcc_chunk_000_4d038761",
+      "doc_id": "rc-24-01-02-a1hypoglycemic-responsetool_7b79158d7dcc",
+      "chunk_index": 0,
+      "text": "# Hypoglycemic - Severe Event, Unresponsive Event and/or Glucagon Administered Response Tool**Resident:**\n**Effective Date:**\n**Location:**\n**Date of Birth:**\n**Physician:**\n**Allergies:**\n**Diagnoses:**## 1. Event Report### 1. Date & Time of Hypoglycemic Event:### 1b. Most Recent Blood Glucose\n- **Blood Glucose:**\n- **Date:**### 2. Type of Event (select all that apply):\n- a. Severe Hypoglycemic Event (<2.8 mmol/L, resident is conscious)\n- b. Unresponsive Hypoglycemic Event (<2.8 mmol/L, resident is unconscious)\n- c. Glucagon Administered### 2b. Glucagon administration details:\n- **Orders:**\n- **Last Administration:**### 3. Describe the incident. Include the events leading up to the incident:### 4. Describe the immediate actions taken to assess and maintain the resident’s health:### 5. Names of staff members or other persons who were present at or discovered the incident:### 6. Names of the staff members who responded to the incident, if different than above:### 7. Did the incident result in the resident being taken to hospital? - a. Yes\n- b. No### 7b. If ‘Yes’, was a report submitted through the Critical Incident Reporting System (Ontario homes only)? - a. Yes\n- b. No\n- c.",
+      "char_count": 1192,
+      "token_estimate": 298,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "rc-24-01-02-a1hypoglycemic-responsetool_7b79158d7dcc_chunk_001_defe2df2",
+      "doc_id": "rc-24-01-02-a1hypoglycemic-responsetool_7b79158d7dcc",
+      "chunk_index": 1,
+      "text": "Yes\n- b. No\n- c. N/A (Alberta/Manitoba)### 8. Describe the resident outcome:### Notifications (ensure the following individuals are notified):\n- **9. Attending Physician/Nurse Practitioner**\n- **9b. Attending Physician/Nurse Practitioner name:**\n- **9c. Date and Time of Notification:**- **10. Resident**\n- **10b. Date and Time of Notification (S):**- **11. Family/SDM**\n- **11b. Name of SDM or family:**----**Page 1 of 2**# Document Notification and Action Required## 11c. Date and Time of Notification## 12. DOC/Designate\n- **12b. DOC/Designate name:**\n- **12c. Date and Time of Notification**## 13. Prescriber of Glucagon\n- **13b. Is the prescriber of glucagon also the attending physician listed above?**",
+      "char_count": 708,
+      "token_estimate": 177,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "rc-24-01-02-a1hypoglycemic-responsetool_7b79158d7dcc_chunk_002_e4192c1c",
+      "doc_id": "rc-24-01-02-a1hypoglycemic-responsetool_7b79158d7dcc",
+      "chunk_index": 2,
+      "text": "1. Yes\n\n2. No\n- **13c. Prescriber of Glucagon name:**\n- **13d. Date and Time of Notification**## 14. Medical Director\n- **14b. Is the Medical Director also the attending physician and/or prescriber of glucagon listed above?**",
+      "char_count": 225,
+      "token_estimate": 56,
+      "section_title": "Yes",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "rc-24-01-02-a1hypoglycemic-responsetool_7b79158d7dcc_chunk_004_47cfb616",
+      "doc_id": "rc-24-01-02-a1hypoglycemic-responsetool_7b79158d7dcc",
+      "chunk_index": 4,
+      "text": "1. Yes\n\n2. No\n- **14c. Medical Director name:**\n- **14d. Date and Time of Notification**## 15. Pharmacy\n- **15b. Pharmacy staff name:**\n- **15c. Date and Time of Notification**## 16. Other\n- **16b. Other Notification**----### ACTION REQUIRED:\nThe 'Hypoglycemic - Event Analysis (DOC/Designate)' has been triggered for completion. DOC/designate to open through the 'next assessment due' section of the Resident health record.----**Signature**: ______________________\n**Date**: ______________________----**Page 2 of 2**",
+      "char_count": 517,
+      "token_estimate": 129,
+      "section_title": "Yes",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

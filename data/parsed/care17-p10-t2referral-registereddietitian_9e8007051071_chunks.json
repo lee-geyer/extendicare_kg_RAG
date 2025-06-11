@@ -1,0 +1,138 @@
+{
+  "doc_id": "care17-p10-t2referral-registereddietitian_9e8007051071",
+  "total_chunks": 11,
+  "chunks": [
+    {
+      "chunk_id": "care17-p10-t2referral-registereddietitian_9e8007051071_chunk_000_0c76488c",
+      "doc_id": "care17-p10-t2referral-registereddietitian_9e8007051071",
+      "chunk_index": 0,
+      "text": "# Referral - Registered Dietitian| Resident: | Effective Date: | Location: |\n|-----------|-----------------|-----------|\n| Initial Admission: | Admission: | Date of Birth: |\n| Score: NA | Category: NA | Physician: |## A. Reason(s) for Referral:\n\n1. Move-in",
+      "char_count": 256,
+      "token_estimate": 64,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p10-t2referral-registereddietitian_9e8007051071_chunk_002_05bd5cfd",
+      "doc_id": "care17-p10-t2referral-registereddietitian_9e8007051071",
+      "chunk_index": 2,
+      "text": "2. Return from hospital\n\n3. Significant change in health status",
+      "char_count": 63,
+      "token_estimate": 15,
+      "section_title": "Return from hospital",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p10-t2referral-registereddietitian_9e8007051071_chunk_004_d994baa0",
+      "doc_id": "care17-p10-t2referral-registereddietitian_9e8007051071",
+      "chunk_index": 4,
+      "text": "4. Significant weight change\n\n5. New food-related allergies or intolerances",
+      "char_count": 75,
+      "token_estimate": 18,
+      "section_title": "Significant weight change",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p10-t2referral-registereddietitian_9e8007051071_chunk_006_b88b376e",
+      "doc_id": "care17-p10-t2referral-registereddietitian_9e8007051071",
+      "chunk_index": 6,
+      "text": "6. Leaves 25% or more of food or fluids at most meals\n\n7. Swallowing difficulty",
+      "char_count": 79,
+      "token_estimate": 19,
+      "section_title": "Leaves 25% or more of food or fluids at most meals",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p10-t2referral-registereddietitian_9e8007051071_chunk_008_a3830c8b",
+      "doc_id": "care17-p10-t2referral-registereddietitian_9e8007051071",
+      "chunk_index": 8,
+      "text": "8. Biting/chewing difficulty\n\n9. New nutritional supplement order / assessment required",
+      "char_count": 87,
+      "token_estimate": 21,
+      "section_title": "Biting/chewing difficulty",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p10-t2referral-registereddietitian_9e8007051071_chunk_010_25ca7785",
+      "doc_id": "care17-p10-t2referral-registereddietitian_9e8007051071",
+      "chunk_index": 10,
+      "text": "10. Resident refusing nutritional supplement / labelled snack\n\n11. Hyperglycemia / hypoglycemia",
+      "char_count": 95,
+      "token_estimate": 23,
+      "section_title": "Resident refusing nutritional supplement / labelled snack",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p10-t2referral-registereddietitian_9e8007051071_chunk_012_87f4d267",
+      "doc_id": "care17-p10-t2referral-registereddietitian_9e8007051071",
+      "chunk_index": 12,
+      "text": "12. Enteral / tube feeding\n\n13. Constipation (provide details/comments):",
+      "char_count": 72,
+      "token_estimate": 18,
+      "section_title": "Enteral / tube feeding",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p10-t2referral-registereddietitian_9e8007051071_chunk_014_cecf2739",
+      "doc_id": "care17-p10-t2referral-registereddietitian_9e8007051071",
+      "chunk_index": 14,
+      "text": "14. Skin and Wound Management: pressure injuries stage 2+, unstageable wounds, delayed wound healing (provide details/comments):\n\n15. Inadequate fluid intake (provide details/comments):",
+      "char_count": 185,
+      "token_estimate": 46,
+      "section_title": "Skin and Wound Management: pressure injuries stage 2+, unstageable wounds, delayed wound healing (provide details/comments):",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p10-t2referral-registereddietitian_9e8007051071_chunk_016_b66ea0c3",
+      "doc_id": "care17-p10-t2referral-registereddietitian_9e8007051071",
+      "chunk_index": 16,
+      "text": "16. Altered biochemical data, medical test, procedures (provide details/comments):## B. Referral Details\n\n1. Referral details that may assist the Registered Dietitian in addressing the issue:## C. Staff Completing Referral",
+      "char_count": 222,
+      "token_estimate": 55,
+      "section_title": "Altered biochemical data, medical test, procedures (provide details/comments):## B. Referral Details",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p10-t2referral-registereddietitian_9e8007051071_chunk_018_0da88a1a",
+      "doc_id": "care17-p10-t2referral-registereddietitian_9e8007051071",
+      "chunk_index": 18,
+      "text": "1. Name of staff initiating referral:\n- SAVE referral, do NOT lock. Registered Dietitian will lock referral after assessment is completed.## D. Registered Dietitian Follow Up\n\n1. Name of Registered Dietitian responding to referral:",
+      "char_count": 231,
+      "token_estimate": 57,
+      "section_title": "Name of staff initiating referral:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p10-t2referral-registereddietitian_9e8007051071_chunk_020_edac99e6",
+      "doc_id": "care17-p10-t2referral-registereddietitian_9e8007051071",
+      "chunk_index": 20,
+      "text": "2. Date and Time of Registered Dietitian response to referral:\n\n3. Registered Dietitian assessment and recommended nutritional approaches:\n- A progress note will populate the Resident chart when this assessment is locked for the date and time that the referral was opened.----**Page 1 of 2**# Referral - Registered Dietitian## Resident:\n- **Signature**: __________________________\n- **Date**: _______________________________----**Page 2 of 2**",
+      "char_count": 443,
+      "token_estimate": 110,
+      "section_title": "Date and Time of Registered Dietitian response to referral:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

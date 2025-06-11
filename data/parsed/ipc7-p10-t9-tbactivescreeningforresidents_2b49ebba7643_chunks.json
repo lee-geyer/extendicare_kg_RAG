@@ -1,0 +1,42 @@
+{
+  "doc_id": "ipc7-p10-t9-tbactivescreeningforresidents_2b49ebba7643",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "ipc7-p10-t9-tbactivescreeningforresidents_2b49ebba7643_chunk_000_d37dcee2",
+      "doc_id": "ipc7-p10-t9-tbactivescreeningforresidents_2b49ebba7643",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Tuberculosis Active Screening for Residents**COMPLETE THIS FORM FOR EACH NEW RESIDENT UPON ADMISSION**### RISK FOR TB INFECTION| Resident’s Name: | Screen Date: |\n|------------------|--------------|\n|                  |              |#### RISK FOR TB INFECTION- **Previous TB:**\n- YES\n- NO\n- If yes, specify:\n- When:\n- Where:\n- Treated:- **Born in or travel to a TB endemic country:**\n- YES\n- NO\n- (Example could include but not limited to: Vietnam, Philippines, China, Hong Kong, India, Latin America, Africa)- **Worked as a health professional:**\n- YES\n- NO- **Previous significant tuberculin skin test:**\n- YES\n- NO\n- If yes, enter date when:\n- Where:- **Recent contact with TB infections (last 2 years):**\n- YES\n- NO### SYMPTOM INQUIRY- **Persistent Cough:**\n- YES\n- NO\n- Duration:- **Fever:**\n- YES\n- NO\n- Duration:- **Night Sweats:**\n- YES\n- NO\n- Duration:- **Hemoptysis / Blood in sputum:**\n- YES\n- NO\n- Duration:- **Weight Loss / Anorexia:**\n- YES\n- NO\n- Duration:- **Fatigue:**\n- YES\n- NO\n- Duration:- **Dyspnea:**\n- YES\n- NO\n- Duration:### FOLLOW UPIf “yes” to any question, for any symptom:\n- Consult the attending physician for prompt follow-up and a possible chest x-ray if one has not been completed in the past 90 days.",
+      "char_count": 1252,
+      "token_estimate": 313,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t9-tbactivescreeningforresidents_2b49ebba7643_chunk_002_970a0ed4",
+      "doc_id": "ipc7-p10-t9-tbactivescreeningforresidents_2b49ebba7643",
+      "chunk_index": 2,
+      "text": "- Three (3) sputum for Acid-Fast Bacilli (AFB) and culture must be ordered for collection at least 8 hours apart to rule out active TB.----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025",
+      "char_count": 461,
+      "token_estimate": 115,
+      "section_title": "Tuberculosis Active Screening for Residents**COMPLETE THIS FORM FOR EACH NEW RESIDENT UPON ADMISSION**### RISK FOR TB INFECTION| Resident’s Name: | Screen Date: |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t9-tbactivescreeningforresidents_2b49ebba7643_chunk_003_f7ae14bd",
+      "doc_id": "ipc7-p10-t9-tbactivescreeningforresidents_2b49ebba7643",
+      "chunk_index": 3,
+      "text": "# Tuberculosis Active Screening for ResidentsAll active TB cases must be reported to the local Health Unit.**Enter date**\n**Registered Staff Signature**\n**Date**----> This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\n> Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 1",
+      "char_count": 507,
+      "token_estimate": 126,
+      "section_title": "Tuberculosis Active Screening for ResidentsAll active TB cases must be reported to the local Health Unit.**Enter date**",
+      "chunk_type": "content",
+      "start_line": 46,
+      "end_line": 51
+    }
+  ]
+}

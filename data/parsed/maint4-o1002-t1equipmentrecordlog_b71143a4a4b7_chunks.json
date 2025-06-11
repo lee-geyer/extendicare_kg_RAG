@@ -1,0 +1,29 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint4-o1002-t1equipmentrecordlog_b71143a4a4b7_chunk_000_319e3cea",
+      "doc_id": "maint4-o1002-t1equipmentrecordlog_b71143a4a4b7",
+      "chunk_index": 0,
+      "text": "# Extendicare Equipment Record## Equipment Information\n- **Name/Type of Equipment**:\n- **Location**:\n- **Date Installed**:### Manufacturer Information\n- **Name**:\n- **Address**:### Equipment Specifications\n- **Model #**:\n- **Serial #**:\n- **Voltage**:\n- **Current Draw (Amps)**:\n- **Phase**:\n- **Heat Input (BTU)**:\n- **Air Flow (cfm)**:\n- **Cooling Capacity (tons)**:## Installation Details\n- **Installed by**:\n- **Name**:\n- **Company**:\n- **Date**:- **Warranty mailed**:\n- Yes ❑\n- No ❑\n- Not Available ❑## Service Information\n- **Serviced by**:\n- **Name**:\n- **Company**:\n- **Telephone #**:- **Parts available from**:\n- **Name**:\n- **Company**:\n- **Telephone #**:## Maintenance Information\n- **Frequency of Preventative Maintenance Checks**:\n- **Additional Comments/Problems**:----*(Complete Page 2 Also)*----> Helping people live better\n> This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 1161,
+      "token_estimate": 290,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint4-o1002-t1equipmentrecordlog_b71143a4a4b7_chunk_001_ae2d0a23",
+      "doc_id": "maint4-o1002-t1equipmentrecordlog_b71143a4a4b7",
+      "chunk_index": 1,
+      "text": "will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 2# REPAIR HISTORY| DATE       | COST       | BRIEF DESCRIPTION |\n|------------|------------|-------------------|\n|            |            |                   |----> This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 2 of 2",
+      "char_count": 773,
+      "token_estimate": 193,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 2
+}

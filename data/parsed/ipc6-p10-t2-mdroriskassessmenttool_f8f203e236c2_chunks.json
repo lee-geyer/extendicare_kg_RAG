@@ -1,0 +1,150 @@
+{
+  "doc_id": "ipc6-p10-t2-mdroriskassessmenttool_f8f203e236c2",
+  "total_chunks": 12,
+  "chunks": [
+    {
+      "chunk_id": "ipc6-p10-t2-mdroriskassessmenttool_f8f203e236c2_chunk_000_a67cdf03",
+      "doc_id": "ipc6-p10-t2-mdroriskassessmenttool_f8f203e236c2",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Multi-Drug Resistant Organism (MDRO) Risk Assessment Tool Instructions**Note:** Please see reverse for instructions.| Resident Name: | Date Completed: | Completed by: | TOTAL SCORE: |\n|----------------|------------------|----------------|---------------|\n|                |                  |                |               |### STATUS\n- Resident is positive for:\n- MRSA\n- VRE\n- ESBL\n- C. auris\n- C. DIFF\n- CPE- Resident is a potential roommate:\n- YES\n- NO### Baseline Screen Conducted for:\n*(Conduct ONLY if roommate is actually selected)*\n- MRSA\n- VRE\n- C. auris\n- C.",
+      "char_count": 587,
+      "token_estimate": 146,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p10-t2-mdroriskassessmenttool_f8f203e236c2_chunk_002_141f6848",
+      "doc_id": "ipc6-p10-t2-mdroriskassessmenttool_f8f203e236c2",
+      "chunk_index": 2,
+      "text": "DIFF\n- CPE- Resident is a potential roommate:\n- YES\n- NO### Baseline Screen Conducted for:\n*(Conduct ONLY if roommate is actually selected)*\n- MRSA\n- VRE\n- C. auris\n- C. DIFF\n- CPE### Site Tested:\n| Site Tested | Date | Enter | +ve | -ve |\n|-------------|------|-------|-----|-----|\n|             |      |       |     |     |\n|             |      |       |     |     |\n|             |      |       |     |     |\n|             |      |       |     |     |\n|             |      |       |     |     |### Date identified positive:\n| Site Tested | Date | Enter | +ve | -ve |\n|-------------|------|-------|-----|-----|\n|             |      |       |     |     |\n|             |      |       |     |     |\n|             |      |       |     |     |\n|             |      |       |     |     |\n|             |      |       |     |     |### SCORE\n| Sites | Nares (3) | Groin (2) | Rectal Swab (4) | Sputum/Pneumonia (5) |\n|-------|-----------|-----------|------------------|-----------------------|\n|       |           |           |                  |                       |\n|       |           |           |                  |                       |\n|       |           |           |                  |                       |\n|       |           |           |                  |                       |\n|       |           |           |                  |                       |### Additional Care Issues:\n- Managed bowel (toileting assistance or continence products) (2)\n- Managed bladder (toileting assistance or continence products) (2)\n- Managed bowel (colostomy/ileostomy) (3)\n- Managed bladder (with catheter) (3)\n- Incontinent of bowel (not contained by incontinence products) (4)\n- Incontinent of bladder (not contained by incontinence products) (4)\n- Diarrhea (not contained) (5)\n- Cough (only if positive site is sputum/pneumonia) (5)\n- Wound dressing (5)### Cognitive Status:\n- Alert/oriented (1)\n- Confused/Easily Directed (2)\n- Confused/Resistive (4)\n- Unpredictable (5)### Mobility:\n- Independent – no aids (1)\n- Independent – with aids (circle: cane/walker/wheelchair) (2)\n- Manual Transfer (3)\n- Mechanical Lift (4)### Personal:\n- Independent (1)\n- Needs Assist/Cooperative (2)\n- Needs Assist/Not Cooperative (4)\n- Total care (5)----This document is uncontrolled when printed.",
+      "char_count": 2287,
+      "token_estimate": 571,
+      "section_title": "Multi-Drug Resistant Organism (MDRO) Risk Assessment Tool Instructions**Note:** Please see reverse for instructions.| Resident Name: | Date Completed: | Completed by: | TOTAL SCORE: |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p10-t2-mdroriskassessmenttool_f8f203e236c2_chunk_003_704db40f",
+      "doc_id": "ipc6-p10-t2-mdroriskassessmenttool_f8f203e236c2",
+      "chunk_index": 3,
+      "text": "auris\n- C. DIFF\n- CPE### Site Tested:\n| Site Tested | Date | Enter | +ve | -ve |\n|-------------|------|-------|-----|-----|\n|             |      |       |     |     |\n|             |      |       |     |     |\n|             |      |       |     |     |\n|             |      |       |     |     |\n|             |      |       |     |     |### Date identified positive:\n| Site Tested | Date | Enter | +ve | -ve |\n|-------------|------|-------|-----|-----|\n|             |      |       |     |     |\n|             |      |       |     |     |\n|             |      |       |     |     |\n|             |      |       |     |     |\n|             |      |       |     |     |### SCORE\n| Sites | Nares (3) | Groin (2) | Rectal Swab (4) | Sputum/Pneumonia (5) |\n|-------|-----------|-----------|------------------|-----------------------|\n|       |           |           |                  |                       |\n|       |           |           |                  |                       |\n|       |           |           |                  |                       |\n|       |           |           |                  |                       |\n|       |           |           |                  |                       |### Additional Care Issues:\n- Managed bowel (toileting assistance or continence products) (2)\n- Managed bladder (toileting assistance or continence products) (2)\n- Managed bowel (colostomy/ileostomy) (3)\n- Managed bladder (with catheter) (3)\n- Incontinent of bowel (not contained by incontinence products) (4)\n- Incontinent of bladder (not contained by incontinence products) (4)\n- Diarrhea (not contained) (5)\n- Cough (only if positive site is sputum/pneumonia) (5)\n- Wound dressing (5)### Cognitive Status:\n- Alert/oriented (1)\n- Confused/Easily Directed (2)\n- Confused/Resistive (4)\n- Unpredictable (5)### Mobility:\n- Independent – no aids (1)\n- Independent – with aids (circle: cane/walker/wheelchair) (2)\n- Manual Transfer (3)\n- Mechanical Lift (4)### Personal:\n- Independent (1)\n- Needs Assist/Cooperative (2)\n- Needs Assist/Not Cooperative (4)\n- Total care (5)----This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 2154,
+      "token_estimate": 538,
+      "section_title": "Multi-Drug Resistant Organism (MDRO) Risk Assessment Tool Instructions**Note:** Please see reverse for instructions.| Resident Name: | Date Completed: | Completed by: | TOTAL SCORE: |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p10-t2-mdroriskassessmenttool_f8f203e236c2_chunk_004_3638adf1",
+      "doc_id": "ipc6-p10-t2-mdroriskassessmenttool_f8f203e236c2",
+      "chunk_index": 4,
+      "text": "DIFF\n- CPE### Site Tested:\n| Site Tested | Date | Enter | +ve | -ve |\n|-------------|------|-------|-----|-----|\n|             |      |       |     |     |\n|             |      |       |     |     |\n|             |      |       |     |     |\n|             |      |       |     |     |\n|             |      |       |     |     |### Date identified positive:\n| Site Tested | Date | Enter | +ve | -ve |\n|-------------|------|-------|-----|-----|\n|             |      |       |     |     |\n|             |      |       |     |     |\n|             |      |       |     |     |\n|             |      |       |     |     |\n|             |      |       |     |     |### SCORE\n| Sites | Nares (3) | Groin (2) | Rectal Swab (4) | Sputum/Pneumonia (5) |\n|-------|-----------|-----------|------------------|-----------------------|\n|       |           |           |                  |                       |\n|       |           |           |                  |                       |\n|       |           |           |                  |                       |\n|       |           |           |                  |                       |\n|       |           |           |                  |                       |### Additional Care Issues:\n- Managed bowel (toileting assistance or continence products) (2)\n- Managed bladder (toileting assistance or continence products) (2)\n- Managed bowel (colostomy/ileostomy) (3)\n- Managed bladder (with catheter) (3)\n- Incontinent of bowel (not contained by incontinence products) (4)\n- Incontinent of bladder (not contained by incontinence products) (4)\n- Diarrhea (not contained) (5)\n- Cough (only if positive site is sputum/pneumonia) (5)\n- Wound dressing (5)### Cognitive Status:\n- Alert/oriented (1)\n- Confused/Easily Directed (2)\n- Confused/Resistive (4)\n- Unpredictable (5)### Mobility:\n- Independent – no aids (1)\n- Independent – with aids (circle: cane/walker/wheelchair) (2)\n- Manual Transfer (3)\n- Mechanical Lift (4)### Personal:\n- Independent (1)\n- Needs Assist/Cooperative (2)\n- Needs Assist/Not Cooperative (4)\n- Total care (5)----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 2390,
+      "token_estimate": 597,
+      "section_title": "Multi-Drug Resistant Organism (MDRO) Risk Assessment Tool Instructions**Note:** Please see reverse for instructions.| Resident Name: | Date Completed: | Completed by: | TOTAL SCORE: |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p10-t2-mdroriskassessmenttool_f8f203e236c2_chunk_005_e1bfda1a",
+      "doc_id": "ipc6-p10-t2-mdroriskassessmenttool_f8f203e236c2",
+      "chunk_index": 5,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 3**# Multi-Drug Resistant Organism (MDRO) Risk Assessment Tool Instructions## Hygiene:\n| Oxygen/Nebulization Therapy (1) | Enteral Feeding Tube (3) | Urinary Catheter (3) | Trach (4) | IV/Subcutaneous Site (4) | Ventilator (5) | Wound Dressings (5) | Other: |\n|----------------------------------|--------------------------|-----------------------|-----------|--------------------------|----------------|---------------------|--------|\n|                                  |                          |                       |           |                          |                |                     |        |The Multi-Drug Resistant Organisms (MDROs) Risk Assessment Tool was designed to assist accommodating MDRO positive residents in various situations.",
+      "char_count": 1050,
+      "token_estimate": 262,
+      "section_title": "Multi-Drug Resistant Organism (MDRO) Risk Assessment Tool Instructions**Note:** Please see reverse for instructions.| Resident Name: | Date Completed: | Completed by: | TOTAL SCORE: |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p10-t2-mdroriskassessmenttool_f8f203e236c2_chunk_006_cdafe4a7",
+      "doc_id": "ipc6-p10-t2-mdroriskassessmenttool_f8f203e236c2",
+      "chunk_index": 6,
+      "text": "will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 3**# Multi-Drug Resistant Organism (MDRO) Risk Assessment Tool Instructions## Hygiene:\n| Oxygen/Nebulization Therapy (1) | Enteral Feeding Tube (3) | Urinary Catheter (3) | Trach (4) | IV/Subcutaneous Site (4) | Ventilator (5) | Wound Dressings (5) | Other: |\n|----------------------------------|--------------------------|-----------------------|-----------|--------------------------|----------------|---------------------|--------|\n|                                  |                          |                       |           |                          |                |                     |        |The Multi-Drug Resistant Organisms (MDROs) Risk Assessment Tool was designed to assist accommodating MDRO positive residents in various situations. The tool will help to determine which MDRO positive residents should be in private rooms (when possible) and also how to accommodate MDRO positive residents when private rooms are not available.### For MDRO Positive Residents:",
+      "char_count": 1251,
+      "token_estimate": 312,
+      "section_title": "Multi-Drug Resistant Organism (MDRO) Risk Assessment Tool Instructions**Note:** Please see reverse for instructions.| Resident Name: | Date Completed: | Completed by: | TOTAL SCORE: |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p10-t2-mdroriskassessmenttool_f8f203e236c2_chunk_007_98d5ffd5",
+      "doc_id": "ipc6-p10-t2-mdroriskassessmenttool_f8f203e236c2",
+      "chunk_index": 7,
+      "text": "1. Complete this form for each MDRO positive resident in the home.\n\n2. Add up the identified risks and fill in the SCORE at the top of the form.",
+      "char_count": 144,
+      "token_estimate": 36,
+      "section_title": "Complete this form for each MDRO positive resident in the home.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p10-t2-mdroriskassessmenttool_f8f203e236c2_chunk_009_57a79e64",
+      "doc_id": "ipc6-p10-t2-mdroriskassessmenttool_f8f203e236c2",
+      "chunk_index": 9,
+      "text": "3. Individual scores can be compared to determine who is at highest risk of transmission.\n\n4. ARO positive residents with the higher scores should be considered first for private room accommodations and considered last for cohorting situations.### For Non-MDRO Potential Roommates:",
+      "char_count": 281,
+      "token_estimate": 70,
+      "section_title": "Individual scores can be compared to determine who is at highest risk of transmission.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p10-t2-mdroriskassessmenttool_f8f203e236c2_chunk_011_4cf8e9e5",
+      "doc_id": "ipc6-p10-t2-mdroriskassessmenttool_f8f203e236c2",
+      "chunk_index": 11,
+      "text": "1. Complete this form only for each roommate that is being considered to cohort with an MDRO positive resident.\n\n2. Add up the identified risks and fill in the SCORE at the top of the form.",
+      "char_count": 189,
+      "token_estimate": 47,
+      "section_title": "Complete this form only for each roommate that is being considered to cohort with an MDRO positive resident.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p10-t2-mdroriskassessmenttool_f8f203e236c2_chunk_013_93199dc4",
+      "doc_id": "ipc6-p10-t2-mdroriskassessmenttool_f8f203e236c2",
+      "chunk_index": 13,
+      "text": "3. Potential roommate scores can be compared to determine who is at least risk of acquiring an MDRO.\n\n4. The resident with the lowest score should be the first choice for cohorting with the MDRO positive resident.----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025",
+      "char_count": 538,
+      "token_estimate": 134,
+      "section_title": "Potential roommate scores can be compared to determine who is at least risk of acquiring an MDRO.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p10-t2-mdroriskassessmenttool_f8f203e236c2_chunk_015_353c02af",
+      "doc_id": "ipc6-p10-t2-mdroriskassessmenttool_f8f203e236c2",
+      "chunk_index": 15,
+      "text": "# Multi-Drug Resistant Organism (MDRO) Risk Assessment Tool Instructions> This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----## Document Metadata| **Policy Number** | **Effective Date** | **Review Date** |\n|-------------------|--------------------|------------------|\n| [Insert Policy Number] | [Insert Effective Date] | [Insert Review Date] |----## Instructions1. **Purpose**\nThe MDRO Risk Assessment Tool is designed to assist healthcare providers in identifying patients at risk for multi-drug resistant organisms.2. **Scope**\nThis tool applies to all healthcare settings within Extendicare (Canada) Inc.3. **Procedure**\n- **Step 1:** Gather patient information. - **Step 2:** Complete the risk assessment tool. - **Step 3:** Review the results with the healthcare team.4. **Documentation**\nEnsure that all assessments are documented in the patient's medical record.5.",
+      "char_count": 1150,
+      "token_estimate": 287,
+      "section_title": "Multi-Drug Resistant Organism (MDRO) Risk Assessment Tool Instructions> This document is uncontrolled when printed.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p10-t2-mdroriskassessmenttool_f8f203e236c2_chunk_016_4ceaeea9",
+      "doc_id": "ipc6-p10-t2-mdroriskassessmenttool_f8f203e236c2",
+      "chunk_index": 16,
+      "text": "- **Step 3:** Review the results with the healthcare team.4. **Documentation**\nEnsure that all assessments are documented in the patient's medical record.5. **Review and Update**\nThis tool should be reviewed annually or as needed based on changes in guidelines or practices.----## References- [Insert relevant section references or cross-references here]----> **Note:** This document is subject to change. Always refer to the latest version for the most current information.",
+      "char_count": 474,
+      "token_estimate": 118,
+      "section_title": "Multi-Drug Resistant Organism (MDRO) Risk Assessment Tool Instructions> This document is uncontrolled when printed.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

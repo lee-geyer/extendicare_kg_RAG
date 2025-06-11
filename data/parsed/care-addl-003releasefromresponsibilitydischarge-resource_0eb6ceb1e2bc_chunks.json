@@ -1,0 +1,30 @@
+{
+  "doc_id": "care-addl-003releasefromresponsibilitydischarge-resource_0eb6ceb1e2bc",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "care-addl-003releasefromresponsibilitydischarge-resource_0eb6ceb1e2bc_chunk_000_cfeeaa1b",
+      "doc_id": "care-addl-003releasefromresponsibilitydischarge-resource_0eb6ceb1e2bc",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Release from Responsibility for DischargeThis is to certify that I, **Enter resident name**, understand the consequences and acknowledge that I am leaving **Enter home name** against the advice of the attending physician and home administrator. I acknowledge that I have been informed of the risks and consequences of leaving the home, the benefits of continued stay, and the alternatives (if any) to continued stay. I hereby release the attending physician, any other physician involved in my care, the home and its agents or employees from all responsibility for any ill effects which may result from this action.----| **Name of Resident** | **Signature** | **Date** |\n|----------------------|---------------|----------|\n| Enter resident name   |               | Enter date |\n|                      |               |          |\n| **Witness Name**     | **Signature** | **Date** |\n| Enter witness name    |               | Enter date |**Note:** Authorization must be signed by the resident, or by the SDM in the event the resident is not competent/capable.----### Helping People",
+      "char_count": 1097,
+      "token_estimate": 274,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care-addl-003releasefromresponsibilitydischarge-resource_0eb6ceb1e2bc_chunk_002_4349f5b2",
+      "doc_id": "care-addl-003releasefromresponsibilitydischarge-resource_0eb6ceb1e2bc",
+      "chunk_index": 2,
+      "text": "#### Iva BetterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**----**Page 1 of 1**",
+      "char_count": 359,
+      "token_estimate": 89,
+      "section_title": "Iva BetterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**----**Page 1 of 1**",
+      "chunk_type": "content",
+      "start_line": 7,
+      "end_line": 7
+    }
+  ]
+}

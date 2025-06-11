@@ -1,0 +1,29 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint5-o1006electricalinspection_dd9cbff9758f_chunk_000_a5b063fb",
+      "doc_id": "maint5-o1006electricalinspection_dd9cbff9758f",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE- **MANUAL:** Maintenance\n- **INDEX:** MAINT5-O10.06\n- **SECTION:** Certified Inspections\n- **DESCRIPTION:** Electrical Inspection\n- **APPROVED BY:** VP LTC Operations\n- **EFFECTIVE DATE:**\n- **REVIEWED DATE:**\n- **MODIFIED DATE:**----## POLICY### Certified Inspection Work### PROCEDURE- All work shall be carried out by a licensed electrician. - All Power and Lighting Panels shall be inspected. - Check enclosure for rust marks and other signs of deterioration. - Test all breakers for open-close operation. - Check completeness of legend and bring up to date. - Check the operating temperature of each breaker. - Remove the cover of the panel and check terminals for loose connections and signs of overheating (an infra-red camera should be used as well as a visual inspection). - Tighten all loose connections. - Clean the inside enclosure of panels. - Check loads and ensure that no feeders are overloaded. - Check balancing of loads on each feeder. - Check the record voltage on each phase. - Check all panels and ensure that, for each 3-phase circuit, all 3 fuses are of the same rating. - Complete the Electrical Inspection Form for this specification.### TOOLS1.",
+      "char_count": 1196,
+      "token_estimate": 299,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint5-o1006electricalinspection_dd9cbff9758f_chunk_001_d8891238",
+      "doc_id": "maint5-o1006electricalinspection_dd9cbff9758f",
+      "chunk_index": 1,
+      "text": "- Check all panels and ensure that, for each 3-phase circuit, all 3 fuses are of the same rating. - Complete the Electrical Inspection Form for this specification.### TOOLS1. Electrical Inspection Form----> Helping people live betterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025  Page 1 of 1",
+      "char_count": 567,
+      "token_estimate": 141,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 2
+}

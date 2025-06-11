@@ -1,0 +1,90 @@
+{
+  "doc_id": "rc-16-01-15-self-administrationofmedication_a9ec8925e795",
+  "total_chunks": 7,
+  "chunks": [
+    {
+      "chunk_id": "rc-16-01-15-self-administrationofmedication_a9ec8925e795_chunk_000_a047be10",
+      "doc_id": "rc-16-01-15-self-administrationofmedication_a9ec8925e795",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Self-Administration of Medication\n**Policy Number:** RC-16-01-15\n**Last Reviewed:** June 2025### Appendices:\n- **Appendix 1:** Medication - Self Administration Assessment\n- **Appendix 2:** Self-Administration of Medication Agreement### Required Documents:\n- **Progress Notes:** Use to document the assessment and decision-making process that was undertaken to determine if the resident is able to self-administer medications. Any observations regarding a resident's ability or lack of ability should be documented as well.\n- **MAR/TAR/eMAR/eTAR:** Should contain the appropriate code for all medications self-administered.\n- **Medication Incident Report, RC-16-01-09 A1:** Use to document any missing medication or other incident that involves medication.\n- **Care Plan:** The care plan must clearly indicate if a resident is self-administering medication.### Related and Supplemental Policies:\n- **RC-16-01-09:** Medication Incident and Reporting, Resident Care Manual## Policy\nResidents requesting to self-administer medications will be supported in the management of their medication regime.## Procedures",
+      "char_count": 1125,
+      "token_estimate": 281,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "rc-16-01-15-self-administrationofmedication_a9ec8925e795_chunk_002_cfa8e2a4",
+      "doc_id": "rc-16-01-15-self-administrationofmedication_a9ec8925e795",
+      "chunk_index": 2,
+      "text": "### Interdisciplinary Team\n\n1. The Physician/NP will assess functional and cognitive capabilities to determine if the resident is capable of self-medication administration. The nurse must complete the Medication - Self-Administration Assessment. This should be done initially to determine competency, including evaluation of the resident's cognitive and physical abilities, and understanding of associated protocols. See Appendix 1.",
+      "char_count": 432,
+      "token_estimate": 108,
+      "section_title": "Interdisciplinary Team",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "rc-16-01-15-self-administrationofmedication_a9ec8925e795_chunk_004_a37aec61",
+      "doc_id": "rc-16-01-15-self-administrationofmedication_a9ec8925e795",
+      "chunk_index": 4,
+      "text": "2. A Physician/Nurse Practitioner (NP) order will be obtained for self-administration of medication.\n\n3. Initiate self-administration of medication with a supervised self-medication process. The resident will receive oral and written medication instruction from the Nurse and/or Pharmacist on the following:\n- a. Medication\n- b. Purpose\n- c. Dosage\n- d. PRN medication dosing\n- e. Potential side effects\n- f. Delivery schedule\n- g. Storage\n- h. Process for a medication incident.----**Extendicare 2025**\n**Page 1 of 3**# Extendicare",
+      "char_count": 532,
+      "token_estimate": 133,
+      "section_title": "A Physician/Nurse Practitioner (NP) order will be obtained for self-administration of medication.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "rc-16-01-15-self-administrationofmedication_a9ec8925e795_chunk_006_1e71789d",
+      "doc_id": "rc-16-01-15-self-administrationofmedication_a9ec8925e795",
+      "chunk_index": 6,
+      "text": "## Self-Administration of Medication Procedures1. During the supervised self-administration of medication phase, the nurse will document medication taken and the amount of assistance required in the Medication Administration Record (MAR) or Electronic Administration Record (eMAR), Treatment Administration Record (TAR) or Electronic Treatment Administration Record (eTAR).2. Prior to commencing independent self-administration of medication, ensure the resident:\n- a. Demonstrates knowledge of all medications;\n- b. Has a Physician/NP order for all medications;\n- c. Completes a self-administration of medication agreement. See Self-Administration of Medication Agreement, Appendix 2. - d. Is aware that follow-up (e.g. spot checks) will occur; and\n- e. Has a key for locked drawer/cabinet and an understanding of the importance of keeping the drawer locked.3. A weekly supply of labeled medication will be provided and documented on the MAR/eMAR/TAR/eTAR. The nurse will check expiry dates of medication such as creams/ointments and eye drops.4. The nurse will document on the MAR/eMAR/TAR/eTAR daily that the Resident is on an independent self-administration of medication program.5.",
+      "char_count": 1186,
+      "token_estimate": 296,
+      "section_title": "Self-Administration of Medication Procedures1. During the supervised self-administration of medication phase, the nurse will document medication taken and the amount of assistance required in the Medication Administration Record (MAR) or Electronic Administration Record (eMAR), Treatment Administration Record (TAR) or Electronic Treatment Administration Record (eTAR).2. Prior to commencing independent self-administration of medication, ensure the resident:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "rc-16-01-15-self-administrationofmedication_a9ec8925e795_chunk_007_576a9919",
+      "doc_id": "rc-16-01-15-self-administrationofmedication_a9ec8925e795",
+      "chunk_index": 7,
+      "text": "The nurse will check expiry dates of medication such as creams/ointments and eye drops.4. The nurse will document on the MAR/eMAR/TAR/eTAR daily that the Resident is on an independent self-administration of medication program.5. Store all medications in a locked bedside drawer/cabinet to which the resident and nurse will have the key.6. Ensure the resident's plan of care reflects independent self-administration.7. Assess the resident's ability to continue with independent self-administration of medication quarterly or with a significant change in condition.8. The nurse will monitor medication utilization and investigate discrepancies.9. Review immediately concerns related to the resident's ability to safely and independently self-administer medication to assess the safety of continuing independent self-administration of medication.10. Investigate immediately any reported or identified discrepancies. A Medication Incident Report will be completed and the Physician/NP will be notified as soon as possible. Self-administration of the medications will be discontinued pending the findings of the investigation.11.",
+      "char_count": 1124,
+      "token_estimate": 281,
+      "section_title": "Self-Administration of Medication Procedures1. During the supervised self-administration of medication phase, the nurse will document medication taken and the amount of assistance required in the Medication Administration Record (MAR) or Electronic Administration Record (eMAR), Treatment Administration Record (TAR) or Electronic Treatment Administration Record (eTAR).2. Prior to commencing independent self-administration of medication, ensure the resident:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "rc-16-01-15-self-administrationofmedication_a9ec8925e795_chunk_008_36abb3ca",
+      "doc_id": "rc-16-01-15-self-administrationofmedication_a9ec8925e795",
+      "chunk_index": 8,
+      "text": "A Medication Incident Report will be completed and the Physician/NP will be notified as soon as possible. Self-administration of the medications will be discontinued pending the findings of the investigation.11. Evaluate and audit the Self-Administration of Medication policy to ensure compliance and identify opportunities for quality improvement.----**Effective Date:** June 2025\n**Policy Number:** RC-16-01-15\n**Page:** 2 of 3# Self-Administration of Medication## Overview\nSelf-administration of medication includes two phases:\n- **Supervised self-administration**\n- **Independent self-administration**## References\n- Institute for Safe Medication Practices: ISMP\n- College of Nurses of Ontario.",
+      "char_count": 698,
+      "token_estimate": 174,
+      "section_title": "Self-Administration of Medication Procedures1. During the supervised self-administration of medication phase, the nurse will document medication taken and the amount of assistance required in the Medication Administration Record (MAR) or Electronic Administration Record (eMAR), Treatment Administration Record (TAR) or Electronic Treatment Administration Record (eTAR).2. Prior to commencing independent self-administration of medication, ensure the resident:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "rc-16-01-15-self-administrationofmedication_a9ec8925e795_chunk_009_4c1bc910",
+      "doc_id": "rc-16-01-15-self-administrationofmedication_a9ec8925e795",
+      "chunk_index": 9,
+      "text": "Self-administration of the medications will be discontinued pending the findings of the investigation.11. Evaluate and audit the Self-Administration of Medication policy to ensure compliance and identify opportunities for quality improvement.----**Effective Date:** June 2025\n**Policy Number:** RC-16-01-15\n**Page:** 2 of 3# Self-Administration of Medication## Overview\nSelf-administration of medication includes two phases:\n- **Supervised self-administration**\n- **Independent self-administration**## References\n- Institute for Safe Medication Practices: ISMP\n- College of Nurses of Ontario. Practice standard: Medication (2019): CNO\n- College and Association of Nurses of Alberta Medication Standards (2021): CANA\n- College of Registered Nurses of Manitoba, Practice Expectations for Registered Nurses (2018): CRNM\n- Alberta Pharmacy and Drug Act (2000): Alberta Act\n- Government of Manitoba Pharmaceutical Act (2006): Manitoba Act\n- Ontario Pharmacy Act (1991): Ontario Act## Notes\n- Extendicare Intranet is the official source of current approved policies, procedures, best practices, and directives.----**Effective Date:** June 2025\n**Policy Number:** RC-16-01-15\n**Page:** 3 of 3",
+      "char_count": 1185,
+      "token_estimate": 296,
+      "section_title": "Self-Administration of Medication Procedures1. During the supervised self-administration of medication phase, the nurse will document medication taken and the amount of assistance required in the Medication Administration Record (MAR) or Electronic Administration Record (eMAR), Treatment Administration Record (TAR) or Electronic Treatment Administration Record (eTAR).2. Prior to commencing independent self-administration of medication, ensure the resident:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

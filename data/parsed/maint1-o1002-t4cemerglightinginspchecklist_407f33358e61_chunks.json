@@ -1,0 +1,53 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t4cemerglightinginspchecklist_407f33358e61_chunk_000_3d46f287",
+      "doc_id": "maint1-o1002-t4cemerglightinginspchecklist_407f33358e61",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## MAINTENANCE INSPECTION CHECKLIST",
+      "char_count": 50,
+      "token_estimate": 12,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t4cemerglightinginspchecklist_407f33358e61_chunk_002_8aa351e4",
+      "doc_id": "maint1-o1002-t4cemerglightinginspchecklist_407f33358e61",
+      "chunk_index": 2,
+      "text": "### Equipment: Emergency Lighting| Name: | Year: | Unit No.: |\n|-------|-------|------------|\n| Manufacturer: | All | Model: DC Power Supply |### LEGEND/KEY\n| LEGEND | KEY |\n|--------|-----|\n| W      | Weekly |\n| M      | Monthly |\n| Q      | Quarterly |\n| S      | Semi-Annual |\n| A      | Annual |### CHECKS| W | M | Q | S | A | Item |\n|---|---|---|---|---|------|\n| X |   |   |   | 1 | Test emergency lighting operation and record time lit (minutes) on back of this page. Operate lighting a minimum of 1 hour on battery power. |\n| X |   |   |   | 2 | Check battery water level if applicable. Add distilled water as necessary. |\n| X |   |   |   | 3 | Check terminals for corrosion. Clean as required. |\n| X |   |   |   | 4 | Record voltage reading on back of this page. |\n| X |   |   |   | 5 | Check on/ready indicator is functioning properly. |\n| X |   |   |   | 6 | Check charge indicator is functioning properly. |\n| X |   |   |   | 7 | Check lamp head(s) are functioning properly. |\n|   |   |   | X | 8 | (Central Systems only) Refer to “Stand-by Generator Inspection SPECIFICATIONS” for annual requirements.",
+      "char_count": 1114,
+      "token_estimate": 278,
+      "section_title": "Equipment: Emergency Lighting| Name: | Year: | Unit No.: |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t4cemerglightinginspchecklist_407f33358e61_chunk_003_0bc5efa9",
+      "doc_id": "maint1-o1002-t4cemerglightinginspchecklist_407f33358e61",
+      "chunk_index": 3,
+      "text": "|\n| X |   |   |   | 7 | Check lamp head(s) are functioning properly. |\n|   |   |   | X | 8 | (Central Systems only) Refer to “Stand-by Generator Inspection SPECIFICATIONS” for annual requirements. * |**NOTE:**\n*The services of qualified personnel may be required.### Monthly Schedule\n| Month | M | Q | S | A |\n|-------|---|---|---|---|\n| JAN   | W | W | W | W |\n| FEB   | W | W | W | W |\n| MAR   | W | W | W | W |\n| APR   | W | W | W | W |\n| MAY   | W | W | W | W |\n| JUN   | W | W | W | W |\n| JUL   | M | Q | S | A |\n| AUG   | M | Q | S | A |\n| SEP   | M | Q | S | A |\n| OCT   | M | Q | S | A |\n| NOV   | M | Q | S | A |\n| DEC   | M | Q | S | A |----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025  Page 1 of 2# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed.",
+      "char_count": 1186,
+      "token_estimate": 296,
+      "section_title": "Equipment: Emergency Lighting| Name: | Year: | Unit No.: |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t4cemerglightinginspchecklist_407f33358e61_chunk_004_368c3a00",
+      "doc_id": "maint1-o1002-t4cemerglightinginspchecklist_407f33358e61",
+      "chunk_index": 4,
+      "text": "will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025  Page 1 of 2# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 2 of 2**",
+      "char_count": 763,
+      "token_estimate": 190,
+      "section_title": "Equipment: Emergency Lighting| Name: | Year: | Unit No.: |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 4
+}

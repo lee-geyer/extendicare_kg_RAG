@@ -1,0 +1,41 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint3-o1001-t2doorlog_7e5079b779fe_chunk_000_497e1b18",
+      "doc_id": "maint3-o1001-t2doorlog_7e5079b779fe",
+      "chunk_index": 0,
+      "text": "# Extendicare DOOR LOG**Audit to be completed only on days when Maintenance Staff are on duty. This is supplemental to the door check found on the daily log. Only one of the two needs to be completed, not both.**## Checklist\n- Exit Light Working\n- Door Lock Operates Properly\n- Door Opens Freely\n- Mag-Lock Secure\n- Pathway Clear## Weekly Log| DAY       | MONDAY | TUESDAY | WEDNESDAY | THURSDAY | FRIDAY | SATURDAY | SUNDAY |\n|-----------|--------|---------|-----------|----------|--------|----------|--------|\n| DOOR:    |        |         |           |          |        |          |        |\n| TIME:    |        |         |           |          |        |          |        |\n| NOTES:   |        |         |           |          |        |          |        |----**This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.****Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 1087,
+      "token_estimate": 271,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint3-o1001-t2doorlog_7e5079b779fe_chunk_001_cba9a82c",
+      "doc_id": "maint3-o1001-t2doorlog_7e5079b779fe",
+      "chunk_index": 1,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.****Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 2**# DOOR LOG## RECORD PERIOD:\n**From:**\n**To:**### Exit Light Working, Door Lock Operates Properly, Door Opens Freely, Mag-Lock Secure, Pathway Clear| DAY       | MONDAY | TUESDAY | WEDNESDAY | THURSDAY | FRIDAY | SATURDAY | SUNDAY |\n|-----------|--------|---------|-----------|----------|--------|----------|--------|\n| DOOR:    |        |         |           |          |        |          |        |\n| <- Time   |        |         |           |          |        |          |        |\n| NOTES     |        |         |           |          |        |          |        |----> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 1192,
+      "token_estimate": 298,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint3-o1001-t2doorlog_7e5079b779fe_chunk_002_8e0e175e",
+      "doc_id": "maint3-o1001-t2doorlog_7e5079b779fe",
+      "chunk_index": 2,
+      "text": "will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 2 of 2",
+      "char_count": 268,
+      "token_estimate": 67,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 3
+}

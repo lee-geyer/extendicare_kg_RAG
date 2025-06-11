@@ -1,0 +1,42 @@
+{
+  "doc_id": "ipc2-p10-e32-barbicidefactsheet_bbb0612b5b3f",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "ipc2-p10-e32-barbicidefactsheet_bbb0612b5b3f_chunk_000_058e3adb",
+      "doc_id": "ipc2-p10-e32-barbicidefactsheet_bbb0612b5b3f",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Barbicide Fact SheetBarbicide is a clear blue solution often used to disinfect hairdressing and barbering equipment such as combs, brushes, and scissors. Health Canada categorizes a quaternary ammonium product as a low-level disinfectant.### Proper uses of Barbicide:1. **Clean tools before using Barbicide:**\n- A dirty tool cannot be properly disinfected. Placing a soiled item (e.g., comb with hair strands) in a container filled with Barbicide will not disinfect the item; it will only contaminate the solution, and all other items placed in it. - All tools must be thoroughly cleaned with soap/detergent, scrubbed with a brush, then rinsed with potable water before placing them in the Barbicide solution.2. **Put Barbicide by the sink:**\n- Put the Barbicide container next to the sink rather than the workstation. This will make it easier to wash items first before disinfecting with Barbicide.3. **Follow instructions:**\n- Always follow the manufacturer’s instructions about:\n- Proper dilution. - How often it needs to be changed. - The amount of time the disinfectant must remain wet on the surface of the instrument.4.",
+      "char_count": 1144,
+      "token_estimate": 286,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-e32-barbicidefactsheet_bbb0612b5b3f_chunk_002_83522ee1",
+      "doc_id": "ipc2-p10-e32-barbicidefactsheet_bbb0612b5b3f",
+      "chunk_index": 2,
+      "text": "- How often it needs to be changed. - The amount of time the disinfectant must remain wet on the surface of the instrument.4. **Check expiry date:**\n- Check the expiry date of the Barbicide to ensure the product has not expired.----**Helping people live better**This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 2**# Barbicide Fact Sheet## I want to disinfect...### Can I use Barbicide?- **Non-critical tools** (Tools that come in contact with intact skin. Some non-critical tools require an intermediate level of disinfection after cleaning). - Can include:\n- Combs and brushes\n- Hair rollers\n- Instruments for razoring/feathering hair\n- **Clippers and Scissors**:\n- Yes - Only if they have NOT nicked the skin. - If skin is nicked, the item must be treated as a semi-critical tool.----> This document is uncontrolled when printed. > Extendicare (Canada) Inc.",
+      "char_count": 1148,
+      "token_estimate": 287,
+      "section_title": "Barbicide Fact SheetBarbicide is a clear blue solution often used to disinfect hairdressing and barbering equipment such as combs, brushes, and scissors. Health Canada categorizes a quaternary ammonium product as a low-level disinfectant.### Proper uses of Barbicide:1. **Clean tools before using Barbicide:**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-e32-barbicidefactsheet_bbb0612b5b3f_chunk_003_3df8bc3f",
+      "doc_id": "ipc2-p10-e32-barbicidefactsheet_bbb0612b5b3f",
+      "chunk_index": 3,
+      "text": "- If skin is nicked, the item must be treated as a semi-critical tool.----> This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 2 of 2",
+      "char_count": 416,
+      "token_estimate": 104,
+      "section_title": "Barbicide Fact SheetBarbicide is a clear blue solution often used to disinfect hairdressing and barbering equipment such as combs, brushes, and scissors. Health Canada categorizes a quaternary ammonium product as a low-level disinfectant.### Proper uses of Barbicide:1. **Clean tools before using Barbicide:**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

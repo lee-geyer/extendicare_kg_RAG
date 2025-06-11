@@ -1,0 +1,30 @@
+{
+  "doc_id": "evs2-p1015odours_299345f3f0fb",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "evs2-p1015odours_299345f3f0fb_chunk_000_6ec774eb",
+      "doc_id": "evs2-p1015odours_299345f3f0fb",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Environmental Services\n**INDEX:** EVS2-P10.15\n**SECTION:** Cleaning and Organization - Housekeeping\n**EFFECTIVE DATE:** March 18, 2025\n**REVIEWED DATE:** March 7, 2025\n**APPROVED BY:** Senior Director, Operational Quality and Professional Practice\n**MODIFIED DATE:** May 14, 2025----## POLICY### Cleaning and Organization## PROCEDURE### Manager/Designate:- Investigate the source of the odour. It is recommended that the **Tool – Odour Control Investigation** be used as a guide to identify or make appropriate referrals, e.g., to the Nursing Department. - If unable to identify the source of the odour, review the area experiencing odour issues at various times of the day to establish if the odour is ongoing. - Housekeeping staff will immediately report any lingering odour to the manager or designate.## TOOLS1. Odour Control Investigation Tool----**Helping people live better**\nThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.",
+      "char_count": 1165,
+      "token_estimate": 291,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1015odours_299345f3f0fb_chunk_001_e7579b8c",
+      "doc_id": "evs2-p1015odours_299345f3f0fb",
+      "chunk_index": 1,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n**Page 1 of 1**",
+      "char_count": 294,
+      "token_estimate": 73,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

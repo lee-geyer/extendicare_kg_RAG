@@ -1,0 +1,41 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t8fvacuumcleanerwalkbehindinsp_9327667a2f2c_chunk_000_f157da81",
+      "doc_id": "maint1-o1002-t8fvacuumcleanerwalkbehindinsp_9327667a2f2c",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## MAINTENANCE INSPECTION CHECKLIST### Equipment\n**Vacuum Cleaner (Walk Behind)**#### LEGEND/KEY\n| LEGEND | KEY       |\n|--------|-----------|\n| W      | Weekly    |\n| M      | Monthly   |\n| Q      | Quarterly |\n| S      | Semi-Annual |\n| A      | Annual    |\n| O      | Ok       |\n| R      | Repair    |\n| N      | Replace   |### CHECKS\n| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   |   |   | 1. Inspect machine and all accessories for any damage. After inspection perform any required repairs. |\n| X |   |   |   |   | 2. Check that the motor filter is clean. |\n| X |   |   |   |   | 3. Check the condition of plug and cord. |\n|   | X |   |   |   | 4. Check condition of vacuum motor brushes. |\n|   | X |   |   |   | 5. Review Maintenance Contract.",
+      "char_count": 916,
+      "token_estimate": 229,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t8fvacuumcleanerwalkbehindinsp_9327667a2f2c_chunk_002_e2d1daff",
+      "doc_id": "maint1-o1002-t8fvacuumcleanerwalkbehindinsp_9327667a2f2c",
+      "chunk_index": 2,
+      "text": "|\n|   | X |   |   |   | 5. Review Maintenance Contract. |### MONTHLY CHECKLIST\n|       | JAN |     | FEB |     | MAR |     | APR |     | MAY |     | JUN |     |\n|-------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|\n| M     | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | |\n| W     | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | ||       | JUL |     | AUG |     | SEP |     | OCT |     | NOV |     | DEC |     |\n|-------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|\n| M     | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | |\n| W     | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | |----**Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 1047,
+      "token_estimate": 261,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t8fvacuumcleanerwalkbehindinsp_9327667a2f2c_chunk_003_4358013a",
+      "doc_id": "maint1-o1002-t8fvacuumcleanerwalkbehindinsp_9327667a2f2c",
+      "chunk_index": 3,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 2 of 2",
+      "char_count": 788,
+      "token_estimate": 197,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 3
+}

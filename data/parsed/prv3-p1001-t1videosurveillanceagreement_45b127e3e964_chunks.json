@@ -1,0 +1,90 @@
+{
+  "doc_id": "prv3-p1001-t1videosurveillanceagreement_45b127e3e964",
+  "total_chunks": 7,
+  "chunks": [
+    {
+      "chunk_id": "prv3-p1001-t1videosurveillanceagreement_45b127e3e964_chunk_000_c9d35bc9",
+      "doc_id": "prv3-p1001-t1videosurveillanceagreement_45b127e3e964",
+      "chunk_index": 0,
+      "text": "# Extendicare Video Surveillance Agreement## AN AGREEMENT to install a video surveillance device in a resident room### BETWEEN:\n__________________________________________\n\nExtendicare Facility\n(“Facility”)\n-and-\n_________________________________________________________________________\nName of Resident or Substitute Decision Maker\n(the “Resident”)### WHEREAS\nThe parties had a meeting on _______________________ (the “Meeting”) to discuss the utilization of video surveillance devices within the Resident’s room (the “Room”);\nAND WHEREAS the parties wish to ensure the safety and well-being of the Resident and the Resident’s Room and property;\nAND WHEREAS the parties wish to protect the privacy rights of other residents, Facility personnel, and visitors (together, “Others”) entering the Room, whose images may be captured by the video surveillance device;### NOW THEREFORE the parties agree to as follows:",
+      "char_count": 910,
+      "token_estimate": 227,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv3-p1001-t1videosurveillanceagreement_45b127e3e964_chunk_002_a8a1c720",
+      "doc_id": "prv3-p1001-t1videosurveillanceagreement_45b127e3e964",
+      "chunk_index": 2,
+      "text": "1. To protect the privacy and confidentiality of Others, the video surveillance device must be placed in a way that does not accidentally capture audio or video outside the Room.\n\n2. To maintain resident dignity, the video surveillance device should be turned off or covered up during personal care.",
+      "char_count": 299,
+      "token_estimate": 74,
+      "section_title": "To protect the privacy and confidentiality of Others, the video surveillance device must be placed in a way that does not accidentally capture audio or video outside the Room.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv3-p1001-t1videosurveillanceagreement_45b127e3e964_chunk_004_166e2b68",
+      "doc_id": "prv3-p1001-t1videosurveillanceagreement_45b127e3e964",
+      "chunk_index": 4,
+      "text": "3. The video surveillance device must be connected to Resident’s personal phone or internet service, not the home’s Wi-Fi.\n\n4. To respect Others’ privacy, a sign will be posted inside Resident’s room to let Others know there is an audio or video device in the room.",
+      "char_count": 265,
+      "token_estimate": 66,
+      "section_title": "The video surveillance device must be connected to Resident’s personal phone or internet service, not the home’s Wi-Fi.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv3-p1001-t1videosurveillanceagreement_45b127e3e964_chunk_006_ce7250da",
+      "doc_id": "prv3-p1001-t1videosurveillanceagreement_45b127e3e964",
+      "chunk_index": 6,
+      "text": "5. Audio recording should be disabled, as audio recording may be considered illegal unless one of the parties involved in the conversation consents to the recording.\n\n6. Family members of the Resident must not use the device to yell at or verbally abuse Others.",
+      "char_count": 261,
+      "token_estimate": 65,
+      "section_title": "Audio recording should be disabled, as audio recording may be considered illegal unless one of the parties involved in the conversation consents to the recording.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv3-p1001-t1videosurveillanceagreement_45b127e3e964_chunk_008_73b40608",
+      "doc_id": "prv3-p1001-t1videosurveillanceagreement_45b127e3e964",
+      "chunk_index": 8,
+      "text": "7. The Resident agrees that, if the Resident has a roommate, the roommate must consent in writing to the video surveillance device being installed in their room.\n\n8. The Resident will notify the Facility as soon as possible upon discovering inappropriate or concerning behaviour captured by the video surveillance device.----This document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025",
+      "char_count": 647,
+      "token_estimate": 161,
+      "section_title": "The Resident agrees that, if the Resident has a roommate, the roommate must consent in writing to the video surveillance device being installed in their room.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv3-p1001-t1videosurveillanceagreement_45b127e3e964_chunk_010_15b714a8",
+      "doc_id": "prv3-p1001-t1videosurveillanceagreement_45b127e3e964",
+      "chunk_index": 10,
+      "text": "# Video Surveillance Agreement1. It is understood that nothing in this Agreement shall serve as consent by the Facility or others captured in any recording made by the video surveillance device to post, publish or otherwise distribute such video recordings.2. The Resident agrees to indemnify and save harmless the Facility, Extendicare (Canada) Inc., and any of its affiliates, staff, directors, officers, or agents from any claims or damages resulting directly or indirectly from the Resident’s breach of this Agreement.----**Agreed to and signed on this** ___day of___ ___20___.**Name of Resident (please print):**\n____________________________________**Name (please print):**\n____________________________________**Title:**\n____________________________________**Signature of Resident or Authorized Decision Maker:**\n____________________________________**Name of Facility Representative (please print):**\n____________________________________**Title:**\n____________________________________**Signature:**\n____________________________________----> This document is uncontrolled when printed. > Extendicare (Canada) Inc.",
+      "char_count": 1117,
+      "token_estimate": 279,
+      "section_title": "Video Surveillance Agreement1. It is understood that nothing in this Agreement shall serve as consent by the Facility or others captured in any recording made by the video surveillance device to post, publish or otherwise distribute such video recordings.2. The Resident agrees to indemnify and save harmless the Facility, Extendicare (Canada) Inc., and any of its affiliates, staff, directors, officers, or agents from any claims or damages resulting directly or indirectly from the Resident’s breach of this Agreement.----**Agreed to and signed on this** ___day of___ ___20___.**Name of Resident (please print):**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv3-p1001-t1videosurveillanceagreement_45b127e3e964_chunk_011_265791ae",
+      "doc_id": "prv3-p1001-t1videosurveillanceagreement_45b127e3e964",
+      "chunk_index": 11,
+      "text": "The Resident agrees to indemnify and save harmless the Facility, Extendicare (Canada) Inc., and any of its affiliates, staff, directors, officers, or agents from any claims or damages resulting directly or indirectly from the Resident’s breach of this Agreement.----**Agreed to and signed on this** ___day of___ ___20___.**Name of Resident (please print):**\n____________________________________**Name (please print):**\n____________________________________**Title:**\n____________________________________**Signature of Resident or Authorized Decision Maker:**\n____________________________________**Name of Facility Representative (please print):**\n____________________________________**Title:**\n____________________________________**Signature:**\n____________________________________----> This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 2 of 2",
+      "char_count": 1124,
+      "token_estimate": 281,
+      "section_title": "Video Surveillance Agreement1. It is understood that nothing in this Agreement shall serve as consent by the Facility or others captured in any recording made by the video surveillance device to post, publish or otherwise distribute such video recordings.2. The Resident agrees to indemnify and save harmless the Facility, Extendicare (Canada) Inc., and any of its affiliates, staff, directors, officers, or agents from any claims or damages resulting directly or indirectly from the Resident’s breach of this Agreement.----**Agreed to and signed on this** ___day of___ ___20___.**Name of Resident (please print):**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

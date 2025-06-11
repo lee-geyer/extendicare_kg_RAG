@@ -1,0 +1,42 @@
+{
+  "doc_id": "ipc6-p10-e4-extendedspectrumbetalactamaseesblfactsheet_9fa7e254489e",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "ipc6-p10-e4-extendedspectrumbetalactamaseesblfactsheet_9fa7e254489e_chunk_000_890908f1",
+      "doc_id": "ipc6-p10-e4-extendedspectrumbetalactamaseesblfactsheet_9fa7e254489e",
+      "chunk_index": 0,
+      "text": "```markdown\n\n# Extended Spectrum Beta Lactamase (ESBL)",
+      "char_count": 54,
+      "token_estimate": 13,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p10-e4-extendedspectrumbetalactamaseesblfactsheet_9fa7e254489e_chunk_002_8be71b20",
+      "doc_id": "ipc6-p10-e4-extendedspectrumbetalactamaseesblfactsheet_9fa7e254489e",
+      "chunk_index": 2,
+      "text": "## Resident Information\nPlease read this fact sheet and ask staff if you have any questions.### WHAT IS ESBL? There are specific bacteria that produce enzymes called Extended Spectrum Beta Lactamase (ESBLs). These enzymes can break down many common antibiotics and make them ineffective in fighting infection caused by bacteria.### HOW IS ESBL SPREAD? ESBL is spread from one person to another by contact with unwashed hands or by touching surfaces that have become contaminated with the germ. The germ is not spread through the air. The germ can live on unwashed hands or objects and then be spread to others.### WHAT DOES THIS MEAN FOR YOU? If one of your test results (cultures) shows that you have ESBL, some special precautions may be taken to stop the germ from spreading to other residents who may be prone to developing infection.### WHAT SPECIAL PRECAUTIONS WILL BE FOLLOWED IN THE HOME? - You may be asked to restrict some of your activity. If you leave your room it is important to wash your hands before leaving your room. - Staff caring for you may wear gloves and a gown when they help you with personal care.",
+      "char_count": 1123,
+      "token_estimate": 280,
+      "section_title": "Resident Information",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p10-e4-extendedspectrumbetalactamaseesblfactsheet_9fa7e254489e_chunk_003_935def9a",
+      "doc_id": "ipc6-p10-e4-extendedspectrumbetalactamaseesblfactsheet_9fa7e254489e",
+      "chunk_index": 3,
+      "text": "If you leave your room it is important to wash your hands before leaving your room. - Staff caring for you may wear gloves and a gown when they help you with personal care. - It is important for all people entering and leaving your room to wash their hands. Do not be shy about reminding everyone to wash their hands. - A special instruction sign may be posted outside your room to remind everyone about the special precautions.**Source:** Public Health Agency of Canada.©Extendicare 2025\n```",
+      "char_count": 492,
+      "token_estimate": 123,
+      "section_title": "Resident Information",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

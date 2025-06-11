@@ -1,0 +1,54 @@
+{
+  "doc_id": "care10-p1001-t4referral-saferesidenthandlinglead_60b84daecbd6",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "care10-p1001-t4referral-saferesidenthandlinglead_60b84daecbd6_chunk_000_0c40ca19",
+      "doc_id": "care10-p1001-t4referral-saferesidenthandlinglead_60b84daecbd6",
+      "chunk_index": 0,
+      "text": "# Referral - Safe Resident Handling Lead| Resident: | Effective Date: | Location: |\n|-----------|----------------|-----------|\n| Initial Admission: | Admission: | Date of Birth: |\n| Score: NA | Category: NA | Physician: |## A. Referral\n\n1. **Reason for referral (SPN)**\n- Change in functional status\n- Fluctuating transfer status\n- Transfer type / Lift type\n- Sling type / sizing\n- Resident preference\n- Other",
+      "char_count": 409,
+      "token_estimate": 102,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care10-p1001-t4referral-saferesidenthandlinglead_60b84daecbd6_chunk_002_6091d6bb",
+      "doc_id": "care10-p1001-t4referral-saferesidenthandlinglead_60b84daecbd6",
+      "chunk_index": 2,
+      "text": "2. **Other reason for referral (S)**\n\n3. **Referral Details:**",
+      "char_count": 62,
+      "token_estimate": 15,
+      "section_title": "**Other reason for referral (S)**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care10-p1001-t4referral-saferesidenthandlinglead_60b84daecbd6_chunk_004_4f4a85b3",
+      "doc_id": "care10-p1001-t4referral-saferesidenthandlinglead_60b84daecbd6",
+      "chunk_index": 4,
+      "text": "4. **Name and designation of Registered staff completing the referral (required)****SAVE the Referral, do not lock**## B. Response to Referral\n\n1. **Name and designation of Safe Resident Handling lead responding to referral**",
+      "char_count": 225,
+      "token_estimate": 56,
+      "section_title": "**Name and designation of Registered staff completing the referral (required)****SAVE the Referral, do not lock**## B. Response to Referral",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care10-p1001-t4referral-saferesidenthandlinglead_60b84daecbd6_chunk_006_ba6789f3",
+      "doc_id": "care10-p1001-t4referral-saferesidenthandlinglead_60b84daecbd6",
+      "chunk_index": 6,
+      "text": "2. **Date and Time of response to referral**\n\n3. **Referral response details** (will populate a SPN for date/time that the referral was opened)----**Signature**: ________________________**Date**: ____________________________----**Page 1 of 1**",
+      "char_count": 243,
+      "token_estimate": 60,
+      "section_title": "**Date and Time of response to referral**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

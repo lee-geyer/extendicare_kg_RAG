@@ -1,0 +1,54 @@
+{
+  "doc_id": "epm-addl-035imsjobactionchecklistsecurity_99fd22b17c87",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "epm-addl-035imsjobactionchecklistsecurity_99fd22b17c87_chunk_000_7dea6930",
+      "doc_id": "epm-addl-035imsjobactionchecklistsecurity_99fd22b17c87",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## IMS Job Action Checklist – Security",
+      "char_count": 53,
+      "token_estimate": 13,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-035imsjobactionchecklistsecurity_99fd22b17c87_chunk_002_acf28324",
+      "doc_id": "epm-addl-035imsjobactionchecklistsecurity_99fd22b17c87",
+      "chunk_index": 2,
+      "text": "### (Logistics function)**Note:** All documentation during the emergency must be given to the Administrator daily and kept on file for a minimum of three years.----## Security – Job Action Sheet**Role:** The Security function will:\n- Organize and establish scene/home security;\n- Report to the Logistics Manager.**Name:****Record the time action was initiated (note on the line below):**----### Responsibilities:\n- Appoint security staff to monitor safety and security. (This can be staff from all departments.)\n- Coordinate with contracted security services, if applicable. - Implement a lockdown of the home, except for staff and emergency personnel, if required. - Remove unauthorized persons from restricted areas. - Ensure fire routes and ambulance loading areas are clear at all times. - Assist the Information Officer with establishing a media area. - Initiate contact with fire/police/EMS agencies through the Liaison Officer. - Provide vehicle and pedestrian traffic control. - Ensure security of food, water, medical/vaccine supplies, fuel, and other resources. - Ensure all safety and security appointed staff document all actions and observations.",
+      "char_count": 1159,
+      "token_estimate": 289,
+      "section_title": "(Logistics function)**Note:** All documentation during the emergency must be given to the Administrator daily and kept on file for a minimum of three years.----## Security – Job Action Sheet**Role:** The Security function will:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-035imsjobactionchecklistsecurity_99fd22b17c87_chunk_003_48f09daa",
+      "doc_id": "epm-addl-035imsjobactionchecklistsecurity_99fd22b17c87",
+      "chunk_index": 3,
+      "text": "- Ensure security of food, water, medical/vaccine supplies, fuel, and other resources. - Ensure all safety and security appointed staff document all actions and observations. - Establish a fire watch/patrol 30 minutes (or as directed by your local fire department) if the fire alarm is out of service. - Complete the fire watch log if the fire protection systems are off-line. - Post signage at the main entrance to all floors that the fire system is out of order (Found in Fire Safety, Section 17). - Ensure regular briefings with safety and security personnel. - Provide regular briefings to the Logistics Manager.----**Helping people**\n**Iva better**This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n```markdown",
+      "char_count": 987,
+      "token_estimate": 246,
+      "section_title": "(Logistics function)**Note:** All documentation during the emergency must be given to the Administrator daily and kept on file for a minimum of three years.----## Security – Job Action Sheet**Role:** The Security function will:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-035imsjobactionchecklistsecurity_99fd22b17c87_chunk_004_e27c6650",
+      "doc_id": "epm-addl-035imsjobactionchecklistsecurity_99fd22b17c87",
+      "chunk_index": 4,
+      "text": "# IMS Job Action Checklist – Security\n\n## (Logistics function)> This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\n> Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 2 of 2\n```",
+      "char_count": 408,
+      "token_estimate": 102,
+      "section_title": "IMS Job Action Checklist – Security",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

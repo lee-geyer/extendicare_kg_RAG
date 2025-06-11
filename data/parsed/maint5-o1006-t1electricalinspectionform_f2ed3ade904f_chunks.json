@@ -1,0 +1,29 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint5-o1006-t1electricalinspectionform_f2ed3ade904f_chunk_000_63684abe",
+      "doc_id": "maint5-o1006-t1electricalinspectionform_f2ed3ade904f",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Electrical Inspection Form**Facility Name:**\n**Date of Inspection:**### INSPECTION COMPANY:\n- **Name:**\n- **Address:**\n- **Inspector:**\n- **Signature:**### Panel Designation\n| Voltage/Phase | Panel Mains | Feeder Rating (Amps) | Main Breaker Rating (at source) | Number of Circuits |\n|---------------|-------------|-----------------------|----------------------------------|--------------------|\n| Phase A      | Volts      | Amps                  |                                  |                    |\n| Phase B      | Volts      | Amps                  |                                  |                    |\n| Phase C      | Volts      | Amps                  |                                  |                    |### Additional Information\n- **Terminations**\n- **Temperature**\n- **Vacuum Clean the Enclosure**\n- **Condition of Enclosure**\n- **Legend Completed**\n- **Visible Signs of Overheating**----**Helping people live better**\nThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.",
+      "char_count": 1206,
+      "token_estimate": 301,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint5-o1006-t1electricalinspectionform_f2ed3ade904f_chunk_002_351434a5",
+      "doc_id": "maint5-o1006-t1electricalinspectionform_f2ed3ade904f",
+      "chunk_index": 2,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. **Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 1**",
+      "char_count": 298,
+      "token_estimate": 74,
+      "section_title": "Electrical Inspection Form**Facility Name:**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 2
+}

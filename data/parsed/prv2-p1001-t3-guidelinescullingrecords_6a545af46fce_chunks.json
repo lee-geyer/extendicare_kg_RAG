@@ -1,0 +1,42 @@
+{
+  "doc_id": "prv2-p1001-t3-guidelinescullingrecords_6a545af46fce",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "prv2-p1001-t3-guidelinescullingrecords_6a545af46fce_chunk_000_028b12df",
+      "doc_id": "prv2-p1001-t3-guidelinescullingrecords_6a545af46fce",
+      "chunk_index": 0,
+      "text": "# Extendicare",
+      "char_count": 13,
+      "token_estimate": 3,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 0
+    },
+    {
+      "chunk_id": "prv2-p1001-t3-guidelinescullingrecords_6a545af46fce_chunk_001_db4be18d",
+      "doc_id": "prv2-p1001-t3-guidelinescullingrecords_6a545af46fce",
+      "chunk_index": 1,
+      "text": "## Guidelines for Culling Health RecordsThe following records should remain on the resident's active chart:| DOCUMENT                                             | TIME FRAME TO KEEP ON ACTIVE CHART          |\n|-----------------------------------------------------|---------------------------------------------|\n| Admission application and Admission Assessments      | Most current copy                           |\n| (paper only), including:                             |                                             |\n|     PURS                        |                                             |\n|     Any Skin Assessment Form    |                                             |\n|     Fall Risk Assessment        |                                             |\n|     Pain Assessment             |                                             |\n| Advance Care Planning                                | Most current copy                           |\n| Annual Physical                                      | Current and one previous year               |\n| Behaviour Mapping                                    | Current                                     |\n| Consents/authorization for purchases                 | One year or as appropriate                  |\n| Current Inventory of Personal Valuables              | Permanently on chart                        |\n| Daily Care Records                                   | 3 months                                    |\n| Falls Monitoring Tools (clinical monitoring record,  | Current and 2 previous falls                |\n| post fall assessment)                                |                                             |\n| IDTC Records                                         | Current and one previous year               |\n| Initial 72 hours post-admission progress notes       | Permanently on chart                        |\n| Initial and/or current Restraint documentation       | 2 previous quarters                         |\n| assessment tool, Quarterly Reassessment              |                                             |\n| Medication Administration Records                    | 6 months                                    |\n| Monthly Clinical Measurements Records (Weight        | 2 years                                     |\n| and V.S.)                                           |                                             |\n| Monthly Restraint/PASD Record                        | 2 months                                    |\n| Pertinent Lab Reports                                | 1 year                                      |\n| Physician Order Forms (including Medication          | 6-12 months (depending on quantity)        |\n| Reconciliation Forms)                               |                                             |\n| Pre-admission Assessment Form                        | Keep on chart                               |\n| Quarterly Assessments (i.e., Pain, etc.)             | Most current copy                           |\n| Quarterly Medication Reviews                         | 6-12 months                                 |\n| Records of Consultation                              | 1-2 years (depending on quantity)          |\n| Resident Progress Notes                              | 6-12 months (depends on quantity)          |\n| Skin and Wound Assessment                            | Initial assessment and current              |\n| Supplemental Records                                 | 6 months                                    |\n| 24-hour base care plan document                      | Keep active care plan in chart              |----*This document is uncontrolled when printed.*Extendicare (Canada) Inc.",
+      "char_count": 3695,
+      "token_estimate": 923,
+      "section_title": "Guidelines for Culling Health RecordsThe following records should remain on the resident's active chart:| DOCUMENT                                             | TIME FRAME TO KEEP ON ACTIVE CHART          |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv2-p1001-t3-guidelinescullingrecords_6a545af46fce_chunk_002_1182dcda",
+      "doc_id": "prv2-p1001-t3-guidelinescullingrecords_6a545af46fce",
+      "chunk_index": 2,
+      "text": "will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc.© 2025 Page 1 of 1",
+      "char_count": 263,
+      "token_estimate": 65,
+      "section_title": "Guidelines for Culling Health RecordsThe following records should remain on the resident's active chart:| DOCUMENT                                             | TIME FRAME TO KEEP ON ACTIVE CHART          |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

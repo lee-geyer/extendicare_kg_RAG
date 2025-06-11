@@ -1,0 +1,53 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t8ainspectionchecklist_097238eb3f2a_chunk_000_44b13ea8",
+      "doc_id": "maint1-o1002-t8ainspectionchecklist_097238eb3f2a",
+      "chunk_index": 0,
+      "text": "# Extendicare Maintenance Inspection Checklist## Equipment\n**Autoscrubber**### LEGEND/KEY\n- **W** – Weekly\n- **M** – Monthly\n- **Q** – Quarterly\n- **S** – Semi-Annual\n- **A** – Annual\n- **O** – Ok\n- **R** – Repair\n- **N** – Replace| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n|   | X |   |   | 1 | Check machine and all accessories for damage. After inspection perform any required repairs. |\n|   | X |   |   | 2 | Check the condition of plug and cord. |\n|   | X |   |   | 3 | Review Preventive Maintenance Contract.",
+      "char_count": 657,
+      "token_estimate": 164,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t8ainspectionchecklist_097238eb3f2a_chunk_001_9faa7aa6",
+      "doc_id": "maint1-o1002-t8ainspectionchecklist_097238eb3f2a",
+      "chunk_index": 1,
+      "text": "|\n|   | X |   |   | 2 | Check the condition of plug and cord. |\n|   | X |   |   | 3 | Review Preventive Maintenance Contract. |### Monthly Checks\n| JAN | FEB | MAR | APR | MAY | JUN | | | | | | | | | | | | | | |\n|-----|-----|-----|-----|-----|-----|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   |\n| W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   || JUL | AUG | SEP | OCT | NOV | DEC | | | | | | | | | | | | | | |\n|-----|-----|-----|-----|-----|-----|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   |\n| W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   |----**Helping people live better**This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1055,
+      "token_estimate": 263,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t8ainspectionchecklist_097238eb3f2a_chunk_002_a350d8e3",
+      "doc_id": "maint1-o1002-t8ainspectionchecklist_097238eb3f2a",
+      "chunk_index": 2,
+      "text": "|### Monthly Checks\n| JAN | FEB | MAR | APR | MAY | JUN | | | | | | | | | | | | | | |\n|-----|-----|-----|-----|-----|-----|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   |\n| W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   || JUL | AUG | SEP | OCT | NOV | DEC | | | | | | | | | | | | | | |\n|-----|-----|-----|-----|-----|-----|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   |\n| W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   |----**Helping people live better**This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 1176,
+      "token_estimate": 294,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t8ainspectionchecklist_097238eb3f2a_chunk_003_4358013a",
+      "doc_id": "maint1-o1002-t8ainspectionchecklist_097238eb3f2a",
+      "chunk_index": 3,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 2 of 2",
+      "char_count": 788,
+      "token_estimate": 197,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 4
+}

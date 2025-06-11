@@ -1,0 +1,53 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t8cfloorbufferswingmachineinsp_e4c8ba5117e6_chunk_000_7a6bbbb2",
+      "doc_id": "maint1-o1002-t8cfloorbufferswingmachineinsp_e4c8ba5117e6",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## MAINTENANCE INSPECTION CHECKLIST### Equipment\n**Floor Buffer (Swing Machine)**#### LEGEND/KEY\n| LEGEND | KEY      |\n|--------|----------|\n| W      | Weekly   |\n| M      | Monthly  |\n| Q      | Quarterly|\n| S      | Semi-Annual |\n| A      | Annual   |### CHECKS\n| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   |   |   | 1. Check machine and all accessories for any damage. After inspection perform any required repairs. |\n|   | X |   |   |   | 2. Check condition of plug and cord. |\n|   |   | X |   |   | 3. Review Preventive Maintenance Contract.",
+      "char_count": 714,
+      "token_estimate": 178,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t8cfloorbufferswingmachineinsp_e4c8ba5117e6_chunk_002_ee630308",
+      "doc_id": "maint1-o1002-t8cfloorbufferswingmachineinsp_e4c8ba5117e6",
+      "chunk_index": 2,
+      "text": "|\n|   |   | X |   |   | 3. Review Preventive Maintenance Contract. |### Monthly Schedule\n|     | JAN | FEB | MAR | APR | MAY | JUN | | | | | | | | | | | | | |\n|-----|-----|-----|-----|-----|-----|-----|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   |\n| W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   ||     | JUL | AUG | SEP | OCT | NOV | DEC | | | | | | | | | | | | | |\n|-----|-----|-----|-----|-----|-----|-----|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   |\n| W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   |----*Helping people live better*> This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1010,
+      "token_estimate": 252,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t8cfloorbufferswingmachineinsp_e4c8ba5117e6_chunk_003_d8cd5620",
+      "doc_id": "maint1-o1002-t8cfloorbufferswingmachineinsp_e4c8ba5117e6",
+      "chunk_index": 3,
+      "text": "|### Monthly Schedule\n|     | JAN | FEB | MAR | APR | MAY | JUN | | | | | | | | | | | | | |\n|-----|-----|-----|-----|-----|-----|-----|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   |\n| W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   ||     | JUL | AUG | SEP | OCT | NOV | DEC | | | | | | | | | | | | | |\n|-----|-----|-----|-----|-----|-----|-----|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   |\n| W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   |----*Helping people live better*> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**",
+      "char_count": 1199,
+      "token_estimate": 299,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t8cfloorbufferswingmachineinsp_e4c8ba5117e6_chunk_004_b86b99b4",
+      "doc_id": "maint1-o1002-t8cfloorbufferswingmachineinsp_e4c8ba5117e6",
+      "chunk_index": 4,
+      "text": "# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\nPage 2 of 2",
+      "char_count": 495,
+      "token_estimate": 123,
+      "section_title": "INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |",
+      "chunk_type": "content",
+      "start_line": 22,
+      "end_line": 25
+    }
+  ],
+  "total_chunks": 4
+}

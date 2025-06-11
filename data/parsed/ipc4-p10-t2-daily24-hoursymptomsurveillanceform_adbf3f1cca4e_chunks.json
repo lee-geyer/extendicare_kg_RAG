@@ -1,0 +1,30 @@
+{
+  "doc_id": "ipc4-p10-t2-daily24-hoursymptomsurveillanceform_adbf3f1cca4e",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "ipc4-p10-t2-daily24-hoursymptomsurveillanceform_adbf3f1cca4e_chunk_000_a50f6274",
+      "doc_id": "ipc4-p10-t2-daily24-hoursymptomsurveillanceform_adbf3f1cca4e",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Daily 24-Hour Symptom Surveillance Form (Mandatory)**THIS FORM MUST BE REVIEWED EVERY DAY INCLUDING WEEKENDS AND PUBLIC HOLIDAYS**- **Home:**\n- **Date:** Enter date\n- **Resident Home Area:**\n- **Signature of IPAC Lead/designate:**| Room # | Resident Name | Time    | Diarrhea | Vomiting | Nausea | Cough | Fever | Sore Throat | Other |\n|--------|---------------|---------|----------|----------|--------|-------|-------|-------------|-------|\n|        |               | DAY     | ☐ No symptoms observed |          |        |       |       |             |       |\n|        |               | EVENING | ☐ No symptoms observed |          |        |       |       |             |       |\n|        |               | NIGHT   | ☐ No symptoms observed |          |        |       |       |             |       |**Nurse/designate Signature:**----*Helping people live a better life*> This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 1209,
+      "token_estimate": 302,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc4-p10-t2-daily24-hoursymptomsurveillanceform_adbf3f1cca4e_chunk_002_ac6c3f11",
+      "doc_id": "ipc4-p10-t2-daily24-hoursymptomsurveillanceform_adbf3f1cca4e",
+      "chunk_index": 2,
+      "text": "will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 1",
+      "char_count": 268,
+      "token_estimate": 67,
+      "section_title": "Daily 24-Hour Symptom Surveillance Form (Mandatory)**THIS FORM MUST BE REVIEWED EVERY DAY INCLUDING WEEKENDS AND PUBLIC HOLIDAYS**- **Home:**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

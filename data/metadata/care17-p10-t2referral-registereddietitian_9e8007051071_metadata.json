@@ -1,0 +1,11 @@
+{
+  "doc_id": "care17-p10-t2referral-registereddietitian_9e8007051071",
+  "category": "Care",
+  "schema_used": "GenericDocumentMeta",
+  "extraction_success": true,
+  "metadata": {
+    "title": "Referral - Registered Dietitian"
+  },
+  "error": null,
+  "fallback_metadata": null
+}

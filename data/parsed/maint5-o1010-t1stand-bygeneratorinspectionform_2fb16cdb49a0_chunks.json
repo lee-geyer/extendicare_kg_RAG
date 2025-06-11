@@ -1,0 +1,77 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint5-o1010-t1stand-bygeneratorinspectionform_2fb16cdb49a0_chunk_000_4e4aac5e",
+      "doc_id": "maint5-o1010-t1stand-bygeneratorinspectionform_2fb16cdb49a0",
+      "chunk_index": 0,
+      "text": "# Extendicare Stand-by Generator Inspection Form**Facility Name:**\n**Date of Inspection:** Enter date## INSPECTION COMPANY\n- **Name:**\n- **Address:**\n- **Inspector:**## BATTERY\n- **Battery Type:**\n- **Amperage (Charger on):** Amps\n- **Battery voltage:**\n- (charge on)\n- (A.C. power off)\n- (Engine running)\n- **Physical Condition:** (Good or Damaged)\n- **Battery Terminals:**\n- Clean\n- Lubricated\n- Tightly clamped\n- **Electrolyte:** _________________\n- **Level:** _____________\n- **Specific Gravity:** ____________________## ENGINE\n- [ ] 1. Run to operating temperature then stop. - [ ] 2. Change Oil:\n- Litres\n- Viscosity\n- [ ] 3. Change governor oil:\n- Litres\n- Viscosity\n- [ ] 4. Change filters:\n- Oil\n- Fuel\n- Air\n- [ ] 5. Check anti-freeze:\n- Level\n- Specific gravity\n- [ ] 6. Change zinc anodes (indicate YES if done)\n- [ ] 7. Present engine hours\n- Valve last adjusted at\n- Hours since valves adjusted\n- If 500 hrs elapsed, adjust valve\n- [ ] 8. Exhaust system in good order\n- Yes [ ] No [ ]\n- Present engine hours\n- Injectors last adjusted at\n- Hours since injectors adjusted----*Helping people live better*This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1184,
+      "token_estimate": 296,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint5-o1010-t1stand-bygeneratorinspectionform_2fb16cdb49a0_chunk_001_c9e28573",
+      "doc_id": "maint5-o1010-t1stand-bygeneratorinspectionform_2fb16cdb49a0",
+      "chunk_index": 1,
+      "text": "Exhaust system in good order\n- Yes [ ] No [ ]\n- Present engine hours\n- Injectors last adjusted at\n- Hours since injectors adjusted----*Helping people live better*This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 2**# Stand-by Generator Inspection Form## GENERATOR\n- [ ] 1. Test surge suppresser and rotating rectifier\n- [ ] 2. Grease bearings\n- [ ] 3. Re-seat brushes; check length and pressure\n- [ ] 4. Check rotor and stator air gap\n- [ ] 5. Clean commutator and slip rings\n- [ ] 6. Clean rotor and stator windings (compressed air)\n- [ ] 7. Check coupling bolts and alignment\n- [ ] 8. Tighten all electrical connections## DISTRIBUTION\n- [ ] 1. Inspect breakers and disconnects; clean and dress as required\n- [ ] 2. Inspect transfer switch\n- [ ] 3. Inspect and clean insulators and bushings\n- [ ] 4. Check voltage regulator operation\n- [ ] 5. Tighten all electrical connections\n- [ ] 6.",
+      "char_count": 1175,
+      "token_estimate": 293,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint5-o1010-t1stand-bygeneratorinspectionform_2fb16cdb49a0_chunk_002_9bc4346b",
+      "doc_id": "maint5-o1010-t1stand-bygeneratorinspectionform_2fb16cdb49a0",
+      "chunk_index": 2,
+      "text": "Check voltage regulator operation\n- [ ] 5. Tighten all electrical connections\n- [ ] 6. Clean and lubricate all linkages\n- [ ] 7.\n\nTighten all electrical connections\n- [ ] 6. Clean and lubricate all linkages\n- [ ] 7. Check instrument calibrations## RUNNING TEST| Voltage (Phase) | Amperage (Phase) | Temperature | Oil          |\n|------------------|------------------|-------------|--------------|\n|                  |                  |             | Exhaust      |\n|                  |                  |             | Coolant      |\n|                  |                  |             | Pressure     |\n| Start-Up         |                  |             |              |\n| Load On          |                  |             |              |\n| 15 Minutes       |                  |             |              |\n| 30 Minutes       |                  |             |              |\n| 45 Minutes       |                  |             |              |\n| 60 Minutes       |                  |             |              |\n| Load Off         |                  |             |              |\n| Shut Down        |                  |             |              |Engine hour reading at the completion of this testThe above listed items have been inspected and, where necessary, repaired and are now in good working order.**Enter date**\n**Signature of Technician Conducting Test**\n**Date**----> This document is uncontrolled when printed.",
+      "char_count": 1429,
+      "token_estimate": 357,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint5-o1010-t1stand-bygeneratorinspectionform_2fb16cdb49a0_chunk_004_58b66391",
+      "doc_id": "maint5-o1010-t1stand-bygeneratorinspectionform_2fb16cdb49a0",
+      "chunk_index": 4,
+      "text": "Clean and lubricate all linkages\n- [ ] 7. Check instrument calibrations## RUNNING TEST| Voltage (Phase) | Amperage (Phase) | Temperature | Oil          |\n|------------------|------------------|-------------|--------------|\n|                  |                  |             | Exhaust      |\n|                  |                  |             | Coolant      |\n|                  |                  |             | Pressure     |\n| Start-Up         |                  |             |              |\n| Load On          |                  |             |              |\n| 15 Minutes       |                  |             |              |\n| 30 Minutes       |                  |             |              |\n| 45 Minutes       |                  |             |              |\n| 60 Minutes       |                  |             |              |\n| Load Off         |                  |             |              |\n| Shut Down        |                  |             |              |Engine hour reading at the completion of this testThe above listed items have been inspected and, where necessary, repaired and are now in good working order.**Enter date**\n**Signature of Technician Conducting Test**\n**Date**----> This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1281,
+      "token_estimate": 320,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint5-o1010-t1stand-bygeneratorinspectionform_2fb16cdb49a0_chunk_005_35fde9d3",
+      "doc_id": "maint5-o1010-t1stand-bygeneratorinspectionform_2fb16cdb49a0",
+      "chunk_index": 5,
+      "text": "Check instrument calibrations## RUNNING TEST| Voltage (Phase) | Amperage (Phase) | Temperature | Oil          |\n|------------------|------------------|-------------|--------------|\n|                  |                  |             | Exhaust      |\n|                  |                  |             | Coolant      |\n|                  |                  |             | Pressure     |\n| Start-Up         |                  |             |              |\n| Load On          |                  |             |              |\n| 15 Minutes       |                  |             |              |\n| 30 Minutes       |                  |             |              |\n| 45 Minutes       |                  |             |              |\n| 60 Minutes       |                  |             |              |\n| Load Off         |                  |             |              |\n| Shut Down        |                  |             |              |Engine hour reading at the completion of this testThe above listed items have been inspected and, where necessary, repaired and are now in good working order.**Enter date**\n**Signature of Technician Conducting Test**\n**Date**----> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.",
+      "char_count": 1415,
+      "token_estimate": 353,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint5-o1010-t1stand-bygeneratorinspectionform_2fb16cdb49a0_chunk_006_261834ca",
+      "doc_id": "maint5-o1010-t1stand-bygeneratorinspectionform_2fb16cdb49a0",
+      "chunk_index": 6,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 2 of 2",
+      "char_count": 294,
+      "token_estimate": 73,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 6
+}

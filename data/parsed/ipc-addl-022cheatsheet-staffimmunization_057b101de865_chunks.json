@@ -1,0 +1,78 @@
+{
+  "doc_id": "ipc-addl-022cheatsheet-staffimmunization_057b101de865",
+  "total_chunks": 6,
+  "chunks": [
+    {
+      "chunk_id": "ipc-addl-022cheatsheet-staffimmunization_057b101de865_chunk_000_f968d20f",
+      "doc_id": "ipc-addl-022cheatsheet-staffimmunization_057b101de865",
+      "chunk_index": 0,
+      "text": "# Staff Vaccination Information and Guidelines for Understanding the Integration between HealthConnex & Workday1. Source of truth is HealthConnex for site Staff vaccinations.\n\n2. What is entered into HealthConnex flows through to Workday.",
+      "char_count": 238,
+      "token_estimate": 59,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc-addl-022cheatsheet-staffimmunization_057b101de865_chunk_002_aa8e6f98",
+      "doc_id": "ipc-addl-022cheatsheet-staffimmunization_057b101de865",
+      "chunk_index": 2,
+      "text": "3. What is entered into Workday flows through to HealthConnex.\n\n4. Your data entry point should ALWAYS be HealthConnex for inputting staff vaccination records.",
+      "char_count": 159,
+      "token_estimate": 39,
+      "section_title": "What is entered into Workday flows through to HealthConnex.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc-addl-022cheatsheet-staffimmunization_057b101de865_chunk_004_2dd289b8",
+      "doc_id": "ipc-addl-022cheatsheet-staffimmunization_057b101de865",
+      "chunk_index": 4,
+      "text": "5. **Updating vaccination records** - If a change needs to be made to a record; you will need to make the change in both systems OR delete in both systems and re-enter in HealthConnex.\n\n6. If there are duplicate records in the same system (e.g. Two dose 1’s in either HealthConnex or Workday) then review both systems. If the incorrect record is duplicated in both systems, remove from both on the same day. Check both systems the next day (after the evening refresh) to ensure that the deleted record no longer appears.\n- **Note:** the best time to make changes is between 8am and 10pm EST.",
+      "char_count": 591,
+      "token_estimate": 147,
+      "section_title": "**Updating vaccination records** - If a change needs to be made to a record; you will need to make the change in both systems OR delete in both systems and re-enter in HealthConnex.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc-addl-022cheatsheet-staffimmunization_057b101de865_chunk_006_7a68416f",
+      "doc_id": "ipc-addl-022cheatsheet-staffimmunization_057b101de865",
+      "chunk_index": 6,
+      "text": "7. Employees who have more than one employee ID (who work at multiple sites) – must fully record their vaccinations under all employee ID’s.\n\n8. For employees with two HCX profiles, enter the vaccine into the permanent and accurate record associated with WD; if there is a duplicate profile with an ID profile number that begins with Z - do not use\n- a. Duplicate profile is to be terminated in WD\n- b. Duplicate profile with an employee number that begins with Z – Manager Clinical Applications or Regional Manager for support",
+      "char_count": 527,
+      "token_estimate": 131,
+      "section_title": "Employees who have more than one employee ID (who work at multiple sites) – must fully record their vaccinations under all employee ID’s.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc-addl-022cheatsheet-staffimmunization_057b101de865_chunk_008_b554cec2",
+      "doc_id": "ipc-addl-022cheatsheet-staffimmunization_057b101de865",
+      "chunk_index": 8,
+      "text": "9. For employees with only a Z – employee number\n- a. Set up employee in WD\n- b. Add vaccines to new Employee profile in HCX\n- c. Email Manager Clinical Applications or Regional Manager for support with Z - profile to do delete\n\n10. **Input Affects Output** – Always double check your data in both systems. With a new vaccination record - enter the data in HealthConnex, and if possible, check Workday the next day to ensure they match and upload your evidence in Workday as required.",
+      "char_count": 484,
+      "token_estimate": 121,
+      "section_title": "For employees with only a Z – employee number",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc-addl-022cheatsheet-staffimmunization_057b101de865_chunk_010_90f3e2a0",
+      "doc_id": "ipc-addl-022cheatsheet-staffimmunization_057b101de865",
+      "chunk_index": 10,
+      "text": "11. To enter staff immunizations, follow HCX - Immunizations Management user manual.**NOTE:** resident vaccines are entered into PCC only.**Effective Date:** November 6, 2024",
+      "char_count": 174,
+      "token_estimate": 43,
+      "section_title": "To enter staff immunizations, follow HCX - Immunizations Management user manual.**NOTE:** resident vaccines are entered into PCC only.**Effective Date:** November 6, 2024",
+      "chunk_type": "content",
+      "start_line": 16,
+      "end_line": 16
+    }
+  ]
+}

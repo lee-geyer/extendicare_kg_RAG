@@ -1,0 +1,41 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t5cctimercontrolsinspection_dda089d4cae2_chunk_000_b6a39a33",
+      "doc_id": "maint1-o1002-t5cctimercontrolsinspection_dda089d4cae2",
+      "chunk_index": 0,
+      "text": "# Extendicare Maintenance Inspection Checklist## Equipment Timer Controls### LEGEND/KEY\n- **W** – Weekly\n- **M** – Monthly\n- **Q** – Quarterly\n- **S** – Semi-Annual\n- **A** – Annual\n- **O** – Ok\n- **R** – Repair\n- **N** – Replace| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   | 1 |   | Check that time start/stop intervals are properly set. |\n| X |   |   | 2 |   | Check that the equipment controlled starts, stops or changes operation as required. |\n| X |   |   | 3 |   | Check that time is correct - reset for daylight saving time if appropriate.",
+      "char_count": 699,
+      "token_estimate": 174,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t5cctimercontrolsinspection_dda089d4cae2_chunk_001_8bcf2bab",
+      "doc_id": "maint1-o1002-t5cctimercontrolsinspection_dda089d4cae2",
+      "chunk_index": 1,
+      "text": "|\n| X |   |   | 2 |   | Check that the equipment controlled starts, stops or changes operation as required. |\n| X |   |   | 3 |   | Check that time is correct - reset for daylight saving time if appropriate. |### Monthly Checks\n| Month | M | Q | S | A | Month | M | Q | S | A | Month | M | Q | S | A | Month | M | Q | S | A |\n|-------|---|---|---|---|-------|---|---|---|---|-------|---|---|---|---|-------|---|---|---|---|\n| JAN   |   |   |   |   | JUL   |   |   |   |   | APR   |   |   |   |   | OCT   |   |   |   |   |\n| FEB   |   |   |   |   | AUG   |   |   |   |   | MAY   |   |   |   |   | NOV   |   |   |   |   |\n| MAR   |   |   |   |   | SEP   |   |   |   |   | JUN   |   |   |   |   | DEC   |   |   |   |   |----*Helping people live better*> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 1067,
+      "token_estimate": 266,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t5cctimercontrolsinspection_dda089d4cae2_chunk_002_a4ac95cc",
+      "doc_id": "maint1-o1002-t5cctimercontrolsinspection_dda089d4cae2",
+      "chunk_index": 2,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |----> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.----Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 2 of 2",
+      "char_count": 796,
+      "token_estimate": 199,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 3
+}

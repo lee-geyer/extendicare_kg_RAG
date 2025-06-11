@@ -1,0 +1,17 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint3-o1001-t3monthlymaintenancecalendar_4d2843ef6678_chunk_000_468383e1",
+      "doc_id": "maint3-o1001-t3monthlymaintenancecalendar_4d2843ef6678",
+      "chunk_index": 0,
+      "text": "# Extendicare Monthly Maintenance Calendar**Facility:**\n**Month/Year:**## Weekly Schedule| MONDAY | TUESDAY | WEDNESDAY | THURSDAY | FRIDAY | SATURDAY | SUNDAY |\n|--------|---------|-----------|----------|--------|----------|--------|## Colour Codes\n- **Weekly** - Green\n- **Monthly** - Blue\n- **Quarterly** - Black\n- **Semi-Annually** - Red\n- **Annually** - Blue and Highlighted----> Helping people live better\n> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\n> Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 1",
+      "char_count": 752,
+      "token_estimate": 188,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 10
+    }
+  ],
+  "total_chunks": 1
+}

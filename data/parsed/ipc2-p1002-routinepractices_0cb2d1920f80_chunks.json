@@ -1,0 +1,90 @@
+{
+  "doc_id": "ipc2-p1002-routinepractices_0cb2d1920f80",
+  "total_chunks": 7,
+  "chunks": [
+    {
+      "chunk_id": "ipc2-p1002-routinepractices_0cb2d1920f80_chunk_000_a770c98e",
+      "doc_id": "ipc2-p1002-routinepractices_0cb2d1920f80",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE- **MANUAL:** Infection Prevention and Control\n- **INDEX:** IPC2-P10.02\n- **SECTION:** Infection Prevention\n- **EFFECTIVE DATE:** February 18, 2025\n- **REVIEWED DATE:** February 11, 2025\n- **APPROVED BY:** Chief Medical Officer\n- **MODIFIED DATE:** May 30, 2025----## POLICY### Infection Prevention## PROCEDURE### ROUTINE PRACTICES to be used with ALL RESIDENTS#### Hand Hygiene\n- Practice thorough washing and/or sanitizing of hands before and after any direct resident or environment contact and when handling any soiled articles such as soiled laundry or equipment.#### Mask and Eye Protection or Face Shield [based on point of care risk assessment]\n- Wear a mask if there is a risk of the nose and mouth being contaminated with a resident’s bodily fluids.",
+      "char_count": 784,
+      "token_estimate": 196,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p1002-routinepractices_0cb2d1920f80_chunk_001_f2b1fd5e",
+      "doc_id": "ipc2-p1002-routinepractices_0cb2d1920f80",
+      "chunk_index": 1,
+      "text": "- Wear eye protection or face shield if there is a risk of the eyes being contaminated with a resident’s body fluids.#### Gown [based on point of care risk assessment]\n- Wear a gown if there is a risk of contamination of skin or clothing.#### Gloves [based on point of care risk assessment]\n- Wear gloves if there is a risk of hand contact with a resident’s body fluids or blood, secretions, excretions, non-intact skin or mucous membranes. - Gloves are not a substitute for hand washing and/or hand sanitizing. - Gloves are not to be reused - they are task specific and single-use for the task only and are to be removed before leaving the resident room. - Double gloving is not permitted. - Everyone using gloves must perform proper hand hygiene before donning and after doffing gloves.----> Helping people live betterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----",
+      "char_count": 1146,
+      "token_estimate": 286,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p1002-routinepractices_0cb2d1920f80_chunk_002_a0b78c70",
+      "doc_id": "ipc2-p1002-routinepractices_0cb2d1920f80",
+      "chunk_index": 2,
+      "text": "# PROCEDURE**SECTION:** Infection Prevention\n**DESCRIPTION:** Routine Practices\n**INDEX:** IPC2-P10.02## Environment and Equipment\n- All equipment that is being used by more than one resident must be cleaned and disinfected between residents.## Linen and Waste\n- Handle soiled linen and waste carefully to prevent personal contamination and transfer to other residents.## Sharps Injury Prevention\n- **NEVER RECAP USED NEEDLES**\n- Place sharps in sharp containers. - Prevent injuries from needles, scalpels, and other sharp devices. - Where possible, use safety-engineered medical devices.## Resident Placement/Accommodation\n- Use a single room for a resident who contaminates the environment where possible. - Perform hand hygiene on leaving the room.All health care workers (including volunteers) shall consistently use routine practices with all residents during all care. When indicated, routine practices are used in conjunction with additional precautions. All staff should review care requirements prior to each contact with a resident.",
+      "char_count": 1042,
+      "token_estimate": 260,
+      "section_title": "PROCEDURE**SECTION:** Infection Prevention",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p1002-routinepractices_0cb2d1920f80_chunk_003_c8af61a3",
+      "doc_id": "ipc2-p1002-routinepractices_0cb2d1920f80",
+      "chunk_index": 3,
+      "text": "When indicated, routine practices are used in conjunction with additional precautions. All staff should review care requirements prior to each contact with a resident. Staff should be aware of what level of contact with body fluids/secretions can be expected based on their Point of Care Risk Assessment (PCRA) and ensure appropriate protective precautions including hand hygiene are used. Residents, families, and visitors will be provided information on infection prevention and control practices as necessary. Homes shall have appropriate and adequate products available, including PPE and hand hygiene products (e.g., alcohol-based hand rub).## EDUCATION",
+      "char_count": 658,
+      "token_estimate": 164,
+      "section_title": "PROCEDURE**SECTION:** Infection Prevention",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p1002-routinepractices_0cb2d1920f80_chunk_004_1ff406a0",
+      "doc_id": "ipc2-p1002-routinepractices_0cb2d1920f80",
+      "chunk_index": 4,
+      "text": "1. IPC2-P10-E1 - Elements of Routine Practices Summary\n\n2. IPC2-P10-E2 - Point of Care Risk Assessment (PCRA) Algorithm",
+      "char_count": 119,
+      "token_estimate": 29,
+      "section_title": "IPC2-P10-E1 - Elements of Routine Practices Summary",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p1002-routinepractices_0cb2d1920f80_chunk_006_717fa140",
+      "doc_id": "ipc2-p1002-routinepractices_0cb2d1920f80",
+      "chunk_index": 6,
+      "text": "3. IPC2-P10-E3 - Point of Care Risk Assessment (PCRA) Factsheet\n\n4. IPC2-P10-E20 - Respiratory Etiquette Coughing and Sneezing Best Practices",
+      "char_count": 141,
+      "token_estimate": 35,
+      "section_title": "IPC2-P10-E3 - Point of Care Risk Assessment (PCRA) Factsheet",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p1002-routinepractices_0cb2d1920f80_chunk_008_29cd1ad0",
+      "doc_id": "ipc2-p1002-routinepractices_0cb2d1920f80",
+      "chunk_index": 8,
+      "text": "5. IPC2-P10-E41 - IPAC Principles Poster----**Helping people live better**\nThis document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 2 of 2",
+      "char_count": 409,
+      "token_estimate": 102,
+      "section_title": "IPC2-P10-E41 - IPAC Principles Poster----**Helping people live better**",
+      "chunk_type": "content",
+      "start_line": 31,
+      "end_line": 34
+    }
+  ]
+}

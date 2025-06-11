@@ -1,0 +1,42 @@
+{
+  "doc_id": "ipc5-p10-t3-dailyoutbreakmeeting-outbreakmanagementteam_9e12a815a44d",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "ipc5-p10-t3-dailyoutbreakmeeting-outbreakmanagementteam_9e12a815a44d_chunk_000_ecebfcf5",
+      "doc_id": "ipc5-p10-t3-dailyoutbreakmeeting-outbreakmanagementteam_9e12a815a44d",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Outbreak Management Team – Daily Meeting Minutes**Home:**\n**Date:** Enter date\n**Time:****Name of IPAC Home Lead/designate:**\n**Name of Health Unit Contact and Contact Information:**\n**Outbreak No.:**### Case Definition#### RESIDENTS IN ISOLATION\nPlease indicate how many new residents are in isolation and the unit they are on:| Number of New Residents | Unit |\n|------------------------|------|\n|                        |      |\n|                        |      |\n|                        |      |\n|                        |      |\n|                        |      |\n|                        |      |\n|                        |      |\n|                        |      |\n|                        |      |\n|                        |      |----*This document is uncontrolled when printed.*\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\nConfidential and Proprietary Information of Extendicare (Canada) Inc. © 2025",
+      "char_count": 1082,
+      "token_estimate": 270,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc5-p10-t3-dailyoutbreakmeeting-outbreakmanagementteam_9e12a815a44d_chunk_002_918fac40",
+      "doc_id": "ipc5-p10-t3-dailyoutbreakmeeting-outbreakmanagementteam_9e12a815a44d",
+      "chunk_index": 2,
+      "text": "# Outbreak Management Team – Daily Meeting Minutes## Summary of New Residents\n| Date       | Unit | Total Residents Isolated Today | Total Residents Affected to Date | Residents Coming Out of Isolation Today | Residents Sent to Hospital Related to Outbreak | Residents Deaths Related to Outbreak | Number of Staff Off Today | Number of Staff Affected to Date |\n|------------|------|-------------------------------|----------------------------------|-----------------------------------------|-----------------------------------------------|-------------------------------------|---------------------------|-----------------------------------|\n|            |      |                               |                                  |                                         |                                               |                                     |                           |                                   |\n|            |      |                               |                                  |                                         |                                               |                                     |                           |                                   |\n|            |      |                               |                                  |                                         |                                               |                                     |                           |                                   |## Priority Items\n- **Staff Hand Hygiene**: YES / NO\n- **Staff Use of PPE**: YES / NO\n- **Extra Environmental Cleaning Implemented Right Away**: YES / NO\n- **Isolation Rooms Set Up as Per Policy**: YES / NO\n- **PPE Always Available and Accessible to Staff**: YES / NO\n- **Staff Coming in to Work Ill**: YES / NO\n- **Sick Residents Not Isolated Quickly**: YES / NO\n- **Staff Cohorted**: YES / NO## Comments\nDiscussion at daily meeting.",
+      "char_count": 1918,
+      "token_estimate": 479,
+      "section_title": "Outbreak Management Team – Daily Meeting Minutes## Summary of New Residents",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc5-p10-t3-dailyoutbreakmeeting-outbreakmanagementteam_9e12a815a44d_chunk_003_e7fa119c",
+      "doc_id": "ipc5-p10-t3-dailyoutbreakmeeting-outbreakmanagementteam_9e12a815a44d",
+      "chunk_index": 3,
+      "text": "(Include items such as Environmental Cleaning, Hand Hygiene, PPE, etc.)----> This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 2 of 3# Outbreak Management Team – Daily Meeting Minutes**Signature of Charge Nurse/or IPAC Home Lead**## Outbreak Management Team Signatures:----> This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 3 of 3",
+      "char_count": 899,
+      "token_estimate": 224,
+      "section_title": "Outbreak Management Team – Daily Meeting Minutes## Summary of New Residents",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

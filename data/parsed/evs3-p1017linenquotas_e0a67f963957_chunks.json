@@ -1,0 +1,102 @@
+{
+  "doc_id": "evs3-p1017linenquotas_e0a67f963957",
+  "total_chunks": 8,
+  "chunks": [
+    {
+      "chunk_id": "evs3-p1017linenquotas_e0a67f963957_chunk_000_99d81d3f",
+      "doc_id": "evs3-p1017linenquotas_e0a67f963957",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Environmental Services\n**INDEX:** EVS3-P10.17\n**SECTION:** Personal Clothing and Linen Processes-Laundry\n**EFFECTIVE DATE:** March 18, 2025\n**REVIEWED DATE:** March 7, 2025\n**APPROVED BY:** Senior Director, Operational Quality and Professional Practice\n**MODIFIED DATE:** May 14, 2025----## POLICY### Personal Clothing and Linen Processes## PROCEDUREThe Manager/designate and the Director of Care/designate will work together to:1. Review the quota guidelines in Tools – 24-hour Quota Setting Guideline and make any necessary changes to accommodate the needs of the home. Update the guidelines in this manual.",
+      "char_count": 646,
+      "token_estimate": 161,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 6
+    },
+    {
+      "chunk_id": "evs3-p1017linenquotas_e0a67f963957_chunk_001_94cd2a02",
+      "doc_id": "evs3-p1017linenquotas_e0a67f963957",
+      "chunk_index": 1,
+      "text": "2. Determine the amount of linen required daily on each home area, taking into consideration the level of care required, and document the quotas on – 24-hour Delivery Cart Set-Up.\n\n3. Establish appropriate delivery time for linen distribution carts to be delivered to the home areas each day.",
+      "char_count": 292,
+      "token_estimate": 73,
+      "section_title": "Determine the amount of linen required daily on each home area, taking into consideration the level of care required, and document the quotas on – 24-hour Delivery Cart Set-Up.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs3-p1017linenquotas_e0a67f963957_chunk_003_c5dbd19a",
+      "doc_id": "evs3-p1017linenquotas_e0a67f963957",
+      "chunk_index": 3,
+      "text": "4. Review linen quotas as required. If requests are greater than 10% of quota on a regular basis, investigate the reason with staff.\n\n5. Once quotas have been established, check that the current inventory in use is sufficient to meet quotas. If not, add necessary linen to inventory in circulation.",
+      "char_count": 298,
+      "token_estimate": 74,
+      "section_title": "Review linen quotas as required. If requests are greater than 10% of quota on a regular basis, investigate the reason with staff.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs3-p1017linenquotas_e0a67f963957_chunk_005_96c8da3a",
+      "doc_id": "evs3-p1017linenquotas_e0a67f963957",
+      "chunk_index": 5,
+      "text": "6. Remember that laundry staff should be washing today what is needed tomorrow (2-to-2.5-day supply). Notify Executive Director if additional linen is required.\n\n7. Educate laundry staff on their role in supplying quotas and communicating shortages of linen.",
+      "char_count": 258,
+      "token_estimate": 64,
+      "section_title": "Remember that laundry staff should be washing today what is needed tomorrow (2-to-2.5-day supply). Notify Executive Director if additional linen is required.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs3-p1017linenquotas_e0a67f963957_chunk_007_50f30439",
+      "doc_id": "evs3-p1017linenquotas_e0a67f963957",
+      "chunk_index": 7,
+      "text": "8. Educate care staff, with the assistance of nursing management, on linen product and policies, how quotas are established, and the support required from care staff to make the quota system work.\n\n9. With nursing management, instruct charge nurses on their role in monitoring linen usage and policies on their home areas along with methods of requesting additional linen.",
+      "char_count": 372,
+      "token_estimate": 93,
+      "section_title": "Educate care staff, with the assistance of nursing management, on linen product and policies, how quotas are established, and the support required from care staff to make the quota system work.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs3-p1017linenquotas_e0a67f963957_chunk_009_d1db677b",
+      "doc_id": "evs3-p1017linenquotas_e0a67f963957",
+      "chunk_index": 9,
+      "text": "10. Post quotas in the Laundry Department or on exchange and/or top-up carts.----### Laundry Staff:- Helping people\n- Iva better----> This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 2# PROCEDURE## SECTION: Personal Clothing and Linen Processes - Laundry",
+      "char_count": 542,
+      "token_estimate": 135,
+      "section_title": "Post quotas in the Laundry Department or on exchange and/or top-up carts.----### Laundry Staff:- Helping people",
+      "chunk_type": "content",
+      "start_line": 15,
+      "end_line": 18
+    },
+    {
+      "chunk_id": "evs3-p1017linenquotas_e0a67f963957_chunk_010_4c58a5bb",
+      "doc_id": "evs3-p1017linenquotas_e0a67f963957",
+      "chunk_index": 10,
+      "text": "### DESCRIPTION: Linen Quotas\n\n### INDEX: EVS3-P10.17Supply distribution linen carts with the quotas indicated on the quota sheets. Communicate to Manager/designate any discrepancies (not enough linen to fill requirements, etc.). It is essential that the indicated quotas are supplied to the home areas to provide resident care.## TOOLS",
+      "char_count": 336,
+      "token_estimate": 84,
+      "section_title": "DESCRIPTION: Linen Quotas",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs3-p1017linenquotas_e0a67f963957_chunk_012_e8e2d5f5",
+      "doc_id": "evs3-p1017linenquotas_e0a67f963957",
+      "chunk_index": 12,
+      "text": "1. 24-Hour Quota Setting Guideline\n\n2. 24-Hour Delivery Cart Set-up----*This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025*----*Page 2 of 2*",
+      "char_count": 412,
+      "token_estimate": 103,
+      "section_title": "24-Hour Quota Setting Guideline",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

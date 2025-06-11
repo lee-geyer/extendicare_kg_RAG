@@ -1,0 +1,42 @@
+{
+  "doc_id": "epm-addl-013imsjobactionchecklistinfrastructure_4ab2f541d123",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "epm-addl-013imsjobactionchecklistinfrastructure_4ab2f541d123_chunk_000_de60493a",
+      "doc_id": "epm-addl-013imsjobactionchecklistinfrastructure_4ab2f541d123",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## IMS Job Action Checklist – Infrastructure (Logistics function)**Note:** All documentation during the emergency must be given to the Administrator daily and kept on file for a minimum of three years.### Infrastructure – Job Action Sheet**Role:** The Infrastructure function will:\n- a. Maintain the integrity of the physical building and provide adequate environmental controls;\n- b. Report to the Logistics Manager.**Name:****Record the time action was initiated (note on the line below):**- Coordinate facilities’ maintenance staff who are not involved in emergency operations. - Confirm status of the telephone and computer systems with the Information Technology Lead. - Assess the status of the call bell system. - Assess the status of door security throughout the building. - Notify the Logistics Manager immediately if the fire alarm system is out of service and a fire watch is required. - Coordinate the efforts of IT, telephone, and fire alarm service companies.",
+      "char_count": 988,
+      "token_estimate": 247,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-013imsjobactionchecklistinfrastructure_4ab2f541d123_chunk_002_2e101d65",
+      "doc_id": "epm-addl-013imsjobactionchecklistinfrastructure_4ab2f541d123",
+      "chunk_index": 2,
+      "text": "- Notify the Logistics Manager immediately if the fire alarm system is out of service and a fire watch is required. - Coordinate the efforts of IT, telephone, and fire alarm service companies. - Conduct a damage/operational assessment for:\n- Structural\n- Electrical\n- Generator\n- Water and sanitary waste management\n- Heating/Cooling\n- Natural Gas\n- Fuel supply\n- Elevators\n- Other\n- Control observed hazards, leaks, and contamination and/or notify emergency services (9-1-1), as appropriate. - Ensure the Safety Officer is notified of any hazardous situations. - Coordinate with home maintenance contractors and utilities. - Identify areas for immediate repair and report to Incident Manager.----**Helping people**\n**Iva better**This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025",
+      "char_count": 1052,
+      "token_estimate": 263,
+      "section_title": "IMS Job Action Checklist – Infrastructure (Logistics function)**Note:** All documentation during the emergency must be given to the Administrator daily and kept on file for a minimum of three years.### Infrastructure – Job Action Sheet**Role:** The Infrastructure function will:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-013imsjobactionchecklistinfrastructure_4ab2f541d123_chunk_003_6a1bccee",
+      "doc_id": "epm-addl-013imsjobactionchecklistinfrastructure_4ab2f541d123",
+      "chunk_index": 3,
+      "text": "# IMS Job Action Checklist – Infrastructure (Logistics function)## Checklist Items\n- Arrange for a structural engineer to assess the building, if required.\n- Photograph and document all damage.\n- Identify areas where immediate salvage could save critical services and equipment.\n- Establish alternate sanitation systems (portable toilets, hand washing areas), if required.\n- Provide regular briefings to the Logistics Manager.\n- Refer to home-specific Loss of Essential Services plans when necessary.----> **Note:** This document is uncontrolled when printed.----### Accessibility Statement\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.----### Confidentiality Notice\nConfidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----### Document Metadata\n- **Page:** 2 of 2",
+      "char_count": 943,
+      "token_estimate": 235,
+      "section_title": "IMS Job Action Checklist – Infrastructure (Logistics function)## Checklist Items",
+      "chunk_type": "content",
+      "start_line": 26,
+      "end_line": 35
+    }
+  ]
+}

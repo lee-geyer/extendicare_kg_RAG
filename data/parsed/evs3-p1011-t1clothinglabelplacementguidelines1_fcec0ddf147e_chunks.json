@@ -1,0 +1,30 @@
+{
+  "doc_id": "evs3-p1011-t1clothinglabelplacementguidelines1_fcec0ddf147e",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "evs3-p1011-t1clothinglabelplacementguidelines1_fcec0ddf147e_chunk_000_16055774",
+      "doc_id": "evs3-p1011-t1clothinglabelplacementguidelines1_fcec0ddf147e",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Clothing Label Placement Guidelines| ITEM                       | LABEL PLACEMENT                                               |\n|---------------------------|--------------------------------------------------------------|\n| Afghans                    | Corners, sew on if necessary                                 |\n| Blouses                    | Neck, inside or on collar                                    |\n| Bras                       | Inside at domes, not on the elastic                          |\n| Coats                      | Neck, inside collar                                          |\n| Dresses                    | Neck, inside on collar, close to the neck opening           |\n| Full slip                  | Back, on inside                                              |\n| Half slip                  | Back, on waist back if not elastic or below waistband on inside |\n| Jackets                    | Inside collar, sew on if necessary                           |\n| Knee high nylons          | Knee highs (stay ups), inside on the back, use laundry marker if necessary |\n| Nightgowns                 | Neck, inside, back of collar                                 |\n| Pantyhose                 | Back, outer waistband on inside                              |\n| Pyjamas                   | Tops: inside at back of collar.",
+      "char_count": 1350,
+      "token_estimate": 337,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs3-p1011-t1clothinglabelplacementguidelines1_fcec0ddf147e_chunk_002_054cf977",
+      "doc_id": "evs3-p1011-t1clothinglabelplacementguidelines1_fcec0ddf147e",
+      "chunk_index": 2,
+      "text": "Bottoms: inside at waistband below elastic |\n| Shirts                     | Neck, inside on collar                                       |\n| Skirts                     | Back, on waistband next to zipper on inside                 |\n| Slippers                   | Inside, with impermeable marker or under sole if possible   |\n| Socks                      | Under arch on the outside                                    |\n| Sweater                    | Neck, inside on collar                                       |\n| Trousers                   | Back, inner waistband, not on the elastic                    |\n| Undershirts                | Back, inside collar                                          |\n| Underwear                  | Back, waistband below elastic on inside                      |----**Helping people**\n**Iva better**This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 1 of 1",
+      "char_count": 1165,
+      "token_estimate": 291,
+      "section_title": "Clothing Label Placement Guidelines| ITEM                       | LABEL PLACEMENT                                               |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

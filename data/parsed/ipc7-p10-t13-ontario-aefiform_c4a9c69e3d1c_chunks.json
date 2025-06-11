@@ -1,0 +1,162 @@
+{
+  "doc_id": "ipc7-p10-t13-ontario-aefiform_c4a9c69e3d1c",
+  "total_chunks": 13,
+  "chunks": [
+    {
+      "chunk_id": "ipc7-p10-t13-ontario-aefiform_c4a9c69e3d1c_chunk_000_05f77acc",
+      "doc_id": "ipc7-p10-t13-ontario-aefiform_c4a9c69e3d1c",
+      "chunk_index": 0,
+      "text": "# Report of Adverse Event Following Immunization (AEFI)When completed, please send the form to your local Public Health Unit by a secure means. **Case ID / Investigation #:** (for local use only):For more information about AEFI reporting in Ontario visit the Public Health Ontario website.## 1 - CLIENT AND REPORTING SOURCE INFORMATION- **Client last name:**\n- **Given name(s):**\n- **Ontario Health Card #:**\n- **Date of Birth (yyyy/mm/dd):**\n- **Sex:**\n- Male\n- Female\n- Other\n- Unknown\n- **Parent/guardian/caregiver full name, as applicable:**\n- **Telephone #:**\n- **Address:**\n- **City:**\n- **Postal Code:**\n- **Reported to public health by:**\n- **Relationship with case:**\n- **Date of report (yyyy/mm/dd):**\n- **Form completed by:**\n- **Contact information of reporter (if different from above):**## 2 - IMMUNIZATION INFORMATIONFor Pfizer-BioNTech COVID-19 vaccine enter both vaccine and diluent information here.| Date (yyyy/mm/dd) | Time (24hr - HH:MM) | Agent and Manufacturer | Lot # | Lot exp.",
+      "char_count": 1002,
+      "token_estimate": 250,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t13-ontario-aefiform_c4a9c69e3d1c_chunk_001_7476e8d3",
+      "doc_id": "ipc7-p10-t13-ontario-aefiform_c4a9c69e3d1c",
+      "chunk_index": 1,
+      "text": "# Report of Adverse Event Following Immunization (AEFI)When completed, please send the form to your local Public Health Unit by a secure means. **Case ID / Investigation #:** (for local use only):For more information about AEFI reporting in Ontario visit the Public Health Ontario website.## 1 - CLIENT AND REPORTING SOURCE INFORMATION- **Client last name:**\n- **Given name(s):**\n- **Ontario Health Card #:**\n- **Date of Birth (yyyy/mm/dd):**\n- **Sex:**\n- Male\n- Female\n- Other\n- Unknown\n- **Parent/guardian/caregiver full name, as applicable:**\n- **Telephone #:**\n- **Address:**\n- **City:**\n- **Postal Code:**\n- **Reported to public health by:**\n- **Relationship with case:**\n- **Date of report (yyyy/mm/dd):**\n- **Form completed by:**\n- **Contact information of reporter (if different from above):**## 2 - IMMUNIZATION INFORMATIONFor Pfizer-BioNTech COVID-19 vaccine enter both vaccine and diluent information here.| Date (yyyy/mm/dd) | Time (24hr - HH:MM) | Agent and Manufacturer | Lot # | Lot exp. date (yyyy/mm/dd) | Dose # | Site | Route |\n|-------------------|---------------------|------------------------|-------|----------------------------|--------|------|-------|\n|                   |                     |                        |       |                            |        |      |       |- **Immunization error:**\n- No\n- Unknown\n- Yes*\n- **Previous history of AEFI:**\n- No\n- Unknown\n- Yes*\n- Describe in Section 6\n- Vaccine administered by (name and designation):## 3 - ADVERSE EVENT INFORMATION (ALL VACCINES.",
+      "char_count": 1528,
+      "token_estimate": 382,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t13-ontario-aefiform_c4a9c69e3d1c_chunk_002_541b1739",
+      "doc_id": "ipc7-p10-t13-ontario-aefiform_c4a9c69e3d1c",
+      "chunk_index": 2,
+      "text": "**Case ID / Investigation #:** (for local use only):For more information about AEFI reporting in Ontario visit the Public Health Ontario website.## 1 - CLIENT AND REPORTING SOURCE INFORMATION- **Client last name:**\n- **Given name(s):**\n- **Ontario Health Card #:**\n- **Date of Birth (yyyy/mm/dd):**\n- **Sex:**\n- Male\n- Female\n- Other\n- Unknown\n- **Parent/guardian/caregiver full name, as applicable:**\n- **Telephone #:**\n- **Address:**\n- **City:**\n- **Postal Code:**\n- **Reported to public health by:**\n- **Relationship with case:**\n- **Date of report (yyyy/mm/dd):**\n- **Form completed by:**\n- **Contact information of reporter (if different from above):**## 2 - IMMUNIZATION INFORMATIONFor Pfizer-BioNTech COVID-19 vaccine enter both vaccine and diluent information here.| Date (yyyy/mm/dd) | Time (24hr - HH:MM) | Agent and Manufacturer | Lot # | Lot exp. date (yyyy/mm/dd) | Dose # | Site | Route |\n|-------------------|---------------------|------------------------|-------|----------------------------|--------|------|-------|\n|                   |                     |                        |       |                            |        |      |       |- **Immunization error:**\n- No\n- Unknown\n- Yes*\n- **Previous history of AEFI:**\n- No\n- Unknown\n- Yes*\n- Describe in Section 6\n- Vaccine administered by (name and designation):## 3 - ADVERSE EVENT INFORMATION (ALL VACCINES. FOR ADDITIONAL COVID-19 VACCINE SPECIFIC EVENTS SEE SECTION 4)Report only events which cannot be attributed to co-existing conditions.",
+      "char_count": 1519,
+      "token_estimate": 379,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t13-ontario-aefiform_c4a9c69e3d1c_chunk_003_145ff643",
+      "doc_id": "ipc7-p10-t13-ontario-aefiform_c4a9c69e3d1c",
+      "chunk_index": 3,
+      "text": "date (yyyy/mm/dd) | Dose # | Site | Route |\n|-------------------|---------------------|------------------------|-------|----------------------------|--------|------|-------|\n|                   |                     |                        |       |                            |        |      |       |- **Immunization error:**\n- No\n- Unknown\n- Yes*\n- **Previous history of AEFI:**\n- No\n- Unknown\n- Yes*\n- Describe in Section 6\n- Vaccine administered by (name and designation):## 3 - ADVERSE EVENT INFORMATION (ALL VACCINES. FOR ADDITIONAL COVID-19 VACCINE SPECIFIC EVENTS SEE SECTION 4)Report only events which cannot be attributed to co-existing conditions. Reactions marked with an asterisk (*) must be diagnosed by a physician. Record the time to onset of the event (time between vaccine administration and onset of each event) and the duration of each event in minutes, hours, or days.",
+      "char_count": 891,
+      "token_estimate": 222,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t13-ontario-aefiform_c4a9c69e3d1c_chunk_004_6b49f42a",
+      "doc_id": "ipc7-p10-t13-ontario-aefiform_c4a9c69e3d1c",
+      "chunk_index": 4,
+      "text": "Reactions marked with an asterisk (*) must be diagnosed by a physician. Record the time to onset of the event (time between vaccine administration and onset of each event) and the duration of each event in minutes, hours, or days. If the interval/duration is less than one hour record in minutes, if less than 24 hours record in hours, if greater than or equal to 24 hours record in days.### Local Reaction at the Injection Site| Event Description | Time to onset of event | Duration of event |\n|-------------------|-----------------------|-------------------|\n| Pain/redness / swelling extending past nearest joint |                       |                   |\n| Pain/redness / swelling lasting 4 days or more |                       |                   |\n| Infected abscess* |                       |                   |\n| Sterile abscess* |                       |                   |\n| Nodule |                       |                   |\n| Cellulitis* |                       |                   |### Allergic Reactions| Event Description | Time to onset of event | Duration of event |\n|-------------------|-----------------------|-------------------|\n| Event managed as anaphylaxis |                       |                   |\n| Oculorespiratory syndrome (ORS) |                       |                   |\n| Allergic reaction - skin (E.g.",
+      "char_count": 1346,
+      "token_estimate": 336,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t13-ontario-aefiform_c4a9c69e3d1c_chunk_005_ceaf2f55",
+      "doc_id": "ipc7-p10-t13-ontario-aefiform_c4a9c69e3d1c",
+      "chunk_index": 5,
+      "text": "Record the time to onset of the event (time between vaccine administration and onset of each event) and the duration of each event in minutes, hours, or days. If the interval/duration is less than one hour record in minutes, if less than 24 hours record in hours, if greater than or equal to 24 hours record in days.### Local Reaction at the Injection Site| Event Description | Time to onset of event | Duration of event |\n|-------------------|-----------------------|-------------------|\n| Pain/redness / swelling extending past nearest joint |                       |                   |\n| Pain/redness / swelling lasting 4 days or more |                       |                   |\n| Infected abscess* |                       |                   |\n| Sterile abscess* |                       |                   |\n| Nodule |                       |                   |\n| Cellulitis* |                       |                   |### Allergic Reactions| Event Description | Time to onset of event | Duration of event |\n|-------------------|-----------------------|-------------------|\n| Event managed as anaphylaxis |                       |                   |\n| Oculorespiratory syndrome (ORS) |                       |                   |\n| Allergic reaction - skin (E.g. hives) |                       |                   |\n| Neurologic Events |                       |                   |\n| Convulsions / seizure |                       |                   |\n| Encephalopathy / encephalitis* |                       |                   |\n| Meningitis* |                       |                   |### Systemic Reactions| Event Description | Time to onset of event | Duration of event |\n|-------------------|-----------------------|-------------------|\n| Fever greater than 38.0ºC (Only reportable in conjunction with another event) |                       |                   |\n| Rash |                       |                   |\n| Adenopathy / lymphadenopathy* |                       |                   |\n| Hypotonic-hyporesponsive episode (HHE)* |                       |                   |\n| Persistent crying / screaming |                       |                   |\n| Severe vomiting / diarrhea (3 episodes/24 hours) |                       |                   |\n| Parotitis* |                       |                   |\n| Other events of interest |                       |                   |\n| Thrombocytopenia* |                       |                   |\n| Arthritis / arthralgia |                       |                   |\n| Syncope (fainting) with injury |                       |                   |\n| Other severe or unusual events |                       |                   |**Page 1/3**\nDescribe all events in Section 6# 4 - COVID-19 ADVERSE EVENT(S) OF SPECIAL INTERESTIn addition to the adverse events listed on the page one, please indicate occurrence of any of the following reactions associated with administration of COVID-19 vaccine.",
+      "char_count": 2969,
+      "token_estimate": 742,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t13-ontario-aefiform_c4a9c69e3d1c_chunk_006_159ddabf",
+      "doc_id": "ipc7-p10-t13-ontario-aefiform_c4a9c69e3d1c",
+      "chunk_index": 6,
+      "text": "If the interval/duration is less than one hour record in minutes, if less than 24 hours record in hours, if greater than or equal to 24 hours record in days.### Local Reaction at the Injection Site| Event Description | Time to onset of event | Duration of event |\n|-------------------|-----------------------|-------------------|\n| Pain/redness / swelling extending past nearest joint |                       |                   |\n| Pain/redness / swelling lasting 4 days or more |                       |                   |\n| Infected abscess* |                       |                   |\n| Sterile abscess* |                       |                   |\n| Nodule |                       |                   |\n| Cellulitis* |                       |                   |### Allergic Reactions| Event Description | Time to onset of event | Duration of event |\n|-------------------|-----------------------|-------------------|\n| Event managed as anaphylaxis |                       |                   |\n| Oculorespiratory syndrome (ORS) |                       |                   |\n| Allergic reaction - skin (E.g. hives) |                       |                   |\n| Neurologic Events |                       |                   |\n| Convulsions / seizure |                       |                   |\n| Encephalopathy / encephalitis* |                       |                   |\n| Meningitis* |                       |                   |### Systemic Reactions| Event Description | Time to onset of event | Duration of event |\n|-------------------|-----------------------|-------------------|\n| Fever greater than 38.0ºC (Only reportable in conjunction with another event) |                       |                   |\n| Rash |                       |                   |\n| Adenopathy / lymphadenopathy* |                       |                   |\n| Hypotonic-hyporesponsive episode (HHE)* |                       |                   |\n| Persistent crying / screaming |                       |                   |\n| Severe vomiting / diarrhea (3 episodes/24 hours) |                       |                   |\n| Parotitis* |                       |                   |\n| Other events of interest |                       |                   |\n| Thrombocytopenia* |                       |                   |\n| Arthritis / arthralgia |                       |                   |\n| Syncope (fainting) with injury |                       |                   |\n| Other severe or unusual events |                       |                   |**Page 1/3**\nDescribe all events in Section 6# 4 - COVID-19 ADVERSE EVENT(S) OF SPECIAL INTERESTIn addition to the adverse events listed on the page one, please indicate occurrence of any of the following reactions associated with administration of COVID-19 vaccine. These reactions should only be used for AEFIs reported following receipt of COVID-19 vaccine.| COVID-19 AESI                                      | Time to onset          | Duration of event          |\n|----------------------------------------------------|------------------------|----------------------------|\n| Vaccine-associated enhanced disease                  |                        |                            |\n| Multisystem inflammatory syndrome in children or adults |                        |                            |\n| Acute respiratory distress syndrome                  |                        |                            |\n| Acute cardiovascular injury                          |                        |                            |\n| Coagulation disorder (including thrombotic events) |                        |                            |\n| Thrombosis with Thrombocytopenia Syndrome / Vaccine-Induced Immune Thrombotic Thrombocytopenia | | |\n| Acute kidney injury                                  |                        |                            |\n| Acute liver injury                                   |                        |                            |\n| Acute pancreatitis                                   |                        |                            |\n| Anosmia and/or ageusia                              |                        |                            |\n| Rhabdomyolysis                                      |                        |                            |\n| Single organ cutaneous vasculitis                   |                        |                            |\n| Subacute thyroiditis                                 |                        |                            |\n| Erythema multiforme                                  |                        |                            |\n| Chilblain like lesions                               |                        |                            |\n| Myocarditis / Pericarditis                          |                        |                            |# 5 - MEDICAL HISTORYPlease provide a detailed description of the client's medical history (e.g.",
+      "char_count": 4982,
+      "token_estimate": 1245,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t13-ontario-aefiform_c4a9c69e3d1c_chunk_007_031ea40d",
+      "doc_id": "ipc7-p10-t13-ontario-aefiform_c4a9c69e3d1c",
+      "chunk_index": 7,
+      "text": "hives) |                       |                   |\n| Neurologic Events |                       |                   |\n| Convulsions / seizure |                       |                   |\n| Encephalopathy / encephalitis* |                       |                   |\n| Meningitis* |                       |                   |### Systemic Reactions| Event Description | Time to onset of event | Duration of event |\n|-------------------|-----------------------|-------------------|\n| Fever greater than 38.0ºC (Only reportable in conjunction with another event) |                       |                   |\n| Rash |                       |                   |\n| Adenopathy / lymphadenopathy* |                       |                   |\n| Hypotonic-hyporesponsive episode (HHE)* |                       |                   |\n| Persistent crying / screaming |                       |                   |\n| Severe vomiting / diarrhea (3 episodes/24 hours) |                       |                   |\n| Parotitis* |                       |                   |\n| Other events of interest |                       |                   |\n| Thrombocytopenia* |                       |                   |\n| Arthritis / arthralgia |                       |                   |\n| Syncope (fainting) with injury |                       |                   |\n| Other severe or unusual events |                       |                   |**Page 1/3**\nDescribe all events in Section 6# 4 - COVID-19 ADVERSE EVENT(S) OF SPECIAL INTERESTIn addition to the adverse events listed on the page one, please indicate occurrence of any of the following reactions associated with administration of COVID-19 vaccine. These reactions should only be used for AEFIs reported following receipt of COVID-19 vaccine.| COVID-19 AESI                                      | Time to onset          | Duration of event          |\n|----------------------------------------------------|------------------------|----------------------------|\n| Vaccine-associated enhanced disease                  |                        |                            |\n| Multisystem inflammatory syndrome in children or adults |                        |                            |\n| Acute respiratory distress syndrome                  |                        |                            |\n| Acute cardiovascular injury                          |                        |                            |\n| Coagulation disorder (including thrombotic events) |                        |                            |\n| Thrombosis with Thrombocytopenia Syndrome / Vaccine-Induced Immune Thrombotic Thrombocytopenia | | |\n| Acute kidney injury                                  |                        |                            |\n| Acute liver injury                                   |                        |                            |\n| Acute pancreatitis                                   |                        |                            |\n| Anosmia and/or ageusia                              |                        |                            |\n| Rhabdomyolysis                                      |                        |                            |\n| Single organ cutaneous vasculitis                   |                        |                            |\n| Subacute thyroiditis                                 |                        |                            |\n| Erythema multiforme                                  |                        |                            |\n| Chilblain like lesions                               |                        |                            |\n| Myocarditis / Pericarditis                          |                        |                            |# 5 - MEDICAL HISTORYPlease provide a detailed description of the client's medical history (e.g. immunocompromised, chronic illness / underlying medical conditions), concomitant medications, history of allergies.Pregnant at the time of immunization:\n- Yes\n- No\n- UnknownIf yes, gestation (weeks):# 6 - COMMENTS FURTHER DESCRIBING THE ADVERSE EVENT(S)Please provide a detailed description of the event including all signs and symptoms, investigation, treatment, hospitalization details, and description of previous history of AEFI or immunization error if indicated in Section 2.# 7 - HEALTH CARE UTILIZATION & OUTCOMEPlease provide information about health care utilization related to the event.",
+      "char_count": 4465,
+      "token_estimate": 1116,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t13-ontario-aefiform_c4a9c69e3d1c_chunk_008_0f0589c6",
+      "doc_id": "ipc7-p10-t13-ontario-aefiform_c4a9c69e3d1c",
+      "chunk_index": 8,
+      "text": "These reactions should only be used for AEFIs reported following receipt of COVID-19 vaccine.| COVID-19 AESI                                      | Time to onset          | Duration of event          |\n|----------------------------------------------------|------------------------|----------------------------|\n| Vaccine-associated enhanced disease                  |                        |                            |\n| Multisystem inflammatory syndrome in children or adults |                        |                            |\n| Acute respiratory distress syndrome                  |                        |                            |\n| Acute cardiovascular injury                          |                        |                            |\n| Coagulation disorder (including thrombotic events) |                        |                            |\n| Thrombosis with Thrombocytopenia Syndrome / Vaccine-Induced Immune Thrombotic Thrombocytopenia | | |\n| Acute kidney injury                                  |                        |                            |\n| Acute liver injury                                   |                        |                            |\n| Acute pancreatitis                                   |                        |                            |\n| Anosmia and/or ageusia                              |                        |                            |\n| Rhabdomyolysis                                      |                        |                            |\n| Single organ cutaneous vasculitis                   |                        |                            |\n| Subacute thyroiditis                                 |                        |                            |\n| Erythema multiforme                                  |                        |                            |\n| Chilblain like lesions                               |                        |                            |\n| Myocarditis / Pericarditis                          |                        |                            |# 5 - MEDICAL HISTORYPlease provide a detailed description of the client's medical history (e.g. immunocompromised, chronic illness / underlying medical conditions), concomitant medications, history of allergies.Pregnant at the time of immunization:\n- Yes\n- No\n- UnknownIf yes, gestation (weeks):# 6 - COMMENTS FURTHER DESCRIBING THE ADVERSE EVENT(S)Please provide a detailed description of the event including all signs and symptoms, investigation, treatment, hospitalization details, and description of previous history of AEFI or immunization error if indicated in Section 2.# 7 - HEALTH CARE UTILIZATION & OUTCOMEPlease provide information about health care utilization related to the event. Outcome to be updated by the Public Health unit when the investigation is complete.- Medical consultation:\n- Yes\n- No\n- Date (yyyy/mm/dd):\n- Name and address of health professional attending the event:- Seen in emergency department:\n- Yes\n- No\n- Date (yyyy/mm/dd):\n- Name and address of facility where the event was attended to:- Admitted to hospital because of event:\n- Yes\n- No\n- Admission Date (yyyy/mm/dd):\n- Discharge Date (yyyy/mm/dd):**OUTCOME**\n- Recovered\n- Not yet recovered\n- Persistent or significant disability / incapacity (describe below)\n- Unknown\n- Death (describe below)Describe:\nDate of outcome (yyyy/mm/dd):The personal health information provided on this form is collected under the authority of the Health Protection and Promotion Act and O.",
+      "char_count": 3534,
+      "token_estimate": 883,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t13-ontario-aefiform_c4a9c69e3d1c_chunk_009_4f6d37c4",
+      "doc_id": "ipc7-p10-t13-ontario-aefiform_c4a9c69e3d1c",
+      "chunk_index": 9,
+      "text": "immunocompromised, chronic illness / underlying medical conditions), concomitant medications, history of allergies.Pregnant at the time of immunization:\n- Yes\n- No\n- UnknownIf yes, gestation (weeks):# 6 - COMMENTS FURTHER DESCRIBING THE ADVERSE EVENT(S)Please provide a detailed description of the event including all signs and symptoms, investigation, treatment, hospitalization details, and description of previous history of AEFI or immunization error if indicated in Section 2.# 7 - HEALTH CARE UTILIZATION & OUTCOMEPlease provide information about health care utilization related to the event. Outcome to be updated by the Public Health unit when the investigation is complete.- Medical consultation:\n- Yes\n- No\n- Date (yyyy/mm/dd):\n- Name and address of health professional attending the event:- Seen in emergency department:\n- Yes\n- No\n- Date (yyyy/mm/dd):\n- Name and address of facility where the event was attended to:- Admitted to hospital because of event:\n- Yes\n- No\n- Admission Date (yyyy/mm/dd):\n- Discharge Date (yyyy/mm/dd):**OUTCOME**\n- Recovered\n- Not yet recovered\n- Persistent or significant disability / incapacity (describe below)\n- Unknown\n- Death (describe below)Describe:\nDate of outcome (yyyy/mm/dd):The personal health information provided on this form is collected under the authority of the Health Protection and Promotion Act and O. Reg 569.",
+      "char_count": 1371,
+      "token_estimate": 342,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t13-ontario-aefiform_c4a9c69e3d1c_chunk_010_d9d493b6",
+      "doc_id": "ipc7-p10-t13-ontario-aefiform_c4a9c69e3d1c",
+      "chunk_index": 10,
+      "text": "Outcome to be updated by the Public Health unit when the investigation is complete.- Medical consultation:\n- Yes\n- No\n- Date (yyyy/mm/dd):\n- Name and address of health professional attending the event:- Seen in emergency department:\n- Yes\n- No\n- Date (yyyy/mm/dd):\n- Name and address of facility where the event was attended to:- Admitted to hospital because of event:\n- Yes\n- No\n- Admission Date (yyyy/mm/dd):\n- Discharge Date (yyyy/mm/dd):**OUTCOME**\n- Recovered\n- Not yet recovered\n- Persistent or significant disability / incapacity (describe below)\n- Unknown\n- Death (describe below)Describe:\nDate of outcome (yyyy/mm/dd):The personal health information provided on this form is collected under the authority of the Health Protection and Promotion Act and O. Reg 569. The personal health information is used to signal adverse events that may require more in-depth investigation and to ensure the continued safety of vaccines on the Canadian market by monitoring adverse events following immunization with vaccines. The information collected may be shared with the Public Health Agency of Canada.",
+      "char_count": 1100,
+      "token_estimate": 275,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t13-ontario-aefiform_c4a9c69e3d1c_chunk_011_5f03df26",
+      "doc_id": "ipc7-p10-t13-ontario-aefiform_c4a9c69e3d1c",
+      "chunk_index": 11,
+      "text": "The personal health information is used to signal adverse events that may require more in-depth investigation and to ensure the continued safety of vaccines on the Canadian market by monitoring adverse events following immunization with vaccines. The information collected may be shared with the Public Health Agency of Canada. If you have questions about the collection of this personal health information please contact your local public health unit.Client last name:\nDate of Birth (yyyy/mm/dd):\nGiven name(s):# FOR PUBLIC HEALTH UNIT USE ONLY - DO NOT TRANSMIT## 8 - MEDICAL OFFICER OF HEALTH / ASSOCIATE MEDICAL OFFICER OF HEALTH (A / MOH) RECOMMENDATIONSFor Public Health Unit use only.",
+      "char_count": 691,
+      "token_estimate": 172,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t13-ontario-aefiform_c4a9c69e3d1c_chunk_012_2052c7c2",
+      "doc_id": "ipc7-p10-t13-ontario-aefiform_c4a9c69e3d1c",
+      "chunk_index": 12,
+      "text": "The information collected may be shared with the Public Health Agency of Canada. If you have questions about the collection of this personal health information please contact your local public health unit.Client last name:\nDate of Birth (yyyy/mm/dd):\nGiven name(s):# FOR PUBLIC HEALTH UNIT USE ONLY - DO NOT TRANSMIT## 8 - MEDICAL OFFICER OF HEALTH / ASSOCIATE MEDICAL OFFICER OF HEALTH (A / MOH) RECOMMENDATIONSFor Public Health Unit use only. To be completed by the MOH or designate.### Check all that apply:- No recommendation\n- No change to immunization schedule\n- Determine protective antibody levels (Specify)\n- Active follow-up for AEFI recurrence after next vaccine\n- Controlled setting for next immunization\n- Expert referral (Specify)\n- No further immunization\n- (Contraindication or series complete - Specify)\n- Other (Specify)### Medical Officer of Health (MOH) or Designate- **Name:**\n- **Date (yyyy/mm/dd):**\n- **Signature:**----**Page 3/3**\n**Updated October 2021**",
+      "char_count": 980,
+      "token_estimate": 245,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

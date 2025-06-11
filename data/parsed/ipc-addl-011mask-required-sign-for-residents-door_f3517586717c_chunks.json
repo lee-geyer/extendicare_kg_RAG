@@ -1,0 +1,18 @@
+{
+  "doc_id": "ipc-addl-011mask-required-sign-for-residents-door_f3517586717c",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "ipc-addl-011mask-required-sign-for-residents-door_f3517586717c_chunk_000_5dfb034b",
+      "doc_id": "ipc-addl-011mask-required-sign-for-residents-door_f3517586717c",
+      "chunk_index": 0,
+      "text": "```markdown\n\n# Mask Required Policy**Please respect the choices of others.**## Extendicare\nHelping people live better\n```",
+      "char_count": 121,
+      "token_estimate": 30,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

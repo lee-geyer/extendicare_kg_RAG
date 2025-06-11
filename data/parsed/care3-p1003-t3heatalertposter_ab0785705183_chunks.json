@@ -1,0 +1,18 @@
+{
+  "doc_id": "care3-p1003-t3heatalertposter_ab0785705183",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "care3-p1003-t3heatalertposter_ab0785705183_chunk_000_33115e6d",
+      "doc_id": "care3-p1003-t3heatalertposter_ab0785705183",
+      "chunk_index": 0,
+      "text": "# Heat Related Illness## Warning Signs to Watch For### Heat Exhaustion\n- Heavy sweating\n- Paleness\n- Muscle cramps\n- Tiredness\n- Weakness\n- Dizziness\n- Headache\n- Nausea or vomiting\n- Fainting## Tips to Avoid Heat Related Illness### Heat Alert (26-29ºC)\n- Report any resident discomfort\n- Offer and record extra fluids between meals/nourishments\n- Keep shades, blinds, and curtains closed if possible\n- Ensure residents are dressed appropriately if outside\n- Limit outdoor activities to cooler times and to shaded areas### Heightened Heat Alert (30-39ºC)\n- Report any resident discomfort\n- Encourage residents to wear lightweight clothing (cotton preferred)\n- Continue to offer and record extra fluids between meals/nourishments\n- Remove extra blankets from beds with resident permission\n- Reschedule outdoor programs or planned outings if possible\n- More fluid/breaks initiated for team members### Heat Stroke\n- An extremely high body temperature (above 39.4°C)\n- Red, hot, and dry skin (no sweating)\n- Rapid, strong pulse\n- Throbbing headache\n- Dizziness\n- Nausea\n- Confusion\n- Unconsciousness### Extreme Heat Alert (40-45ºC)\n- Report any resident discomfort\n- Continue to encourage residents to wear lightweight clothing (cotton preferred)\n- Continue to offer and record extra fluids between meals/nourishments\n- More fluid/breaks initiated for team members\n- Cancel outdoor programs and planned outings",
+      "char_count": 1406,
+      "token_estimate": 351,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

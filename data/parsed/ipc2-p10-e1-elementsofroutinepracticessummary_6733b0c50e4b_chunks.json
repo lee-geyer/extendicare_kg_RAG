@@ -1,0 +1,42 @@
+{
+  "doc_id": "ipc2-p10-e1-elementsofroutinepracticessummary_6733b0c50e4b",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "ipc2-p10-e1-elementsofroutinepracticessummary_6733b0c50e4b_chunk_000_50b87e5c",
+      "doc_id": "ipc2-p10-e1-elementsofroutinepracticessummary_6733b0c50e4b",
+      "chunk_index": 0,
+      "text": "# Extendicare## ELEMENTS OF ROUTINE PRACTICES SUMMARY| Question                                                                                          | Yes/No | Comments |\n|---------------------------------------------------------------------------------------------------|--------|----------|\n| Is the equipment needed to provide Resident care clean and ready to use? |        |          |\n| Are a waste receptacle and linen basket available where needed? |        |          |\n| Do the waste receptacle and linen basket need to be emptied? |        |          |\n| Is the environment clean? |        |          |\n| Will I need to use sharps while providing care? |        |          |\n| If so, is there a sharps container readily available at point of use? |        |          |\n| Is the sharps container full? Does it need to be replaced? |        |          |\n| Does the Resident have any change in condition that warrants further assessment such as a change in chronic cough or new cough, diarrhea, rash or fever? |        |          |\n| Are the proper supplies available in the room (e.g., tissues, waste receptacle, ABHR)?",
+      "char_count": 1131,
+      "token_estimate": 282,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-e1-elementsofroutinepracticessummary_6733b0c50e4b_chunk_001_749b45e2",
+      "doc_id": "ipc2-p10-e1-elementsofroutinepracticessummary_6733b0c50e4b",
+      "chunk_index": 1,
+      "text": "|        |          |\n| Does the Resident have any change in condition that warrants further assessment such as a change in chronic cough or new cough, diarrhea, rash or fever? |        |          |\n| Are the proper supplies available in the room (e.g., tissues, waste receptacle, ABHR)? |        |          |\n| Does the Resident perform respiratory and hand hygiene adequately? |        |          |\n| Does the Resident’s diagnosis require any limitations on activities? Is he/she aware of them and able to comply? |        |          |\n| Does the Resident’s change in condition warrant a room change? |        |          |\n| Is the neighbouring Resident a suitable roommate? |        |          |\n| Are visitors who might transmit an infectious agent to the Resident restricted from visiting or wearing appropriate PPE if visiting? |        |          |\n| Do I need to use aseptic technique? |        |          |\n| Am I going to need to wash my hands instead of using ABHR? |        |          |\n| If hand washing is required, can I locate the nearest designated hand washing sink? |        |          |\n| Do I have the necessary skills? |        |          |\n| Do I have all the supplies needed?",
+      "char_count": 1199,
+      "token_estimate": 299,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-e1-elementsofroutinepracticessummary_6733b0c50e4b_chunk_002_9777f1ba",
+      "doc_id": "ipc2-p10-e1-elementsofroutinepracticessummary_6733b0c50e4b",
+      "chunk_index": 2,
+      "text": "|        |          |\n| Do I have the necessary skills? |        |          |\n| Do I have all the supplies needed? |        |          |### Legend\n- **ABHR** = Alcohol-based hand rub\n- **PPE** = Personal protective equipment**Note:**\n- Yellow indicates that a risk assessment should be performed prior to every interaction. - Purple indicates that a risk assessment should be performed at least each shift and as needed.----**Source:** Public Health Agency of Canada. (2012). Routine practices and additional precautions assessment and education tools. Retrieved from http://chica.org/pdf/2013_PHAC-RPAP_Tools_eng.pdf----Helping people live better",
+      "char_count": 647,
+      "token_estimate": 161,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

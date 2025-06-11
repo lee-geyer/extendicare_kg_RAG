@@ -1,0 +1,30 @@
+{
+  "doc_id": "evs2-p1009cchairstableloungefurniturecleaning_4a690e2d9790",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "evs2-p1009cchairstableloungefurniturecleaning_4a690e2d9790_chunk_000_a398a5bb",
+      "doc_id": "evs2-p1009cchairstableloungefurniturecleaning_4a690e2d9790",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Environmental Services\n**INDEX:** EVS2-P10.09C\n**SECTION:** Cleaning and Organization - Housekeeping\n**EFFECTIVE DATE:** March 18, 2025\n**REVIEWED DATE:** March 7, 2025\n**APPROVED BY:** Senior Director, Operational Quality and Professional Practice\n**MODIFIED DATE:** May 14, 2025----## POLICY### Cleaning and Organization## PROCEDURE- Chairs, tables, and lounge furniture will be checked and spot cleaned for soils on a regular schedule. - Frequency is daily during regular cleaning schedule or on deep cleaning schedule of the area.### Collect the following:- bottle or bucket with disinfectant cleaner\n- bottle with all-purpose cleaner/detergent\n- cleaning cloths\n- scrub pad/scrub brush\n- disposable gloves### CHAIRS, TABLE AND LOUNGE FURNITURE CLEANING:- Wear appropriate personal protective equipment (PPE). - Apply disinfectant cleaner to furniture. - Wipe furniture completely with clean cloth. - Use a back-and-forth motion. - Change cleaning cloth frequently. - Clean legs and arms with disinfectant. - Remove stubborn soil with scrubbing tools and all-purpose cleaner. - Dry furniture with clean cloth.",
+      "char_count": 1150,
+      "token_estimate": 287,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1009cchairstableloungefurniturecleaning_4a690e2d9790_chunk_001_2ef3249f",
+      "doc_id": "evs2-p1009cchairstableloungefurniturecleaning_4a690e2d9790",
+      "chunk_index": 1,
+      "text": "- Remove stubborn soil with scrubbing tools and all-purpose cleaner. - Dry furniture with clean cloth. - Report any damaged, torn, or ripped furnishing to manager.----Helping people live betterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 1 of 1",
+      "char_count": 527,
+      "token_estimate": 131,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

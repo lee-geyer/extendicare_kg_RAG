@@ -1,0 +1,66 @@
+{
+  "doc_id": "evs3-p1012laundrydonebyfamily_2e0a56c58b1f",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": "evs3-p1012laundrydonebyfamily_2e0a56c58b1f_chunk_000_e36357f8",
+      "doc_id": "evs3-p1012laundrydonebyfamily_2e0a56c58b1f",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE\n- **MANUAL:** Environmental Services\n- **INDEX:** EVS3-P10.12\n- **SECTION:** Personal Clothing and Linen Processes-Laundry\n- **EFFECTIVE DATE:** March 18, 2025\n- **REVIEWED DATE:** March 7, 2025\n- **APPROVED BY:** Senior Director, Operational Quality and Professional Practice\n- **MODIFIED DATE:** May 14, 2025----## POLICY\n\n### Personal Clothing and Linen Processes## PROCEDURE### Manager or Designate:\n- Notify the Director of Care/Designate and registered staff on the home area if care staff continue to send clothing to the laundry when the clothing is meant to be washed by the family. - Inform the Laundry Department when changes are made regarding provision of laundry services in-house. - Ensure copies of the Family Does Laundry signage are available at the Nurses’ Station for care staff to access. - A container for collecting soiled laundry must be provided by the family and placed in the resident's room. It must have a lid and an impermeable liner that will contain any liquids and odours. - A schedule for pick-up and delivery of the laundry must be agreed to and followed by the family member.### Move-In Team or Designate:\n- Notify the Support Services Manager/designate and Laundry Department of any resident whose family has chosen to take laundry home. - Work with care staff to come to an arrangement with the family for pick-up and delivery of clothing.",
+      "char_count": 1403,
+      "token_estimate": 350,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs3-p1012laundrydonebyfamily_2e0a56c58b1f_chunk_002_907531bd",
+      "doc_id": "evs3-p1012laundrydonebyfamily_2e0a56c58b1f",
+      "chunk_index": 2,
+      "text": "- A schedule for pick-up and delivery of the laundry must be agreed to and followed by the family member.### Move-In Team or Designate:\n- Notify the Support Services Manager/designate and Laundry Department of any resident whose family has chosen to take laundry home. - Work with care staff to come to an arrangement with the family for pick-up and delivery of clothing. - Place the container(s) for soiled laundry provided by the family in the resident’s room in a location agreed to by the home.### Care Staff:\n- Record the laundry delivery schedule and arrangements on the resident’s plan of care. - Discuss with the family any problems that arise from the arrangement, such as insufficient clothing or issues with the container provided by the family. - Include Director of Care/designate if needed. - Place the Family Does Laundry signage on the resident’s closet in a visible location to notify care staff that laundry should not be collected.----> **Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1035,
+      "token_estimate": 258,
+      "section_title": "Personal Clothing and Linen Processes## PROCEDURE### Manager or Designate:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs3-p1012laundrydonebyfamily_2e0a56c58b1f_chunk_003_038f5892",
+      "doc_id": "evs3-p1012laundrydonebyfamily_2e0a56c58b1f",
+      "chunk_index": 3,
+      "text": "- Place the Family Does Laundry signage on the resident’s closet in a visible location to notify care staff that laundry should not be collected.----> **Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 2**```markdown",
+      "char_count": 513,
+      "token_estimate": 128,
+      "section_title": "Personal Clothing and Linen Processes## PROCEDURE### Manager or Designate:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs3-p1012laundrydonebyfamily_2e0a56c58b1f_chunk_004_9195ae8b",
+      "doc_id": "evs3-p1012laundrydonebyfamily_2e0a56c58b1f",
+      "chunk_index": 4,
+      "text": "# PROCEDURE## SECTION: Personal Clothing and Linen Processes - Laundry\n\n### DESCRIPTION: Laundry Done by Family",
+      "char_count": 111,
+      "token_estimate": 27,
+      "section_title": "PROCEDURE## SECTION: Personal Clothing and Linen Processes - Laundry",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs3-p1012laundrydonebyfamily_2e0a56c58b1f_chunk_006_769ac0ca",
+      "doc_id": "evs3-p1012laundrydonebyfamily_2e0a56c58b1f",
+      "chunk_index": 6,
+      "text": "### INDEX: EVS3-P10.12### Laundry Staff:\n- Label clothing according to the home’s procedure.\n- If the resident’s clothing is inadvertently sent to the laundry, inform the Manager/designate and make arrangements to return the clothing to the resident.### TOOLS\n\n1. Family Does Laundry Signage----> This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n```",
+      "char_count": 625,
+      "token_estimate": 156,
+      "section_title": "INDEX: EVS3-P10.12### Laundry Staff:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

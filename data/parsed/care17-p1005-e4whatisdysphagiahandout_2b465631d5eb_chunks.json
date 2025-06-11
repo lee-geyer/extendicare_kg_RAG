@@ -1,0 +1,138 @@
+{
+  "doc_id": "care17-p1005-e4whatisdysphagiahandout_2b465631d5eb",
+  "total_chunks": 11,
+  "chunks": [
+    {
+      "chunk_id": "care17-p1005-e4whatisdysphagiahandout_2b465631d5eb_chunk_000_d708f061",
+      "doc_id": "care17-p1005-e4whatisdysphagiahandout_2b465631d5eb",
+      "chunk_index": 0,
+      "text": "# Extendicare## What is Dysphagia? - Difficulty swallowing, or Dysphagia, is common for residents in long-term care. - Causes of Dysphagia include but are not limited to:\n- Stroke\n- Cerebral Palsy\n- Parkinson’s disease\n- Dementia\n- Multiple Sclerosis\n- People with Dysphagia may experience:\n- Coughing\n- Choking\n- Aspiration when eating or drinking\n- Difficulty chewing may also occur, which can further compromise swallowing.",
+      "char_count": 426,
+      "token_estimate": 106,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p1005-e4whatisdysphagiahandout_2b465631d5eb_chunk_001_417c4274",
+      "doc_id": "care17-p1005-e4whatisdysphagiahandout_2b465631d5eb",
+      "chunk_index": 1,
+      "text": "- Difficulty swallowing, or Dysphagia, is common for residents in long-term care. - Causes of Dysphagia include but are not limited to:\n- Stroke\n- Cerebral Palsy\n- Parkinson’s disease\n- Dementia\n- Multiple Sclerosis\n- People with Dysphagia may experience:\n- Coughing\n- Choking\n- Aspiration when eating or drinking\n- Difficulty chewing may also occur, which can further compromise swallowing. Dysphagia may lead to health complications such as:\n- Malnutrition\n- Dehydration\n- Aspiration pneumonia## Signs of Chewing and/or Swallowing Difficulty\n- Avoidance of hard to chew/swallow foods\n- Food or fluid leaking from the nose after swallowing\n- Extra effort chewing or swallowing/increased time required for meal\n- Pocketing food in the cheeks/spitting out/removing food from mouth\n- Excessive chewing with no swallow initiation or delayed swallow\n- Swallowing multiple times for a single mouthful of food\n- Shortness of breath during eating\n- Coughing, throat clearing, or choking while eating or drinking\n- Drooling\n- Refusing to eat or drink\n- Complaints of pain or discomfort when eating or drinking\n- Unplanned weight loss\n- Dehydration\n- Increased congestion in the chest after eating or drinking\n- Repeated bouts of pneumonia## Aspiration\nMost people will cough if a foreign material (food, fluid, saliva, stomach contents) enters the airway/lungs (aspiration).",
+      "char_count": 1366,
+      "token_estimate": 341,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p1005-e4whatisdysphagiahandout_2b465631d5eb_chunk_002_d466adc7",
+      "doc_id": "care17-p1005-e4whatisdysphagiahandout_2b465631d5eb",
+      "chunk_index": 2,
+      "text": "- Causes of Dysphagia include but are not limited to:\n- Stroke\n- Cerebral Palsy\n- Parkinson’s disease\n- Dementia\n- Multiple Sclerosis\n- People with Dysphagia may experience:\n- Coughing\n- Choking\n- Aspiration when eating or drinking\n- Difficulty chewing may also occur, which can further compromise swallowing. Dysphagia may lead to health complications such as:\n- Malnutrition\n- Dehydration\n- Aspiration pneumonia## Signs of Chewing and/or Swallowing Difficulty\n- Avoidance of hard to chew/swallow foods\n- Food or fluid leaking from the nose after swallowing\n- Extra effort chewing or swallowing/increased time required for meal\n- Pocketing food in the cheeks/spitting out/removing food from mouth\n- Excessive chewing with no swallow initiation or delayed swallow\n- Swallowing multiple times for a single mouthful of food\n- Shortness of breath during eating\n- Coughing, throat clearing, or choking while eating or drinking\n- Drooling\n- Refusing to eat or drink\n- Complaints of pain or discomfort when eating or drinking\n- Unplanned weight loss\n- Dehydration\n- Increased congestion in the chest after eating or drinking\n- Repeated bouts of pneumonia## Aspiration\nMost people will cough if a foreign material (food, fluid, saliva, stomach contents) enters the airway/lungs (aspiration). The cough may be strong enough to remove the material and reduce the risk of developing pneumonia.",
+      "char_count": 1383,
+      "token_estimate": 345,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p1005-e4whatisdysphagiahandout_2b465631d5eb_chunk_003_185ba739",
+      "doc_id": "care17-p1005-e4whatisdysphagiahandout_2b465631d5eb",
+      "chunk_index": 3,
+      "text": "Dysphagia may lead to health complications such as:\n- Malnutrition\n- Dehydration\n- Aspiration pneumonia## Signs of Chewing and/or Swallowing Difficulty\n- Avoidance of hard to chew/swallow foods\n- Food or fluid leaking from the nose after swallowing\n- Extra effort chewing or swallowing/increased time required for meal\n- Pocketing food in the cheeks/spitting out/removing food from mouth\n- Excessive chewing with no swallow initiation or delayed swallow\n- Swallowing multiple times for a single mouthful of food\n- Shortness of breath during eating\n- Coughing, throat clearing, or choking while eating or drinking\n- Drooling\n- Refusing to eat or drink\n- Complaints of pain or discomfort when eating or drinking\n- Unplanned weight loss\n- Dehydration\n- Increased congestion in the chest after eating or drinking\n- Repeated bouts of pneumonia## Aspiration\nMost people will cough if a foreign material (food, fluid, saliva, stomach contents) enters the airway/lungs (aspiration). The cough may be strong enough to remove the material and reduce the risk of developing pneumonia. However, silent aspiration (aspirating without coughing or signs of distress) may occur in people with dysphagia.",
+      "char_count": 1187,
+      "token_estimate": 296,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p1005-e4whatisdysphagiahandout_2b465631d5eb_chunk_004_cf792652",
+      "doc_id": "care17-p1005-e4whatisdysphagiahandout_2b465631d5eb",
+      "chunk_index": 4,
+      "text": "The cough may be strong enough to remove the material and reduce the risk of developing pneumonia. However, silent aspiration (aspirating without coughing or signs of distress) may occur in people with dysphagia. Chest congestion and repeated bouts of pneumonia may be signals.----**Heping peopie**\n**Ive 64#**\nThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n**Page 1 of 3**# What is Dysphagia?## Management of Dysphagia- The Registered Dietitian (RD) will assess the resident’s chewing and swallowing ability; a referral will be made to a Speech Language Pathologist (SLP) if required or an RD is unavailable. - Self-feeding or feeding techniques may be adjusted to increase ease of chewing and/or swallowing. - A texture modified diet and/or thickened fluids may be suggested to ease chewing/swallowing and reduce the risk of choking and/or aspiration.",
+      "char_count": 1129,
+      "token_estimate": 282,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p1005-e4whatisdysphagiahandout_2b465631d5eb_chunk_005_c82e500a",
+      "doc_id": "care17-p1005-e4whatisdysphagiahandout_2b465631d5eb",
+      "chunk_index": 5,
+      "text": "- Self-feeding or feeding techniques may be adjusted to increase ease of chewing and/or swallowing. - A texture modified diet and/or thickened fluids may be suggested to ease chewing/swallowing and reduce the risk of choking and/or aspiration. - Texture modified diets and thickened fluids are prepared from regular menu items and contain similar calories and nutrients.### Common modified food textures include:#### Minced texture:\n- Foods are minced, ground, finely chopped, mashed, or grated in a moist form that requires little or no chewing. Soft breads are included. Toast without crust may be considered appropriate for a minced texture.#### Pureed texture:\n- Foods are pureed to form a smooth homogenous consistency with the use of a blender or food processor. Items such as pudding or apple sauce are served in their original form.#### Thickened fluid/liquids:\n- Starch or gum-based thickeners are used in hot or cold fluids to reach the desired consistency which may be handled better than thin.",
+      "char_count": 1005,
+      "token_estimate": 251,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p1005-e4whatisdysphagiahandout_2b465631d5eb_chunk_006_89a2d1bc",
+      "doc_id": "care17-p1005-e4whatisdysphagiahandout_2b465631d5eb",
+      "chunk_index": 6,
+      "text": "Toast without crust may be considered appropriate for a minced texture.#### Pureed texture:\n- Foods are pureed to form a smooth homogenous consistency with the use of a blender or food processor. Items such as pudding or apple sauce are served in their original form.#### Thickened fluid/liquids:\n- Starch or gum-based thickeners are used in hot or cold fluids to reach the desired consistency which may be handled better than thin. Consistencies include:\n- Thin/Regular\n- Mildly Thick/nectar-like\n- Moderately thick/honey-like\n- Extremely thick/pudding-like.- The RD/SLP/OT (Occupational Therapist) may also recommend assistive feeding devices such as special utensils, cups, and/or plates to assist the resident to eat and drink more safely and easily.----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 1073,
+      "token_estimate": 268,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p1005-e4whatisdysphagiahandout_2b465631d5eb_chunk_007_387d181d",
+      "doc_id": "care17-p1005-e4whatisdysphagiahandout_2b465631d5eb",
+      "chunk_index": 7,
+      "text": "will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 2 of 3**# What is Dysphagia?## Common Difficult to Swallow Foods| Foods with Small Pits | Sticky Foods       | Food that DO NOT Easily Form a Bolus | Food Containing Two or More Consistencies | Food with Stringy Fibers |\n|-----------------------|--------------------|---------------------------------------|-------------------------------------------|--------------------------|\n| • Olives              | • Peanut butter     | • Plain ground meats                  | • Soup containing vegetables, meat, macaroni, or rice | • Celery                 |\n| • Cherries            | • Sticky buns       | • Applesauce                          | • Yogurt with chopped fruit               | • Spinach                |\n| • Grapes              | • Thick caramel     | • Raw fruit and vegetables            | • Citrus fruit                            | • Asparagus              |\n| • Citrus              | • Fudge sauce       | • Cold cereal                         | • Thin stews or casseroles                | • String beans           |\n|                       | • Butterscotch sauce| • Cereal with fruits or nuts         | • Cottage cheese                          |                          |\n|                       | • Dry mashed potato | • Nuts and seeds                      | • Un-drained canned fruit                 |                          |\n|                       | • Fresh white bread | • Dry crackers                        | • Plain rice                              |                          |\n|                       | • Bagels            | • Popcorn                             |                                           |                          |\n|                       | • Raisins           | • Corn or peas                        |                                           |                          |\n|                       | • Mixed vegetables   |                                       |                                           |                          |The above foods may be modified in texture or removed from the menu offered to the resident to accommodate their individual needs.",
+      "char_count": 2373,
+      "token_estimate": 593,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p1005-e4whatisdysphagiahandout_2b465631d5eb_chunk_008_01c84498",
+      "doc_id": "care17-p1005-e4whatisdysphagiahandout_2b465631d5eb",
+      "chunk_index": 8,
+      "text": "Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 2 of 3**# What is Dysphagia?## Common Difficult to Swallow Foods| Foods with Small Pits | Sticky Foods       | Food that DO NOT Easily Form a Bolus | Food Containing Two or More Consistencies | Food with Stringy Fibers |\n|-----------------------|--------------------|---------------------------------------|-------------------------------------------|--------------------------|\n| • Olives              | • Peanut butter     | • Plain ground meats                  | • Soup containing vegetables, meat, macaroni, or rice | • Celery                 |\n| • Cherries            | • Sticky buns       | • Applesauce                          | • Yogurt with chopped fruit               | • Spinach                |\n| • Grapes              | • Thick caramel     | • Raw fruit and vegetables            | • Citrus fruit                            | • Asparagus              |\n| • Citrus              | • Fudge sauce       | • Cold cereal                         | • Thin stews or casseroles                | • String beans           |\n|                       | • Butterscotch sauce| • Cereal with fruits or nuts         | • Cottage cheese                          |                          |\n|                       | • Dry mashed potato | • Nuts and seeds                      | • Un-drained canned fruit                 |                          |\n|                       | • Fresh white bread | • Dry crackers                        | • Plain rice                              |                          |\n|                       | • Bagels            | • Popcorn                             |                                           |                          |\n|                       | • Raisins           | • Corn or peas                        |                                           |                          |\n|                       | • Mixed vegetables   |                                       |                                           |                          |The above foods may be modified in texture or removed from the menu offered to the resident to accommodate their individual needs. Foods that are cohesive, highly flavorful, and foods with temperature extremes may be easier for a resident with chewing and/or swallowing difficulties to manipulate.----This document is uncontrolled when printed.",
+      "char_count": 2411,
+      "token_estimate": 602,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p1005-e4whatisdysphagiahandout_2b465631d5eb_chunk_009_83568021",
+      "doc_id": "care17-p1005-e4whatisdysphagiahandout_2b465631d5eb",
+      "chunk_index": 9,
+      "text": "© 2025----**Page 2 of 3**# What is Dysphagia?## Common Difficult to Swallow Foods| Foods with Small Pits | Sticky Foods       | Food that DO NOT Easily Form a Bolus | Food Containing Two or More Consistencies | Food with Stringy Fibers |\n|-----------------------|--------------------|---------------------------------------|-------------------------------------------|--------------------------|\n| • Olives              | • Peanut butter     | • Plain ground meats                  | • Soup containing vegetables, meat, macaroni, or rice | • Celery                 |\n| • Cherries            | • Sticky buns       | • Applesauce                          | • Yogurt with chopped fruit               | • Spinach                |\n| • Grapes              | • Thick caramel     | • Raw fruit and vegetables            | • Citrus fruit                            | • Asparagus              |\n| • Citrus              | • Fudge sauce       | • Cold cereal                         | • Thin stews or casseroles                | • String beans           |\n|                       | • Butterscotch sauce| • Cereal with fruits or nuts         | • Cottage cheese                          |                          |\n|                       | • Dry mashed potato | • Nuts and seeds                      | • Un-drained canned fruit                 |                          |\n|                       | • Fresh white bread | • Dry crackers                        | • Plain rice                              |                          |\n|                       | • Bagels            | • Popcorn                             |                                           |                          |\n|                       | • Raisins           | • Corn or peas                        |                                           |                          |\n|                       | • Mixed vegetables   |                                       |                                           |                          |The above foods may be modified in texture or removed from the menu offered to the resident to accommodate their individual needs. Foods that are cohesive, highly flavorful, and foods with temperature extremes may be easier for a resident with chewing and/or swallowing difficulties to manipulate.----This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 2367,
+      "token_estimate": 591,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p1005-e4whatisdysphagiahandout_2b465631d5eb_chunk_010_5bdb99ff",
+      "doc_id": "care17-p1005-e4whatisdysphagiahandout_2b465631d5eb",
+      "chunk_index": 10,
+      "text": "Foods that are cohesive, highly flavorful, and foods with temperature extremes may be easier for a resident with chewing and/or swallowing difficulties to manipulate.----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 3 of 3**",
+      "char_count": 511,
+      "token_estimate": 127,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

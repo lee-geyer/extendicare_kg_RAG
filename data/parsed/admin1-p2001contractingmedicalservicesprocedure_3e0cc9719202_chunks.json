@@ -1,0 +1,65 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "admin1-p2001contractingmedicalservicesprocedure_3e0cc9719202_chunk_000_d345e2a9",
+      "doc_id": "admin1-p2001contractingmedicalservicesprocedure_3e0cc9719202",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Administration\n**INDEX:** ADMIN1-P20.01\n**SECTION:** Medical and Professional Services\n**EFFECTIVE DATE:** July 14, 2025\n**REVIEWED DATE:** July 8, 2025\n**APPROVED BY:** VP, LTC Operations\n**MODIFIED DATE:**----# POLICY## Contracting Medical Services### PROCEDUREApplicable to all Extendicare homes: the home’s Executive Director or designate are responsible for each of the procedures listed below.1. Ensure there is a signed contract with the Medical Director and Attending Physician(s), and that the signed contract is updated as required.",
+      "char_count": 579,
+      "token_estimate": 144,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 6
+    },
+    {
+      "chunk_id": "admin1-p2001contractingmedicalservicesprocedure_3e0cc9719202_chunk_001_f7d7ee5a",
+      "doc_id": "admin1-p2001contractingmedicalservicesprocedure_3e0cc9719202",
+      "chunk_index": 1,
+      "text": "2. Verify the physician’s current membership certificate / registration (i.e., license to practice medicine in the applicable province as issued by the appropriate regulatory body) annually.\n\n3. Refer to the Medical Affairs Procedure ADMIN1-P10.01 to obtain the most current agreements for the province in which the home is located.Applicable to all Extendicare homes: the home’s Medical Director and physician(s) are responsible for each of the procedures listed below.1. Monitor and review medical services in the home.",
+      "char_count": 521,
+      "token_estimate": 130,
+      "section_title": "Verify the physician’s current membership certificate / registration (i.e., license to practice medicine in the applicable province as issued by the appropriate regulatory body) annually.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "admin1-p2001contractingmedicalservicesprocedure_3e0cc9719202_chunk_003_05138a54",
+      "doc_id": "admin1-p2001contractingmedicalservicesprocedure_3e0cc9719202",
+      "chunk_index": 3,
+      "text": "2. Monitor and analyze medication utilization.\n\n3. Investigate reportable safety incidents.",
+      "char_count": 91,
+      "token_estimate": 22,
+      "section_title": "Monitor and analyze medication utilization.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "admin1-p2001contractingmedicalservicesprocedure_3e0cc9719202_chunk_005_787d8012",
+      "doc_id": "admin1-p2001contractingmedicalservicesprocedure_3e0cc9719202",
+      "chunk_index": 5,
+      "text": "4. Participate in program planning, the review of policies, and making recommendations for improvement.\n\n5. Address concerns regarding medical practice.",
+      "char_count": 152,
+      "token_estimate": 38,
+      "section_title": "Participate in program planning, the review of policies, and making recommendations for improvement.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "admin1-p2001contractingmedicalservicesprocedure_3e0cc9719202_chunk_007_75868df8",
+      "doc_id": "admin1-p2001contractingmedicalservicesprocedure_3e0cc9719202",
+      "chunk_index": 7,
+      "text": "6. Communicate relevant regional medical policies to medical practitioners providing care in the home.----**Helping people live a better life**\nThis document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 1 of 1",
+      "char_count": 478,
+      "token_estimate": 119,
+      "section_title": "Communicate relevant regional medical policies to medical practitioners providing care in the home.----**Helping people live a better life**",
+      "chunk_type": "content",
+      "start_line": 13,
+      "end_line": 16
+    }
+  ],
+  "total_chunks": 5
+}

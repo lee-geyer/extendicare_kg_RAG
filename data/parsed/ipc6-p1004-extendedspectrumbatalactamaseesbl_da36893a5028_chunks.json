@@ -1,0 +1,54 @@
+{
+  "doc_id": "ipc6-p1004-extendedspectrumbatalactamaseesbl_da36893a5028",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "ipc6-p1004-extendedspectrumbatalactamaseesbl_da36893a5028_chunk_000_ec86222e",
+      "doc_id": "ipc6-p1004-extendedspectrumbatalactamaseesbl_da36893a5028",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Infection Prevention and Control\n**INDEX:** IPC6-P10.04\n**SECTION:** Multi-Drug-Resistant Organisms (MDROs)\n**DESCRIPTION:** Extended Spectrum Beta Lactamase (ESBL)\n**APPROVED BY:** Chief Medical Officer\n**EFFECTIVE DATE:** February 18, 2025\n**REVIEWED DATE:** February 11, 2025\n**MODIFIED DATE:** May 30, 2025----## POLICY### Multi-Drug-Resistant Organisms (MDROs)### PROCEDURE#### ScreeningWhen Extended Spectrum Beta Lactamase (ESBL) has been identified, appropriate surveillance and precautions will be put into place based on health authority direction. Surveillance screening for ESBL includes:- A stool specimen or rectal swab (stained with feces). - Urine specimen, if the resident is catheterized and/or ESBL has been identified in a urine culture.Specimens will be labelled as per protocols from the receiving laboratory. Laboratory results will be recorded in the health care record and HealthConnex (if applicable).#### Management and Treatment- Place a newly admitted resident with known risk factors and symptoms or a confirmed history of ESBL on Contact Precautions pending test results based on health authority direction.",
+      "char_count": 1175,
+      "token_estimate": 293,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p1004-extendedspectrumbatalactamaseesbl_da36893a5028_chunk_001_766109bc",
+      "doc_id": "ipc6-p1004-extendedspectrumbatalactamaseesbl_da36893a5028",
+      "chunk_index": 1,
+      "text": "- Urine specimen, if the resident is catheterized and/or ESBL has been identified in a urine culture.Specimens will be labelled as per protocols from the receiving laboratory. Laboratory results will be recorded in the health care record and HealthConnex (if applicable).#### Management and Treatment- Place a newly admitted resident with known risk factors and symptoms or a confirmed history of ESBL on Contact Precautions pending test results based on health authority direction. - For an ESBL infection, implement Contact Precautions as per health authority guidelines. - For an ESBL colonization, implement contact precautions for direct care. - Follow Testing Program for Multi-Drug Resistant Organism Algorithm for surveillance testing based on health authority direction.#### Retirement Specific:If ESBL is identified, it will be noted on the plan of care. Appropriate precautions will remain in place until it is cleared, or the resident moves out.#### Manitoba and Alberta Specific:- Admission and clearance testing for ESBL are not recommended.",
+      "char_count": 1055,
+      "token_estimate": 263,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p1004-extendedspectrumbatalactamaseesbl_da36893a5028_chunk_002_b670acb5",
+      "doc_id": "ipc6-p1004-extendedspectrumbatalactamaseesbl_da36893a5028",
+      "chunk_index": 2,
+      "text": "- Follow Testing Program for Multi-Drug Resistant Organism Algorithm for surveillance testing based on health authority direction.#### Retirement Specific:If ESBL is identified, it will be noted on the plan of care. Appropriate precautions will remain in place until it is cleared, or the resident moves out.#### Manitoba and Alberta Specific:- Admission and clearance testing for ESBL are not recommended. - Maintain routine practices; implement additional precautions if required.----## EDUCATIONHelplng people\nIva betterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----",
+      "char_count": 849,
+      "token_estimate": 212,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p1004-extendedspectrumbatalactamaseesbl_da36893a5028_chunk_003_707ba2f3",
+      "doc_id": "ipc6-p1004-extendedspectrumbatalactamaseesbl_da36893a5028",
+      "chunk_index": 3,
+      "text": "# PROCEDURE## SECTION: Multi-Drug Resistant Organisms (MDROs)### DESCRIPTION: Extended Spectrum Beta Lactamase (ESBL)### INDEX: IPC6-O10.041. **IPC6-P10-E1** - MDRO Guide\n\n2. **IPC6-P10-E4** - Extended Spectrum Beta Lactamase (ESBL) Fact Sheet## TOOLS1. **IPC6-P10-T2** - MDRO Risk Assessment----Helping people live betterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 2 of 2**",
+      "char_count": 663,
+      "token_estimate": 165,
+      "section_title": "PROCEDURE## SECTION: Multi-Drug Resistant Organisms (MDROs)### DESCRIPTION: Extended Spectrum Beta Lactamase (ESBL)### INDEX: IPC6-O10.041. **IPC6-P10-E1** - MDRO Guide",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

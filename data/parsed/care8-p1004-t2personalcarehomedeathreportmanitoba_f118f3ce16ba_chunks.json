@@ -1,0 +1,54 @@
+{
+  "doc_id": "care8-p1004-t2personalcarehomedeathreportmanitoba_f118f3ce16ba",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "care8-p1004-t2personalcarehomedeathreportmanitoba_f118f3ce16ba_chunk_000_38af3f78",
+      "doc_id": "care8-p1004-t2personalcarehomedeathreportmanitoba_f118f3ce16ba",
+      "chunk_index": 0,
+      "text": "# MANITOBA JUSTICE\n\n## OFFICE OF THE CHIEF MEDICAL EXAMINER",
+      "char_count": 59,
+      "token_estimate": 14,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care8-p1004-t2personalcarehomedeathreportmanitoba_f118f3ce16ba_chunk_002_d912de3d",
+      "doc_id": "care8-p1004-t2personalcarehomedeathreportmanitoba_f118f3ce16ba",
+      "chunk_index": 2,
+      "text": "### Personal Care Home Death Report Form – PAGE 1----**PLEASE PRINT**- **FULL NAME OF DECEASED:** _________________________________________________________\n- **GENDER:** __________\n- **DATE OF BIRTH:** ______________________\n- **DATE OF DEATH:** _______________________________\n- **AGE:** ___________\n- **NAME OF FACILITY:** ________________________________________________________________________________\n- **ADDRESS:** _______________________________________________________________\n- **TEL NO:** ___________________\n- **ATTENDING PHYSICIAN:** __________________________________________________\n- **TEL NO:** ___________________----**Was there resuscitation?**\n- yes\n- no**Was there a surgical procedure within ten (10) days of death?**\n- yes\n- no**Was there a fall within one (1) month of death that required medical attention?**\n- yes\n- noIf yes, a copy of the incident report must be sent.",
+      "char_count": 894,
+      "token_estimate": 223,
+      "section_title": "Personal Care Home Death Report Form – PAGE 1----**PLEASE PRINT**- **FULL NAME OF DECEASED:** _________________________________________________________",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care8-p1004-t2personalcarehomedeathreportmanitoba_f118f3ce16ba_chunk_003_6110f597",
+      "doc_id": "care8-p1004-t2personalcarehomedeathreportmanitoba_f118f3ce16ba",
+      "chunk_index": 3,
+      "text": "**Name of the medical practitioner/nurse who viewed the body:** ___________________________\n**Date and time of viewing:** ___________________________________________________________________________**Are there any concerns?**\n- yes\n- noIf yes, please explain:\n____________________________________________________________________________________________________\n____________________________________________________________________________________________________----### BRIEF SUMMARY OF EVENTS AT TIME OF DEATH:\n____________________________________________________________________________________________________\n____________________________________________________________________________________________________\n____________________________________________________________________________________________________\n____________________________________________________________________________________________________### PAST MEDICAL HISTORY:\n____________________________________________________________________________________________________\n____________________________________________________________________________________________________\n____________________________________________________________________________________________________### CURRENT MEDICATIONS (OR ATTACH CURRENT MEDICAL RECORD):\n____________________________________________________________________________________________________\n____________________________________________________________________________________________________\n____________________________________________________________________________________________________### FUNERAL HOME TO WHICH BODY SENT:\n_____________________________________________________________________\n**TEL NO:** ___________________----**FORM COMPLETED BY:** _____________________________________________________\n**DATE:** ____________________----**IN ACCORDANCE WITH SECTION 6(1) OF THE FATALITY INQUIRIES ACT, PLEASE COMPLETE PAGE 1 IMMEDIATELY FOLLOWING THE DEATH AND FAX TO THE CHIEF MEDICAL EXAMINER’S OFFICE (945-2442).**\n**PAGE 2 MUST BE SUBMITTED AFTER THE MEDICAL CERTIFICATE OF DEATH (FORM 5) HAS BEEN COMPLETED AND SIGNED BY THE PHYSICIAN, AND, THE MEDICAL CAUSE OF DEATH IS KNOWN.**----### CME Office Use Only\n**Investigator:**                                **Date:**\n**FIA Section 7.3(1)**              - yes   - no\n**FIA Section 16(2)**                      - yes   - noIf body not viewed, please state reason:\n____________________________________________________________________________________________________# MANITOBA JUSTICE",
+      "char_count": 2553,
+      "token_estimate": 638,
+      "section_title": "Personal Care Home Death Report Form – PAGE 1----**PLEASE PRINT**- **FULL NAME OF DECEASED:** _________________________________________________________",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care8-p1004-t2personalcarehomedeathreportmanitoba_f118f3ce16ba_chunk_004_b148dd95",
+      "doc_id": "care8-p1004-t2personalcarehomedeathreportmanitoba_f118f3ce16ba",
+      "chunk_index": 4,
+      "text": "## OFFICE OF THE CHIEF MEDICAL EXAMINER\n\n### Personal Care Home Death Report Form – Page 2----**PLEASE PRINT****FULL NAME OF DECEASED**\n__________________________________________________________________________**NAME OF FACILITY**\n_________________________________________________________________________________----### CAUSE OF DEATH#### Part I**IMMEDIATE CAUSE**\nA) ________________________________________________________________**Due to, or as a consequence of****ANTECEDENT CAUSES, IF ANY, GIVING RISE TO THE IMMEDIATE CAUSE (A) ABOVE, STATING THE UNDERLYING CAUSE LAST:**\nB) _________________________________________________________________**Due to, or as a consequence of****PART II****OTHER SIGNIFICANT CONDITIONS CONTRIBUTING TO DEATH BUT NOT CASUALLY RELATED TO THE IMMEDIATE CAUSE (A) ABOVE:**\nC) _________________________________________________________________\n_________________________________________________________________________________\n_________________________________________________________________________________----**NAME OF PHYSICIAN WHO CERTIFIED THE CAUSE OF DEATH**\n__________________________________________________**DATE OF CERTIFICATION**\n______________________________________________________________________________----**PLEASE COMPLETE PAGE 2 AND FAX TO THE CHIEF MEDICAL EXAMINER’S OFFICE (204) 945-2088 AFTER MEDICAL CERTIFICATE OF DEATH HAS BEEN SIGNED BY THE PHYSICIAN, AND, THE MEDICAL CAUSE OF DEATH IS KNOWN.****Effective Date:** March 13, 2013",
+      "char_count": 1487,
+      "token_estimate": 371,
+      "section_title": "OFFICE OF THE CHIEF MEDICAL EXAMINER",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

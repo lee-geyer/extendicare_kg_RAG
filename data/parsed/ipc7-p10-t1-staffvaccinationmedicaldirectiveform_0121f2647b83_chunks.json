@@ -1,0 +1,30 @@
+{
+  "doc_id": "ipc7-p10-t1-staffvaccinationmedicaldirectiveform_0121f2647b83",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "ipc7-p10-t1-staffvaccinationmedicaldirectiveform_0121f2647b83_chunk_000_069533b6",
+      "doc_id": "ipc7-p10-t1-staffvaccinationmedicaldirectiveform_0121f2647b83",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Staff Vaccination Medical Directive Form**Home:**                                                       **Date:**  Enter dateAfter obtaining informed consent, registered staff employed at the home may administer to staff and volunteers in the home the following:- **Vaccine:** (Insert name of vaccine above)\n- x 1 dose IM.Should an anaphylactic reaction occur, treat as follows and call 911 immediately:1. Apply a tourniquet proximal to the injection site",
+      "char_count": 473,
+      "token_estimate": 118,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t1-staffvaccinationmedicaldirectiveform_0121f2647b83_chunk_002_53129f48",
+      "doc_id": "ipc7-p10-t1-staffvaccinationmedicaldirectiveform_0121f2647b83",
+      "chunk_index": 2,
+      "text": "2. Place a supine or Trendelenburg position\n\n3. Administer 0.      mL Adrenaline (1:1000) x 1 dose IM (Physician insert dosage)Followed by:- Diphenhydramine HCL (Benadryl) 25 mg. Two tablets po. or injectable\n- Report any anaphylactic reactions following Public Health directives**Enter date**\n**Medical Director/ Attending Physician Signature**                    **Date**----> Helping people Iva better\n> This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\n> Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 1",
+      "char_count": 747,
+      "token_estimate": 186,
+      "section_title": "Place a supine or Trendelenburg position",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

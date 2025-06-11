@@ -1,0 +1,54 @@
+{
+  "doc_id": "epm-addl-017examplehvacschematics_081576ecb94f",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "epm-addl-017examplehvacschematics_081576ecb94f_chunk_000_9a8cb204",
+      "doc_id": "epm-addl-017examplehvacschematics_081576ecb94f",
+      "chunk_index": 0,
+      "text": "# Extendicare## Home-Specific HVAC Systems Schematics and PhotosInclude photos of HVAC units, breaker panels, and any related equipment relevant to the HVAC system that will assist the home in responding quickly to an emergency.### HVAC Locations- **East Unit**: Breaker box located in east (200 wing) storage room. - **Core Area**: HVAC breaker box is located in the main Housekeeping room. - **North Area**: HVAC breaker box is located in the North Housekeeping room. - **Kitchen**: HVAC breaker is located in the breaker box in the kitchen storage room.### Equipment Control- **Exhaust #11**: Removes air from kitchen. - **Exhaust #12**: Removes air from dishwasher area in the kitchen.### ECOLAB Station- **Contact**: 1-800-352-5326\n- **Panel Location**: This panel is located on the south wall in the boiler room.----> **Note**: This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.----**Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 1154,
+      "token_estimate": 288,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-017examplehvacschematics_081576ecb94f_chunk_001_278901bf",
+      "doc_id": "epm-addl-017examplehvacschematics_081576ecb94f",
+      "chunk_index": 1,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.----**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 4**# Home-Specific HVAC Systems Schematics and Photos## Document Information\n- **Policy Number:** [Insert Policy Number]\n- **Effective Date:** [Insert Effective Date]\n- **Review Date:** [Insert Review Date]----## Instructions1. **Switches**:\n- Turn the switches to **OFF** on:\n- MUA East\n- MUA West\n- #6 (This controls units for East wing, West wing, and Kitchen/Laundry)2. **Exhaust Control**:\n- To turn off exhaust, hit the stop button on boxes labelled:\n- 1\n- 2\n- 3\n- 4\n- 5----> **Note**: This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.----**Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 1110,
+      "token_estimate": 277,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-017examplehvacschematics_081576ecb94f_chunk_002_e2e832f8",
+      "doc_id": "epm-addl-017examplehvacschematics_081576ecb94f",
+      "chunk_index": 2,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.----**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 2 of 4**# Home-Specific HVAC Systems Schematics and Photos## Unit 2 Dining Room\n- Breaker panel beside the fridge\n- Breaker 19 - this turns off unit for Office/Celebration Dining Room----> **Note:** This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 3 of 4# Home-Specific HVAC Systems Schematics and Photos----## Breaker Panel Instructions- **Location**: Beside the elevator\n- **Instructions**:\n- Turn off Breakers:\n- **23, 25, 27** for Activity Room unit\n- **29, 30, 33** for Kitchen/Centre hallway----> **Note**: This document is uncontrolled when printed.----### Accessibility InformationExtendicare (Canada) Inc.",
+      "char_count": 1192,
+      "token_estimate": 298,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-017examplehvacschematics_081576ecb94f_chunk_003_b857a595",
+      "doc_id": "epm-addl-017examplehvacschematics_081576ecb94f",
+      "chunk_index": 3,
+      "text": "> Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 3 of 4# Home-Specific HVAC Systems Schematics and Photos----## Breaker Panel Instructions- **Location**: Beside the elevator\n- **Instructions**:\n- Turn off Breakers:\n- **23, 25, 27** for Activity Room unit\n- **29, 30, 33** for Kitchen/Centre hallway----> **Note**: This document is uncontrolled when printed.----### Accessibility InformationExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.----### Confidentiality NoticeConfidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 4 of 4**",
+      "char_count": 753,
+      "token_estimate": 188,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

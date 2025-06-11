@@ -1,0 +1,126 @@
+{
+  "doc_id": "epm-addl-022imsleaderjobactionchecklistincidentmanager_b6a1572ec7cc",
+  "total_chunks": 10,
+  "chunks": [
+    {
+      "chunk_id": "epm-addl-022imsleaderjobactionchecklistincidentmanager_b6a1572ec7cc_chunk_000_b03eca31",
+      "doc_id": "epm-addl-022imsleaderjobactionchecklistincidentmanager_b6a1572ec7cc",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## IMS Leader Job Action Checklist – Incident Manager> **Note:** All documentation during the emergency must be given to the Administrator daily and kept on file for a minimum of three years.### Incident Manager – Job Action Sheet**Role:** Organize and direct the emergency operations and ensure ongoing resident care. Give overall direction for home operations and, if needed, authorize evacuation.**Name:****Record the time action was initiated (note on the line below):**1. Initiate the Incident Management System.",
+      "char_count": 532,
+      "token_estimate": 133,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-022imsleaderjobactionchecklistincidentmanager_b6a1572ec7cc_chunk_002_920e2621",
+      "doc_id": "epm-addl-022imsleaderjobactionchecklistincidentmanager_b6a1572ec7cc",
+      "chunk_index": 2,
+      "text": "2. Read this entire Job Action Sheet.\n\n3. Don the Incident Manager (safety) vest.",
+      "char_count": 81,
+      "token_estimate": 20,
+      "section_title": "Read this entire Job Action Sheet.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-022imsleaderjobactionchecklistincidentmanager_b6a1572ec7cc_chunk_004_62805d13",
+      "doc_id": "epm-addl-022imsleaderjobactionchecklistincidentmanager_b6a1572ec7cc",
+      "chunk_index": 4,
+      "text": "4. Appoint an Operations Manager (if required).\n\n5. Appoint a Planning Manager (if required).",
+      "char_count": 93,
+      "token_estimate": 23,
+      "section_title": "Appoint an Operations Manager (if required).",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-022imsleaderjobactionchecklistincidentmanager_b6a1572ec7cc_chunk_006_7067cc3e",
+      "doc_id": "epm-addl-022imsleaderjobactionchecklistincidentmanager_b6a1572ec7cc",
+      "chunk_index": 6,
+      "text": "6. Appoint a Logistics Manager (if required).\n\n7. Appoint an Administration/Finance Manager (if required).",
+      "char_count": 106,
+      "token_estimate": 26,
+      "section_title": "Appoint a Logistics Manager (if required).",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-022imsleaderjobactionchecklistincidentmanager_b6a1572ec7cc_chunk_008_158fa57b",
+      "doc_id": "epm-addl-022imsleaderjobactionchecklistincidentmanager_b6a1572ec7cc",
+      "chunk_index": 8,
+      "text": "8. Appoint an Information Officer (if required).\n\n9. Appoint a Safety Officer (if required).",
+      "char_count": 92,
+      "token_estimate": 23,
+      "section_title": "Appoint an Information Officer (if required).",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-022imsleaderjobactionchecklistincidentmanager_b6a1572ec7cc_chunk_010_06496148",
+      "doc_id": "epm-addl-022imsleaderjobactionchecklistincidentmanager_b6a1572ec7cc",
+      "chunk_index": 10,
+      "text": "10. Appoint a Liaison Officer (if required).\n\n11. Announce a status/action plan meeting of the IMS Team.",
+      "char_count": 104,
+      "token_estimate": 26,
+      "section_title": "Appoint a Liaison Officer (if required).",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-022imsleaderjobactionchecklistincidentmanager_b6a1572ec7cc_chunk_012_ad7ce175",
+      "doc_id": "epm-addl-022imsleaderjobactionchecklistincidentmanager_b6a1572ec7cc",
+      "chunk_index": 12,
+      "text": "12. Receive a status report and discuss the initial action plan with the team.\n\n13. Receive the initial home damage survey report (Logistics function).",
+      "char_count": 151,
+      "token_estimate": 37,
+      "section_title": "Receive a status report and discuss the initial action plan with the team.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-022imsleaderjobactionchecklistincidentmanager_b6a1572ec7cc_chunk_014_0ae9f281",
+      "doc_id": "epm-addl-022imsleaderjobactionchecklistincidentmanager_b6a1572ec7cc",
+      "chunk_index": 14,
+      "text": "14. Obtain census (residents, staff, volunteers, visitors) and status from the Planning Manager.\n\n15. Direct the Liaison Officer to establish contact with:\n- The Regional Director\n- The Corporate Risk Team\n- The Corporate Communications Department\n- Provincial health authorities\n- Ministry of Labour where applicable\n- Municipal authorities\n- Other agencies\n- Other homes (as appropriate)",
+      "char_count": 389,
+      "token_estimate": 97,
+      "section_title": "Obtain census (residents, staff, volunteers, visitors) and status from the Planning Manager.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-022imsleaderjobactionchecklistincidentmanager_b6a1572ec7cc_chunk_016_14f92cb7",
+      "doc_id": "epm-addl-022imsleaderjobactionchecklistincidentmanager_b6a1572ec7cc",
+      "chunk_index": 16,
+      "text": "16. Authorize resources as requested by the IMS Team.----> **Helping people is a better way.**This document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\nConfidential and Proprietary Information of Extendicare (Canada) Inc. © 2025",
+      "char_count": 416,
+      "token_estimate": 104,
+      "section_title": "Authorize resources as requested by the IMS Team.----> **Helping people is a better way.**This document is uncontrolled when printed.",
+      "chunk_type": "content",
+      "start_line": 24,
+      "end_line": 26
+    },
+    {
+      "chunk_id": "epm-addl-022imsleaderjobactionchecklistincidentmanager_b6a1572ec7cc_chunk_017_b7abcccd",
+      "doc_id": "epm-addl-022imsleaderjobactionchecklistincidentmanager_b6a1572ec7cc",
+      "chunk_index": 17,
+      "text": "# IMS Leader Job Action Checklist – Incident Manager## Responsibilities- Establish a meeting cycle and ensure the team meets as per the meeting cycle.\n- Communicate status to the Regional Director or designate.\n- Ensure Corporate Communications has approved all media releases.\n- Remind staff not to talk to media and provide media cards if required.----> **Note:** This document is uncontrolled when printed.----Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.----**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025****Page 2 of 2**",
+      "char_count": 713,
+      "token_estimate": 178,
+      "section_title": "IMS Leader Job Action Checklist – Incident Manager## Responsibilities- Establish a meeting cycle and ensure the team meets as per the meeting cycle.",
+      "chunk_type": "content",
+      "start_line": 27,
+      "end_line": 30
+    }
+  ]
+}

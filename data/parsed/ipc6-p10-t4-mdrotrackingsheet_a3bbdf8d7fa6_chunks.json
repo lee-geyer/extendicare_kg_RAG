@@ -1,0 +1,42 @@
+{
+  "doc_id": "ipc6-p10-t4-mdrotrackingsheet_a3bbdf8d7fa6",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "ipc6-p10-t4-mdrotrackingsheet_a3bbdf8d7fa6_chunk_000_5efa3fc2",
+      "doc_id": "ipc6-p10-t4-mdrotrackingsheet_a3bbdf8d7fa6",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Multi-Drug-Resistant Organism (MDRO) Tracking Sheet**Tracking:**\n- VRE\n- MRSA\n- ESBL\n- CPE\n- C.",
+      "char_count": 113,
+      "token_estimate": 28,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p10-t4-mdrotrackingsheet_a3bbdf8d7fa6_chunk_002_6cd5a720",
+      "doc_id": "ipc6-p10-t4-mdrotrackingsheet_a3bbdf8d7fa6",
+      "chunk_index": 2,
+      "text": "auris**Completed by:** __________________\n**Department:** _______________| Resident Name | Sites Swabs Taken | Positive or Negative | Date of next testing | All tests negative | Series Resolved Date |\n|---------------|-------------------|----------------------|----------------------|--------------------|----------------------|\n| #1            | Select            | Select               | Select               | Select             | Select               |\n| #2            | Select            | Select               | Select               | Select             | Select               |\n| #3            | Select            | Select               | Select               | Select             | Select               |\n| #1            | Select            | Select               | Select               | Select             | Select               |\n| #2            | Select            | Select               | Select               | Select             | Select               |\n| #3            | Select            | Select               | Select               | Select             | Select               |\n| #1            | Select            | Select               | Select               | Select             | Select               |\n| #2            | Select            | Select               | Select               | Select             | Select               |\n| #3            | Select            | Select               | Select               | Select             | Select               |\n| #1            | Select            | Select               | Select               | Select             | Select               |\n| #2            | Select            | Select               | Select               | Select             | Select               |\n| #3            | Select            | Select               | Select               | Select             | Select               |\n| #1            | Select            | Select               | Select               | Select             | Select               |\n| #2            | Select            | Select               | Select               | Select             | Select               |----**Helping people live better**This document is uncontrolled when printed.",
+      "char_count": 2197,
+      "token_estimate": 549,
+      "section_title": "Multi-Drug-Resistant Organism (MDRO) Tracking Sheet**Tracking:**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p10-t4-mdrotrackingsheet_a3bbdf8d7fa6_chunk_003_ad28ab53",
+      "doc_id": "ipc6-p10-t4-mdrotrackingsheet_a3bbdf8d7fa6",
+      "chunk_index": 3,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 1**# Multi-Drug-Resistant Organism (MDRO) Tracking Sheet**Policy Number:** #3\n**Effective Date:** [Insert Effective Date]\n**Review Date:** [Insert Review Date]> **Note:** Any positive test results, discontinue testing and wait 6 months to resume testing program.----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----| Column 1 | Column 2 | Column 3 |\n|----------|----------|----------|\n| Select   | Select   | Select   |----Page 1 of 1",
+      "char_count": 1004,
+      "token_estimate": 251,
+      "section_title": "Multi-Drug-Resistant Organism (MDRO) Tracking Sheet**Tracking:**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

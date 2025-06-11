@@ -1,0 +1,113 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t1avacant-building-inspections_d27a95d9d988_chunk_000_b41465ef",
+      "doc_id": "maint1-o1002-t1avacant-building-inspections_d27a95d9d988",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## MAINTENANCE INSPECTION CHECKLIST### Equipment Information\n- **Name:**\n- **Year:**\n- **Unit No:**\n- **Manufacturer:** All\n- **Model:** This procedure is for buildings that have been temporarily or permanently vacated.### Inspection Legend/Key\n| Legend | Key         |\n|--------|-------------|\n| W      | Weekly      |\n| M      | Monthly     |\n| Q      | Quarterly   |\n| S      | Semi-Annual |\n| A      | Annual      |\n| O      | Ok          |\n| R      | Repair      |\n| N      | Replace     |### Inspection Items#### Regular Exterior Building Check:",
+      "char_count": 566,
+      "token_estimate": 141,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t1avacant-building-inspections_d27a95d9d988_chunk_002_2b5ea123",
+      "doc_id": "maint1-o1002-t1avacant-building-inspections_d27a95d9d988",
+      "chunk_index": 2,
+      "text": "1. Are all exterior doors locked and secure?\n\n2. Are all windows okay (no broken glass)?",
+      "char_count": 88,
+      "token_estimate": 22,
+      "section_title": "Are all exterior doors locked and secure?",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t1avacant-building-inspections_d27a95d9d988_chunk_004_136eb2f7",
+      "doc_id": "maint1-o1002-t1avacant-building-inspections_d27a95d9d988",
+      "chunk_index": 4,
+      "text": "3. Is there any debris or garbage around or against the building?\n\n4. Is there any recent damage to the walls, windows, or exterior doors?#### Regular Interior Building Check:",
+      "char_count": 175,
+      "token_estimate": 43,
+      "section_title": "Is there any debris or garbage around or against the building?",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t1avacant-building-inspections_d27a95d9d988_chunk_006_342e6849",
+      "doc_id": "maint1-o1002-t1avacant-building-inspections_d27a95d9d988",
+      "chunk_index": 6,
+      "text": "5. Are there any unusual odours?\n\n6. Is the Fire Alarm working? Any trouble signals?",
+      "char_count": 84,
+      "token_estimate": 21,
+      "section_title": "Are there any unusual odours?",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t1avacant-building-inspections_d27a95d9d988_chunk_008_6df5b197",
+      "doc_id": "maint1-o1002-t1avacant-building-inspections_d27a95d9d988",
+      "chunk_index": 8,
+      "text": "7. What is the temperature inside the building? Should be greater than 45 degrees F (7 degrees C).\n\n8. Check the fire-protection sprinkler system. Is the water pressure correct?",
+      "char_count": 177,
+      "token_estimate": 44,
+      "section_title": "What is the temperature inside the building? Should be greater than 45 degrees F (7 degrees C).",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t1avacant-building-inspections_d27a95d9d988_chunk_010_cafc39f9",
+      "doc_id": "maint1-o1002-t1avacant-building-inspections_d27a95d9d988",
+      "chunk_index": 10,
+      "text": "9. Is there any sign of leaks in the boiler room, water-supply room, or sprinkler room?\n\n10. Is there any sign of water leaking from the roof? (Evidence of water damage on the upper floor)",
+      "char_count": 188,
+      "token_estimate": 47,
+      "section_title": "Is there any sign of leaks in the boiler room, water-supply room, or sprinkler room?",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t1avacant-building-inspections_d27a95d9d988_chunk_012_b6526a55",
+      "doc_id": "maint1-o1002-t1avacant-building-inspections_d27a95d9d988",
+      "chunk_index": 12,
+      "text": "11. Are windows closed and secure?\n\n12. Are all exit signs and emergency lighting working?",
+      "char_count": 90,
+      "token_estimate": 22,
+      "section_title": "Are windows closed and secure?",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t1avacant-building-inspections_d27a95d9d988_chunk_014_15a762bc",
+      "doc_id": "maint1-o1002-t1avacant-building-inspections_d27a95d9d988",
+      "chunk_index": 14,
+      "text": "13. Is there any evidence of vermin (mice, squirrels, raccoons, etc.)?\n\n14. Check water meter - has there been any consumption? (Indicator of leaking)### Monthly Building Check:\n- Flush all toilets, run water down all sinks, add water to floor drains (all to recharge the p-traps).### Monthly Inspection Schedule\n| Month | M | Q | S | A |\n|-------|---|---|---|---|\n| JAN   | W | W | W | W |\n| FEB   | W | W | W | W |\n| MAR   | W | W | W | W |\n| APR   | W | W | W | W |\n| MAY   | W | W | W | W |\n| JUN   | W | W | W | W |\n| JUL   | M | Q | S | A |\n| AUG   | M | Q | S | A |\n| SEP   | M | Q | S | A |\n| OCT   | M | Q | S | A |\n| NOV   | M | Q | S | A |\n| DEC   | M | Q | S | A |----> **Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 2# MAINTENANCE INSPECTION CHECKLIST| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1272,
+      "token_estimate": 318,
+      "section_title": "Is there any evidence of vermin (mice, squirrels, raccoons, etc.)?",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t1avacant-building-inspections_d27a95d9d988_chunk_016_ecdc3f25",
+      "doc_id": "maint1-o1002-t1avacant-building-inspections_d27a95d9d988",
+      "chunk_index": 16,
+      "text": "© 2025\n> Page 1 of 2# MAINTENANCE INSPECTION CHECKLIST| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 2 of 2**",
+      "char_count": 534,
+      "token_estimate": 133,
+      "section_title": "Check water meter - has there been any consumption? (Indicator of leaking)### Monthly Building Check:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 9
+}

@@ -1,0 +1,11 @@
+{
+  "doc_id": "rc-24-01-02-a2hypoglycemic-eventanalysis_e475e17748d9",
+  "category": "Care",
+  "schema_used": "GenericDocumentMeta",
+  "extraction_success": true,
+  "metadata": {
+    "title": "Hypoglycemic - Event Analysis (DOC/Designate)"
+  },
+  "error": null,
+  "fallback_metadata": null
+}

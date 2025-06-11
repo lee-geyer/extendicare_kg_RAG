@@ -1,0 +1,30 @@
+{
+  "doc_id": "ipc-addl-008rsv-vaccine-resources_234a6a20e828",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "ipc-addl-008rsv-vaccine-resources_234a6a20e828_chunk_000_37d85899",
+      "doc_id": "ipc-addl-008rsv-vaccine-resources_234a6a20e828",
+      "chunk_index": 0,
+      "text": "```markdown\n\n# Extendicare",
+      "char_count": 26,
+      "token_estimate": 6,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc-addl-008rsv-vaccine-resources_234a6a20e828_chunk_002_33ce6605",
+      "doc_id": "ipc-addl-008rsv-vaccine-resources_234a6a20e828",
+      "chunk_index": 2,
+      "text": "## Respiratory Syncytial Virus (RSV) Vaccine ResourcesClick on the document below to access:- **MB- Flu and Covid Program Recap 2023 RSV Statement**\n- **MB- Letter to PCH’s, RSV Program for residents aged 60 and older**\n*Effective Date: September 2024*\n- **MB- RSV Vaccine Fact Sheet EN**\n- **MB- RSV Vaccine Fact Sheet FR**\n- **MB- RSV Vaccine ORG Quick Reference Guide for Immunizers**\n*Effective Date: September 2024*\n- **AB- Statement RSV Vaccine for Adults 60+**\n- **RSV Fact Sheet for Health Care Providers**\n*Effective Date: 2024-08-14 – V4-EN*\n- **RSV Product Monograph Arexvy**\n- **RSV Resident Immunization Consent Form EN**\n- **RSV Abrysvo Monograph**\n- **RSV Fact Sheet for Health Care Providers**\n*Effective Date: 2024-08-14 – V4-FR*\n- **RSV Fact Sheet for Vaccine Recipients**\n*FR*\n- **RSV Fact Sheet for Vaccine Recipients**\n*EN*Helping People\n```",
+      "char_count": 862,
+      "token_estimate": 215,
+      "section_title": "Respiratory Syncytial Virus (RSV) Vaccine ResourcesClick on the document below to access:- **MB- Flu and Covid Program Recap 2023 RSV Statement**",
+      "chunk_type": "content",
+      "start_line": 2,
+      "end_line": 21
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "doc_id": "care17-p1001-t3nutrition-riskscreen_c493451d155f",
+  "category": "Care",
+  "schema_used": "GenericDocumentMeta",
+  "extraction_success": true,
+  "metadata": {
+    "title": "Nutrition - Risk Screen"
+  },
+  "error": null,
+  "fallback_metadata": null
+}

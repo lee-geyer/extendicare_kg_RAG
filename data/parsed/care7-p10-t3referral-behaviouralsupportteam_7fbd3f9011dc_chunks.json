@@ -1,0 +1,78 @@
+{
+  "doc_id": "care7-p10-t3referral-behaviouralsupportteam_7fbd3f9011dc",
+  "total_chunks": 6,
+  "chunks": [
+    {
+      "chunk_id": "care7-p10-t3referral-behaviouralsupportteam_7fbd3f9011dc_chunk_000_40c30caf",
+      "doc_id": "care7-p10-t3referral-behaviouralsupportteam_7fbd3f9011dc",
+      "chunk_index": 0,
+      "text": "# Referral - Behavioural Support Team## Resident:\n\n## Location:",
+      "char_count": 63,
+      "token_estimate": 15,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care7-p10-t3referral-behaviouralsupportteam_7fbd3f9011dc_chunk_002_266395ae",
+      "doc_id": "care7-p10-t3referral-behaviouralsupportteam_7fbd3f9011dc",
+      "chunk_index": 2,
+      "text": "## Admission:\n\n## Physician:",
+      "char_count": 28,
+      "token_estimate": 7,
+      "section_title": "Admission:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care7-p10-t3referral-behaviouralsupportteam_7fbd3f9011dc_chunk_004_da9bb082",
+      "doc_id": "care7-p10-t3referral-behaviouralsupportteam_7fbd3f9011dc",
+      "chunk_index": 4,
+      "text": "## Allergies:\n\n## Diagnoses:### A. Referral1. **Reason for referral:**\n- Wandering with Risk (will leave immediate environment, placing self at harm)\n- Hoarding/Rummaging (creating a hazardous environment – fire/fall risks)\n- Agitated Behaviours (repetitive vocalizations, pacing, unrealistic fears)\n- Verbally Responsive/Angry Behaviours (using profanity or making threats)\n- Physically Responsive/Angry Behaviours (striking out, biting, kicking etc)\n- Suspicious Behaviours (fear of abandonment, hiding items that interferes with daily routines)\n- Ingestion of Foreign Substances (eating inedible objects – dirt, stones, cleaners)\n- Inappropriate Sexual Behaviours (exposes self in public places/makes inappropriate remarks or gestures; touches others inappropriately)\n- Resists Treatment/Refuses care\n- Suicidal Behaviours (suicidal ideation or attempt)\n- Low Mood/Depression\n- Delusions\n- Hallucinations\n- Delirium *If this is a new/sudden onset of a behaviour, please complete the Confusion Assessment Method (CAM)\n- Other2. **Wandering with risk is:** (S)\n- a. New\n- b. Existing\n- c. Worsening3. **Hoarding/Rummaging is:**\n- a. New\n- b. Existing\n- c. Worsening4. **Agitated Behaviours are:**\n- a. New\n- b.",
+      "char_count": 1211,
+      "token_estimate": 302,
+      "section_title": "Allergies:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care7-p10-t3referral-behaviouralsupportteam_7fbd3f9011dc_chunk_006_29690798",
+      "doc_id": "care7-p10-t3referral-behaviouralsupportteam_7fbd3f9011dc",
+      "chunk_index": 6,
+      "text": "**Agitated Behaviours are:**\n- a. New\n- b. Existing\n- c. Worsening5. **Verbally Responsive/Angry Behaviours are:**\n- a. New\n- b. Existing\n- c. Worsening6. **Physically Responsive/Angry Behaviours are:**\n- a. New\n- b. Existing\n- c. Worsening7. **Suspicious Behaviours are:**\n- a. New\n- b. Existing\n- c. Worsening8. **Ingestion of Foreign Substances is:**\n- a. New\n- b. Existing\n- c. Worsening9. **Inappropriate Sexual Behaviours are:**\n- a. New\n- b. Existing\n- c. Worsening10. **Resists Treatment/Refuses care is:**\n- a. New\n- b. Existing\n- c. Worsening11. **Suicidal Behaviour is:**\n- a. New\n- b. Existing\n- c. Worsening12. **Low Mood/Depression is:**\n- a. New\n- b. Existing\n- c. Worsening13. **Delusions are:**\n- a. New\n- b. Existing\n- c. Worsening14. **Hallucinations are:**\n- a. New\n- b. Existing\n- c. Worsening15. **Describe behaviours:**----*Page 1 of 2*# Diagnostic Investigations/Clinical Assessments Completed (select all that apply):- a. CAM/Delirium work-up\n- b. Cornell / interrai DRS\n- c. PAINAD or numeric pain scale\n- d. Cognitive Assessment / interrai CPS\n- e. Personhood Tool\n- f. Dementia Observation - DOS\n- g. CMAI / interrai ABS\n- h.",
+      "char_count": 1153,
+      "token_estimate": 288,
+      "section_title": "Diagnoses:### A. Referral1. **Reason for referral:**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care7-p10-t3referral-behaviouralsupportteam_7fbd3f9011dc_chunk_007_691a4998",
+      "doc_id": "care7-p10-t3referral-behaviouralsupportteam_7fbd3f9011dc",
+      "chunk_index": 7,
+      "text": "Dementia Observation - DOS\n- g. CMAI / interrai ABS\n- h. Suicidal Thinking Screen & Assessment / interrai DRS\n- i. Medication Review## 3_a. CAM / Delirium work-up SCORE and Details:## 3_b. Cornell / interrai DRS SCORE and Details:## 3_c. PAINAD or numeric pain scale SCORE and Details:## 3_d. Cognitive Assessment / interrai CPS SCORE and Details:## 3_e. Personhood Highlights:## 3_f. Dementia Observation - DOS key details:## 3_g. CMAI / interrai ABS SCORE and Details:## 3_h. Suicidal Thinking / interrai DRS SCORE and Details:## 3_i. Details of med review:## 4. Expand on any non-pharmacological strategies that aren't working:## 5. Referral urgency category:| Urgency Category | Description        |\n|------------------|--------------------|\n| 10               | URGENT             |\n| 0                | Next Available     |## 5b. Name and designation of Registered staff completing the referral:----# B. Response to referral1. Name and designation of behavioural support staff responding to referral:",
+      "char_count": 1006,
+      "token_estimate": 251,
+      "section_title": "Diagnoses:### A. Referral1. **Reason for referral:**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care7-p10-t3referral-behaviouralsupportteam_7fbd3f9011dc_chunk_008_74d16028",
+      "doc_id": "care7-p10-t3referral-behaviouralsupportteam_7fbd3f9011dc",
+      "chunk_index": 8,
+      "text": "2. Date and Time of response to referral:\n\n3. Referral response details (will populate a SPN for date/time that the referral was opened):----**Signature**: ________________________**Date**: ____________________________----**Page 2 of 2**",
+      "char_count": 237,
+      "token_estimate": 59,
+      "section_title": "Date and Time of response to referral:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "doc_id": "ipc-addl-018healthconnextrainingdatabase_be22a14fe5d9",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "ipc-addl-018healthconnextrainingdatabase_be22a14fe5d9_chunk_000_16ac58b4",
+      "doc_id": "ipc-addl-018healthconnextrainingdatabase_be22a14fe5d9",
+      "chunk_index": 0,
+      "text": "# Extendicare## HealthConnex Training Database| Link                          | HealthConnex Training Site |\n|-------------------------------|----------------------------|\n| **Username**                  | extdemo.user1              |\n|                               | extdemo.user2              |\n|                               | extdemo.user3              |\n| **Password**                  | Extendicare!               |\n|                               | Extendicare!               |\n|                               | Extendicare!               |\n| **Role**                      | IPAC User                  |\n|                               | IPAC User                  |\n|                               | IPAC User                  |> **Note:** If logging-in to the training site does not work, ensure that HealthConnex is closed in all other web browser windows, then try logging-in again.----Heping peopie\nIve 64#",
+      "char_count": 920,
+      "token_estimate": 230,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 11
+    }
+  ]
+}

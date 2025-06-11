@@ -1,0 +1,41 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t5qincrementalheatcoolunitinsp_32919d643571_chunk_000_bc1cc477",
+      "doc_id": "maint1-o1002-t5qincrementalheatcoolunitinsp_32919d643571",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## MAINTENANCE INSPECTION CHECKLIST### Equipment\n- **Name:** Incremental Heating/Cooling Unit\n- **Year:**\n- **Unit No.:**\n- **Manufacturer:** All-Chromalox, Island Air, NRG, GE, Sanyo, etc. - **Model:** Heating - Cooling### LEGEND/KEY\n| LEGEND | KEY       |\n|--------|-----------|\n| W      | Weekly    |\n| M      | Monthly   |\n| Q      | Quarterly |\n| S      | Semi-Annual |\n| A      | Annual    |\n| O      | Ok        |\n| R      | Repair    |\n| N      | Replace   |### CHECKS\n| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   |   |   | 1. Clean air intake screen and grill. |\n| X |   |   |   |   | 2. Check air filter condition. Clean as required. |\n| X |   |   |   |   | 3. Check for unusual noises and vibrations. |\n| X |   |   |   |   | 4. Test operation of control devices. |\n| X |   |   |   |   | 5. Check for leaks (condensate). |\n|   | X |   |   |   | 6. Lubricate electric motors as per manufacturer’s recommendations. |\n|   | X |   |   |   | 7. Check that the compressor wire terminal cover is in place and secure. |\n|   |   | X |   |   | 8.",
+      "char_count": 1214,
+      "token_estimate": 303,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t5qincrementalheatcoolunitinsp_32919d643571_chunk_002_622389bd",
+      "doc_id": "maint1-o1002-t5qincrementalheatcoolunitinsp_32919d643571",
+      "chunk_index": 2,
+      "text": "Check that the compressor wire terminal cover is in place and secure. |\n|   |   | X |   |   | 8. Vacuum, clean and wash out heating and cooling sections including condenser coil. |\n|   |   | X |   |   | 9. Inspect electrical connections for corrosion, loose wires and broken insulation. Repair or replace components as required. |\n|   |   | X |   |   | 10. Check that all component covers are in place and secure. |### Monthly Schedule\n| Month | M | Q | S | A |\n|-------|---|---|---|---|\n| JAN   | W | W | W | W |\n| FEB   | W | W | W | W |\n| MAR   | W | W | W | W |\n| APR   | W | W | W | W |\n| MAY   | W | W | W | W |\n| JUN   | W | W | W | W |\n| JUL   | W | W | W | W |\n| AUG   | W | W | W | W |\n| SEP   | W | W | W | W |\n| OCT   | W | W | W | W |\n| NOV   | W | W | W | W |\n| DEC   | W | W | W | W |----> **Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.> Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 1131,
+      "token_estimate": 282,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t5qincrementalheatcoolunitinsp_32919d643571_chunk_003_181e5ada",
+      "doc_id": "maint1-o1002-t5qincrementalheatcoolunitinsp_32919d643571",
+      "chunk_index": 3,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.> Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025  Page 1 of 2# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 2 of 2",
+      "char_count": 783,
+      "token_estimate": 195,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 3
+}

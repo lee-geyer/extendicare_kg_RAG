@@ -1,0 +1,66 @@
+{
+  "doc_id": "epm2-p1001codered_436255b86055",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": "epm2-p1001codered_436255b86055_chunk_000_5546f7b0",
+      "doc_id": "epm2-p1001codered_436255b86055",
+      "chunk_index": 0,
+      "text": "```markdown\n\n# Extendicare## PROCEDURE\n**MANUAL:** Emergency Planning and Management\n**INDEX:** EPM2-P10.01\n**SECTION:** Emergency Response Codes\n**EFFECTIVE DATE:** January 13, 2025\n**REVIEWED DATE:** January 6, 2025\n**APPROVED BY:** Senior Director, Corporate Quality and Risk\n**MODIFIED DATE:** May 30, 2025----## POLICY",
+      "char_count": 323,
+      "token_estimate": 80,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1001codered_436255b86055_chunk_002_30614cff",
+      "doc_id": "epm2-p1001codered_436255b86055",
+      "chunk_index": 2,
+      "text": "### Emergency Response Codes## PROCEDURE### Respond\nCode Red is announced when a fire emergency is occurring; this may be the smelling or sight of smoke, or identification of a fire.\nUpon discovery of fire or smoke, initiate the R.E.A.C.T. sequence:1. **Remove** people from immediate danger (evacuate);\n\n2. **Ensure** room doors and windows are closed;",
+      "char_count": 353,
+      "token_estimate": 88,
+      "section_title": "Emergency Response Codes## PROCEDURE### Respond",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1001codered_436255b86055_chunk_004_ebbc302e",
+      "doc_id": "epm2-p1001codered_436255b86055",
+      "chunk_index": 4,
+      "text": "3. **Activate** fire alarm pull station closest to the site of the fire. Activate the second stage of the fire alarm system if evacuation is necessary.\n\n4. **Call** 9-1-1 and give home name and address, exact location of the fire, including floor, home area, and room number; and",
+      "char_count": 279,
+      "token_estimate": 69,
+      "section_title": "**Activate** fire alarm pull station closest to the site of the fire. Activate the second stage of the fire alarm system if evacuation is necessary.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1001codered_436255b86055_chunk_006_46b7ba9a",
+      "doc_id": "epm2-p1001codered_436255b86055",
+      "chunk_index": 6,
+      "text": "5. **Try to confine** (contain/extinguish) fire, if possible, without undue risk using the nearest fire extinguisher.> **Note:** If smoke is coming under the door, place wet towels, sheets, blankets, pillows, or other confining materials at the bottom of the closed door to the room with the fire, to restrict rapid transfer of smoke to the rest of the area unless otherwise directed by your local fire department.Refer to your Home’s Fire Safety Plan (FSP) for emergency procedures based on your role within the home.### Recover\nThe Executive Director/Designate will:\n- Ensure all incident documentation is completed. - Determine if the provincial health authority should be notified. - Notify Occupational Health and Safety if any staff suffers a critical injury. - Notify your Regional Director/Regional Director of Operations. - Arrange for staff support as needed (EAP, etc.).## TOOLS\n- Code Red Poster----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.",
+      "char_count": 1156,
+      "token_estimate": 289,
+      "section_title": "**Try to confine** (contain/extinguish) fire, if possible, without undue risk using the nearest fire extinguisher.> **Note:** If smoke is coming under the door, place wet towels, sheets, blankets, pillows, or other confining materials at the bottom of the closed door to the room with the fire, to restrict rapid transfer of smoke to the rest of the area unless otherwise directed by your local fire department.Refer to your Home’s Fire Safety Plan (FSP) for emergency procedures based on your role within the home.### Recover",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1001codered_436255b86055_chunk_007_306f85c9",
+      "doc_id": "epm2-p1001codered_436255b86055",
+      "chunk_index": 7,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n```",
+      "char_count": 282,
+      "token_estimate": 70,
+      "section_title": "**Try to confine** (contain/extinguish) fire, if possible, without undue risk using the nearest fire extinguisher.> **Note:** If smoke is coming under the door, place wet towels, sheets, blankets, pillows, or other confining materials at the bottom of the closed door to the room with the fire, to restrict rapid transfer of smoke to the rest of the area unless otherwise directed by your local fire department.Refer to your Home’s Fire Safety Plan (FSP) for emergency procedures based on your role within the home.### Recover",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

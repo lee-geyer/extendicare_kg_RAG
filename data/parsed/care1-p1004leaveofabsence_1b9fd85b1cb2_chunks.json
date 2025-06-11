@@ -1,0 +1,54 @@
+{
+  "doc_id": "care1-p1004leaveofabsence_1b9fd85b1cb2",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "care1-p1004leaveofabsence_1b9fd85b1cb2_chunk_000_c70b66f9",
+      "doc_id": "care1-p1004leaveofabsence_1b9fd85b1cb2",
+      "chunk_index": 0,
+      "text": "# Extendicare Procedure Manual## Care\n\n### Index: CARE1-P10.04\n- **Effective Date:** June 16, 2025\n- **Reviewed Date:** June 9, 2025\n- **Approved By:** Director, Education and Resident Services\n- **Modified Date:**----## Policy",
+      "char_count": 227,
+      "token_estimate": 56,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care1-p1004leaveofabsence_1b9fd85b1cb2_chunk_002_93047e93",
+      "doc_id": "care1-p1004leaveofabsence_1b9fd85b1cb2",
+      "chunk_index": 2,
+      "text": "### Plan of Care## Procedure\nThe home will abide by all local, provincial, and federal regulations, standards, and directives as they pertain to assuming responsibility for the care of residents when the resident goes on a Leave of Absence (LOA) from the home.- The nurse will discuss the request for a LOA with the physician as appropriate, and where necessary, obtain a physician order and document in the resident’s health care record.\n- The nurse will provide health teaching(s) and guidance to the resident, family, or caregiver on administering prescribed medications, treatment, safety needs, and their care responsibilities during the LOA.\n- If applicable, SDM/POA will be required to provide consent for the leave.\n- The resident, family, or caregiver will be advised to notify the home if the resident is injured or admitted to the hospital during the leave.\n- The resident, family, or caregiver will be requested to sign the Resident Leave of Absence Form.## Education",
+      "char_count": 979,
+      "token_estimate": 244,
+      "section_title": "Plan of Care## Procedure",
+      "chunk_type": "content",
+      "start_line": 6,
+      "end_line": 11
+    },
+    {
+      "chunk_id": "care1-p1004leaveofabsence_1b9fd85b1cb2_chunk_003_fd998f3a",
+      "doc_id": "care1-p1004leaveofabsence_1b9fd85b1cb2",
+      "chunk_index": 3,
+      "text": "1. Care Transitions and Plan of Care Education## Tools\n\n1. Resident Leave of Absence Form",
+      "char_count": 89,
+      "token_estimate": 22,
+      "section_title": "Care Transitions and Plan of Care Education## Tools",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care1-p1004leaveofabsence_1b9fd85b1cb2_chunk_005_3b4b644b",
+      "doc_id": "care1-p1004leaveofabsence_1b9fd85b1cb2",
+      "chunk_index": 5,
+      "text": "2. Care Transitions & Plan of Care Audit----*This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025*----*Page 1 of 1*",
+      "char_count": 385,
+      "token_estimate": 96,
+      "section_title": "Care Transitions & Plan of Care Audit----*This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025*----*Page 1 of 1*",
+      "chunk_type": "content",
+      "start_line": 14,
+      "end_line": 14
+    }
+  ]
+}

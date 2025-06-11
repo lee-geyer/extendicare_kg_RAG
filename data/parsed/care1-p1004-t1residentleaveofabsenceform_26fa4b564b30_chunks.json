@@ -1,0 +1,18 @@
+{
+  "doc_id": "care1-p1004-t1residentleaveofabsenceform_26fa4b564b30",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "care1-p1004-t1residentleaveofabsenceform_26fa4b564b30_chunk_000_f64d8fc5",
+      "doc_id": "care1-p1004-t1residentleaveofabsenceform_26fa4b564b30",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Resident Leave of Absence Form**Resident Name:** __________________________________\n**Month/Year:** _________________________________| Day | Time of Departure | Expected Time of Return | Reason | Relation to Resident | Phone No. | Name/Signature | Medication Supplied with Instructions | Returned (time/date) |\n|-----|-------------------|------------------------|--------|---------------------|------------|----------------|---------------------------------------|----------------------|\n|     |                   |                        |        |                     |            |                |                                       |                      |----**Helping people live better**This document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 1**",
+      "char_count": 1057,
+      "token_estimate": 264,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "doc_id": "ipc7-p1002-staffimmunizationsandtbtesting_0623eb8d754a",
+  "total_chunks": 7,
+  "chunks": [
+    {
+      "chunk_id": "ipc7-p1002-staffimmunizationsandtbtesting_0623eb8d754a_chunk_000_30ad4b50",
+      "doc_id": "ipc7-p1002-staffimmunizationsandtbtesting_0623eb8d754a",
+      "chunk_index": 0,
+      "text": "```markdown\n\n# Extendicare## PROCEDURE**MANUAL:** Infection Prevention and Control\n**INDEX:** IPC7-P10.02\n**SECTION:** Immunization of Staff\n**EFFECTIVE DATE:** February 18, 2025\n**REVIEWED DATE:** February 11, 2025\n**APPROVED BY:** Chief Medical Officer\n**MODIFIED DATE:** May 30, 2025----## POLICY### Immunization of Residents and Staff## PROCEDURE1. Staff submit a completed Staff Immunization/TB Testing Record as a component of the hiring process for new employees that includes results for:\na. Current immunizations including seasonal influenza; and\nb. TB record or screening tool to be reviewed for completion, as provincially required. c. Arrange for follow-up and appropriate testing with your physician/nurse practitioner if you are a new staff member who has had previous reaction to a TB test. You must submit a note indicating your negative TB status before you can begin working at the home. d. A copy of the Staff Immunization/TB testing record is to be kept in the staff member's health file and uploaded to Workday.### External Guidelines- **Manitoba** – TST testing is presently not required. Refer to Occupational Health and Safety. - **Alberta** - A single step TST is recommended.",
+      "char_count": 1201,
+      "token_estimate": 300,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p1002-staffimmunizationsandtbtesting_0623eb8d754a_chunk_002_6daffae7",
+      "doc_id": "ipc7-p1002-staffimmunizationsandtbtesting_0623eb8d754a",
+      "chunk_index": 2,
+      "text": "Refer to Occupational Health and Safety. - **Alberta** - A single step TST is recommended. A two-step TST is required for those who work in high-risk areas where residents with active TB are present. - **Ontario** - A 2 step TST is recommended 1-4 weeks apart. If a single step has been done within the past year and is negative, a second step can be performed alone for those not at high risk of TB exposure.## TOOLS1. IPC7-P10-T1 - Staff Vaccination Medical Directive Form",
+      "char_count": 474,
+      "token_estimate": 118,
+      "section_title": "Extendicare## PROCEDURE**MANUAL:** Infection Prevention and Control",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p1002-staffimmunizationsandtbtesting_0623eb8d754a_chunk_003_91add727",
+      "doc_id": "ipc7-p1002-staffimmunizationsandtbtesting_0623eb8d754a",
+      "chunk_index": 3,
+      "text": "2. IPC7-P10-T3 - Staff Consent for TB Testing Form\n\n3. IPC7-P10-T4 - Staff Immunization and TB Testing Record",
+      "char_count": 109,
+      "token_estimate": 27,
+      "section_title": "IPC7-P10-T3 - Staff Consent for TB Testing Form",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p1002-staffimmunizationsandtbtesting_0623eb8d754a_chunk_005_d591b296",
+      "doc_id": "ipc7-p1002-staffimmunizationsandtbtesting_0623eb8d754a",
+      "chunk_index": 5,
+      "text": "4. IPC7-P10-T5 - Staff Immunization Antiviral Tracking Report\n\n5. IPC7-P10-T6 - Staff Annual Influenza Vaccination Tracking Tool",
+      "char_count": 128,
+      "token_estimate": 32,
+      "section_title": "IPC7-P10-T5 - Staff Immunization Antiviral Tracking Report",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p1002-staffimmunizationsandtbtesting_0623eb8d754a_chunk_007_2677cf91",
+      "doc_id": "ipc7-p1002-staffimmunizationsandtbtesting_0623eb8d754a",
+      "chunk_index": 7,
+      "text": "6. IPC7-P10-T7 - Staff Influenza Intention Form\n\n7. IPC7-P10-T11 - Influenza Preparedness Checklist",
+      "char_count": 99,
+      "token_estimate": 24,
+      "section_title": "IPC7-P10-T7 - Staff Influenza Intention Form",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p1002-staffimmunizationsandtbtesting_0623eb8d754a_chunk_009_2fdf3dfa",
+      "doc_id": "ipc7-p1002-staffimmunizationsandtbtesting_0623eb8d754a",
+      "chunk_index": 9,
+      "text": "8. IPC7-P10-T12 - Influenza Clinic Supplies Checklist\n\n9. IPC7-P10-T13 - Ontario - AEFI Form",
+      "char_count": 92,
+      "token_estimate": 23,
+      "section_title": "IPC7-P10-T12 - Influenza Clinic Supplies Checklist",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p1002-staffimmunizationsandtbtesting_0623eb8d754a_chunk_011_97098296",
+      "doc_id": "ipc7-p1002-staffimmunizationsandtbtesting_0623eb8d754a",
+      "chunk_index": 11,
+      "text": "10. IPC7-P10-T14 - Manitoba - AEFI Form\n\n11. IPC7-P10-T15 - Alberta - AEFI Form Link----> This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n```",
+      "char_count": 418,
+      "token_estimate": 104,
+      "section_title": "IPC7-P10-T14 - Manitoba - AEFI Form",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

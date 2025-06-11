@@ -1,0 +1,11 @@
+{
+  "doc_id": "ipc3-p10-t6-tuberculosis_ed28bb85f993",
+  "category": "Infection Prevention and Control",
+  "schema_used": "GenericDocumentMeta",
+  "extraction_success": true,
+  "metadata": {
+    "title": "IPAC - Tuberculosis Active Screening Tool"
+  },
+  "error": null,
+  "fallback_metadata": null
+}

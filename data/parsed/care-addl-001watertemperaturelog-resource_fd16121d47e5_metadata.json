@@ -1,0 +1,24 @@
+{
+  "doc_id": "care-addl-001watertemperaturelog-resource_fd16121d47e5",
+  "original_file": "data/raw/extendicare_kb/Care/Additional Resources for CARE manual June 16 25/CARE-ADDL-001 Water Temperature Log- Resource.docx",
+  "page_metadata": [
+    {
+      "page_number": 1,
+      "char_count": 2142
+    },
+    {
+      "page_number": 2,
+      "char_count": 201
+    },
+    {
+      "page_number": 3,
+      "char_count": 1953
+    },
+    {
+      "page_number": 4,
+      "char_count": 1731
+    }
+  ],
+  "parse_job_id": null,
+  "error": null
+}

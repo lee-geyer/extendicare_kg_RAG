@@ -1,0 +1,11 @@
+{
+  "doc_id": "care10-p1001-t4referral-saferesidenthandlinglead_60b84daecbd6",
+  "category": "Care",
+  "schema_used": "GenericDocumentMeta",
+  "extraction_success": true,
+  "metadata": {
+    "title": "Referral - Safe Resident Handling Lead"
+  },
+  "error": null,
+  "fallback_metadata": null
+}

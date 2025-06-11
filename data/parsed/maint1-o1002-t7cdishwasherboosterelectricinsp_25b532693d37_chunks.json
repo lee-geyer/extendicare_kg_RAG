@@ -1,0 +1,65 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t7cdishwasherboosterelectricinsp_25b532693d37_chunk_000_185c04b6",
+      "doc_id": "maint1-o1002-t7cdishwasherboosterelectricinsp_25b532693d37",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## MAINTENANCE INSPECTION CHECKLIST### Equipment\n**Dishwasher Booster Electric**\n**Name:**\n**Year:**\n**Unit No.:**\n**Manufacturer:** All\n**Model:** Electric### LEGEND/KEY\n| LEGEND | KEY       |\n|--------|-----------|\n| W      | Weekly    |\n| M      | Monthly   |\n| Q      | Quarterly |\n| S      | Semi-Annual |\n| A      | Annual    |\n| O      | Ok        |\n| R      | Repair    |\n| N      | Replace   |### CHECKS\n| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   |   |   | 1. Check for leaks. |\n| X |   |   |   |   | 2. Check for shock (water hammer) when solenoid valve closes. |\n| X |   |   |   |   | 3. Check water supply pressure during dishwasher rinse cycle (20 to 25 psig). Adjust at pressure regulator as required. |\n| X |   |   |   |   | 4. Check output temperature during dishwasher rinse cycle (180F - 82C). Adjust thermostat as required. |\n| X |   |   |   |   | 5. Manually test safety relief valve. |\n| X |   |   |   |   | 6. Clean water supply line strainer screen at pressure reducing valve. |\n|   | X |   |   |   | 7.",
+      "char_count": 1196,
+      "token_estimate": 299,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t7cdishwasherboosterelectricinsp_25b532693d37_chunk_002_3c4033e5",
+      "doc_id": "maint1-o1002-t7cdishwasherboosterelectricinsp_25b532693d37",
+      "chunk_index": 2,
+      "text": "Clean water supply line strainer screen at pressure reducing valve. |\n|   | X |   |   |   | 7. Check hi-limit switch for proper operation. |\n|   | X |   |   |   | 8. De-lime storage tank. (Frequency may be reduced depending on local water conditions). |\n|   |   | X |   |   | 9. Check water hammer arrester for water logging. Drain and recharge or replace as required. |\n|   |   | X |   |   | 10. Inspect electrical connections for tightness and corrosion. Repair or replace as necessary.",
+      "char_count": 488,
+      "token_estimate": 122,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t7cdishwasherboosterelectricinsp_25b532693d37_chunk_003_00b5744a",
+      "doc_id": "maint1-o1002-t7cdishwasherboosterelectricinsp_25b532693d37",
+      "chunk_index": 3,
+      "text": "Inspect electrical connections for tightness and corrosion. Repair or replace as necessary. * |**NOTE:**\n*The services of qualified personnel may be required.*### Monthly Schedule\n|     | JAN | FEB | MAR | APR | MAY | JUN | | | | | | | | | | | | | |\n|-----|-----|-----|-----|-----|-----|-----|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   |\n| W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   ||     | JUL | AUG | SEP | OCT | NOV | DEC | | | | | | | | | | | | | |\n|-----|-----|-----|-----|-----|-----|-----|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   |\n| W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   |----**Helping people live better**\nThis document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1102,
+      "token_estimate": 275,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t7cdishwasherboosterelectricinsp_25b532693d37_chunk_004_64c6a26c",
+      "doc_id": "maint1-o1002-t7cdishwasherboosterelectricinsp_25b532693d37",
+      "chunk_index": 4,
+      "text": "* |**NOTE:**\n*The services of qualified personnel may be required.*### Monthly Schedule\n|     | JAN | FEB | MAR | APR | MAY | JUN | | | | | | | | | | | | | |\n|-----|-----|-----|-----|-----|-----|-----|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   |\n| W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   ||     | JUL | AUG | SEP | OCT | NOV | DEC | | | | | | | | | | | | | |\n|-----|-----|-----|-----|-----|-----|-----|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   |\n| W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   |----**Helping people live better**\nThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.",
+      "char_count": 1186,
+      "token_estimate": 296,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t7cdishwasherboosterelectricinsp_25b532693d37_chunk_005_ba81b869",
+      "doc_id": "maint1-o1002-t7cdishwasherboosterelectricinsp_25b532693d37",
+      "chunk_index": 5,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025  Page 1 of 2# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 2 of 2",
+      "char_count": 782,
+      "token_estimate": 195,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 5
+}

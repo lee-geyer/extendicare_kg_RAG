@@ -1,0 +1,30 @@
+{
+  "doc_id": "evs2-p1009hlightfixturescleaning_7807736e2eb4",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "evs2-p1009hlightfixturescleaning_7807736e2eb4_chunk_000_ac811bd4",
+      "doc_id": "evs2-p1009hlightfixturescleaning_7807736e2eb4",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Environmental Services\n**INDEX:** EVS2-P10.09H\n**SECTION:** Cleaning and Organization - Housekeeping\n**EFFECTIVE DATE:** March 18, 2025\n**REVIEWED DATE:** March 7, 2025\n**APPROVED BY:** Senior Director, Operational Quality and Professional Practice\n**MODIFIED DATE:** May 14, 2025----## POLICY### Cleaning and Organization## PROCEDURECollect the following items:\n- painter’s ladders\n- bucket with all-purpose cleaner\n- disposable gloves\n- microfibre cleaning cloths### CEILINGS:\n- Ensure appropriate Personal Protective Equipment (PPE) is worn. - Set lens in sink and wash thoroughly. - Dry lens with a clean cloth. - After all lenses are cleaned, inform Maintenance Department to reinstall. - Return equipment to designated area. - Report any damaged lenses to Maintenance Department. - Light fixtures in resident’s room are to be damp wiped according to high and low dusting schedules.### FLOOR OR TABLE LAMP:\n- Dust fabric type shades with a soft brush, clean metal shades with a damp cloth and dry. - Clean base and upright with damp cloth and dry.----Helping people live betterThis document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1188,
+      "token_estimate": 297,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1009hlightfixturescleaning_7807736e2eb4_chunk_001_8f9317fe",
+      "doc_id": "evs2-p1009hlightfixturescleaning_7807736e2eb4",
+      "chunk_index": 1,
+      "text": "- Clean base and upright with damp cloth and dry.----Helping people live betterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----Page 1 of 1",
+      "char_count": 416,
+      "token_estimate": 104,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

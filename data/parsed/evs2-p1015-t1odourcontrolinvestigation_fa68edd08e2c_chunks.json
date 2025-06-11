@@ -1,0 +1,126 @@
+{
+  "doc_id": "evs2-p1015-t1odourcontrolinvestigation_fa68edd08e2c",
+  "total_chunks": 10,
+  "chunks": [
+    {
+      "chunk_id": "evs2-p1015-t1odourcontrolinvestigation_fa68edd08e2c_chunk_000_e3833423",
+      "doc_id": "evs2-p1015-t1odourcontrolinvestigation_fa68edd08e2c",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Odour Control Investigation Tool**Date:** MM/DD/YYYY\n**Time:** a.m. / p.m.\n**Home:**\n**Area/Unit/Floor:**\n**Monitored by:**| YES | NO | N/A | COMMENTS |\n|-----|----|-----|----------|\n|     |    |     |          |### Investigation Checklist1. Odour(s) stale or fresh.",
+      "char_count": 284,
+      "token_estimate": 71,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1015-t1odourcontrolinvestigation_fa68edd08e2c_chunk_002_2d1633d6",
+      "doc_id": "evs2-p1015-t1odourcontrolinvestigation_fa68edd08e2c",
+      "chunk_index": 2,
+      "text": "2. Garbage containers emptied and free of odours.\n\n3. Ventilation checked and is working.",
+      "char_count": 89,
+      "token_estimate": 22,
+      "section_title": "Garbage containers emptied and free of odours.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1015-t1odourcontrolinvestigation_fa68edd08e2c_chunk_004_02221924",
+      "doc_id": "evs2-p1015-t1odourcontrolinvestigation_fa68edd08e2c",
+      "chunk_index": 4,
+      "text": "4. Floor drains and sink free of odours.\n\n5. Mattresses clean and free of odours.",
+      "char_count": 81,
+      "token_estimate": 20,
+      "section_title": "Floor drains and sink free of odours.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1015-t1odourcontrolinvestigation_fa68edd08e2c_chunk_006_fe79546b",
+      "doc_id": "evs2-p1015-t1odourcontrolinvestigation_fa68edd08e2c",
+      "chunk_index": 6,
+      "text": "6. Resident rooms and bathrooms areas free of odour.\n\n7. Furnishings/plants odour free.",
+      "char_count": 87,
+      "token_estimate": 21,
+      "section_title": "Resident rooms and bathrooms areas free of odour.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1015-t1odourcontrolinvestigation_fa68edd08e2c_chunk_008_bea63a85",
+      "doc_id": "evs2-p1015-t1odourcontrolinvestigation_fa68edd08e2c",
+      "chunk_index": 8,
+      "text": "8. Drawer/closets in resident rooms free of odours, i.e. personal clothing.\n\n9. Residents’ footwear free of odours.",
+      "char_count": 115,
+      "token_estimate": 28,
+      "section_title": "Drawer/closets in resident rooms free of odours, i.e. personal clothing.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1015-t1odourcontrolinvestigation_fa68edd08e2c_chunk_010_d24de897",
+      "doc_id": "evs2-p1015-t1odourcontrolinvestigation_fa68edd08e2c",
+      "chunk_index": 10,
+      "text": "10. Privacy curtains free of odour.\n\n11. Flooring checked and no issues found, i.e. dried urine, loose tiles.### Referral to Nursing1. Disposable incontinence care products and dressings discarded appropriately.",
+      "char_count": 211,
+      "token_estimate": 52,
+      "section_title": "Privacy curtains free of odour.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1015-t1odourcontrolinvestigation_fa68edd08e2c_chunk_012_047f30e1",
+      "doc_id": "evs2-p1015-t1odourcontrolinvestigation_fa68edd08e2c",
+      "chunk_index": 12,
+      "text": "2. Urinals and bedpans clean and free of odours.\n\n3. Bed linens on beds free of odour.",
+      "char_count": 86,
+      "token_estimate": 21,
+      "section_title": "Urinals and bedpans clean and free of odours.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1015-t1odourcontrolinvestigation_fa68edd08e2c_chunk_014_fe9f87b6",
+      "doc_id": "evs2-p1015-t1odourcontrolinvestigation_fa68edd08e2c",
+      "chunk_index": 14,
+      "text": "4. Soiled linen removed from the unit in a timely fashion, i.e., when full and after rounds.\n\n5. Soiled linen left in residents’ rooms, soiled utility, or shower/bath areas.",
+      "char_count": 173,
+      "token_estimate": 43,
+      "section_title": "Soiled linen removed from the unit in a timely fashion, i.e., when full and after rounds.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1015-t1odourcontrolinvestigation_fa68edd08e2c_chunk_016_51f87a81",
+      "doc_id": "evs2-p1015-t1odourcontrolinvestigation_fa68edd08e2c",
+      "chunk_index": 16,
+      "text": "6. Wheelchairs odour free.\n\n7. Resident behaviours appropriate, e.g., voiding, hygiene.",
+      "char_count": 87,
+      "token_estimate": 21,
+      "section_title": "Wheelchairs odour free.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1015-t1odourcontrolinvestigation_fa68edd08e2c_chunk_018_7d2ea560",
+      "doc_id": "evs2-p1015-t1odourcontrolinvestigation_fa68edd08e2c",
+      "chunk_index": 18,
+      "text": "8. Resident’s catheter bag (editor – please insert appropriate boxes).----**Helping people live better.**> This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\n> Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 1",
+      "char_count": 447,
+      "token_estimate": 111,
+      "section_title": "Resident’s catheter bag (editor – please insert appropriate boxes).----**Helping people live better.**> This document is uncontrolled when printed.",
+      "chunk_type": "content",
+      "start_line": 24,
+      "end_line": 27
+    }
+  ]
+}

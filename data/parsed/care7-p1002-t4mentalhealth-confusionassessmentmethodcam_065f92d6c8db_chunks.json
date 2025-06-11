@@ -1,0 +1,30 @@
+{
+  "doc_id": "care7-p1002-t4mentalhealth-confusionassessmentmethodcam_065f92d6c8db",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "care7-p1002-t4mentalhealth-confusionassessmentmethodcam_065f92d6c8db_chunk_000_8e9d801f",
+      "doc_id": "care7-p1002-t4mentalhealth-confusionassessmentmethodcam_065f92d6c8db",
+      "chunk_index": 0,
+      "text": "# Mental Health - Confusion Assessment Method (CAM)## Resident Information\n- **Resident:**\n- **Physician:**\n- **Allergies:**\n- **Diagnoses:**## CAM: Confusion Assessment Method### Assessment Questions1. **Does the abnormal behaviour:**\n- come and go? - fluctuate during the day? - increase/decrease in severity?**A. Is there evidence of an acute change and fluctuation in mental status from resident baseline?**\n- 0. No\n- 1. Yes**ACTION REQUIRED:**\n- A_0. Save, sign, lock the assessment - CAM is negative (not likely delirium)2. **Does the resident have difficulty focusing attention?**\n- becomes easily distracted? - have difficulty keeping track of what is said?**B. Is there evidence of inattention?**\n- 0. No\n- 1. Yes**ACTION REQUIRED:**\n- B_0. Save, sign, lock the assessment - CAM is negative (not likely delirium)3. **Does the resident have:**\n- rambling speech/irrelevant conversation? - unpredictable switching of subjects? - unclear or illogical flow of ideas?**C. Is there evidence of disorganized thinking?**\n- 0. No\n- 1. Yes\n- C_1. CAM is positive (likely delirium)4. **Is the resident:**\n- vigilant (hyper-alert)? - lethargic (drowsy but easily roused)? - stuporous (difficult to rouse)?",
+      "char_count": 1202,
+      "token_estimate": 300,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care7-p1002-t4mentalhealth-confusionassessmentmethodcam_065f92d6c8db_chunk_001_6984d13e",
+      "doc_id": "care7-p1002-t4mentalhealth-confusionassessmentmethodcam_065f92d6c8db",
+      "chunk_index": 1,
+      "text": "- lethargic (drowsy but easily roused)? - stuporous (difficult to rouse)? - comatose (unrousable)?**D. Is there evidence of an altered level of consciousness?**\n- 0. No\n- 1. Yes**ACTION REQUIRED:**\n- D_0. Save, sign, lock the assessment - CAM is negative (not likely delirium) (S)\n- D_1. CAM is positive (likely delirium)## PLAN### Summary of Plan1. **Summary of Assessment and Plan:**\n\n2. **Plan for delirium:**\n- **Focus:** Delirium\n- **Goal:** Custom\n- Resident will experience periods of calm, restfulness over the course of the day by (specify) date.\n- Resident will have early identification and implementation of delirium care approaches to minimize disturbing behaviour and maintain a safe environment (specify) by (specify) date.\n- **Intervention:** Custom\n- Registered staff to reassess vital signs, level of orientation, mobility, hydration etc. every (specify) hours while cause of delirium is being determined.\n- Root causes of delirium are (specify) and strategies to address causes are (specify).----**Page 1 of 2**# Mental Health - Confusion Assessment Method (CAM)## Resident:\n- **Signature**: ________________________\n- **Date**: ____________________________----**Page 2 of 2**",
+      "char_count": 1195,
+      "token_estimate": 298,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

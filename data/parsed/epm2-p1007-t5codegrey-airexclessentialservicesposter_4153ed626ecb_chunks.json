@@ -1,0 +1,30 @@
+{
+  "doc_id": "epm2-p1007-t5codegrey-airexclessentialservicesposter_4153ed626ecb",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "epm2-p1007-t5codegrey-airexclessentialservicesposter_4153ed626ecb_chunk_000_b0f033dc",
+      "doc_id": "epm2-p1007-t5codegrey-airexclessentialservicesposter_4153ed626ecb",
+      "chunk_index": 0,
+      "text": "# CODE GREY\n\n## Emergency Response: Air Exclusion and Loss of Essential Services### What does it mean? Code Grey is the designated phrase used to alert staff of a loss of any critical infrastructure in the home. There are 5 categories to Code Grey that each have their own set of procedures regarding how to respond in the emergency event. These Code Grey categories are:\n- Air Exclusion\n- Essential Services\n- Building Flood\n- Water Supply\n- Carbon Monoxide### What do I do?#### Code Grey - Air Exclusion\n- Stay indoors and prevent others from going outside. - Assess the need for Code Grey activation and call 9-1-1 if needed. - Announce code grey: \"Please close all open windows and exterior doors\" (repeat 3 times). - Close all windows and doors. - Turn off exhaust fans in your department including:\n- Cooking hoods\n- Dryers in laundry\n- Tub room exhaust fans\n- Air exchange systems such as HVAC (including individual air conditioning units in residents' rooms, if required).",
+      "char_count": 980,
+      "token_estimate": 245,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1007-t5codegrey-airexclessentialservicesposter_4153ed626ecb_chunk_002_f9dc7bc0",
+      "doc_id": "epm2-p1007-t5codegrey-airexclessentialservicesposter_4153ed626ecb",
+      "chunk_index": 2,
+      "text": "- Close all windows and doors. - Turn off exhaust fans in your department including:\n- Cooking hoods\n- Dryers in laundry\n- Tub room exhaust fans\n- Air exchange systems such as HVAC (including individual air conditioning units in residents' rooms, if required). - Monitor residents, staff, and volunteers for abnormal breathing difficulties and provide treatment if needed.#### Code Grey - Essential Services\n- **HVAC system malfunction/breakdown**: Contact Maintenance and notify the Executive Director if the situation is extended and temperatures create an uncomfortable situation for residents:\n- Ensure residents are provided extra blankets, hot or cold beverages, etc. according to the situation. - **Power failure**: Ensure the generator is operating and adequate fuel is available for refilling to maintain all life safety and other systems on emergency back-up. Turn off any non-essential operating equipment.### For all Code Grey emergencies:\n- Be prepared to evacuate if necessary.### Review it before you need it:\n- Refer to your home's Emergency Planning and Management Manual; Code Grey. - Review the Code Grey plan that describes your area's role if a Code Grey occurs.----*Extendicare*",
+      "char_count": 1200,
+      "token_estimate": 300,
+      "section_title": "Emergency Response: Air Exclusion and Loss of Essential Services### What does it mean?",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

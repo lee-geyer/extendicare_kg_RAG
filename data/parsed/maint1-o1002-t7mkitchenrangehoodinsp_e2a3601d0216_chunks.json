@@ -1,0 +1,41 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t7mkitchenrangehoodinsp_e2a3601d0216_chunk_000_20052af0",
+      "doc_id": "maint1-o1002-t7mkitchenrangehoodinsp_e2a3601d0216",
+      "chunk_index": 0,
+      "text": "# Extendicare Maintenance Inspection Checklist## Equipment\n**Kitchen Range Hood**### LEGEND/KEY\n| Legend | Key         |\n|--------|-------------|\n| W      | Weekly      |\n| M      | Monthly     |\n| Q      | Quarterly   |\n| S      | Semi-Annual |\n| A      | Annual      |\n| O      | Ok          |\n| R      | Repair      |\n| N      | Replace     |### CHECKS\n| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   |   |   | 1. Check that filters are in place and clean. |\n| X |   |   |   |   | 2. Inspect the interior for grease accumulation on the fan side of filters. Clean as required. |\n|   | X |   |   |   | 3. Arrange cleaning of the entire system, hood, duct work and fan unit, as required.",
+      "char_count": 837,
+      "token_estimate": 209,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t7mkitchenrangehoodinsp_e2a3601d0216_chunk_001_af14f0eb",
+      "doc_id": "maint1-o1002-t7mkitchenrangehoodinsp_e2a3601d0216",
+      "chunk_index": 1,
+      "text": "|\n|   | X |   |   |   | 3. Arrange cleaning of the entire system, hood, duct work and fan unit, as required. * |**NOTE:**\n*Qualified service firms are to be employed.### Monthly Schedule\n| Month | M | Q | S | A |\n|-------|---|---|---|---|\n| JAN   | W | W | W | W |\n| FEB   | W | W | W | W |\n| MAR   | W | W | W | W |\n| APR   | W | W | W | W |\n| MAY   | W | W | W | W |\n| JUN   | W | W | W | W |\n| JUL   | W | W | W | W |\n| AUG   | W | W | W | W |\n| SEP   | W | W | W | W |\n| OCT   | W | W | W | W |\n| NOV   | W | W | W | W |\n| DEC   | W | W | W | W |----**Helping people live better.**This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1153,
+      "token_estimate": 288,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t7mkitchenrangehoodinsp_e2a3601d0216_chunk_002_ebe8d70c",
+      "doc_id": "maint1-o1002-t7mkitchenrangehoodinsp_e2a3601d0216",
+      "chunk_index": 2,
+      "text": "© 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 2 of 2**",
+      "char_count": 523,
+      "token_estimate": 130,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 3
+}

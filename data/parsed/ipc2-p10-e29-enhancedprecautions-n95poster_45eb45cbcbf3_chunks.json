@@ -1,0 +1,18 @@
+{
+  "doc_id": "ipc2-p10-e29-enhancedprecautions-n95poster_45eb45cbcbf3",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "ipc2-p10-e29-enhancedprecautions-n95poster_45eb45cbcbf3_chunk_000_22256df2",
+      "doc_id": "ipc2-p10-e29-enhancedprecautions-n95poster_45eb45cbcbf3",
+      "chunk_index": 0,
+      "text": "# ENHANCED PRECAUTION## N95 RESPIRATOR### IN ADDITION TO PPE FOR CONTACT + DROPLET PRECAUTIONS as REQUIRED- **Wear long-sleeved gown**\n- **Wear goggles or face shield within 2 metres of resident**\n- **Wear gloves**\n- **Wear N95 or equivalent, fit-tested and seal-checked respirator**----**Extendicare**",
+      "char_count": 302,
+      "token_estimate": 75,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 3
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "doc_id": "ipc7-p10-t5-staffimmunizationantiviraltrackingreport_acc954f28e2a",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "ipc7-p10-t5-staffimmunizationantiviraltrackingreport_acc954f28e2a_chunk_000_781e35cb",
+      "doc_id": "ipc7-p10-t5-staffimmunizationantiviraltrackingreport_acc954f28e2a",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Staff Immunization/Antiviral Treatment Tracking Report### CONFIDENTIALITY STATEMENT\nAll documents containing personal health information must be securely stored to ensure only authorized individuals can view/access the documents.Staff are able to work on units affected by outbreak two weeks post immunization and/or when taking influenza antiviral treatment (i.e., Tamiflu).### Assignment\n*(enter which floor/unit/nursing station the staff member is assigned to)*| IMMUNIZED STAFF | NON-IMMUNIZED STAFF | No influenza antiviral administered | | | | | |\n|------------------|---------------------|------------------------------------|---|---|---|---|---|\n| Name             | Date                | Assignment*                        | Name | Influenza Antiviral | Assignment* | Name | if staff is off work for the duration of the outbreak |\n|                  |                     |                                    |      | medication started   |            |      |                                                    |\n|                  |                     |                                    |      |                     |            |      |                                                    |----This document is uncontrolled when printed.Extendicare (Canada) Inc.",
+      "char_count": 1294,
+      "token_estimate": 323,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t5-staffimmunizationantiviraltrackingreport_acc954f28e2a_chunk_002_f44f6b37",
+      "doc_id": "ipc7-p10-t5-staffimmunizationantiviraltrackingreport_acc954f28e2a",
+      "chunk_index": 2,
+      "text": "will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----Page 1 of 1",
+      "char_count": 267,
+      "token_estimate": 66,
+      "section_title": "Staff Immunization/Antiviral Treatment Tracking Report### CONFIDENTIALITY STATEMENT",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

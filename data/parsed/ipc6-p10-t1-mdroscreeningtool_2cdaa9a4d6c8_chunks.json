@@ -1,0 +1,42 @@
+{
+  "doc_id": "ipc6-p10-t1-mdroscreeningtool_2cdaa9a4d6c8",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "ipc6-p10-t1-mdroscreeningtool_2cdaa9a4d6c8_chunk_000_5621c1d8",
+      "doc_id": "ipc6-p10-t1-mdroscreeningtool_2cdaa9a4d6c8",
+      "chunk_index": 0,
+      "text": "# IPAC - MDROs Screening Tool (Multi-Drug Resistant Organism)**Client:**\n**Location:**\n**Admission:**\n**Date of Birth:**\n**Physician:**----## A. Screening Instructions\nPlease use this form unless otherwise directed by your local public health authority.\nAsk the resident each of the following questions upon admission to screen for Multi-Drug Resistant Organisms. Each question is to be answered Yes or No. No comments are required.1. If the Resident answers 'Yes' to any of the questions below, consultation is required with a physician. Testing should only occur after consultation with MD. The screen will produce a SPN on lock, add additional information in the note 'COMMENTS' section and link follow-up progress notes (consultation, testing, and results).### Acronyms\n- **MRSA** = methicillin resistant staphylococcus aureus\n- **VRE** = vancomycin resistant enterococcus\n- **ESBL** = extended-spectrum ß-lactamase\n- **CPE** = Carbapenemase-Producing Enterobacteriaceae----## B. Screen Part 1",
+      "char_count": 997,
+      "token_estimate": 249,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 10
+    },
+    {
+      "chunk_id": "ipc6-p10-t1-mdroscreeningtool_2cdaa9a4d6c8_chunk_001_0f1cf408",
+      "doc_id": "ipc6-p10-t1-mdroscreeningtool_2cdaa9a4d6c8",
+      "chunk_index": 1,
+      "text": "1. **Most Recent Temperature**\n**Temperature:**\n**Date:**\n**Route:**----## C. Screen Part 2\n\n1. Have you been told that you have MRSA?\n- [ ] Yes\n- [ ] No\n- [ ] Unknown2. Have you been told that you have VRE?\n- [ ] Yes\n- [ ] No\n- [ ] Unknown3. Have you been told that you have ESBL?\n- [ ] Yes\n- [ ] No\n- [ ] Unknown4. Have you been told that you have CPE?\n- [ ] Yes\n- [ ] No\n- [ ] Unknown5. Have you been told that you have Candida auris (C. auris)?\n- [ ] Yes\n- [ ] No\n- [ ] Unknown6. Have you spent any time in a health care facility outside of Canada? (past year)\n- [ ] Yes\n- [ ] No----**Page 1 of 2**# IPAC - MDROs Screening Tool (Multi-Drug Resistant Organism)## Client:\n- U. Unknown### 7. Have you spent any time in a health care facility with an MDROs outbreak?\n- 1. Yes\n- 0. No\n- U. Unknown### 8. Have you been told that you were exposed to an MDRO? (MRSA, VRE, ESBL, CPE, Candida auris)\n- 1. Yes\n- 0. No\n- U. Unknown### 9. Have you been told that you have C-DIFF?\n- 1. Yes\n- 0. No\n- U. Unknown## D. Plan of Care",
+      "char_count": 1018,
+      "token_estimate": 254,
+      "section_title": "**Most Recent Temperature**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc6-p10-t1-mdroscreeningtool_2cdaa9a4d6c8_chunk_003_afc780fe",
+      "doc_id": "ipc6-p10-t1-mdroscreeningtool_2cdaa9a4d6c8",
+      "chunk_index": 3,
+      "text": "1. Choose all that apply below, choices will populate the structured progress note. Any additional Assessments 'COMMENTS' can be added into the SPN through 'view structured progress note'\n- a. Infection Control Professional Notified\n- b. Additional precautions initiated. (new setup)\n- c. Additional Precautions already in place and maintained.\n- d. Infection Control Precautions already in place and maintained.\n- e. Resident SDM updated on Resident condition.\n- f. Care plan updated.----**Signature**: ___________________________\n**Date**: ___________________________----**Page 2 of 2**",
+      "char_count": 588,
+      "token_estimate": 147,
+      "section_title": "Choose all that apply below, choices will populate the structured progress note. Any additional Assessments 'COMMENTS' can be added into the SPN through 'view structured progress note'",
+      "chunk_type": "content",
+      "start_line": 43,
+      "end_line": 50
+    }
+  ]
+}

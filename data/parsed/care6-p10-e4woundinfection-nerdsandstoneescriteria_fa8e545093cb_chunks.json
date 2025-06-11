@@ -1,0 +1,54 @@
+{
+  "doc_id": "care6-p10-e4woundinfection-nerdsandstoneescriteria_fa8e545093cb",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "care6-p10-e4woundinfection-nerdsandstoneescriteria_fa8e545093cb_chunk_000_43b15854",
+      "doc_id": "care6-p10-e4woundinfection-nerdsandstoneescriteria_fa8e545093cb",
+      "chunk_index": 0,
+      "text": "# Extendicare## NERDS: Signs of Superficial Wound Infection### Mnemonics for Wound Infection\n- **Superficial:** Treat Topically\n- This tool supports early identification and helps reduce inappropriate antibiotic use.### Validation of NERDS\nAny 3 or more of the following indicate HIGH superficial bacterial infection:\n- **Non-healing**\n- **Exudate increased**\n- **Red friable**\n- **Debris**\n- **Smell**| Non-healing                   | Exudate                | Red                   | Debris                   | Smell                     |\n|-------------------------------|-----------------------|-----------------------|--------------------------|---------------------------|\n| Wounds not reduced by 20–40%  | Increased exudate     | Wound bed tissue is   | Presence of discolored   | Unpleasant or sweet,      |\n| within 4 weeks based on       | may signal bacterial   | bright red with       | granulation tissue,      | sickening odour           |\n| history or documentation       | inflammation and      | exuberant granulation | slough, and              |                           |\n|                               | can cause peri-wound  | tissue.",
+      "char_count": 1155,
+      "token_estimate": 288,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care6-p10-e4woundinfection-nerdsandstoneescriteria_fa8e545093cb_chunk_001_6f7e5055",
+      "doc_id": "care6-p10-e4woundinfection-nerdsandstoneescriteria_fa8e545093cb",
+      "chunk_index": 1,
+      "text": "Tissue bleeds | necrotic/nonviable tissue|                           |\n|                               | maceration. Over 50%  | easily with gently     |                          |                           |\n|                               | of the dressing is    | manipulation          |                          |                           |\n|                               | typically saturated    |                       |                          |                           |----**Source:** (Information) Sibbald, Woo, Ayello ‘06, Woo & Sibbald ’09; (photos) ©Connie Harris ET NOW 2001.----**Helping people live better**This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 943,
+      "token_estimate": 235,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care6-p10-e4woundinfection-nerdsandstoneescriteria_fa8e545093cb_chunk_002_0b80220b",
+      "doc_id": "care6-p10-e4woundinfection-nerdsandstoneescriteria_fa8e545093cb",
+      "chunk_index": 2,
+      "text": "will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 2**# STONEES: Signs of Deeper Wound Infection## Mnemonics for Deep or Spreading Wound Infection- **Deep:** Treat Systemically\n- This tool supports early identification and helps reduce inappropriate antibiotic use.## Validation of STONEESAny 3 or more of the following indicate HIGH bacterial infection in the deep compartment:| Size Increasing | Temperature Increasing | Os | New | Erythema & Edema | Smell |\n|-----------------|-----------------------|----|-----|------------------|-------|\n| The wound becomes larger over time instead of shrinking, suggesting delayed healing or infection. | The wound area or surrounding tissue feels warmer than normal, indicating possible infection. | Bone is visible in the wound bed or can be felt with a sterile probe, often signaling deep or severe infection. | New satellite wounds or tissue breakdown appear near the original wound, suggesting spreading infection.",
+      "char_count": 1176,
+      "token_estimate": 294,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care6-p10-e4woundinfection-nerdsandstoneescriteria_fa8e545093cb_chunk_003_c47c21fd",
+      "doc_id": "care6-p10-e4woundinfection-nerdsandstoneescriteria_fa8e545093cb",
+      "chunk_index": 3,
+      "text": "| Bone is visible in the wound bed or can be felt with a sterile probe, often signaling deep or severe infection. | New satellite wounds or tissue breakdown appear near the original wound, suggesting spreading infection. | Increased drainage (especially thick or purulent), along with new or worsening redness and swelling, are classic signs of infection and inflammation. | A new or stronger foul odor from the wound often points to bacterial infection. |## PAINNew, increased, or altered pain is individually highly indicative of infection.----**Source:** (Information) Sibbald, Woo, Ayello ‘06, Woo & Sibbald ’09; (photos) ©Connie Harris ET NOW 2001.> This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 2 of 2",
+      "char_count": 993,
+      "token_estimate": 248,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

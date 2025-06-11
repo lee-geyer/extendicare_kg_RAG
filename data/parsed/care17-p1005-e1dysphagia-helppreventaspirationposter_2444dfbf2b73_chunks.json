@@ -1,0 +1,54 @@
+{
+  "doc_id": "care17-p1005-e1dysphagia-helppreventaspirationposter_2444dfbf2b73",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "care17-p1005-e1dysphagia-helppreventaspirationposter_2444dfbf2b73_chunk_000_0b3b5691",
+      "doc_id": "care17-p1005-e1dysphagia-helppreventaspirationposter_2444dfbf2b73",
+      "chunk_index": 0,
+      "text": "# Help Prevent Aspiration## Recognize Swallowing ProblemsDysphagia, or difficulty swallowing, is the delay or misdirection of fluid or solid food bolus as it travels from the mouth to the stomach.\n\nThis can occur at any stage of swallowing and can vary in severity from mild to severe.### Risk Factors- Unable to stay upright or alert for 15 minutes (e.g., over sedation, decreased LOC, confusion, delirium, etc.)\n- Breathing difficulties while eating or drinking\n- Unable to manage own secretions, choking, or weak cough\n- Traumatic or prolonged (>48 hours) intubation or reintubation\n- Tracheostomy in place\n- Preexisting dysphagia\n- History of aspiration pneumonia\n- Structural impairment within oral cavity, pharynx, larynx, and/or esophagus (secondary to strictures, inflammation/infection, radiation therapy, trauma, burns, etc.)\n- Neurological deficit (e.g., CVA, Parkinson's, Huntington's, Multiple Sclerosis, ALS, Dementia)\n- Head and neck structural deficit### Signs and Symptoms- Refusals to eat or drink\n- Pocketing of food\n- Excessive or inadequate chewing\n- Tears in eyes after swallowing\n- Coughing or choking during or after meals\n- Worsening congestion\n- Complaints of pain or obstruction after swallowing\n- Gurgly voice after swallowing## Take Action!1. Use the Manitoba Meal Observation Tool as per provincial guidelines.",
+      "char_count": 1340,
+      "token_estimate": 335,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p1005-e1dysphagia-helppreventaspirationposter_2444dfbf2b73_chunk_002_da31778f",
+      "doc_id": "care17-p1005-e1dysphagia-helppreventaspirationposter_2444dfbf2b73",
+      "chunk_index": 2,
+      "text": "2. Notify Physician and Nurse Practitioner.\n\n3. Downgrade texture/fluid consistency.",
+      "char_count": 84,
+      "token_estimate": 21,
+      "section_title": "Notify Physician and Nurse Practitioner.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p1005-e1dysphagia-helppreventaspirationposter_2444dfbf2b73_chunk_004_b077f45e",
+      "doc_id": "care17-p1005-e1dysphagia-helppreventaspirationposter_2444dfbf2b73",
+      "chunk_index": 4,
+      "text": "4. Modify method in which oral medications are provided.\n\n5. Refer to RD and/or SLP as per provincial guidelines.",
+      "char_count": 113,
+      "token_estimate": 28,
+      "section_title": "Modify method in which oral medications are provided.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p1005-e1dysphagia-helppreventaspirationposter_2444dfbf2b73_chunk_006_6eb1428e",
+      "doc_id": "care17-p1005-e1dysphagia-helppreventaspirationposter_2444dfbf2b73",
+      "chunk_index": 6,
+      "text": "6. Ensure adequate oral care post eating or drinking.----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**Extendicare**\nHelping people live better",
+      "char_count": 421,
+      "token_estimate": 105,
+      "section_title": "Ensure adequate oral care post eating or drinking.----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**Extendicare**",
+      "chunk_type": "content",
+      "start_line": 21,
+      "end_line": 22
+    }
+  ]
+}

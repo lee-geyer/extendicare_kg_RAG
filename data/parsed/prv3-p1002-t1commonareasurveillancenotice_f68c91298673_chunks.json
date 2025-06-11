@@ -1,0 +1,18 @@
+{
+  "doc_id": "prv3-p1002-t1commonareasurveillancenotice_f68c91298673",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "prv3-p1002-t1commonareasurveillancenotice_f68c91298673_chunk_000_a2100a16",
+      "doc_id": "prv3-p1002-t1commonareasurveillancenotice_f68c91298673",
+      "chunk_index": 0,
+      "text": "# Notice## THIS RESIDENCE IS MONITORED BY VIDEO SURVEILLANCEThis surveillance may be carried out for the purposes of monitoring and protecting the safety and security of Extendicare residents, staff, visitors, and property. By entering this building, you consent to the collection of your image for these purposes, or for any other purpose permitted by law.----## Extendicare# Notice## THIS RESIDENCE IS MONITORED BY VIDEO SURVEILLANCEThis surveillance may be carried out for the purposes of monitoring and protecting the safety and security of Extendicare residents, staff, visitors, and property. By entering this building, you consent to the collection of your image for these purposes, or for any other purpose permitted by law.---",
+      "char_count": 735,
+      "token_estimate": 183,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 0
+    }
+  ]
+}

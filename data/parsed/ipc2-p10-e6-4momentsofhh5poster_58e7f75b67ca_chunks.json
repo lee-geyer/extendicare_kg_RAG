@@ -1,0 +1,78 @@
+{
+  "doc_id": "ipc2-p10-e6-4momentsofhh5poster_58e7f75b67ca",
+  "total_chunks": 6,
+  "chunks": [
+    {
+      "chunk_id": "ipc2-p10-e6-4momentsofhh5poster_58e7f75b67ca_chunk_000_3e0d4879",
+      "doc_id": "ipc2-p10-e6-4momentsofhh5poster_58e7f75b67ca",
+      "chunk_index": 0,
+      "text": "```markdown\n\n# Your Moments of Hand Hygiene## 1. Before entering the kitchen/dining room or picking up food from servery\n- **Stock**:\n- Be between handling different food items (i.e., veggies, chicken, etc.)## 2. After handling dirty dishes and waste\n- **When leaving the kitchen or dining room**\n- Ensure proper hand hygiene after handling food and waste.## 3. Additional Notes\n- Always wash hands thoroughly with soap and water.\n- Use hand sanitizer if soap and water are not available.\n```### Document Metadata\n- **Policy Number**: [Insert Policy Number]\n- **Effective Date**: [Insert Effective Date]\n- **Review Date**: [Insert Review Date]\n```This markdown format preserves the structure and important information from the original document while ensuring readability and clarity.```markdown",
+      "char_count": 795,
+      "token_estimate": 198,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-e6-4momentsofhh5poster_58e7f75b67ca_chunk_002_7581d681",
+      "doc_id": "ipc2-p10-e6-4momentsofhh5poster_58e7f75b67ca",
+      "chunk_index": 2,
+      "text": "# Your Moments of Hand Hygiene## 1. Before entering office or resident’s room/environment## 2. After leaving office or resident’s room/environment## 3. After cleaning a resident’s room or area## 4. After body fluid exposure risk\n``````markdown\n\n# Your Moments of Hand Hygiene## Hand Hygiene Steps1. **Before entering clean side of laundry room**",
+      "char_count": 345,
+      "token_estimate": 86,
+      "section_title": "Your Moments of Hand Hygiene## 1. Before entering office or resident’s room/environment## 2. After leaving office or resident’s room/environment## 3. After cleaning a resident’s room or area## 4. After body fluid exposure risk",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-e6-4momentsofhh5poster_58e7f75b67ca_chunk_004_a73d92ee",
+      "doc_id": "ipc2-p10-e6-4momentsofhh5poster_58e7f75b67ca",
+      "chunk_index": 4,
+      "text": "2. **After leaving dirty side of laundry room**\n\n3. **After handling dirty laundry or body fluids**",
+      "char_count": 99,
+      "token_estimate": 24,
+      "section_title": "**After leaving dirty side of laundry room**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-e6-4momentsofhh5poster_58e7f75b67ca_chunk_006_c4cedf6e",
+      "doc_id": "ipc2-p10-e6-4momentsofhh5poster_58e7f75b67ca",
+      "chunk_index": 6,
+      "text": "4. **After last load and disinfecting laundry cart**!Adobe Stock | #825414270\n``````markdown\n\n# Your Moments of Hand Hygiene## Before Contact\n- With resident or resident environment## After Contact\n- With resident or resident environment### Additional Notes",
+      "char_count": 257,
+      "token_estimate": 64,
+      "section_title": "**After last load and disinfecting laundry cart**!Adobe Stock | #825414270",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-e6-4momentsofhh5poster_58e7f75b67ca_chunk_008_b5933ce9",
+      "doc_id": "ipc2-p10-e6-4momentsofhh5poster_58e7f75b67ca",
+      "chunk_index": 8,
+      "text": "1. Before starting a program or one-on-one visit\n\n2. After finishing a program or activity\n``````markdown",
+      "char_count": 105,
+      "token_estimate": 26,
+      "section_title": "Before starting a program or one-on-one visit",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-e6-4momentsofhh5poster_58e7f75b67ca_chunk_010_4f098461",
+      "doc_id": "ipc2-p10-e6-4momentsofhh5poster_58e7f75b67ca",
+      "chunk_index": 10,
+      "text": "# Your Moments of Hand Hygiene## 1. Before entering kitchen, servery or resident room/environment## 2. After leaving kitchen, servery or resident room/environment## 3. Before repairing resident equipment## 4. After servicing or cleaning resident equipment\n```",
+      "char_count": 259,
+      "token_estimate": 64,
+      "section_title": "Your Moments of Hand Hygiene## 1. Before entering kitchen, servery or resident room/environment## 2. After leaving kitchen, servery or resident room/environment## 3. Before repairing resident equipment## 4. After servicing or cleaning resident equipment",
+      "chunk_type": "content",
+      "start_line": 26,
+      "end_line": 27
+    }
+  ]
+}

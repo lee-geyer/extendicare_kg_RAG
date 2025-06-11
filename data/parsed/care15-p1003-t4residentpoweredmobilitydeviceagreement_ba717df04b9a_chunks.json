@@ -1,0 +1,42 @@
+{
+  "doc_id": "care15-p1003-t4residentpoweredmobilitydeviceagreement_ba717df04b9a",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "care15-p1003-t4residentpoweredmobilitydeviceagreement_ba717df04b9a_chunk_000_0ab753f3",
+      "doc_id": "care15-p1003-t4residentpoweredmobilitydeviceagreement_ba717df04b9a",
+      "chunk_index": 0,
+      "text": "# Extendicare Resident Power-Mobility Device AgreementThe following rules and regulations have been developed to ensure the safety of residents, staff, and volunteers.## Rules and Regulations1. I understand the safety rules and regulations as outlined by the Physiotherapist, Restorative Care Aide, Occupational Therapist, and/or designate.\n\n2. I understand and will abide by the drug and alcohol policies outlined by Extendicare.",
+      "char_count": 430,
+      "token_estimate": 107,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care15-p1003-t4residentpoweredmobilitydeviceagreement_ba717df04b9a_chunk_002_fe24deae",
+      "doc_id": "care15-p1003-t4residentpoweredmobilitydeviceagreement_ba717df04b9a",
+      "chunk_index": 2,
+      "text": "3. I understand that driving incidents may have significant and negative consequences for me or others.\n\n4. I understand that there will be a reassessment and re-evaluation in the event of any incident which could result in the removal of my power-mobility device.",
+      "char_count": 264,
+      "token_estimate": 66,
+      "section_title": "I understand that driving incidents may have significant and negative consequences for me or others.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care15-p1003-t4residentpoweredmobilitydeviceagreement_ba717df04b9a_chunk_004_9ca46444",
+      "doc_id": "care15-p1003-t4residentpoweredmobilitydeviceagreement_ba717df04b9a",
+      "chunk_index": 4,
+      "text": "5. I understand that I am solely responsible for any damage or injury that I may cause while driving outdoors and off the Extendicare property. Extendicare shall not be liable for any such damage or injury.----| **Resident Name**                     | **Signature**                       |\n|---------------------------------------|-------------------------------------|\n| ______________________                | ______________________              |\n| **OT/PT/Designate Name**             | **Signature**                       |\n| ______________________                | ______________________              |\n| **Date**                              |                                     |\n| ______________________                |                                     |----Helping people live betterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 1**",
+      "char_count": 1139,
+      "token_estimate": 284,
+      "section_title": "I understand that I am solely responsible for any damage or injury that I may cause while driving outdoors and off the Extendicare property. Extendicare shall not be liable for any such damage or injury.----| **Resident Name**                     | **Signature**                       |",
+      "chunk_type": "content",
+      "start_line": 4,
+      "end_line": 10
+    }
+  ]
+}

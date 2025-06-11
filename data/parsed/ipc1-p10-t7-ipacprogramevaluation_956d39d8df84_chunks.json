@@ -1,0 +1,138 @@
+{
+  "doc_id": "ipc1-p10-t7-ipacprogramevaluation_956d39d8df84",
+  "total_chunks": 11,
+  "chunks": [
+    {
+      "chunk_id": "ipc1-p10-t7-ipacprogramevaluation_956d39d8df84_chunk_000_efa1a561",
+      "doc_id": "ipc1-p10-t7-ipacprogramevaluation_956d39d8df84",
+      "chunk_index": 0,
+      "text": "# Set-Up|QUALITY PROTOCOL & PROGRAM EVALUATION WORKBOOK| | |Password:  qpp|\n|---|---|---|---|\n|SET-UP & NOTES| | | |\n| | | | |\n|Home: (Select your home name from drop-down )| | | |\n| | | | |\n|Enter Year:|2025| | |\n| | | | |\n|FOR DEB ONLY:| | | |\n|To view QP's on Ministry site, enter login info as follows:| | | |\n|https://www.ltchomes.net/ltcf2/Login.Aspx| | | |\n| | | | |\n|Homes| |YN| |\n|Extendicare BAYVIEW| |Yes| |\n|Extendicare BRAMPTON| |No| |\n|Extendicare COBOURG| | | |\n|Extendicare FALCONBRIDGE| | | |\n|Extendicare GREAT NORTHERN| | | |\n|Extendicare GUILDWOOD| |YNN| |\n|Extendicare HALIBURTON| |Yes| |\n|Extendicare HALTON HILLS| |No| |\n|Extendicare HAMILTON| |N/A| |\n|Extendicare KAPUSKASING| | | |\n|Extendicare KAWARTHA LAKES| | | |\n|Extendicare KINGSTON| | | |\n|Extendicare KIRKLAND LAKE| | | |\n|Extendicare LAKEFIELD| | | |\n|Extendicare LAURIER MANOR| | | |\n|Extendicare LONDON| | | |\n|Extendicare MEDEX| | | |\n|Extendicare MISSISSAUGA| | | |\n|Extendicare NEW ORCHARD LODGE| | | |\n|Extendicare OSHAWA| | | |\n|Extendicare PETERBOROUGH| | | |\n|Extendicare PORT HOPE| | | |\n|Extendicare PORT STANLEY| | | |\n|Extendicare ROUGE VALLEY| | | |\n|Extendicare SCARBOROUGH| | | |\n|Extendicare SOUTHWOOD LAKES| | | |\n|Extendicare ST.",
+      "char_count": 1232,
+      "token_estimate": 308,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc1-p10-t7-ipacprogramevaluation_956d39d8df84_chunk_001_d8d75057",
+      "doc_id": "ipc1-p10-t7-ipacprogramevaluation_956d39d8df84",
+      "chunk_index": 1,
+      "text": "CATHARINES| | | |\n|Extendicare STARWOOD| | | |\n|Extendicare TECUMSEH| | | |\n|Extendicare TENDERCARE| | | |\n|Extendicare TIMMINS| | | |\n|Extendicare TRI-TOWN| | | |\n|Extendicare VAN DAELE| | | |\n|Extendicare WEST END VILLA| | | |\n|Extendicare YORK| | | |\n|BENNETT VILLAGE| | | |\n|BAYFIELD MANOR LTC| | | |\n|BAYFIELD MANOR RH| | | |\n|BELLA SENIOR CARE RESIDENCE| | | |\n|BIRCHWOOD TERRACE NURSING HOME| | | |\n|BLACKADAR CONTINUING CARE LTC| | | |\n|BLACKADAR CONTINUING CARE RH| | | |\n|CHELSEY PARK LTC| | | |\n|CHELSEY PARK RH| | | |\n|CHELSEY PARK APTS| | | |\n|COUNTRY LANE LTC RESIDENCE| | | |\n|COUNTRY VILLAGE| | | |\n|CRAIGLEE NURSING HOME| | | |\n|ELGIN ABBEY LTC| | | |\n|ELGIN ABBEY RH| | | |\n|ERRINRUNG LTC| | | |\n|ERRINRUNG RH| | | |\n|F.J.",
+      "char_count": 740,
+      "token_estimate": 185,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc1-p10-t7-ipacprogramevaluation_956d39d8df84_chunk_002_b2a80bbe",
+      "doc_id": "ipc1-p10-t7-ipacprogramevaluation_956d39d8df84",
+      "chunk_index": 2,
+      "text": "DAVEY| | | |\n|GEORGIAN HEIGHTS| | | |\n|HOGARTH RIVERVIEW MANOR| | | |\n|HOPE STREET TERRACE| | | |\n|IROQUOIS LODGE| | | |\n|KAWARTHA HEIGHTS RETIREMENT LIVING| | | |\n|LAKESIDE LONG TERM CARE CENTRE| | | |\n|MAITLAND MANOR| | | |\n|MANITOULIN CENTENNIAL MANOR| | | |\n|MANOIR MAROCHEL| | | |\n|MAPLE VIEW| | | |\n|MCCALL CENTRE FOR CONTINUING CARE| | | |\n|OAKS RETIREMENT VILLAGE| | | |\n|ORCHARD VILLA LTC| | | |\n|ORCHARD VILLA RH| | | |\n|PARISIEN MANOR| | | |\n|PARKVIEW MANOR HEALTH CARE CENTRE| | | |\n|PINECREST NURSING HOME| | | |\n|PINE MEADOW NURSING HOME| | | |\n|PORT PERRY PLACE| | | |\n|QUEENSWAY LTC| | | |\n|QUEENSWAY RH| | | |\n|RAINYCREST LONG TERM CARE| | | |\n|REGENCY LTC| | | |\n|REGENCY RH| | | |\n|RIDEAUCREST HOME| | | |\n|SEAFORTH LTC| | | |\n|SEAFORTH RH| | | |\n|SHELBURNE LTC| | | |\n|SHELBURNE RH| | | |\n|SOUTHBRIDGE LAKEHEAD| | | |\n|SOUTHBRIDGE PINEWOOD| | | |\n|SOUTHBRIDGE ROSEVIEW| | | |\n|SOUTHLAKE RESIDENTIAL CARE VILLAGE| | | |\n|TENDERCARE LIVING CENTRE NH| | | |\n|TENDERCARE LIVING CENTRE MCNICOLL MANOR| | | |\n|TENDERCARE LIVING CENTRE MOLL BERCZY| | | |\n|THE PALACE LTC| | | |\n|THE PALACE RH| | | |\n|THE PINES| | | |\n|VILLA COLOMBO Homes for the Aged Inc.",
+      "char_count": 1169,
+      "token_estimate": 292,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc1-p10-t7-ipacprogramevaluation_956d39d8df84_chunk_003_d1f6249b",
+      "doc_id": "ipc1-p10-t7-ipacprogramevaluation_956d39d8df84",
+      "chunk_index": 3,
+      "text": "(VCT)| | | |\n|WARKWORTH PLACE| | | |\n|WEST PARK HEALTH CENTRE| | | |\n|WEST PARK LONG TERM CARE CENTRE| | | |\n|WYNDHAM MANOR| | | |\n|IRENE BARON| | | |\n|RIVER EAST| | | |\n|LUXSTONE MANOR| | | |\n|SALEM MANOR| | | |\n| | | | |\n|Home:| | | |\n| | | | |\n|pswd: qpp| | | |# Program Evaluation Schedule|Annual Program Evaluations - Mandatory Completion Schedule :| | | | | | | | | | | | |2024|\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n|Annual Program Evaluation Workbook| | | | | | | | | | | | | |\n| |Program Evaluations|Jan|Feb|Mar|Apr|May|June|July|Aug|Sept|Oct|Nov|Dec|\n| |Medication Management  (Revewed at Qtrly P&T)|Q3 Quarterly Review| | |Q4 Quarterly Review| | |Q1 Quarterly Review|x| |Q2 Quarterly Review| | |\n| |Palliative Care & Pain| | | |x| | | | | | | | |\n| |Minimizing of Restraining  (Restraint use is evaluated montly)| | | | | |x| | | | | | |\n| |Infection Prevention & Control| |X| | | | | | | | | | |\n| |Continence Care & Bowel Management| | | | | | |X| | | | | |\n| |Skin & Wound Care| | | | | | |X| | | | | |\n| |Falls Prevention| | | | | | | | | | |x| |\n| |Responsive Behaviour| | | | | | | | |x| | | |\n| |Restorative Care & Therapy| | | | | | | | | | |X| |\n| |Heat Related Illness| | | |x| | | | | | | | |\n| |Resident Abuse & Neglect|X| | | | | | | | | | | |\n| |Training & Orientation| |X| | | | | | | | | | |\n| |Information & Referral Services| | |x| | | | | | | | | |\n| |Nursing & PSW Staffing Services| | | | |X| | | | | | | |\n| |Medical Services| | | | | |X| | | | | | |\n| |Recreation & Social Activities| | | | | | | | | |X| | |\n| |Religious & Spiritual Practices| | | | | | | | | |X| | |\n| |Volunteer Program| | | | | | | | | | |X| |\n| |Environmental Services| | | | | | | | | | | |X|\n| |Nutrition Care and Hydration| | | | | | | | | | | |X|# FEB - IPAC| | |Quality Program Evaluation| | | | | | | | | | | | |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| | |Infection Prevention and Control| | | | | | | | | | | | |\n|0| |Annual Schedule:  February| |0| | | | | | | | | | |\n| | | | | | | | | | | | | | | |\n|People who participated in the evaluation| | | | | | | | | | | | | | |\n|Nursing| | | | | | | | | | | | | | |\n|Director of Care| | | | |Complete the following tables summarizing the healthcare-associated infection rates, outbreaks, and hand hygiene and PPE compliance for the stated year:| | | | | | | | | |\n|Executive Director| | | | | | |Infection Rate per 10,000 resident days|Total # of infections 2023|Total # of Infections 2024|Change in number of infections|Corporate Goals| | | |\n|Dietary| | | | | | | | | | | | | | |\n|Environmental Services Manager| | | | |Type of Infection|Respiratory - Upper| | | |0| | | | |\n|Medical Director| | | | | |Respiratory - Lower| | | |0| | | | |\n|IPAC Lead| | | | | |UTI - CAUTI| | | |0|2 per 10,000 resident days| | | |\n|Public Health Representative (if applicable)| | | | | |UTI| | | |0|4 per 10,000 resident days| | | |\n|Program Manager| | | | | |Gastrointestinal| | | |0| | | | |\n|OH&S Representative| | | | | |Skin and Soft Tissue| | | |0|2 per 10,000 resident days| | | |\n|Resident Council Respresentative| | | | | |Eye Infection| | | |0|1 per 10,000 resident days| | | |\n|Family Council Representative| | | | | |Systemic| | | |0| | | | |\n|Other| | | | | |Other| | | |0| | | | |\n| | | | | | | | | | | | | | | |\n|Quality Improvement| |(Insert Number only)| | | | | | | | | | | | |\n| | | | | | | | | | | | | | | |\n|Complete the IPAC Program Review on Tab 2 of this Evaluation| | | | | | | | | | | | | | |\n| | | | | | | | | | | |Note:|Infection Rate: # of cases/resident days x 10,000| | |\n| |Trends/Gaps identified in the Foundational Audit 2024| | | | | | | | | | | | | |\n| |Date Outbreak Plan was reviewed| | | |Evaluation of previous years objectives (Please list any changes that were made to the program based on your evaluation including the dates implemented):| | | | | | | | | |\n| | | | | | | | | | | | | | | |\n|Describe trends observed; compare IPAC annual evaluation between this year and the previous year:| | | | | | | | | | | | | | |\n| | | | | | | | | | | | | | | |\n|List any actions required and compare prevalence based on the analysis from chart on page 2:| | | | | | | | | | | | | | |\n| | | | | | | | | | | | | | | |\n| | |For each Objective, INDICATE:| | | | | | | | | | | | |\n|List objectives and measurable outcomes for the current year| |Date Implemented:|Person(s) Responsible| | | | | | | | | | | |\n|(Please note actions must be implemented PROMPTLY)| | | | | | | | | | | | | | |\n|1st Objective| | | | | | | |Influenza Immunization| | | | | | |\n|Expected Outcome| | | | | | | | |Influenza Immunization rate 2023| |Influenza immunization rate 2024| |Change| |\n| | | | | | | | |Staff| | | | |0%| |\n|2nd Objective| | | | | | | |Residents| | | | |0%| |\n|Expected Outcome| | | | | | | |Volunteers| | | | |0%| |\n| | | | | | | | | | | | | | | |\n|3rd Objective| | | | | | | | | | | | | | |\n|Expected Outcome| | | | | | | |Hand Hygiene and Personal Protective Equipment (PPE) Compliance| | | | | | |\n| | | | | | | | | |2023| |2024| |2025 Goal|Corporate Goal|\n|Policy| | | | | | | |Hand Hygiene Compliance| | | | | |90%|\n| |Indicate the date the team/IPAC Committee reviewed updated policies:| | | | | | |PPE Compliance| | | | | |90%|\n| |Are policy changes required/suggested?",
+      "char_count": 5291,
+      "token_estimate": 1322,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc1-p10-t7-ipacprogramevaluation_956d39d8df84_chunk_004_fe2b630f",
+      "doc_id": "ipc1-p10-t7-ipacprogramevaluation_956d39d8df84",
+      "chunk_index": 4,
+      "text": "(Yes or No)| | | | | | |Cororate Goal| | | | | |90%|\n|If yes, did you forward the Policy Revision Request Form to Corporate Policy Team (policy@extendicare.com)?\n\n(Yes with date or No)| | | | | | | | | | | | | | |\n|Report| | | | | | | | | | | | | | |\n| |Date report submitted to Professional Advisory Committee:| | | | | | | | | | | | | |\n| |Date report submitted to Family Council:| | | | | | | | | | | | | |\n| |Date report submitted to Resident Council:| | | | | | | | | | | | | |\n|List the dates of the Quarterly Infection Control meetings held in the home| | | | | | | | | | | | | | |\n|1 -| | | | | | | | | | | | | | |\n|2 -| | | | | | | | | | | | | | |\n|3 -| | | | | | | | | | | | | | |\n|4 -| | | | | | | | | | | | | | |\n| |Were the objectives with expected outcomes met for the past year:    (Yes or No)| | | | | | | | | | | | | |\n| |If not, why not and what actions will be taken in the coming year?| | | | | | | | | | | | | |\n| | | | | | | | | | | | | | | |\n|Signatures:|Print out a completed copy - obtain signatures and file.|Date Signed:| | | | | | | | | | | | |\n|Executive Director| | | | | | | | | | | | | | |\n|Director of Care| | | | | | | | | | | | | | |\n|Medical Director| | | | | | | | | | | | | | |\n|ICP/Designate| | | | | | | | | | | | | | |\n|Other| | | | | | | | | | | | | | |# FEB - IPAC Program Review| | | | | |Quality Protocol| | |\n|---|---|---|---|---|---|---|---|\n| | | | | |INFECTION PREVENTION & CONTROL| | |\n| | | | | |Annual Schedule:  February| | |\n| | | | | | | | |\n| |Name of Reviewer & Title:| |Date Completed:| | | | |\n| | | | | | | | |\n|Purpose of Quality Protocols:| | | | | | | |\n|Regular monitoring of the status of the quality of care and service provided in our homes is in keeping with Extendicare’s| | | | | | | |\n|Commitment to Resident’s and Mission.",
+      "char_count": 1794,
+      "token_estimate": 448,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc1-p10-t7-ipacprogramevaluation_956d39d8df84_chunk_006_4c411e68",
+      "doc_id": "ipc1-p10-t7-ipacprogramevaluation_956d39d8df84",
+      "chunk_index": 6,
+      "text": "The Extendicare Quality Protocols complimented by the Quality Improvement| | | | | | | |\n|tools and strategies outlined in our Quality Framework will promote and support Homes in achieving alignment with| | | | | | | |\n|Extendicare and Provincial expectations and ultimately enhance the safety, quality of life and quality of care of residents.| | | | | | | |\n| | | | | | | | |\n|Definition/Description:| | | | | | | |\n|Infection:| | | | | | | |\n|• This is the entry and multiplication of an infectious agent in the tissues of the host.| | | | | | | |\n|There are two types of infection: asymptomatic and symptomatic.| | | | | | | |\n|• Asymptomatic or sub-clinical infection is an infectious process running a course similar to that of clinical| | | | | | | |\n|disease but below the threshold of clinical symptoms.| | | | | | | |\n|• Symptomatic or clinical infection is one resulting in clinical signs and symptoms i.e.",
+      "char_count": 917,
+      "token_estimate": 229,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc1-p10-t7-ipacprogramevaluation_956d39d8df84_chunk_007_842320af",
+      "doc_id": "ipc1-p10-t7-ipacprogramevaluation_956d39d8df84",
+      "chunk_index": 7,
+      "text": "disease.| | | | | | | |\n| | | | | | | | |\n|Outbreak:| | | | | | | |\n|This is an increase in the number of cases (colonization or infections) above the number normally occurring in a| | | | | | | |\n|particular health care setting over a defined period of time.| | | | | | | |\n| | | | | | | | |\n|0| | | | | | |0|\n|ITEM|Quality Protocol:  INFECTION PREVENTION & CONTROL|YES or| | | | | |\n|NO| | | |Quality Protocol:  INFECTION PREVENTION & CONTROL| | | |\n| | | | | | | |COMMENTS:|\n| | | | | | | | |\n|PART A:| | | | | |PART A:| |\n|Mandatory| | | | | | | |\n|1|The staff participates in the implementation of the infection prevention and control program.| | | | |1| |\n| |(Check that staff from all departments are practicing proper hand hygiene, proper use of PPE and proper cleaning and disinfecting procedures.)| | | | | | |\n|2|Staff monitor symptoms of infection in residents on every shift in accordance with best practices and, if there are none, in accordance with prevailing practices.| | | | |2| |\n| |(Check that symptoms are being monitored and recorded every 24 hours including weekends: ask to see documentation.)| | | | | | |\n|3|Staff on every shift record symptoms of infection in residents and take immediate action as required.| | | | |3| |\n| |(Review evidence through documentation that immediate actions were taken; care plan /communication to all departments.)| | | | | | |\n| | | | | | | | |\n|PART B:| | | | | |PART B:| |\n|IPAC Program| | | | | |IPAC Program| |\n|4|The home has an Infection Prevention and Control program.| | | | |4| |\n| |(Check the home has a formalized program with documentation that there are policies and procedures followed by the home.)| | | | | | |\n|5|There is an outbreak management system in place for detecting, managing, and controlling infectious disease outbreaks including:| | | | | | |\n|•  defined staff responsibilities| | | | |5| | |\n| |(Check for documentation that reflects all staff from all departments defined responsibilities and that staff are knowledgeable of these responsibilities.)| | | | | | |\n| |•  reporting protocols based on provincial requirements| | | | | | |\n| |(Check that the home knows who to report to, i.e.",
+      "char_count": 2177,
+      "token_estimate": 544,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc1-p10-t7-ipacprogramevaluation_956d39d8df84_chunk_008_5b54e7a9",
+      "doc_id": "ipc1-p10-t7-ipacprogramevaluation_956d39d8df84",
+      "chunk_index": 8,
+      "text": "Public Health, and there is documentation in place as evidence that these protocols are being followed.)| | | | | | |\n| |•  communication plans| | | | | | |\n| |(Check there is a procedure for communicating outbreak and that the procedure is accessible to staff.)| | | | | | |\n| |•  protocols for receiving and responding to health alerts.| | | | | | |\n| |(Check that the home is following any required actions and responding to a home specific, community, provincial or national health alert.)| | | | | | |\n|6|There is a hand-hygiene program in accordance with best practices and, if there are none, in accordance with prevailing practices, and with access to point-of-care hand hygiene agents.| | | | |6| |\n| |(Check that the home is following HH policies, observe that there are hand sanitizers at point of care in every resident room and in all common areas.)| | | | | | |\n|7|The IPAC program includes daily monitoring of resident infections.| | | | |7| |\n| |(Check that the home is tracking infections daily, review line listing/surveillance sheets/HCX.)| | | | | | |\n|8|There are measures in place to prevent the transmission of infections.| | | | |8| |\n| |Check  PPE availabilty for all staff, residents and volunteers.",
+      "char_count": 1225,
+      "token_estimate": 306,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc1-p10-t7-ipacprogramevaluation_956d39d8df84_chunk_009_8112a8f2",
+      "doc_id": "ipc1-p10-t7-ipacprogramevaluation_956d39d8df84",
+      "chunk_index": 9,
+      "text": "Shared equipment is cleaned and disinfected, disinfection wipes are easily accesible| | | | | | |\n|9|There is an interdisciplinary team approach in the co-ordination and implementation of the Infection Prevention and Control Program.| | | | |9| |\n| |(Review the IPAC Program Policy and Terms of Reference for the IPAC Committee to confirm an interdisciplinary approach.)| | | | | | |\n|10|The IPAC Committee meets at least quarterly.| | | | |10| |\n| |(Review Minutes for the past year.)| | | | | | |\n|11|ON Only: The local medical officer of health/Public Health representative is invited to the IPAC Committee meetings.| | | | |11| |\n| |(Review minutes to demonstrate that a member of the Public Health unit has been formally invited/ template letter/e-mail.)| | | | | | |\n|12|The IPAC program is evaluated and updated at least annually in accordance with best practices and, if there are none, in accordance with prevailing practices.| | | | |12| |\n| |(Review the annual evaluation of the IPAC program.)| | | | | | |\n|13|A written record of the annual IPAC program evaluation is kept that includes the following:| | | | | | |\n|•  the date of evaluation| | | | | | | |\n|•  the names of the persons who participated| | | | | | | |\n|•  a summary of the changes made, and| | | | | | | |\n|•  the date of those changes were implemented.| | | | | | | |\n| | | | | |13| | |\n| |(Review the evaluation to ensure that all the above information is included in the program evaluation.)| | | | | | |\n|14|Infection information collected by staff is analyzed daily and reviewed at least once a month to detect trends.| | | | |14| |\n| |(Review documentation to ensure that there is a daily analysis of all infections and that there is a documented monthly analysis.",
+      "char_count": 1748,
+      "token_estimate": 437,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc1-p10-t7-ipacprogramevaluation_956d39d8df84_chunk_010_ee6dd7f4",
+      "doc_id": "ipc1-p10-t7-ipacprogramevaluation_956d39d8df84",
+      "chunk_index": 10,
+      "text": "Check 3 months.)| | | | | | |\n|15|There is a designated staff member to co-ordinate the IPAC program.| | | | |15| |\n| |(Identify who the designated IPAC lead is in the home.)| | | | | | |\n|16|The IPAC lead has education and experience in infection prevention and control practices as per policy.| | | | |16| |\n| |(Review program lead requirements. ON ONLY: IPAC Manager is CIC or LTC-CIP certified)| | | | | | |\n|21|There a written home specific outbreak plan in place for responding to infectious disease outbreaks, that is reviewed and updated yearly.| | | | |21| |\n| |(Review the home's outbreak plan.)| | | | | | |\n|22|Home implements any surveillance protocols issued by the Director for a particular communicable disease.| | | | |22| |\n| |(Review historical outbreak documentation. If at the time of the review there have been specific directives, is the home implementing them?",
+      "char_count": 884,
+      "token_estimate": 221,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc1-p10-t7-ipacprogramevaluation_956d39d8df84_chunk_011_4e416d86",
+      "doc_id": "ipc1-p10-t7-ipacprogramevaluation_956d39d8df84",
+      "chunk_index": 11,
+      "text": "ON ONLY: IPAC Manager is CIC or LTC-CIP certified)| | | | | | |\n|21|There a written home specific outbreak plan in place for responding to infectious disease outbreaks, that is reviewed and updated yearly.| | | | |21| |\n| |(Review the home's outbreak plan.)| | | | | | |\n|22|Home implements any surveillance protocols issued by the Director for a particular communicable disease.| | | | |22| |\n| |(Review historical outbreak documentation. If at the time of the review there have been specific directives, is the home implementing them? Is there any documentation that can be provided?)| | | | | | |\n|23|Home management ensures that any plan, policy, protocol, procedure, strategy or system instituted or otherwise put in place is:| | | | | | |\n|•  in compliance with legislation| | | | | | | |\n|•  complied with.| | | | | | | |\n| | | | | |23| | |\n| |(Review IPAC legislation and review the Home's practice to ensure compliance.)| | | | | | |\n| | | | | | | | |\n|PART C:| | | | | |PART C:| |\n|TB Screening and Immunization| | | | | |TB Screening and Immunization| |\n|24|Residents are offered immunization against influenza and COVID at the appropriate time(s) each year.| | | | |24| |\n| |(Review documentation that the residents have been offered and received immunization against influenza and COVID.)| | | | | | |\n|25|There is a staff immunization program in accordance with best practices and, if there are none, in accordance with prevailing practices.| | | | |25| |\n| |(Review staff immunization records and the Home's statistics.)| | | | | | |\n|26|All pets living in the home or visiting as part of a pet visitation program have up-to-date immunizations.| | | | |26| |\n| |(Review the Home's pet immunization records and the records for any visiting pets to ensure that all visiting pets have their up-to-date immunizations.)| | | | | | |\n| | | | | | | | |\n| |CHECK/REVIEW THREE SPECIFIC RESIDENTS/CHARTS, as indicated| | | | |CHECK/REVIEW THREE SPECIFIC RESIDENTS/CHARTS, as indicated| |\n|27|Each resident admitted to the home is screened for tuberculosis within 14 days of admission, unless the resident has already been screened at some time in the 90 days prior to admission and the documented results of this screening are available to home management.| | | | | | |\n| |0| | | |27| | |\n| |(Check at least the last 3 admissions.)| | | | | | |\n|28|Residents are offered immunizations against pneumococcus, tetanus, diphtheria, pertusiss in accordance with the publicly funded immunization schedules.|0| | | |28| |\n| |(Check immunization records for 3 residents for documentation to ensure that the residents are being offered and receiving these immunizations.)| | | | | | |\n|29|Upon hire staff are screened for tuberculosis and other infectious diseases in accordance with best practices and, if there are none, in accordance with prevailing practices.|0| | | |29| |\n| |(Review the files of last 3 employees hired to ensure screening is completed as required.)| | | | | | |\n| | | | | | | | |\n| |TOTAL YES:|0| | | | | |\n| |TOTAL NO (NOT MET):|0|0|0|0| | |\n| |TOTAL N/A:|0| | | | | |\n| |TOTAL BLANK:|(25)|çMUST BE 0| | | | |\n| | | | | | | | |\n| |% OF PROTOCOL ELEMENTS MET:|0%| | | | | |",
+      "char_count": 3192,
+      "token_estimate": 798,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

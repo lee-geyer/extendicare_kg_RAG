@@ -1,0 +1,30 @@
+{
+  "doc_id": "care16-p10-t5referral-recreationandleisure_12c4860ff2fc",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "care16-p10-t5referral-recreationandleisure_12c4860ff2fc_chunk_000_f063aeee",
+      "doc_id": "care16-p10-t5referral-recreationandleisure_12c4860ff2fc",
+      "chunk_index": 0,
+      "text": "# Referral - Recreation and Leisure**Resident:**                                    **Location:**## A. Referral1. **Reason for referral:**\n- Pain management - Non-pharmacological Intervention/Relaxation therapy\n- Triggered for worsened mood on interRAI\n- Physician request\n- Risk of social isolation\n- Worsening of responsive behaviours\n- Family request\n- Resident request\n- Request for complementary therapies (music therapy, art therapy, music resources, massage therapy)\n- Request for mobile library service\n- Post fall assessment\n- Maintain/Enhance abilities\n- Exercises\n- Sensory support/stimulation\n- Other1b. **Name of person requesting referral:**\n- Document any other information that may assist the Recreation staff in addressing Resident needs, including request details.2. **Referral Details:**3. **Name and designation/position of staff initiating the referral:**\n- SAVE referral, do NOT lock. Recreation will lock referral after assessment is completed.## B. Recreation Department response to referral1. **Name and position of Recreation staff responding to the referral:**2. **Date and Time of Recreation response to referral:**3.",
+      "char_count": 1145,
+      "token_estimate": 286,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care16-p10-t5referral-recreationandleisure_12c4860ff2fc_chunk_001_a0d6fd75",
+      "doc_id": "care16-p10-t5referral-recreationandleisure_12c4860ff2fc",
+      "chunk_index": 1,
+      "text": "**Name and position of Recreation staff responding to the referral:**2. **Date and Time of Recreation response to referral:**3. **Recreation staff referral response details:**\n- A progress note will populate the Resident chart when this assessment is locked for the date and time that the referral was opened.----**Page 1 of 1**",
+      "char_count": 328,
+      "token_estimate": 82,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

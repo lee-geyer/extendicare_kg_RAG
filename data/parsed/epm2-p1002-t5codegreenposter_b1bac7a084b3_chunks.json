@@ -1,0 +1,18 @@
+{
+  "doc_id": "epm2-p1002-t5codegreenposter_b1bac7a084b3",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "epm2-p1002-t5codegreenposter_b1bac7a084b3_chunk_000_ebc84037",
+      "doc_id": "epm2-p1002-t5codegreenposter_b1bac7a084b3",
+      "chunk_index": 0,
+      "text": "# Document Parsing Result**Document Metadata:**| Policy Number | Effective Date | Review Date |\n|---------------|----------------|-------------|\n|               |                |             |----# EXIT(Note: The current page contains no additional content or structure to extract.)",
+      "char_count": 283,
+      "token_estimate": 70,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 2
+    }
+  ]
+}

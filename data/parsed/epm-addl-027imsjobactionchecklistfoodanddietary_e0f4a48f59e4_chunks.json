@@ -1,0 +1,90 @@
+{
+  "doc_id": "epm-addl-027imsjobactionchecklistfoodanddietary_e0f4a48f59e4",
+  "total_chunks": 7,
+  "chunks": [
+    {
+      "chunk_id": "epm-addl-027imsjobactionchecklistfoodanddietary_e0f4a48f59e4_chunk_000_64bc3e44",
+      "doc_id": "epm-addl-027imsjobactionchecklistfoodanddietary_e0f4a48f59e4",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## IMS Job Action Checklist – Food and Dietary",
+      "char_count": 61,
+      "token_estimate": 15,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-027imsjobactionchecklistfoodanddietary_e0f4a48f59e4_chunk_002_82f9de5e",
+      "doc_id": "epm-addl-027imsjobactionchecklistfoodanddietary_e0f4a48f59e4",
+      "chunk_index": 2,
+      "text": "### (Logistics function)**Note:** All documentation during the emergency must be given to the Administrator daily and kept on file for a minimum of three years.----## Food and Dietary – Job Action Sheet### Role:\nThe Food and Dietary function will:\n- Ensure continuity of food services throughout the emergency event for both residents and staff;\n- Organize food and water stores for preparation and rationing during periods of anticipated or actual shortage;\n- Report to the Logistics Manager.**Name:****Record the time action was initiated (note on the line below):**1. Meet with dietary staff who are not involved in emergency operations.",
+      "char_count": 640,
+      "token_estimate": 160,
+      "section_title": "(Logistics function)**Note:** All documentation during the emergency must be given to the Administrator daily and kept on file for a minimum of three years.----## Food and Dietary – Job Action Sheet### Role:",
+      "chunk_type": "content",
+      "start_line": 2,
+      "end_line": 6
+    },
+    {
+      "chunk_id": "epm-addl-027imsjobactionchecklistfoodanddietary_e0f4a48f59e4_chunk_003_651fde79",
+      "doc_id": "epm-addl-027imsjobactionchecklistfoodanddietary_e0f4a48f59e4",
+      "chunk_index": 3,
+      "text": "2. Estimate the number of meals which can be served with existing inventory.\n\n3. Inventory the supply of emergency drinking water.",
+      "char_count": 130,
+      "token_estimate": 32,
+      "section_title": "Estimate the number of meals which can be served with existing inventory.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-027imsjobactionchecklistfoodanddietary_e0f4a48f59e4_chunk_005_8e3c9841",
+      "doc_id": "epm-addl-027imsjobactionchecklistfoodanddietary_e0f4a48f59e4",
+      "chunk_index": 5,
+      "text": "4. Update the Logistics Manager regularly.\n\n5. Coordinate the acquisition of food supplies.",
+      "char_count": 91,
+      "token_estimate": 22,
+      "section_title": "Update the Logistics Manager regularly.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-027imsjobactionchecklistfoodanddietary_e0f4a48f59e4_chunk_007_6ddd195b",
+      "doc_id": "epm-addl-027imsjobactionchecklistfoodanddietary_e0f4a48f59e4",
+      "chunk_index": 7,
+      "text": "6. Anticipate what is needed for staff breaks.\n\n7. Project the needs of any incoming residents (Code Orange).",
+      "char_count": 109,
+      "token_estimate": 27,
+      "section_title": "Anticipate what is needed for staff breaks.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-027imsjobactionchecklistfoodanddietary_e0f4a48f59e4_chunk_009_8da1b540",
+      "doc_id": "epm-addl-027imsjobactionchecklistfoodanddietary_e0f4a48f59e4",
+      "chunk_index": 9,
+      "text": "8. Arrange for dietary assessment of any incoming residents.\n\n9. With the Logistics and Administration Managers, make arrangements for outside food services, if required.",
+      "char_count": 170,
+      "token_estimate": 42,
+      "section_title": "Arrange for dietary assessment of any incoming residents.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-027imsjobactionchecklistfoodanddietary_e0f4a48f59e4_chunk_011_25641f14",
+      "doc_id": "epm-addl-027imsjobactionchecklistfoodanddietary_e0f4a48f59e4",
+      "chunk_index": 11,
+      "text": "10. Screen food received from alternate sources to ensure all food is safe and comes from an approved source.\n\n11. Inform your dietary consultant.----**Helping people Iva better**This document is uncontrolled when printed.Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025****Page 1 of 1**",
+      "char_count": 518,
+      "token_estimate": 129,
+      "section_title": "Screen food received from alternate sources to ensure all food is safe and comes from an approved source.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

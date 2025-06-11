@@ -1,0 +1,30 @@
+{
+  "doc_id": "ipc8-p10-t8-criticalmedicaldevicesandequipmentaudit_2963af19d221",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "ipc8-p10-t8-criticalmedicaldevicesandequipmentaudit_2963af19d221_chunk_000_13fef399",
+      "doc_id": "ipc8-p10-t8-criticalmedicaldevicesandequipmentaudit_2963af19d221",
+      "chunk_index": 0,
+      "text": "# Quality Management Audit Report\n**IC-Critical Medical Devices/Equipment Audit**\n**Effective Date:** January 30, 2025\n**Prepared by:** Extendicare----## Audit Instructions\nThis audit is to be completed quarterly by the IPAC leads.### Audit Questions1. Did the care service provider submit the “Medical Devices and Equipment Reprocessing” checklist to the home for the current quarter? (Note: The checklist must be submitted to the home, by the provider, at least quarterly)\n- a.) Yes\n- b.) No2. Did the care service provider bring a sufficient number of sterilized medical instruments such that the instruments are dedicated, and not reused between the residents before being re-reprocessed and sterilized? - a.) Yes\n- b.) No3. Are all single-use instruments disposed of after use, and are not re-used? - a.) Yes\n- b.) No### Visual Audit of the Sterilized Equipment1. The chemical indicators on the sterilized package have changed color. (Note: If the answer is no, then the package is considered non-sterile, and its contents cannot be used)\n- a.) Yes\n- b.) No2. The sterilized packages are well sealed with no physical damage (e.g., tears and punctures), water damage, or visible soiling.",
+      "char_count": 1191,
+      "token_estimate": 297,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc8-p10-t8-criticalmedicaldevicesandequipmentaudit_2963af19d221_chunk_001_5c5b195c",
+      "doc_id": "ipc8-p10-t8-criticalmedicaldevicesandequipmentaudit_2963af19d221",
+      "chunk_index": 1,
+      "text": "(Note: If the answer is no, then the package is considered non-sterile, and its contents cannot be used)\n- a.) Yes\n- b.) No2. The sterilized packages are well sealed with no physical damage (e.g., tears and punctures), water damage, or visible soiling. (Note: If the answer is no, then the package is considered non-sterile, and its contents cannot be used)\n- a.) Yes\n- b.) No3. Sterilized instruments look clean with no visible soiling or dried tissue on them. (Note: If the answer is no, then the package is considered non-sterile, and its contents cannot be used)\n- a.) Yes\n- b.) No----**Page 1**\nPowered by TCPDF (www.tcpdf.org)",
+      "char_count": 632,
+      "token_estimate": 158,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

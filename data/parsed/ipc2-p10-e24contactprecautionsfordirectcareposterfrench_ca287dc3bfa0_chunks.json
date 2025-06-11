@@ -1,0 +1,18 @@
+{
+  "doc_id": "ipc2-p10-e24contactprecautionsfordirectcareposterfrench_ca287dc3bfa0",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "ipc2-p10-e24contactprecautionsfordirectcareposterfrench_ca287dc3bfa0_chunk_000_2248a717",
+      "doc_id": "ipc2-p10-e24contactprecautionsfordirectcareposterfrench_ca287dc3bfa0",
+      "chunk_index": 0,
+      "text": "# VISITEURS - AVANT D'ENTRER, OBTENEZ LES INSTRUCTIONS DU PERSONNEL## PRECAUTIONS CONTRES LES CONTACTS### POUR LES SOINS DIRECTS ET LES CONTACTS CONTINUS AVEC L'ENVIRONNEMENT- Portez une blouse à manches longues\n- Portez des gants\n- Affectez l’équipement exclusivement à un résident\n- Désinfectez avant de l’utiliser pour un autre résident",
+      "char_count": 339,
+      "token_estimate": 84,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 3
+    }
+  ]
+}

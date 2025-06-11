@@ -1,0 +1,162 @@
+{
+  "doc_id": "care1-p1001-t1move-inchecklist_22d373228732",
+  "total_chunks": 13,
+  "chunks": [
+    {
+      "chunk_id": "care1-p1001-t1move-inchecklist_22d373228732_chunk_000_72218e92",
+      "doc_id": "care1-p1001-t1move-inchecklist_22d373228732",
+      "chunk_index": 0,
+      "text": "# Extendicare Move-in Checklist**Resident:**                      **Room/Unit:**                    **Move-in Date:**| PCC     | Day 0 - Move-in Day | Staff | Initial as | Action Required/Follow-up |\n|---------|----------------------|-------|-------------|---------------------------|\n|         |                      |       |             |                           |\n|         | Staff Introduction   | Nurse & UCP (Unregulated Care Provider) | | |\n|         | Resident photo ID in medication administration record pouch porter (if applicable) | Nurse | | |\n|         | Apply wander guard (if applicable) | | | |\n|         | Tour and orientate resident/family to: | UCP | | |\n|         | - Resident room | | | |\n|         | - Roommate (as applicable) | | | |\n|         | - Home area | | | |\n|         | - Call bell system | | | |\n|         | - Electric bed | | | |\n| √       | Resident Personal Belongings: | UCP/Nurse | | |\n|         | - Visually inspect clothing, furniture, picture frames, lamps, and other non-clothing items for any signs of bed bugs (document in progress notes category ‘move-in/return’) | | | |\n|         | - Complete ‘Resident Belongings Inventory’ form (paper tool) with resident and/or family/SDM/POA and file in health records | | | |\n|         | Put away and label all personal belongings (with consent) | UCP | | |\n|         | - Toiletries, glasses, dentures, equipment etc.",
+      "char_count": 1405,
+      "token_estimate": 351,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care1-p1001-t1move-inchecklist_22d373228732_chunk_001_e2e4d4e3",
+      "doc_id": "care1-p1001-t1move-inchecklist_22d373228732",
+      "chunk_index": 1,
+      "text": "| | | |\n|         | Take all clothes to laundry services for labeling | UCP | | |\n|         | Label mobility device (if applicable) | UCP | | |\n| √       | Complete Move-in Assessment – Plan of Care | Nurse | | |\n|         | - Sign/save/lock assessment | | | |----**Helping people live better**This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 5**# Move-in Checklist## 1. Complete triggered UDA assessments as applicable\n- Initiate 24 hr. care plan## 2. Advanced Directives\n- Ensure Do Not Resuscitate (DNR) Form is completed/signed if required\n- Ensure Goals of Care Designation is completed/signed (AB)\n- Ensure Advanced Care Plan is completed/signed (MB)## 3.",
+      "char_count": 950,
+      "token_estimate": 237,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care1-p1001-t1move-inchecklist_22d373228732_chunk_002_33038985",
+      "doc_id": "care1-p1001-t1move-inchecklist_22d373228732",
+      "chunk_index": 2,
+      "text": "care plan## 2. Advanced Directives\n- Ensure Do Not Resuscitate (DNR) Form is completed/signed if required\n- Ensure Goals of Care Designation is completed/signed (AB)\n- Ensure Advanced Care Plan is completed/signed (MB)## 3. Obtain and Record:\n| Item                        | Responsible | Status |\n|-----------------------------|-------------|--------|\n| Vital Signs                 | Nurse       | D      |\n| Height & Weight             | Nurse       | E      |\n|                             |             | N      |## 4. Obtain Consents:\n- Informed Treatment Consent Form\n- Restraint & Personal Assistance Service Device (PASD) Consent (if applicable)## 5. Medi-systems Collaborative Medication Reconciliation - MCMR",
+      "char_count": 718,
+      "token_estimate": 179,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care1-p1001-t1move-inchecklist_22d373228732_chunk_003_80f59401",
+      "doc_id": "care1-p1001-t1move-inchecklist_22d373228732",
+      "chunk_index": 3,
+      "text": "### OR\n- Medication Reconciliation## 6. Contact physician/nurse practitioner (NP) for move-in orders:\n- Allergies and Diagnosis\n- Diet\n- Include fluid restriction (if applicable)\n- Complete Nutrition-Communication to Dietary in PCC\n- Other standard move-in orders as required## 7. Return resident’s external medications to family. - Follow the medication destruction procedure as applicable----**Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 719,
+      "token_estimate": 179,
+      "section_title": "OR",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care1-p1001-t1move-inchecklist_22d373228732_chunk_004_fd28c25f",
+      "doc_id": "care1-p1001-t1move-inchecklist_22d373228732",
+      "chunk_index": 4,
+      "text": "will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 2 of 5**# Move-in Checklist## Family Information\n- Ensure family is informed about the practice regarding family-supplied medications## Nursing Responsibilities\n- √ Nurse to enter standard fluid goal\n- 1500ml (12 units of 125mls per day) under Profile tab\n- **Note:** If residents have fluid restriction physician order, SPECIFY ‘restriction’ and ‘ordered amount’\n- **Note:** If resident is on Enteral Nutrition, NO fluid goal will be entered\n- Accompany resident to dining area for meals on first day\n- Introduce resident to tablemates and dietary staff## Immunizations/MDRO Screening\n- √ Immunizations/MDRO Screening: Nurse\n- Document immunizations under the immunizations tab in PCC\n- MDRO Screening/swabbing done as per provincial requirements## Required Referrals\n- √ Required Referrals: Nurse\n- Registered Dietitian\n- Physiotherapy## Move-in Bath\n- √ Move-in bath: UCP## PCC Day 1 – Post Move-in\n| Staff Responsible | Initial as Complete | Action Required/Follow-up |\n|-------------------|---------------------|---------------------------|\n| Nurse              | D                   | E                         |\n| Nurse              | D                   | E                         |\n| Nurse              |                     |                           |\n| Nurse              |                     |                           |- Obtain Vital Signs\n- Document resident health status and transition into interdisciplinary progress notes under ‘move-in’ category\n- Continue 72-hour pain monitoring (if triggered)\n- Continue Continence – 3 Day Monitoring## PCC Day 2- Post Move-in\n| Staff Responsible | Initial as Complete | Action Required/Follow-up |\n|-------------------|---------------------|---------------------------|\n|                   |                     |                           |This document is uncontrolled when printed.",
+      "char_count": 2108,
+      "token_estimate": 527,
+      "section_title": "OR",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care1-p1001-t1move-inchecklist_22d373228732_chunk_005_8df30d82",
+      "doc_id": "care1-p1001-t1move-inchecklist_22d373228732",
+      "chunk_index": 5,
+      "text": "Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 2 of 5**# Move-in Checklist## Family Information\n- Ensure family is informed about the practice regarding family-supplied medications## Nursing Responsibilities\n- √ Nurse to enter standard fluid goal\n- 1500ml (12 units of 125mls per day) under Profile tab\n- **Note:** If residents have fluid restriction physician order, SPECIFY ‘restriction’ and ‘ordered amount’\n- **Note:** If resident is on Enteral Nutrition, NO fluid goal will be entered\n- Accompany resident to dining area for meals on first day\n- Introduce resident to tablemates and dietary staff## Immunizations/MDRO Screening\n- √ Immunizations/MDRO Screening: Nurse\n- Document immunizations under the immunizations tab in PCC\n- MDRO Screening/swabbing done as per provincial requirements## Required Referrals\n- √ Required Referrals: Nurse\n- Registered Dietitian\n- Physiotherapy## Move-in Bath\n- √ Move-in bath: UCP## PCC Day 1 – Post Move-in\n| Staff Responsible | Initial as Complete | Action Required/Follow-up |\n|-------------------|---------------------|---------------------------|\n| Nurse              | D                   | E                         |\n| Nurse              | D                   | E                         |\n| Nurse              |                     |                           |\n| Nurse              |                     |                           |- Obtain Vital Signs\n- Document resident health status and transition into interdisciplinary progress notes under ‘move-in’ category\n- Continue 72-hour pain monitoring (if triggered)\n- Continue Continence – 3 Day Monitoring## PCC Day 2- Post Move-in\n| Staff Responsible | Initial as Complete | Action Required/Follow-up |\n|-------------------|---------------------|---------------------------|\n|                   |                     |                           |This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1958,
+      "token_estimate": 489,
+      "section_title": "OR",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care1-p1001-t1move-inchecklist_22d373228732_chunk_006_0212b71d",
+      "doc_id": "care1-p1001-t1move-inchecklist_22d373228732",
+      "chunk_index": 6,
+      "text": "© 2025----**Page 2 of 5**# Move-in Checklist## Family Information\n- Ensure family is informed about the practice regarding family-supplied medications## Nursing Responsibilities\n- √ Nurse to enter standard fluid goal\n- 1500ml (12 units of 125mls per day) under Profile tab\n- **Note:** If residents have fluid restriction physician order, SPECIFY ‘restriction’ and ‘ordered amount’\n- **Note:** If resident is on Enteral Nutrition, NO fluid goal will be entered\n- Accompany resident to dining area for meals on first day\n- Introduce resident to tablemates and dietary staff## Immunizations/MDRO Screening\n- √ Immunizations/MDRO Screening: Nurse\n- Document immunizations under the immunizations tab in PCC\n- MDRO Screening/swabbing done as per provincial requirements## Required Referrals\n- √ Required Referrals: Nurse\n- Registered Dietitian\n- Physiotherapy## Move-in Bath\n- √ Move-in bath: UCP## PCC Day 1 – Post Move-in\n| Staff Responsible | Initial as Complete | Action Required/Follow-up |\n|-------------------|---------------------|---------------------------|\n| Nurse              | D                   | E                         |\n| Nurse              | D                   | E                         |\n| Nurse              |                     |                           |\n| Nurse              |                     |                           |- Obtain Vital Signs\n- Document resident health status and transition into interdisciplinary progress notes under ‘move-in’ category\n- Continue 72-hour pain monitoring (if triggered)\n- Continue Continence – 3 Day Monitoring## PCC Day 2- Post Move-in\n| Staff Responsible | Initial as Complete | Action Required/Follow-up |\n|-------------------|---------------------|---------------------------|\n|                   |                     |                           |This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.",
+      "char_count": 2064,
+      "token_estimate": 516,
+      "section_title": "OR",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care1-p1001-t1move-inchecklist_22d373228732_chunk_007_d25241a4",
+      "doc_id": "care1-p1001-t1move-inchecklist_22d373228732",
+      "chunk_index": 7,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 271,
+      "token_estimate": 67,
+      "section_title": "OR",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care1-p1001-t1move-inchecklist_22d373228732_chunk_008_acac3ace",
+      "doc_id": "care1-p1001-t1move-inchecklist_22d373228732",
+      "chunk_index": 8,
+      "text": "will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 3 of 5**# Move-in Checklist## Vital Signs and Health Status- √ Obtain Vital Signs\n**Responsibility:** Nurse\n**Status:** D E N- √ Document resident health status and transition into interdisciplinary progress notes under ‘move-in’ category\n**Responsibility:** Nurse\n**Status:** D E N- √ Continue 72-hour pain monitoring (if triggered)\n**Responsibility:** Nurse- √ Continue Continence - 3 Day Monitoring\n**Responsibility:** Nurse----## PCC Day 3 - Post Move-in| Action                                      | Responsibility | Complete | Initial as Required/Follow-up |\n|---------------------------------------------|----------------|----------|-------------------------------|\n| √ Obtain Vital Signs                        | Nurse          | D E N    |                               |\n| √ Document resident health status and transition into interdisciplinary progress notes under ‘move-in’ category | Nurse          | D E N    |                               |\n| √ Continue Continence - 3 Day Monitoring    | Nurse          |          |                               |\n| √ Continue 72-hour pain monitoring (if triggered) | Nurse          |          |                               |----## PCC Day 4 - Post Move-in| Action                                      | Responsibility | Complete | Initial as Required/Follow-up |\n|---------------------------------------------|----------------|----------|-------------------------------|\n| √ Finalize Continence - 3 Day Monitoring:   | Nurse          |          |                               |\n| - Resolve POC task if applicable            |                |          |                               |\n| - Print completed monitoring record         |                |          |                               |\n| - Complete summary of Continence - 3 Day Monitoring |          |          |                               |\n| - Complete Continence - Bladder & Bowel Assessment |          |          |                               |\n| √ Finalize 72-hour pain monitoring (if triggered) | Nurse      |          |                               |----## PCC Complete by 7 Day Post Move-in| Action                                      | Responsibility | Complete | Initial as Required/Follow-up |\n|---------------------------------------------|----------------|----------|-------------------------------|\n| √ Move-in Physical Assessment completed and documented | Nurse |          |                               |----**Note:** This document is uncontrolled when printed.",
+      "char_count": 2764,
+      "token_estimate": 691,
+      "section_title": "OR",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care1-p1001-t1move-inchecklist_22d373228732_chunk_009_9b3a8291",
+      "doc_id": "care1-p1001-t1move-inchecklist_22d373228732",
+      "chunk_index": 9,
+      "text": "Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 3 of 5**# Move-in Checklist## Vital Signs and Health Status- √ Obtain Vital Signs\n**Responsibility:** Nurse\n**Status:** D E N- √ Document resident health status and transition into interdisciplinary progress notes under ‘move-in’ category\n**Responsibility:** Nurse\n**Status:** D E N- √ Continue 72-hour pain monitoring (if triggered)\n**Responsibility:** Nurse- √ Continue Continence - 3 Day Monitoring\n**Responsibility:** Nurse----## PCC Day 3 - Post Move-in| Action                                      | Responsibility | Complete | Initial as Required/Follow-up |\n|---------------------------------------------|----------------|----------|-------------------------------|\n| √ Obtain Vital Signs                        | Nurse          | D E N    |                               |\n| √ Document resident health status and transition into interdisciplinary progress notes under ‘move-in’ category | Nurse          | D E N    |                               |\n| √ Continue Continence - 3 Day Monitoring    | Nurse          |          |                               |\n| √ Continue 72-hour pain monitoring (if triggered) | Nurse          |          |                               |----## PCC Day 4 - Post Move-in| Action                                      | Responsibility | Complete | Initial as Required/Follow-up |\n|---------------------------------------------|----------------|----------|-------------------------------|\n| √ Finalize Continence - 3 Day Monitoring:   | Nurse          |          |                               |\n| - Resolve POC task if applicable            |                |          |                               |\n| - Print completed monitoring record         |                |          |                               |\n| - Complete summary of Continence - 3 Day Monitoring |          |          |                               |\n| - Complete Continence - Bladder & Bowel Assessment |          |          |                               |\n| √ Finalize 72-hour pain monitoring (if triggered) | Nurse      |          |                               |----## PCC Complete by 7 Day Post Move-in| Action                                      | Responsibility | Complete | Initial as Required/Follow-up |\n|---------------------------------------------|----------------|----------|-------------------------------|\n| √ Move-in Physical Assessment completed and documented | Nurse |          |                               |----**Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 2614,
+      "token_estimate": 653,
+      "section_title": "OR",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care1-p1001-t1move-inchecklist_22d373228732_chunk_010_a6f16525",
+      "doc_id": "care1-p1001-t1move-inchecklist_22d373228732",
+      "chunk_index": 10,
+      "text": "© 2025----**Page 3 of 5**# Move-in Checklist## Vital Signs and Health Status- √ Obtain Vital Signs\n**Responsibility:** Nurse\n**Status:** D E N- √ Document resident health status and transition into interdisciplinary progress notes under ‘move-in’ category\n**Responsibility:** Nurse\n**Status:** D E N- √ Continue 72-hour pain monitoring (if triggered)\n**Responsibility:** Nurse- √ Continue Continence - 3 Day Monitoring\n**Responsibility:** Nurse----## PCC Day 3 - Post Move-in| Action                                      | Responsibility | Complete | Initial as Required/Follow-up |\n|---------------------------------------------|----------------|----------|-------------------------------|\n| √ Obtain Vital Signs                        | Nurse          | D E N    |                               |\n| √ Document resident health status and transition into interdisciplinary progress notes under ‘move-in’ category | Nurse          | D E N    |                               |\n| √ Continue Continence - 3 Day Monitoring    | Nurse          |          |                               |\n| √ Continue 72-hour pain monitoring (if triggered) | Nurse          |          |                               |----## PCC Day 4 - Post Move-in| Action                                      | Responsibility | Complete | Initial as Required/Follow-up |\n|---------------------------------------------|----------------|----------|-------------------------------|\n| √ Finalize Continence - 3 Day Monitoring:   | Nurse          |          |                               |\n| - Resolve POC task if applicable            |                |          |                               |\n| - Print completed monitoring record         |                |          |                               |\n| - Complete summary of Continence - 3 Day Monitoring |          |          |                               |\n| - Complete Continence - Bladder & Bowel Assessment |          |          |                               |\n| √ Finalize 72-hour pain monitoring (if triggered) | Nurse      |          |                               |----## PCC Complete by 7 Day Post Move-in| Action                                      | Responsibility | Complete | Initial as Required/Follow-up |\n|---------------------------------------------|----------------|----------|-------------------------------|\n| √ Move-in Physical Assessment completed and documented | Nurse |          |                               |----**Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.",
+      "char_count": 2720,
+      "token_estimate": 680,
+      "section_title": "OR",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care1-p1001-t1move-inchecklist_22d373228732_chunk_011_bbd840fc",
+      "doc_id": "care1-p1001-t1move-inchecklist_22d373228732",
+      "chunk_index": 11,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 4 of 5**# Move-in Checklist- Physician/NP to complete (nurse to initial as complete)| PCC    | Day 14 Post Move-in | Staff       | Initial as Complete | Action Required/Follow-up |\n|--------|---------------------|-------------|---------------------|---------------------------|\n| √      | Complete Palliative Assessment & My Care My Voice Summary (if applicable) | Nurse       |                     |                           |\n|        | Move-in checklist forwarded to DOC for review and signoff | Nurse       |                     |                           |**Signature of DOC/Designate completing checklist review:****Date of Review:**----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.",
+      "char_count": 1179,
+      "token_estimate": 294,
+      "section_title": "OR",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care1-p1001-t1move-inchecklist_22d373228732_chunk_012_e6e5f0d6",
+      "doc_id": "care1-p1001-t1move-inchecklist_22d373228732",
+      "chunk_index": 12,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025",
+      "char_count": 278,
+      "token_estimate": 69,
+      "section_title": "OR",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

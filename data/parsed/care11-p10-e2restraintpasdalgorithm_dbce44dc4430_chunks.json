@@ -1,0 +1,102 @@
+{
+  "doc_id": "care11-p10-e2restraintpasdalgorithm_dbce44dc4430",
+  "total_chunks": 8,
+  "chunks": [
+    {
+      "chunk_id": "care11-p10-e2restraintpasdalgorithm_dbce44dc4430_chunk_000_45b61674",
+      "doc_id": "care11-p10-e2restraintpasdalgorithm_dbce44dc4430",
+      "chunk_index": 0,
+      "text": "# Extendicare Restraint & PASD Algorithm## Overview\nDoes the Resident use a Restraint or Personal Assistive Service Device (PASD) such as a seat belt, tabletop/tray, chair that prevents rising, footrests, bed rail?- **Yes**\n- **No further action needed.**### Is the Resident able to remove/release restraint/PASD independently?\n- **Yes**\n- **No**## Management of Risk\nManagement of risk of restrictive device needs to be care planned and re-evaluated per program.### Definitions",
+      "char_count": 478,
+      "token_estimate": 119,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 5
+    },
+    {
+      "chunk_id": "care11-p10-e2restraintpasdalgorithm_dbce44dc4430_chunk_001_935065b1",
+      "doc_id": "care11-p10-e2restraintpasdalgorithm_dbce44dc4430",
+      "chunk_index": 1,
+      "text": "#### RESTRAINT\nAny manual method, or physical or mechanical device, material, or equipment that is attached or adjacent to the resident’s body, that the resident cannot easily remove, and that restricts freedom of movement or normal access to their body.#### PASD\nDevices used to assist a resident and promote independence with a routine activity of daily living (ADL).## Assessment and Evaluation\n\n1. Complete interRAI assessment according to associated timelines; document the effect the device has on the resident.",
+      "char_count": 517,
+      "token_estimate": 129,
+      "section_title": "RESTRAINT",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care11-p10-e2restraintpasdalgorithm_dbce44dc4430_chunk_003_c9914f3f",
+      "doc_id": "care11-p10-e2restraintpasdalgorithm_dbce44dc4430",
+      "chunk_index": 3,
+      "text": "2. Complete Restraint/PASD Assessment & Evaluation.\n\n3. Initiate 72hr Sleep Observation for Bed Rail Use as a task if bed rails are considered or being re-evaluated; Nurse to review & document outcomes from 72hr Sleep Observation. Zones of entrapment to be assessed.",
+      "char_count": 266,
+      "token_estimate": 66,
+      "section_title": "Complete Restraint/PASD Assessment & Evaluation.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care11-p10-e2restraintpasdalgorithm_dbce44dc4430_chunk_005_95e563f7",
+      "doc_id": "care11-p10-e2restraintpasdalgorithm_dbce44dc4430",
+      "chunk_index": 5,
+      "text": "4. Obtain Physician/NP order indicating (type, reason, duration).\n\n5. Approval from regulated discipline (Physician, NP, Nurse, OT, PT) indicating type and for which ADL.",
+      "char_count": 170,
+      "token_estimate": 42,
+      "section_title": "Obtain Physician/NP order indicating (type, reason, duration).",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care11-p10-e2restraintpasdalgorithm_dbce44dc4430_chunk_007_49db2a7d",
+      "doc_id": "care11-p10-e2restraintpasdalgorithm_dbce44dc4430",
+      "chunk_index": 7,
+      "text": "6. Complete Restraint & PASD Consent Form.\n\n7. Document in plan of care (include the intent, effect, indications for duration and frequency for use and monitoring).",
+      "char_count": 164,
+      "token_estimate": 41,
+      "section_title": "Complete Restraint & PASD Consent Form.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care11-p10-e2restraintpasdalgorithm_dbce44dc4430_chunk_009_07fedf55",
+      "doc_id": "care11-p10-e2restraintpasdalgorithm_dbce44dc4430",
+      "chunk_index": 9,
+      "text": "8. Initiate specific type of restraint hourly monitoring task. Any PASD that limits/inhibits freedom of movement and remains in place after completion of ADL for which it was intended, restraint protocol to be followed.\n\n9. The device will be released, resident repositioned, care provided as required and device reapplied at minimum every 2hrs. Exception is bed rail use, if the resident can reposition themselves.",
+      "char_count": 415,
+      "token_estimate": 103,
+      "section_title": "Initiate specific type of restraint hourly monitoring task. Any PASD that limits/inhibits freedom of movement and remains in place after completion of ADL for which it was intended, restraint protocol to be followed.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care11-p10-e2restraintpasdalgorithm_dbce44dc4430_chunk_011_0da51136",
+      "doc_id": "care11-p10-e2restraintpasdalgorithm_dbce44dc4430",
+      "chunk_index": 11,
+      "text": "10. The effectiveness of the physical restraint, including resident condition & response will be evaluated and documented by the nurse every 8 hrs., while the restraint is in use, on the Restraint Utilization & Response Tool.\n\n11. Reassessment to determine whether a restraint/PASD is required quarterly, with significant change in condition, or with any change to the use or need for the physical restraint or PASD, includes all bed rail assessments where applicable if in use.",
+      "char_count": 478,
+      "token_estimate": 119,
+      "section_title": "The effectiveness of the physical restraint, including resident condition & response will be evaluated and documented by the nurse every 8 hrs., while the restraint is in use, on the Restraint Utilization & Response Tool.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care11-p10-e2restraintpasdalgorithm_dbce44dc4430_chunk_013_60cb98ff",
+      "doc_id": "care11-p10-e2restraintpasdalgorithm_dbce44dc4430",
+      "chunk_index": 13,
+      "text": "12. Document use on Restraint & PASD Monthly Analysis.## Document Metadata\n- **Document Control**: This document is uncontrolled when printed.\n- **Accessibility Statement**: Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\n- **Confidentiality Notice**: Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 1**",
+      "char_count": 501,
+      "token_estimate": 125,
+      "section_title": "Document use on Restraint & PASD Monthly Analysis.## Document Metadata",
+      "chunk_type": "content",
+      "start_line": 20,
+      "end_line": 23
+    }
+  ]
+}

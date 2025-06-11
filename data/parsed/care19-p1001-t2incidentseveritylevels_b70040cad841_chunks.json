@@ -1,0 +1,42 @@
+{
+  "doc_id": "care19-p1001-t2incidentseveritylevels_b70040cad841",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "care19-p1001-t2incidentseveritylevels_b70040cad841_chunk_000_a5e3866c",
+      "doc_id": "care19-p1001-t2incidentseveritylevels_b70040cad841",
+      "chunk_index": 0,
+      "text": "# Extendicare Incident Severity LevelsResident safety incidents will be recorded in the electronic incident reporting system (RMM) in Point Click Care identifying the appropriate incident severity levels. Severity Levels and definitions are as follows:| Severity Level       | Definition                                                                                                                                                     |\n|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Level 1 – Good       | Circumstances had potential to cause physical or psychological injury, unexpected death, or significant property damage, but did not occur / reach the resident due to chance, corrective action and/or timely intervention. Ex. During lift pre-inspection, PSW noted a sling to be frayed. Tagged out and used a new one. |\n| Level 2 - No Harm/Damage | Incident results in NO harm or damage. Outcome/situation is not symptomatic, or no symptoms are detected, and no treatment is required. Ex. Resident slid from bed to floor; no injury.",
+      "char_count": 1178,
+      "token_estimate": 294,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care19-p1001-t2incidentseveritylevels_b70040cad841_chunk_001_57ce4d02",
+      "doc_id": "care19-p1001-t2incidentseveritylevels_b70040cad841",
+      "chunk_index": 1,
+      "text": "Ex. Resident slid from bed to floor; no injury. |\n| Level 3 - Minor harm or damage | Outcome/situation is symptomatic, symptoms are mild, loss of function or harm is minimal or intermediate but short term and no or minimal intervention is required. (e.g. extra observation, investigation, or minor treatment). Ex. Resident found on floor, sustained a minor scrape to finger, not requiring treatment. Monitored for 7 days. |\n| Level 4 - Moderate harm or damage | Outcome/situation is symptomatic, requiring intervention (e.g. operative procedure or therapeutic treatment in hospital emergency department), or causes minor permanent, long-term harm or loss of function. Ex. Resident fall, sustained skin tear to forearm requiring wound care and pain medication treatment for next 2 weeks. |\n| Level 5 - Serious/severe/permanent harm or damage | Outcome/situation is symptomatic, requiring life-saving intervention or major surgical/medical intervention, hospital admission, or shortening life expectancy or causing major permanent, long-term harm or loss of function. Ex. Unwitnessed fall causing injury to hip; sent to hospital and required hip surgery with 10-day stay.",
+      "char_count": 1169,
+      "token_estimate": 292,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care19-p1001-t2incidentseveritylevels_b70040cad841_chunk_002_206ef04a",
+      "doc_id": "care19-p1001-t2incidentseveritylevels_b70040cad841",
+      "chunk_index": 2,
+      "text": "Ex. Unwitnessed fall causing injury to hip; sent to hospital and required hip surgery with 10-day stay. |\n| Level 6 - Death      | On balance of probabilities, the incident is/was considered to have played a role in the individual’s death. Ex. Same as 5, however resident died during surgery. |----**Helping people live better**This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 1**",
+      "char_count": 669,
+      "token_estimate": 167,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

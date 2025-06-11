@@ -1,0 +1,126 @@
+{
+  "doc_id": "ipc7-p10-t4-staffimmunizationandtbtestingrecord_e56064a2d0c7",
+  "total_chunks": 10,
+  "chunks": [
+    {
+      "chunk_id": "ipc7-p10-t4-staffimmunizationandtbtestingrecord_e56064a2d0c7_chunk_000_c8c3a022",
+      "doc_id": "ipc7-p10-t4-staffimmunizationandtbtestingrecord_e56064a2d0c7",
+      "chunk_index": 0,
+      "text": "# Extendicare Staff Immunization/TB Testing RecordValid documentation of previous infection, titre result, or vaccination/test includes evidence such as yellow immunization card, letter from primary health care provider or print out from Health Unit.",
+      "char_count": 250,
+      "token_estimate": 62,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t4-staffimmunizationandtbtestingrecord_e56064a2d0c7_chunk_001_f606c2e8",
+      "doc_id": "ipc7-p10-t4-staffimmunizationandtbtestingrecord_e56064a2d0c7",
+      "chunk_index": 1,
+      "text": "Staff may verbally report whether or not they have had varicella (chicken pox).## Staff Member Information\n- **Staff Member Name:**\n- **Address:**\n- **Telephone #:**\n- **Health Care Provider Name:**\n- **Date:** DD/MM/YYYY\n- **LTC Home/Department:**## Immunization Record| Vaccine       | Dates (DD/MM/YYYY)                                   | Other                                                                 |\n|---------------|------------------------------------------------------|-----------------------------------------------------------------------|\n| Diphtheria/   | Dates of last DT booster:                            | - The staff member has never had primary series and has been requested to obtain primary series  |\n| Tetanus       |                                                      | - Primary series completed in follow-up to above                      |\n|               |                                                      | - Contraindication to vaccine (describe):                             |\n| Pertussis     | Date of Tdap given after age 18:                    |                                                                       |\n| Mumps/        | MMR                                                  | Results of titres for measles, mumps and rubella or other evidence of infection (e.g., physician letter) and any contraindications: |\n| Measles/      | Date of First dose:                                  |                                                                       |\n| Rubella       | Date of Second dose:                                 |                                                                       |\n| Influenza     | Dates of annual vaccination or contraindication:     |                                                                       |\n| COVID-19      | Date of First dose:                                  |                                                                       |\n|               | Date of Second dose:                                 |                                                                       |----This document is uncontrolled when printed.",
+      "char_count": 2144,
+      "token_estimate": 536,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t4-staffimmunizationandtbtestingrecord_e56064a2d0c7_chunk_002_7b3e8bb8",
+      "doc_id": "ipc7-p10-t4-staffimmunizationandtbtestingrecord_e56064a2d0c7",
+      "chunk_index": 2,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**----**Page 1 of 2**# Staff Immunization/TB Testing Record| Vaccine       | Dates (DD/MM/YYYY)                                   | Other                                                                                     | |\n|---------------|------------------------------------------------------|-------------------------------------------------------------------------------------------|---|\n| Varicella     | Varicella Immunization:                              | q Staff member reports having had chicken pox, laboratory evidence of immunity will be required if caring for resident with current Varicella infection.",
+      "char_count": 899,
+      "token_estimate": 224,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t4-staffimmunizationandtbtestingrecord_e56064a2d0c7_chunk_003_244eda4d",
+      "doc_id": "ipc7-p10-t4-staffimmunizationandtbtestingrecord_e56064a2d0c7",
+      "chunk_index": 3,
+      "text": "will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**----**Page 1 of 2**# Staff Immunization/TB Testing Record| Vaccine       | Dates (DD/MM/YYYY)                                   | Other                                                                                     | |\n|---------------|------------------------------------------------------|-------------------------------------------------------------------------------------------|---|\n| Varicella     | Varicella Immunization:                              | q Staff member reports having had chicken pox, laboratory evidence of immunity will be required if caring for resident with current Varicella infection. | |\n|               | First dose:                                         |                                                                                           | |\n|               | Second dose:                                        |                                                                                           | |\n| Hepatitis B   | Date of dose one:                                   |                                                                                           | |\n|               | Date of dose two:                                   |                                                                                           | |\n|               | Date of dose three:                                 |                                                                                           | |\n| Tuberculosis   | q Previous positive test before hire (describe any medical follow-up the staff member had after test) or contraindication to TB test.",
+      "char_count": 1860,
+      "token_estimate": 465,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t4-staffimmunizationandtbtestingrecord_e56064a2d0c7_chunk_004_b27b0e03",
+      "doc_id": "ipc7-p10-t4-staffimmunizationandtbtestingrecord_e56064a2d0c7",
+      "chunk_index": 4,
+      "text": "© 2025**----**Page 1 of 2**# Staff Immunization/TB Testing Record| Vaccine       | Dates (DD/MM/YYYY)                                   | Other                                                                                     | |\n|---------------|------------------------------------------------------|-------------------------------------------------------------------------------------------|---|\n| Varicella     | Varicella Immunization:                              | q Staff member reports having had chicken pox, laboratory evidence of immunity will be required if caring for resident with current Varicella infection. | |\n|               | First dose:                                         |                                                                                           | |\n|               | Second dose:                                        |                                                                                           | |\n| Hepatitis B   | Date of dose one:                                   |                                                                                           | |\n|               | Date of dose two:                                   |                                                                                           | |\n|               | Date of dose three:                                 |                                                                                           | |\n| Tuberculosis   | q Previous positive test before hire (describe any medical follow-up the staff member had after test) or contraindication to TB test. | | |\n| Skin Testing   | q Primary Health Care Provider’s letter requested.",
+      "char_count": 1689,
+      "token_estimate": 422,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t4-staffimmunizationandtbtestingrecord_e56064a2d0c7_chunk_005_dfd37240",
+      "doc_id": "ipc7-p10-t4-staffimmunizationandtbtestingrecord_e56064a2d0c7",
+      "chunk_index": 5,
+      "text": "| |\n|               | First dose:                                         |                                                                                           | |\n|               | Second dose:                                        |                                                                                           | |\n| Hepatitis B   | Date of dose one:                                   |                                                                                           | |\n|               | Date of dose two:                                   |                                                                                           | |\n|               | Date of dose three:                                 |                                                                                           | |\n| Tuberculosis   | q Previous positive test before hire (describe any medical follow-up the staff member had after test) or contraindication to TB test. | | |\n| Skin Testing   | q Primary Health Care Provider’s letter requested. |                                                                                           | |\n|               | q Primary Health Care Provider’s letter received stating staff member is fit to work (attached).",
+      "char_count": 1273,
+      "token_estimate": 318,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t4-staffimmunizationandtbtestingrecord_e56064a2d0c7_chunk_006_dbfcfb1a",
+      "doc_id": "ipc7-p10-t4-staffimmunizationandtbtestingrecord_e56064a2d0c7",
+      "chunk_index": 6,
+      "text": "| | |\n| Skin Testing   | q Primary Health Care Provider’s letter requested. |                                                                                           | |\n|               | q Primary Health Care Provider’s letter received stating staff member is fit to work (attached). |                                                                                           | |\n|               | Results of Two Step (two tests must be within 12 months of each other) |                                                                                           | |\n|               | Date of first test:                                 | MM of induration:                     | Circle if Neg or Positive                     |\n|               | Date of second test:                                | MM of induration:                     | Circle if Neg or Positive                     |\n|               | Results of One Step:                                |                                                                                           | |\n|               | Date of One Step                                    | MM of Induration             | Circle if Neg or Positive                     |\n|               |                                                      | Negative    Positive                     | |\n|               |                                                      | Negative    Positive                     | |\n| Chest X-ray   | q If positive TB Skin Test (or photocopy if within past two years).",
+      "char_count": 1526,
+      "token_estimate": 381,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t4-staffimmunizationandtbtestingrecord_e56064a2d0c7_chunk_007_d2385065",
+      "doc_id": "ipc7-p10-t4-staffimmunizationandtbtestingrecord_e56064a2d0c7",
+      "chunk_index": 7,
+      "text": "|                                                                                           | |\n|               | q Primary Health Care Provider’s letter received stating staff member is fit to work (attached). |                                                                                           | |\n|               | Results of Two Step (two tests must be within 12 months of each other) |                                                                                           | |\n|               | Date of first test:                                 | MM of induration:                     | Circle if Neg or Positive                     |\n|               | Date of second test:                                | MM of induration:                     | Circle if Neg or Positive                     |\n|               | Results of One Step:                                |                                                                                           | |\n|               | Date of One Step                                    | MM of Induration             | Circle if Neg or Positive                     |\n|               |                                                      | Negative    Positive                     | |\n|               |                                                      | Negative    Positive                     | |\n| Chest X-ray   | q If positive TB Skin Test (or photocopy if within past two years). |                                                                                           | |----This document is uncontrolled when printed.",
+      "char_count": 1593,
+      "token_estimate": 398,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t4-staffimmunizationandtbtestingrecord_e56064a2d0c7_chunk_008_6c274731",
+      "doc_id": "ipc7-p10-t4-staffimmunizationandtbtestingrecord_e56064a2d0c7",
+      "chunk_index": 8,
+      "text": "|                                                                                           | |\n|               | Results of Two Step (two tests must be within 12 months of each other) |                                                                                           | |\n|               | Date of first test:                                 | MM of induration:                     | Circle if Neg or Positive                     |\n|               | Date of second test:                                | MM of induration:                     | Circle if Neg or Positive                     |\n|               | Results of One Step:                                |                                                                                           | |\n|               | Date of One Step                                    | MM of Induration             | Circle if Neg or Positive                     |\n|               |                                                      | Negative    Positive                     | |\n|               |                                                      | Negative    Positive                     | |\n| Chest X-ray   | q If positive TB Skin Test (or photocopy if within past two years). |                                                                                           | |----This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1408,
+      "token_estimate": 352,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-t4-staffimmunizationandtbtestingrecord_e56064a2d0c7_chunk_009_1fbc5fbb",
+      "doc_id": "ipc7-p10-t4-staffimmunizationandtbtestingrecord_e56064a2d0c7",
+      "chunk_index": 9,
+      "text": "|                                                                                           | |----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----Page 2 of 2",
+      "char_count": 435,
+      "token_estimate": 108,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t7jicemachinesinspectionchecklist_54e07d8aefbd_chunk_000_f9bc02cd",
+      "doc_id": "maint1-o1002-t7jicemachinesinspectionchecklist_54e07d8aefbd",
+      "chunk_index": 0,
+      "text": "# Extendicare Maintenance Inspection Checklist## Equipment: Ice Machines### LEGEND/KEY| LEGEND | KEY       |\n|--------|-----------|\n| W      | Weekly    |\n| M      | Monthly   |\n| Q      | Quarterly |\n| S      | Semi-Annual |\n| A      | Annual    |### CHECKS| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   |   | 1 | Clean exterior with soft cloth. |\n| X |   |   |   | 2 | Clean storage bin and scoop with mild cleaner and rinse. |\n|   | X |   |   | 3 | Remove and clean air filter with warm water. Replace as needed. |\n|   | X |   |   | 4 | Replace water filter. |\n|   |   | X |   | 5 | Clean condenser with brush/vacuum.",
+      "char_count": 771,
+      "token_estimate": 192,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t7jicemachinesinspectionchecklist_54e07d8aefbd_chunk_001_f50bde6d",
+      "doc_id": "maint1-o1002-t7jicemachinesinspectionchecklist_54e07d8aefbd",
+      "chunk_index": 1,
+      "text": "|\n|   | X |   |   | 4 | Replace water filter. |\n|   |   | X |   | 5 | Clean condenser with brush/vacuum. |\n|   |   |   | X | 6 | Annual sanitizing and cleaning of ice machine.*                    |**NOTE:**\n*The services of qualified personnel may be required.*### Monthly Schedule|     | JAN | FEB | MAR | APR | MAY | JUN | |\n|-----|-----|-----|-----|-----|-----|-----|---|\n| M   | Q   | S   | A   | M   | Q   | S   | A   |\n| W   | W   | W   | W   | W   | W   | W   | ||     | JUL | AUG | SEP | OCT | NOV | DEC | |\n|-----|-----|-----|-----|-----|-----|-----|---|\n| M   | Q   | S   | A   | M   | Q   | S   | A   |\n| W   | W   | W   | W   | W   | W   | W   | |----**Helping people live better**This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 1007,
+      "token_estimate": 251,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t7jicemachinesinspectionchecklist_54e07d8aefbd_chunk_002_74fc64bc",
+      "doc_id": "maint1-o1002-t7jicemachinesinspectionchecklist_54e07d8aefbd",
+      "chunk_index": 2,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025  Page 1 of 2# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 2 of 2**",
+      "char_count": 789,
+      "token_estimate": 197,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 3
+}

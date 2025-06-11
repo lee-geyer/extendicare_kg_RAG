@@ -1,0 +1,30 @@
+{
+  "doc_id": "care7-p1002-t3mentalhealth-geriatricdepressionscalegds_3aa434ef44da",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "care7-p1002-t3mentalhealth-geriatricdepressionscalegds_3aa434ef44da_chunk_000_060e5aca",
+      "doc_id": "care7-p1002-t3mentalhealth-geriatricdepressionscalegds_3aa434ef44da",
+      "chunk_index": 0,
+      "text": "# Mental Health - Geriatric Depression Scale (GDS)**Resident:**                                   **Location:**                                        **Score:** NA\n**Category:** NA                               **Physician:**## GDS. Geriatric Depression Scale (Short Form)The GDS-S should be given orally. A clear YES or NO answer is required for each question. Choose the best answer for how you felt over the past week.| Question                                                                 | Yes (0) | No (1) |\n|-------------------------------------------------------------------------|---------|--------|\n| 1. Are you basically satisfied with your life? |    0    |   1    |\n| 2. Have you dropped many of your activities and interests? |    1    |   0    |\n| 3. Do you feel that your life is empty? |    1    |   0    |\n| 4. Do you often get bored? |    1    |   0    |\n| 5. Are you in good spirits most of the time? |    0    |   1    |\n| 6. Are you afraid that something bad is going to happen to you? |    1    |   0    |\n| 7. Do you feel happy most of the time? |    0    |   1    |\n| 8. Do you often feel helpless? |    1    |   0    |\n| 9.",
+      "char_count": 1153,
+      "token_estimate": 288,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care7-p1002-t3mentalhealth-geriatricdepressionscalegds_3aa434ef44da_chunk_001_4b88eb3f",
+      "doc_id": "care7-p1002-t3mentalhealth-geriatricdepressionscalegds_3aa434ef44da",
+      "chunk_index": 1,
+      "text": "Do you often feel helpless? |    1    |   0    |\n| 9. Do you prefer to stay at home, rather than going out and doing new things? |    1    |   0    |\n| 10. Do you feel you have more problems with memory than most people? |    1    |   0    |\n| 11. Do you think it is wonderful to be alive? |    0    |   1    |\n| 12. Do you feel pretty worthless the way you are now? |    1    |   0    |\n| 13. Do you feel full of energy? |    0    |   1    |----**Page 1 of 2**# Depression Assessment Questionnaire## Questions14. Do you feel that your situation is hopeless? - 1. Yes\n- 0. No15. Do you think that most people are better off than you are? - 1. Yes\n- 0. No## ScoringThe Score is the total of all depressive answers. Most accurate scores are those where there is a clear YES or NO answer for all 15 questions.| Score Range | Interpretation                      |\n|-------------|-------------------------------------|\n| 0 - 4      | Not indicative of depression (not depressed) |\n| 5 - 10     | Indicates depression (depressed)    |\n| 11+        | Suggestive of Severe Depression (severely depressed) |----**Signature:** ________________________**Date:** ____________________________----**Page 2 of 2**",
+      "char_count": 1198,
+      "token_estimate": 299,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

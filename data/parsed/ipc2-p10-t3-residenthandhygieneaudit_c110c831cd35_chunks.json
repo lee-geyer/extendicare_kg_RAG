@@ -1,0 +1,18 @@
+{
+  "doc_id": "ipc2-p10-t3-residenthandhygieneaudit_c110c831cd35",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "ipc2-p10-t3-residenthandhygieneaudit_c110c831cd35_chunk_000_f44f87da",
+      "doc_id": "ipc2-p10-t3-residenthandhygieneaudit_c110c831cd35",
+      "chunk_index": 0,
+      "text": "```markdown\n\n# IC-Hand Hygiene Resident Observation-2023**Effective Date:** December 4, 2024\n**Policy Number:** 8## Part 1: Resident Observation1. **Please select the resident action you observed:**\n- a.) Before a meal\n- b.) After a meal\n- c.) Before nourishment pass\n- d.) After nourishment pass\n- e.) Before Medication\n- f.) After using the washroom\n- g.) After sneezing or coughing\n- h.) Before a program\n- i.) After a program\n- j.) Leaving the home area (unit)\n- k.) Returning to the home area (unit)\n- l.) Exiting the building\n- m.) Entering the building2. **Please select if you observed any of the below automatic misses:**\n- a.) No Action\n- b.) Hand Hygiene not encouraged by staff member\n- c.) No automatic misses were observed\n- d.) Resident refuses3. **Please select the method the resident used to perform hand hygiene:**\n- a.) Sanitize ABHR\n- b.) Wash\n- c.) Not Applicable4. **Please select if the hand hygiene you observed was less than 20 seconds or at least 20 seconds:**\n- a.) Hand Hygiene was less than 20 seconds\n- b.) Hand Hygiene was at least 20 seconds\n```",
+      "char_count": 1078,
+      "token_estimate": 269,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

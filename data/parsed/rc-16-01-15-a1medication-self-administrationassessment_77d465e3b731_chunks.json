@@ -1,0 +1,114 @@
+{
+  "doc_id": "rc-16-01-15-a1medication-self-administrationassessment_77d465e3b731",
+  "total_chunks": 9,
+  "chunks": [
+    {
+      "chunk_id": "rc-16-01-15-a1medication-self-administrationassessment_77d465e3b731_chunk_000_d2c7b635",
+      "doc_id": "rc-16-01-15-a1medication-self-administrationassessment_77d465e3b731",
+      "chunk_index": 0,
+      "text": "```markdown\n\n# Medication - Self - Administration Assessment| Resident: | Effective Date: | Location: |\n|-----------|-----------------|-----------|\n| Physician: |                 |           |## AA. Medications\n- **List all medications being assessed for self-administration:**## A. Assessment### Demonstrated cognitive capacity:",
+      "char_count": 329,
+      "token_estimate": 82,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "rc-16-01-15-a1medication-self-administrationassessment_77d465e3b731_chunk_002_b97d3b26",
+      "doc_id": "rc-16-01-15-a1medication-self-administrationassessment_77d465e3b731",
+      "chunk_index": 2,
+      "text": "1. Select all that apply:\n- Oriented to person, place and time\n- Follows multi-step instructions\n- No signs of delirium or fluctuating cognition\n- Requires reminders or cueing to prompt timing for daily tasks\n- Refuses education or assistive devices (e.g., pill organizer, checklists)\n- Moderate to severe cognitive impairment (CPS of 3 or greater)### Physical abilities to self-administer medications:",
+      "char_count": 402,
+      "token_estimate": 100,
+      "section_title": "Select all that apply:",
+      "chunk_type": "content",
+      "start_line": 5,
+      "end_line": 11
+    },
+    {
+      "chunk_id": "rc-16-01-15-a1medication-self-administrationassessment_77d465e3b731_chunk_003_63b91dbb",
+      "doc_id": "rc-16-01-15-a1medication-self-administrationassessment_77d465e3b731",
+      "chunk_index": 3,
+      "text": "2. Has the manual dexterity to open medications with or without assistive device (e.g., packages, lids, containers):\n- Yes\n- No\n- Provide details: (if known)3. Has the ability to self-administer medications independent of physical assistance (e.g., oral, topical, inhaler, injection):\n- Yes\n- No\n- Provide details:4. Has adequate vision to read labels with or without visual aids (e.g., glasses):\n- Yes\n- No\n- Provide details:5. Resident has no fine motor impairment:\n- Yes\n- No\n- Provide details:6. Uses adaptive devices successfully (e.g., pill organizer):\n- Yes\n- No\n- N/A\n- Provide details:## B. Competency Evaluation\n- Ask the resident direct questions to effectively evaluate the resident's competency to self-administer medication safely and independently:",
+      "char_count": 763,
+      "token_estimate": 190,
+      "section_title": "Has the manual dexterity to open medications with or without assistive device (e.g., packages, lids, containers):",
+      "chunk_type": "content",
+      "start_line": 12,
+      "end_line": 29
+    },
+    {
+      "chunk_id": "rc-16-01-15-a1medication-self-administrationassessment_77d465e3b731_chunk_004_ba63fc80",
+      "doc_id": "rc-16-01-15-a1medication-self-administrationassessment_77d465e3b731",
+      "chunk_index": 4,
+      "text": "1. Understands ALL medications and indications for use (i.e., purpose):\n- Yes\n- No\n\n2. Understands the potential side effects of each medication:\n- Yes\n- No",
+      "char_count": 156,
+      "token_estimate": 39,
+      "section_title": "Understands ALL medications and indications for use (i.e., purpose):",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "rc-16-01-15-a1medication-self-administrationassessment_77d465e3b731_chunk_006_34bbae1e",
+      "doc_id": "rc-16-01-15-a1medication-self-administrationassessment_77d465e3b731",
+      "chunk_index": 6,
+      "text": "3. Understands the appropriate route of administration for each medication (e.g., oral, topical, inhaler, injection):----**Page 1 of 3**\n```# Medication Self-Administration Assessment## A. Understanding of Medication1. **Understands medication purpose**\n- a. Yes\n- b. No2. **Understands medication side effects**\n- a. Yes\n- b. No3. **Understands when to seek help (e.g., adverse reactions)**\n- a. Yes\n- b. No4. **Understands incidents that must be reported to the nurse (e.g., missed or duplicate doses)**\n- a. Yes\n- b. No5. **Understands medication storage requirements (i.e., safe and securely locked in drawer/cabinet in their room)**\n- a. Yes\n- b. No## B. Additional Factors### Complexity of Medication Regimen:\n- Select all that apply:\n- a. Is prescribed more than 5 different medications\n- b. Medications scheduled more than TID (3 times/day)\n- c. Different administration routes (e.g., pills, patches, inhalers, etc.)\n- d. Medications require the use of specialized equipment (e.g., spacer for inhaler, glucose monitor)\n- e. Medications require crushing, splitting or mixing\n- f. Doses require titrating based on clinical response (e.g. Insulin sliding scale)\n- g.",
+      "char_count": 1171,
+      "token_estimate": 292,
+      "section_title": "Understands the appropriate route of administration for each medication (e.g., oral, topical, inhaler, injection):----**Page 1 of 3**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "rc-16-01-15-a1medication-self-administrationassessment_77d465e3b731_chunk_007_4768ed36",
+      "doc_id": "rc-16-01-15-a1medication-self-administrationassessment_77d465e3b731",
+      "chunk_index": 7,
+      "text": "Doses require titrating based on clinical response (e.g. Insulin sliding scale)\n- g. PRN (as needed) medications\n- h. High risk/high alerts medications (e.g., insulins, anticoagulants)\n- i. Frequent dose or schedule changes in last 3 months\n- j. None of the above## C. Outcome/Planning### a. Scoring Outcome\n- Low Risk - Approved for self-administration\n- Moderate Risk - Approved with support interventions\n- High Risk Score - Not approved\n- Unsafe factors - Not approved### b. Approved with support interventions\n- **Focus:** Medication - Self-Administration\n- **Goal:** Resident goal(s) (SPECIFY) will be supported through to the next review. - **Goal:** Resident will independently manage medications using assistive devices (e.g., pill organizer, reminder alarms) through to the next review.",
+      "char_count": 796,
+      "token_estimate": 199,
+      "section_title": "Understands the appropriate route of administration for each medication (e.g., oral, topical, inhaler, injection):----**Page 1 of 3**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "rc-16-01-15-a1medication-self-administrationassessment_77d465e3b731_chunk_008_f037167c",
+      "doc_id": "rc-16-01-15-a1medication-self-administrationassessment_77d465e3b731",
+      "chunk_index": 8,
+      "text": "Approved with support interventions\n- **Focus:** Medication - Self-Administration\n- **Goal:** Resident goal(s) (SPECIFY) will be supported through to the next review. - **Goal:** Resident will independently manage medications using assistive devices (e.g., pill organizer, reminder alarms) through to the next review. - **Goal:** Resident will safely self-administer medications as prescribed without incident through to the next review.### Interventions:\n- Monitoring schedule in place: (SPECIFY nursing routine, e.g., visual observation of administration, regular review of resident’s MAR, weekly checks for safe medication storage)\n- Other strategies to support safe self-administration: (SPECIFY)\n- Uses a medication organization tool to support independence (SPECIFY, e.g., pill organizer)\n- Uses a reminder aid to support timely self-administration of medications (SPECIFY, e.g., talking alarm clock, phone reminder, visual chart, medication calendar).",
+      "char_count": 958,
+      "token_estimate": 239,
+      "section_title": "Understands the appropriate route of administration for each medication (e.g., oral, topical, inhaler, injection):----**Page 1 of 3**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "rc-16-01-15-a1medication-self-administrationassessment_77d465e3b731_chunk_009_30ba545e",
+      "doc_id": "rc-16-01-15-a1medication-self-administrationassessment_77d465e3b731",
+      "chunk_index": 9,
+      "text": "- **Goal:** Resident will independently manage medications using assistive devices (e.g., pill organizer, reminder alarms) through to the next review. - **Goal:** Resident will safely self-administer medications as prescribed without incident through to the next review.### Interventions:\n- Monitoring schedule in place: (SPECIFY nursing routine, e.g., visual observation of administration, regular review of resident’s MAR, weekly checks for safe medication storage)\n- Other strategies to support safe self-administration: (SPECIFY)\n- Uses a medication organization tool to support independence (SPECIFY, e.g., pill organizer)\n- Uses a reminder aid to support timely self-administration of medications (SPECIFY, e.g., talking alarm clock, phone reminder, visual chart, medication calendar). - Uses an adaptive device to assist with physical limitations during medication handling (SPECIFY, e.g., easy-grip bottle opener, pill crusher, eye drop guide)\n- Visual aid used to support safe medication identification (SPECIFY, e.g., color-coded labels, bold-print instructions, magnifier)### c.",
+      "char_count": 1089,
+      "token_estimate": 272,
+      "section_title": "Understands the appropriate route of administration for each medication (e.g., oral, topical, inhaler, injection):----**Page 1 of 3**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "rc-16-01-15-a1medication-self-administrationassessment_77d465e3b731_chunk_010_f98713a2",
+      "doc_id": "rc-16-01-15-a1medication-self-administrationassessment_77d465e3b731",
+      "chunk_index": 10,
+      "text": "- **Goal:** Resident will safely self-administer medications as prescribed without incident through to the next review.### Interventions:\n- Monitoring schedule in place: (SPECIFY nursing routine, e.g., visual observation of administration, regular review of resident’s MAR, weekly checks for safe medication storage)\n- Other strategies to support safe self-administration: (SPECIFY)\n- Uses a medication organization tool to support independence (SPECIFY, e.g., pill organizer)\n- Uses a reminder aid to support timely self-administration of medications (SPECIFY, e.g., talking alarm clock, phone reminder, visual chart, medication calendar). - Uses an adaptive device to assist with physical limitations during medication handling (SPECIFY, e.g., easy-grip bottle opener, pill crusher, eye drop guide)\n- Visual aid used to support safe medication identification (SPECIFY, e.g., color-coded labels, bold-print instructions, magnifier)### c. Approved for self-administration\n- Indicate under 'Self-Administration of Medication' special instructions----**Page 2 of 3**# Signature**Date**----**Page 3 of 3**",
+      "char_count": 1102,
+      "token_estimate": 275,
+      "section_title": "Understands the appropriate route of administration for each medication (e.g., oral, topical, inhaler, injection):----**Page 1 of 3**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "doc_id": "care3-p1005safealcoholconsumption_e1ceb8e18a3c",
+  "total_chunks": 6,
+  "chunks": [
+    {
+      "chunk_id": "care3-p1005safealcoholconsumption_e1ceb8e18a3c_chunk_000_ed31a8af",
+      "doc_id": "care3-p1005safealcoholconsumption_e1ceb8e18a3c",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE MANUAL: CARE\n\n### INDEX: CARE3-P10.05",
+      "char_count": 63,
+      "token_estimate": 15,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p1005safealcoholconsumption_e1ceb8e18a3c_chunk_002_e8b5b704",
+      "doc_id": "care3-p1005safealcoholconsumption_e1ceb8e18a3c",
+      "chunk_index": 2,
+      "text": "### SECTION: Resident Safety\n\n### EFFECTIVE DATE: June 16, 2025",
+      "char_count": 63,
+      "token_estimate": 15,
+      "section_title": "SECTION: Resident Safety",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p1005safealcoholconsumption_e1ceb8e18a3c_chunk_004_7dc54376",
+      "doc_id": "care3-p1005safealcoholconsumption_e1ceb8e18a3c",
+      "chunk_index": 4,
+      "text": "### REVIEWED DATE: June 9, 2025\n\n### APPROVED BY: Director, Education and Resident Services",
+      "char_count": 91,
+      "token_estimate": 22,
+      "section_title": "REVIEWED DATE: June 9, 2025",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p1005safealcoholconsumption_e1ceb8e18a3c_chunk_006_e0344b2b",
+      "doc_id": "care3-p1005safealcoholconsumption_e1ceb8e18a3c",
+      "chunk_index": 6,
+      "text": "### MODIFIED DATE:----## POLICY\n\n### Resident Safety## PROCEDURE- Residents must be 19 years of age or older to be eligible to consume alcohol in the home, in accordance with provincial legislation.- **External**- **Manitoba Specific:**\n- Residents must be at least 18 years of age or older to consume alcohol.- The physician/nurse practitioner will assess the resident’s health condition, and where alcohol consumption is deemed unsafe due to medical conditions or contraindications, an order may be issued to prohibit alcohol consumption.- Where resident history of alcohol abuse is identified, or other contraindications, the physician/nurse practitioner may provide an individualized order outlining the type of alcohol, quantity limit, and frequency of consumption (e.g., one glass of wine per day).- The resident will be responsible for supplying his/her own alcohol where a physician/nurse practitioner's order has been obtained. The alcohol will be labeled with the resident’s name and stored in the locked medication room.",
+      "char_count": 1031,
+      "token_estimate": 257,
+      "section_title": "MODIFIED DATE:----## POLICY",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p1005safealcoholconsumption_e1ceb8e18a3c_chunk_008_4d2e7ace",
+      "doc_id": "care3-p1005safealcoholconsumption_e1ceb8e18a3c",
+      "chunk_index": 8,
+      "text": "### Resident Safety## PROCEDURE- Residents must be 19 years of age or older to be eligible to consume alcohol in the home, in accordance with provincial legislation.- **External**- **Manitoba Specific:**\n- Residents must be at least 18 years of age or older to consume alcohol.- The physician/nurse practitioner will assess the resident’s health condition, and where alcohol consumption is deemed unsafe due to medical conditions or contraindications, an order may be issued to prohibit alcohol consumption.- Where resident history of alcohol abuse is identified, or other contraindications, the physician/nurse practitioner may provide an individualized order outlining the type of alcohol, quantity limit, and frequency of consumption (e.g., one glass of wine per day).- The resident will be responsible for supplying his/her own alcohol where a physician/nurse practitioner's order has been obtained. The alcohol will be labeled with the resident’s name and stored in the locked medication room. Alcohol stored in resident rooms is prohibited.- Informed consent will be obtained from the resident, Substitute Decision Maker (SDM), or Power of Attorney (POA) for alcohol consumption and documented in the resident’s health record.----**Helplng people Ilva better**This document is uncontrolled when printed.",
+      "char_count": 1309,
+      "token_estimate": 327,
+      "section_title": "Resident Safety## PROCEDURE- Residents must be 19 years of age or older to be eligible to consume alcohol in the home, in accordance with provincial legislation.- **External**- **Manitoba Specific:**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care3-p1005safealcoholconsumption_e1ceb8e18a3c_chunk_009_af5a3d24",
+      "doc_id": "care3-p1005safealcoholconsumption_e1ceb8e18a3c",
+      "chunk_index": 9,
+      "text": "The alcohol will be labeled with the resident’s name and stored in the locked medication room. Alcohol stored in resident rooms is prohibited.- Informed consent will be obtained from the resident, Substitute Decision Maker (SDM), or Power of Attorney (POA) for alcohol consumption and documented in the resident’s health record.----**Helplng people Ilva better**This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 1**",
+      "char_count": 703,
+      "token_estimate": 175,
+      "section_title": "Resident Safety## PROCEDURE- Residents must be 19 years of age or older to be eligible to consume alcohol in the home, in accordance with provincial legislation.- **External**- **Manitoba Specific:**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

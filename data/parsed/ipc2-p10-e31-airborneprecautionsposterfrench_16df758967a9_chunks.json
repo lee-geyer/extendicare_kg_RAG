@@ -1,0 +1,18 @@
+{
+  "doc_id": "ipc2-p10-e31-airborneprecautionsposterfrench_16df758967a9",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "ipc2-p10-e31-airborneprecautionsposterfrench_16df758967a9_chunk_000_9fc3e056",
+      "doc_id": "ipc2-p10-e31-airborneprecautionsposterfrench_16df758967a9",
+      "chunk_index": 0,
+      "text": "# VISITEURS - AVANT D’ENTRER, OBTENEZ LES INSTRUCTIONS DU PERSONNEL## PRÉCAUTIONS CONTRE LA TRANSMISSION PAR VOIE AÉRIENNE EN PLUS DES PRATIQUES DE BASE- Gardez la porte et les fenêtres fermées\n- Transporter le résident si nécessaire\n- En présence de tuberculose, portez un respirateur N95 dont l’ajustement et l’étanchéité ont été vérifiés\n- Le résident doit porter un masque pour le transport",
+      "char_count": 394,
+      "token_estimate": 98,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 3
+    }
+  ]
+}

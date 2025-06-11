@@ -1,0 +1,42 @@
+{
+  "doc_id": "care8-p1004-t6dischargedeathrecordforfuneralhome_0c83d205f0ad",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "care8-p1004-t6dischargedeathrecordforfuneralhome_0c83d205f0ad_chunk_000_726e673f",
+      "doc_id": "care8-p1004-t6dischargedeathrecordforfuneralhome_0c83d205f0ad",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## DISCHARGE/DEATH RECORD FOR FUNERAL HOME",
+      "char_count": 57,
+      "token_estimate": 14,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care8-p1004-t6dischargedeathrecordforfuneralhome_0c83d205f0ad_chunk_002_38208b47",
+      "doc_id": "care8-p1004-t6dischargedeathrecordforfuneralhome_0c83d205f0ad",
+      "chunk_index": 2,
+      "text": "### Addressograph/Resident Label----## ORGAN/TISSUE/EYE DONATION\n- Did the deceased complete provincial organ donation form?\n\n- [ ] Yes\n- [ ] No\n- Chart Referenced for Donation Contact Information\n**Transplantation Coordinator Name:** _____________________________________________\n**Signature:** ___________________________________________________________________----## PERSONAL BELONGINGS\n- [ ] Eyeglasses\n- [ ] Dentures\n- [ ] Jewelry List\n**Items:** ___________________________________________________________________________________\n____________________________________________________________________________________________\n- [ ] Other: ___________________________________________________________________________________\n____________________________________________________________________________________________----## RELEASE OF BODY\n**Date:** _________________________\n**Time:** _________________________**Body Released to:**\n- [ ] Transfer Service ______________________________ on behalf of: ________________\n**Printed Name**\n- [ ] Funeral Home: ________________________________  ______________________\n**Printed Funeral Home Name**                     **Signature**----## Required Provincial Documents for Death Reporting\n| Province  | Required Document                                      |\n|-----------|-------------------------------------------------------|\n| Alberta   | Attending Physician’s Medical Certificate of Death    |\n| Manitoba  | Personal Care Home Death Report Completed              |\n| Ontario   | Resident Death Notice (RDN) Completed                  |----I, the undersigned, have confirmed that the body is ready to be released and witnessed the signature of the person to whom the body is to be released:\n___________________________________  __________________________________\n**Name Printed**                                  **Signature**----Helping people live betterThis document is uncontrolled when printed.",
+      "char_count": 1948,
+      "token_estimate": 487,
+      "section_title": "Addressograph/Resident Label----## ORGAN/TISSUE/EYE DONATION",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care8-p1004-t6dischargedeathrecordforfuneralhome_0c83d205f0ad_chunk_004_298d0200",
+      "doc_id": "care8-p1004-t6dischargedeathrecordforfuneralhome_0c83d205f0ad",
+      "chunk_index": 4,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 1 of 1",
+      "char_count": 290,
+      "token_estimate": 72,
+      "section_title": "Addressograph/Resident Label----## ORGAN/TISSUE/EYE DONATION",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

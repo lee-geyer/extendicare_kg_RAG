@@ -1,0 +1,30 @@
+{
+  "doc_id": "ipc2-p10-t9-petveterinaryrecord_7587bec8b1fe",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "ipc2-p10-t9-petveterinaryrecord_7587bec8b1fe_chunk_000_66d2111d",
+      "doc_id": "ipc2-p10-t9-petveterinaryrecord_7587bec8b1fe",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Pet Veterinary Record| Field                | Information                |\n|----------------------|----------------------------|\n| Name                 |                            |\n| Species              |                            |\n| Breed                |                            |\n| Spay/Neuter          |                            |\n| Age                  |                            |\n| Sex                  |                            |\n| Date                 |                            |\n| Veterinarian         |                            |\n| Address              |                            |\n| Phone Number         |                            |\n| Emergency Number      |                            |### Vaccinations/Checkups (records attached)| Date                 |                            |\n|----------------------|----------------------------|\n| Date                 |                            |\n| Date                 |                            |\n| Date                 |                            |\n| Date                 |                            |\n| Date                 |                            |\n| Date                 |                            |### Medical History| Medication Name      | Time                       | Dose                    | Stop Date              |\n|----------------------|----------------------------|-------------------------|------------------------|\n|                      |                            |                         |                        |\n| Comments:           |                            |                         |                        |----Helping people live better> This document is uncontrolled when printed.",
+      "char_count": 1728,
+      "token_estimate": 432,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-t9-petveterinaryrecord_7587bec8b1fe_chunk_002_79bb6b22",
+      "doc_id": "ipc2-p10-t9-petveterinaryrecord_7587bec8b1fe",
+      "chunk_index": 2,
+      "text": "> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 2**# Pet Veterinary Record## Diet:\n- Special Diet/Recommendations:----> **Note:** This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 2 of 2**",
+      "char_count": 723,
+      "token_estimate": 180,
+      "section_title": "Pet Veterinary Record| Field                | Information                |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

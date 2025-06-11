@@ -1,0 +1,41 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t5cairdryerinspectionchecklist_be3cd8137e2d_chunk_000_d14b2de2",
+      "doc_id": "maint1-o1002-t5cairdryerinspectionchecklist_be3cd8137e2d",
+      "chunk_index": 0,
+      "text": "# Extendicare Maintenance Inspection Checklist## Equipment\n**Air Dryer**### LEGEND/KEY\n- **W** – Weekly\n- **M** – Monthly\n- **Q** – Quarterly\n- **S** – Semi-Annual\n- **A** – Annual\n- **O** – Ok\n- **R** – Repair\n- **N** – Replace### CHECKS\n| W | M | Q | S | A | Item                                                   |\n|---|---|---|---|---|--------------------------------------------------------|\n| X |   |   | 1 |   | Check discharge air temperature is 35F. |\n| X |   |   | 2 |   | Test high temperature alarm. |\n| X |   |   | 3 |   | Check condensate drain. |\n|   | X |   | 4 |   | Work all valves manually. |\n|   | X |   | 5 |   | Clean condenser coil.",
+      "char_count": 655,
+      "token_estimate": 163,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t5cairdryerinspectionchecklist_be3cd8137e2d_chunk_001_bcfe93ee",
+      "doc_id": "maint1-o1002-t5cairdryerinspectionchecklist_be3cd8137e2d",
+      "chunk_index": 1,
+      "text": "|\n|   | X |   | 4 |   | Work all valves manually. |\n|   | X |   | 5 |   | Clean condenser coil. |### Monthly Schedule\n|     | JAN |     | FEB |     | MAR |     | APR |     | MAY |     | JUN |     |\n|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|\n| M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | |\n| W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | ||     | JUL |     | AUG |     | SEP |     | OCT |     | NOV |     | DEC |     |\n|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|\n| M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | |\n| W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | |----**Note:** This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 1070,
+      "token_estimate": 267,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t5cairdryerinspectionchecklist_be3cd8137e2d_chunk_002_728c1f5f",
+      "doc_id": "maint1-o1002-t5cairdryerinspectionchecklist_be3cd8137e2d",
+      "chunk_index": 2,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 2 of 2**",
+      "char_count": 796,
+      "token_estimate": 199,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 3
+}

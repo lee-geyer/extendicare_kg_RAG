@@ -1,0 +1,30 @@
+{
+  "doc_id": "care12-p10-e2managingmypain-residentfamilyinformationsheet_29e253558b68",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "care12-p10-e2managingmypain-residentfamilyinformationsheet_29e253558b68_chunk_000_1b97952b",
+      "doc_id": "care12-p10-e2managingmypain-residentfamilyinformationsheet_29e253558b68",
+      "chunk_index": 0,
+      "text": "# Managing My PainCoping with pain can be very challenging for you. The team will work with you to find ways to help manage your pain and find the best approach that works for you.## 1. Non-Medication Approaches (First Choice Whenever Possible!)\n- Comfortable positioning & gentle movement\n- Warm or cold therapy (heat pads, ice packs)\n- Massage or relaxation techniques\n- Music, pet therapy, or guided breathing exercises\n- A peaceful environment with soft lighting & quiet space## 2. Medication When Needed\n- Tylenol or Anti-inflammatory for mild pain\n- Stronger medications (opioids) if needed and with careful monitoring\n- Medications for nerve pain (e.g., Gabapentin, Duloxetine)## 3. Your Role in Pain Management\nPain is best managed when residents, families, and caregivers work together. Here’s how you can help:\n- ✓ Tell us about any new/worsening pain or discomfort. - ✓ Let us know if the current pain treatment is not working. - ✓ Share what has worked well in the past for pain relief. - ✓ Advocate for your loved one if they cannot express their pain.# The Team is Here for You! If you have any questions or concerns about pain management, please talk to your nurse or care provider.",
+      "char_count": 1197,
+      "token_estimate": 299,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care12-p10-e2managingmypain-residentfamilyinformationsheet_29e253558b68_chunk_001_26395693",
+      "doc_id": "care12-p10-e2managingmypain-residentfamilyinformationsheet_29e253558b68",
+      "chunk_index": 1,
+      "text": "- ✓ Advocate for your loved one if they cannot express their pain.# The Team is Here for You! If you have any questions or concerns about pain management, please talk to your nurse or care provider. Your comfort and well-being are our priority.This information was carefully reviewed in collaboration with residents and family experience partners from the Resident Experience Action Council (REACH) for Homes. Together, we have created this resource to support you.----**Extendicare**\nHelping people live better",
+      "char_count": 511,
+      "token_estimate": 127,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

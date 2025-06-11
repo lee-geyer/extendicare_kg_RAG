@@ -1,0 +1,102 @@
+{
+  "doc_id": "care17-p1007enteralnutrition_bc0c652f56b5",
+  "total_chunks": 8,
+  "chunks": [
+    {
+      "chunk_id": "care17-p1007enteralnutrition_bc0c652f56b5_chunk_000_abdd6794",
+      "doc_id": "care17-p1007enteralnutrition_bc0c652f56b5",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE MANUAL: CARE\n\n### INDEX: CARE17-P10.07",
+      "char_count": 64,
+      "token_estimate": 16,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p1007enteralnutrition_bc0c652f56b5_chunk_002_7aafeb6c",
+      "doc_id": "care17-p1007enteralnutrition_bc0c652f56b5",
+      "chunk_index": 2,
+      "text": "### SECTION: Nutritional Care and Hydration\n\n### DESCRIPTION: Enteral Nutrition",
+      "char_count": 79,
+      "token_estimate": 19,
+      "section_title": "SECTION: Nutritional Care and Hydration",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p1007enteralnutrition_bc0c652f56b5_chunk_004_55e8490b",
+      "doc_id": "care17-p1007enteralnutrition_bc0c652f56b5",
+      "chunk_index": 4,
+      "text": "### EFFECTIVE DATE: June 16, 2025\n\n### REVIEWED DATE: June 9, 2025",
+      "char_count": 66,
+      "token_estimate": 16,
+      "section_title": "EFFECTIVE DATE: June 16, 2025",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p1007enteralnutrition_bc0c652f56b5_chunk_006_e7e75241",
+      "doc_id": "care17-p1007enteralnutrition_bc0c652f56b5",
+      "chunk_index": 6,
+      "text": "### APPROVED BY: Senior Director, Allied Health and Support Services\n\n### MODIFIED DATE:----## POLICY",
+      "char_count": 101,
+      "token_estimate": 25,
+      "section_title": "APPROVED BY: Senior Director, Allied Health and Support Services",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p1007enteralnutrition_bc0c652f56b5_chunk_008_aa27d01b",
+      "doc_id": "care17-p1007enteralnutrition_bc0c652f56b5",
+      "chunk_index": 8,
+      "text": "### Nutritional Care and Hydration## PROCEDURE1. Resident’s nutritional status has deteriorated, and the resident can no longer tolerate oral nutritional intake OR is unable to meet their nutritional requirements through oral intake alone.2. The interdisciplinary team must meet with the resident/Substitute Decision Maker (SDM)/Power of Attorney (POA)/family to discuss the situation and the resident/SDM/POA wishes to receive enteral feeding.3. The registered staff/Registered Dietitian (RD) must contact the physician to initiate enteral tube placement and plan. The plan must be communicated with the interdisciplinary team, resident/SDM/POA/family. The plan is initiated.4. The RD must review the order from the hospital to determine the appropriateness of the prescribed formula, rate of flow, frequency of administration, and required additional hydration. The RD can make changes to the order as necessary.5. The registered staff nurse must be trained on appropriate handling, initiation, and monitoring of the enteral feed, hydration, and equipment as per the manufacturer’s instructions.6.",
+      "char_count": 1099,
+      "token_estimate": 274,
+      "section_title": "Nutritional Care and Hydration## PROCEDURE1. Resident’s nutritional status has deteriorated, and the resident can no longer tolerate oral nutritional intake OR is unable to meet their nutritional requirements through oral intake alone.2. The interdisciplinary team must meet with the resident/Substitute Decision Maker (SDM)/Power of Attorney (POA)/family to discuss the situation and the resident/SDM/POA wishes to receive enteral feeding.3. The registered staff/Registered Dietitian (RD) must contact the physician to initiate enteral tube placement and plan. The plan must be communicated with the interdisciplinary team, resident/SDM/POA/family. The plan is initiated.4. The RD must review the order from the hospital to determine the appropriateness of the prescribed formula, rate of flow, frequency of administration, and required additional hydration. The RD can make changes to the order as necessary.5. The registered staff nurse must be trained on appropriate handling, initiation, and monitoring of the enteral feed, hydration, and equipment as per the manufacturer’s instructions.6. The registered staff and RD must monitor, follow up, and assess the resident regarding acceptance and tolerance of enteral feeds. (The registered staff will document all enteral intake in the Medication Administration Record.)7. Any concerns/intolerance regarding the enteral feed must be documented in the progress notes and referred to the RD (via the Referral – Registered Dietitian) and the physician.8. The RD must reassess the resident and modify the plan of care accordingly.9. Efforts to restore oral consumption must be assessed by the RD, as appropriate, with the involvement of the interdisciplinary team and the resident/SDM/POA.10. The resident must be reassessed by the interdisciplinary team quarterly or more frequently, if required.----### Helplng People",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p1007enteralnutrition_bc0c652f56b5_chunk_009_ac5b1411",
+      "doc_id": "care17-p1007enteralnutrition_bc0c652f56b5",
+      "chunk_index": 9,
+      "text": "The RD can make changes to the order as necessary.5. The registered staff nurse must be trained on appropriate handling, initiation, and monitoring of the enteral feed, hydration, and equipment as per the manufacturer’s instructions.6. The registered staff and RD must monitor, follow up, and assess the resident regarding acceptance and tolerance of enteral feeds. (The registered staff will document all enteral intake in the Medication Administration Record.)7. Any concerns/intolerance regarding the enteral feed must be documented in the progress notes and referred to the RD (via the Referral – Registered Dietitian) and the physician.8. The RD must reassess the resident and modify the plan of care accordingly.9. Efforts to restore oral consumption must be assessed by the RD, as appropriate, with the involvement of the interdisciplinary team and the resident/SDM/POA.10. The resident must be reassessed by the interdisciplinary team quarterly or more frequently, if required.----### Helplng People",
+      "char_count": 1007,
+      "token_estimate": 251,
+      "section_title": "Nutritional Care and Hydration## PROCEDURE1. Resident’s nutritional status has deteriorated, and the resident can no longer tolerate oral nutritional intake OR is unable to meet their nutritional requirements through oral intake alone.2. The interdisciplinary team must meet with the resident/Substitute Decision Maker (SDM)/Power of Attorney (POA)/family to discuss the situation and the resident/SDM/POA wishes to receive enteral feeding.3. The registered staff/Registered Dietitian (RD) must contact the physician to initiate enteral tube placement and plan. The plan must be communicated with the interdisciplinary team, resident/SDM/POA/family. The plan is initiated.4. The RD must review the order from the hospital to determine the appropriateness of the prescribed formula, rate of flow, frequency of administration, and required additional hydration. The RD can make changes to the order as necessary.5. The registered staff nurse must be trained on appropriate handling, initiation, and monitoring of the enteral feed, hydration, and equipment as per the manufacturer’s instructions.6. The registered staff and RD must monitor, follow up, and assess the resident regarding acceptance and tolerance of enteral feeds. (The registered staff will document all enteral intake in the Medication Administration Record.)7. Any concerns/intolerance regarding the enteral feed must be documented in the progress notes and referred to the RD (via the Referral – Registered Dietitian) and the physician.8. The RD must reassess the resident and modify the plan of care accordingly.9. Efforts to restore oral consumption must be assessed by the RD, as appropriate, with the involvement of the interdisciplinary team and the resident/SDM/POA.10. The resident must be reassessed by the interdisciplinary team quarterly or more frequently, if required.----### Helplng People",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p1007enteralnutrition_bc0c652f56b5_chunk_010_e90d7737",
+      "doc_id": "care17-p1007enteralnutrition_bc0c652f56b5",
+      "chunk_index": 10,
+      "text": "### Ilve betterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 2**# Extendicare## PROCEDURE### SECTION: Nutritional Care and Hydration",
+      "char_count": 424,
+      "token_estimate": 106,
+      "section_title": "Ilve betterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 2**# Extendicare## PROCEDURE### SECTION: Nutritional Care and Hydration",
+      "chunk_type": "content",
+      "start_line": 9,
+      "end_line": 9
+    },
+    {
+      "chunk_id": "care17-p1007enteralnutrition_bc0c652f56b5_chunk_011_848ca187",
+      "doc_id": "care17-p1007enteralnutrition_bc0c652f56b5",
+      "chunk_index": 11,
+      "text": "### DESCRIPTION: Enteral Nutrition\n\n### INDEX: CARE17-P10.07----## EDUCATION1. Enteral Nutrition Guidelines## TOOLS1. Referral – Registered Dietitian----**Note:** This document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 2 of 2**",
+      "char_count": 504,
+      "token_estimate": 126,
+      "section_title": "DESCRIPTION: Enteral Nutrition",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

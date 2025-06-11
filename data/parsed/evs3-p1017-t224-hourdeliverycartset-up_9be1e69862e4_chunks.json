@@ -1,0 +1,30 @@
+{
+  "doc_id": "evs3-p1017-t224-hourdeliverycartset-up_9be1e69862e4",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "evs3-p1017-t224-hourdeliverycartset-up_9be1e69862e4_chunk_000_1fe96cea",
+      "doc_id": "evs3-p1017-t224-hourdeliverycartset-up_9be1e69862e4",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## 24-Hour Delivery Cart Set-Up**Unit Number:** _____________________________\n**Date:** ___________________________| **ITEM**                          | **AMOUNT** | **NOTES** |\n|-----------------------------------|------------|-----------|\n| Fitted sheets                     |            |           |\n| Flat sheets                       |            |           |\n| Pillowcases                       |            |           |\n| Face cloths - bath               |            |           |\n| Face cloths - extras             |            |           |\n| Face cloths - room delivery       |            |           |\n| Hand towels - extras              |            |           |\n| Hand towels - room delivery       |            |           |\n| Bath towels                       |            |           |\n| Peri-cloths                      |            |           |\n| Laundry bags - orange             |            |           |\n| Laundry bags - blue               |            |           |\n| Laundry bags - white              |            |           |\n| Laundry bags - red                |            |           |\n| Laundry bags - brown              |            |           |\n| Comforters / spreads              |            |           |\n| Patient gowns                     |            |           |\n| Protective garment                |            |           |\n| Meal face cloths - breakfast      |            |           |\n| Meal face cloths - lunch          |            |           |\n| Meal face cloths - supper         |            |           |----**Helping people**\n**Iva better**> This document is uncontrolled when printed.",
+      "char_count": 1657,
+      "token_estimate": 414,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs3-p1017-t224-hourdeliverycartset-up_9be1e69862e4_chunk_002_5897457c",
+      "doc_id": "evs3-p1017-t224-hourdeliverycartset-up_9be1e69862e4",
+      "chunk_index": 2,
+      "text": "> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 1",
+      "char_count": 294,
+      "token_estimate": 73,
+      "section_title": "24-Hour Delivery Cart Set-Up**Unit Number:** _____________________________",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

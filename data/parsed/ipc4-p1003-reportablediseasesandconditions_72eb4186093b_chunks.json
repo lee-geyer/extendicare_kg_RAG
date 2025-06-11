@@ -1,0 +1,30 @@
+{
+  "doc_id": "ipc4-p1003-reportablediseasesandconditions_72eb4186093b",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "ipc4-p1003-reportablediseasesandconditions_72eb4186093b_chunk_000_5ef53298",
+      "doc_id": "ipc4-p1003-reportablediseasesandconditions_72eb4186093b",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Infection Prevention and Control\n**INDEX:** IPC4-P10.03\n**SECTION:** Infection Surveillance\n**EFFECTIVE DATE:** February 18, 2025\n**REVIEWED DATE:** February 11, 2025\n**APPROVED BY:** Chief Medical Officer\n**MODIFIED DATE:** May 30, 2025----## POLICY### Infection Surveillance### PROCEDURE- The home shall have a list of reportable diseases and conditions for their respective province/region. - The home shall ensure that staff has access to a current list of reportable diseases and conditions. - The home shall adhere to all local, regional, provincial, and federal reporting requirements. - If needed, additional training and education on any required care requirements will be provided to staff. - Update the resident’s plan of care with any care-related requirements for the infectious disease including additional precautions, if required. - In the event of an outbreak, the home will refer to the policies and procedures related to outbreak management.### External#### LTC Manitoba Specific:\n- Reporting of Diseases and Conditions Regulation, M.R.",
+      "char_count": 1092,
+      "token_estimate": 273,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc4-p1003-reportablediseasesandconditions_72eb4186093b_chunk_001_49db9b00",
+      "doc_id": "ipc4-p1003-reportablediseasesandconditions_72eb4186093b",
+      "chunk_index": 1,
+      "text": "- Update the resident’s plan of care with any care-related requirements for the infectious disease including additional precautions, if required. - In the event of an outbreak, the home will refer to the policies and procedures related to outbreak management.### External#### LTC Manitoba Specific:\n- Reporting of Diseases and Conditions Regulation, M.R. 37/2009\n- Clinical Notification of Reportable Diseases and Conditions#### LTC Alberta Specific:\n- Alberta – Notifiable Disease Guidelines#### LTC Ontario Specific:\n- O. Reg. 135/18: DESIGNATION OF DISEASES----> This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 1",
+      "char_count": 904,
+      "token_estimate": 226,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "doc_id": "epm2-p1014codepurple_50db535b835a",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": "epm2-p1014codepurple_50db535b835a_chunk_000_a5fd7bcb",
+      "doc_id": "epm2-p1014codepurple_50db535b835a",
+      "chunk_index": 0,
+      "text": "```markdown\n\n# Extendicare## PROCEDURE\n**MANUAL:** Emergency Planning and Management\n**INDEX:** EPM2-P10.14\n**SECTION:** Emergency Response Codes\n**EFFECTIVE DATE:** January 13, 2025\n**REVIEWED DATE:** January 6, 2025\n**APPROVED BY:** Senior Director, Corporate Quality and Risk\n**MODIFIED DATE:** May 30, 2025----## POLICY",
+      "char_count": 323,
+      "token_estimate": 80,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1014codepurple_50db535b835a_chunk_002_3ffb17cc",
+      "doc_id": "epm2-p1014codepurple_50db535b835a",
+      "chunk_index": 2,
+      "text": "### Emergency Response Codes## PROCEDURE### Prevent/Prepare\n- If you notice an individual with a weapon or acting aggressively, do not open the door for them and try not to allow them entry into the home. - Review the Code Purple, Taken Hostage Tip Sheet so that you are familiar with what to do if you are taken hostage.### Respond\n- Code Purple is communicated when an individual has been taken hostage in the home. - Do not announce the code overhead as this may cause panic for the hostage taker. - If you are not in the area of the active Code Purple, stay away. - Get away from immediate danger and evacuate residents from the area if safe to do so. - Call the police (9-1-1) and provide as much information as possible, i.e., location of the incident, number of hostage takers and hostages, physical description and names of the hostage takers and hostages (if known), any weapons involved (if known), your name, location, and telephone number. - Incident Manager and Executive Director/Designate - follow the procedures for Code Purple as per the designated Job Action checklists. - All staff - follow direction from the Incident Manager. - Do not speak to the media.",
+      "char_count": 1175,
+      "token_estimate": 293,
+      "section_title": "Emergency Response Codes## PROCEDURE### Prevent/Prepare",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1014codepurple_50db535b835a_chunk_003_12116c16",
+      "doc_id": "epm2-p1014codepurple_50db535b835a",
+      "chunk_index": 3,
+      "text": "- All staff - follow direction from the Incident Manager. - Do not speak to the media. Do not use telephones or social media, including your wireless devices.### Recover\n- Complete a situation report of the details of the incident and submit to the Executive Director/Designate before leaving the home.## TOOLS\n\n1. Code Purple Incident Manager Job Action Checklist",
+      "char_count": 364,
+      "token_estimate": 91,
+      "section_title": "Emergency Response Codes## PROCEDURE### Prevent/Prepare",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1014codepurple_50db535b835a_chunk_005_32758193",
+      "doc_id": "epm2-p1014codepurple_50db535b835a",
+      "chunk_index": 5,
+      "text": "2. Code Purple Executive Director/Designate Job Action Checklist\n\n3. Code Purple Taken Hostage Tip Sheet",
+      "char_count": 104,
+      "token_estimate": 26,
+      "section_title": "Code Purple Executive Director/Designate Job Action Checklist",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1014codepurple_50db535b835a_chunk_007_1ecd8fc5",
+      "doc_id": "epm2-p1014codepurple_50db535b835a",
+      "chunk_index": 7,
+      "text": "4. Code Purple Poster----**Helping people**\nThis document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n```",
+      "char_count": 370,
+      "token_estimate": 92,
+      "section_title": "Code Purple Poster----**Helping people**",
+      "chunk_type": "content",
+      "start_line": 24,
+      "end_line": 27
+    }
+  ]
+}

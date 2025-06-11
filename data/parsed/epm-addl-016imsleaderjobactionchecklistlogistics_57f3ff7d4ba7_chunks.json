@@ -1,0 +1,78 @@
+{
+  "doc_id": "epm-addl-016imsleaderjobactionchecklistlogistics_57f3ff7d4ba7",
+  "total_chunks": 6,
+  "chunks": [
+    {
+      "chunk_id": "epm-addl-016imsleaderjobactionchecklistlogistics_57f3ff7d4ba7_chunk_000_f0a81fdf",
+      "doc_id": "epm-addl-016imsleaderjobactionchecklistlogistics_57f3ff7d4ba7",
+      "chunk_index": 0,
+      "text": "# Extendicare IMS Leader Job Action Checklist – Logistics**Note:** All documentation during the emergency must be given to the Administrator/Executive Director daily and kept on file for a minimum of three years.## Logistics – Job Action Sheet### Role:\nLogistics is the function of:\n- Organizing and supplying additional staff;\n- Maintaining the physical environment, food, water, and supplies to support the operations;\n- Maintaining the physical environment services of the building;\n- Conducting or collecting information for damage assessments of the residential care home.**Name:****Record the time action was initiated (note on the line below):**1. Receive appointment and briefing from the Incident Manager.",
+      "char_count": 714,
+      "token_estimate": 178,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 5
+    },
+    {
+      "chunk_id": "epm-addl-016imsleaderjobactionchecklistlogistics_57f3ff7d4ba7_chunk_001_a8a94777",
+      "doc_id": "epm-addl-016imsleaderjobactionchecklistlogistics_57f3ff7d4ba7",
+      "chunk_index": 1,
+      "text": "2. Read this entire Job Action Sheet and attached sub-function checklists.\n- (HR, Food/Dietary, Facilities Management, IT, Security, Purchasing)\n\n3. Appoint leaders, as required (insert names).\n- Operations leader(s):\n- Nursing Department\n- Housekeeping\n- Laundry\n- Maintenance\n- Human Resources Leader\n- Infrastructure Leader\n- Security Leader",
+      "char_count": 344,
+      "token_estimate": 86,
+      "section_title": "Read this entire Job Action Sheet and attached sub-function checklists.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-016imsleaderjobactionchecklistlogistics_57f3ff7d4ba7_chunk_003_848cff5c",
+      "doc_id": "epm-addl-016imsleaderjobactionchecklistlogistics_57f3ff7d4ba7",
+      "chunk_index": 3,
+      "text": "4. Brief leaders on the situation and action plan.\n\n5. Establish a regular meeting cycle of Logistics Team members.",
+      "char_count": 115,
+      "token_estimate": 28,
+      "section_title": "Brief leaders on the situation and action plan.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-016imsleaderjobactionchecklistlogistics_57f3ff7d4ba7_chunk_005_ace02aae",
+      "doc_id": "epm-addl-016imsleaderjobactionchecklistlogistics_57f3ff7d4ba7",
+      "chunk_index": 5,
+      "text": "6. Ensure life safety systems are operating (fire alarm, sprinkler, lighting, call bell systems, and door security).\n\n7. Have the Security Leader initiate a fire watch EVERY HOUR if the fire alarm is out of service.",
+      "char_count": 215,
+      "token_estimate": 53,
+      "section_title": "Ensure life safety systems are operating (fire alarm, sprinkler, lighting, call bell systems, and door security).",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-016imsleaderjobactionchecklistlogistics_57f3ff7d4ba7_chunk_007_586034ad",
+      "doc_id": "epm-addl-016imsleaderjobactionchecklistlogistics_57f3ff7d4ba7",
+      "chunk_index": 7,
+      "text": "8. Obtain a damage assessment from the Facilities Management Leader.----**Helping people**\n**Iva better**This document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\nConfidential and Proprietary Information of Extendicare (Canada) Inc. © 2025",
+      "char_count": 427,
+      "token_estimate": 106,
+      "section_title": "Obtain a damage assessment from the Facilities Management Leader.----**Helping people**",
+      "chunk_type": "content",
+      "start_line": 21,
+      "end_line": 24
+    },
+    {
+      "chunk_id": "epm-addl-016imsleaderjobactionchecklistlogistics_57f3ff7d4ba7_chunk_008_bf99a881",
+      "doc_id": "epm-addl-016imsleaderjobactionchecklistlogistics_57f3ff7d4ba7",
+      "chunk_index": 8,
+      "text": "# IMS Leader Job Action Checklist – Logistics## Checklist Items- Consult with the IMS Team regarding the need for staff/volunteer food and shelter.\n- Develop an inventory of:\n- Medical/Nursing supplies\n- PPE for patient contact (surgical/N95 masks, gowns, sanitizer etc.)\n- Housekeeping/cleaning supplies\n- Linen and blankets\n- Water\n- Food\n- Other\n- Contact each department to determine equipment and supply needs.\n- Create lists of available suppliers, pricing etc.\n- Coordinate purchasing with Administration/Finance Manager.\n- Coordinate the protection of inventory with the Security Leader.\n- Obtain needed supplies with the assistance of Administration/Finance Manager.\n- Attend IMS Team meetings.----> **Note:** This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\n> Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 2 of 2",
+      "char_count": 1059,
+      "token_estimate": 264,
+      "section_title": "IMS Leader Job Action Checklist – Logistics## Checklist Items- Consult with the IMS Team regarding the need for staff/volunteer food and shelter.",
+      "chunk_type": "content",
+      "start_line": 25,
+      "end_line": 42
+    }
+  ]
+}

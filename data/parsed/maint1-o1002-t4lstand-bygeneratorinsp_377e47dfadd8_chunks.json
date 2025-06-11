@@ -1,0 +1,65 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t4lstand-bygeneratorinsp_377e47dfadd8_chunk_000_b54d9467",
+      "doc_id": "maint1-o1002-t4lstand-bygeneratorinsp_377e47dfadd8",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## MAINTENANCE INSPECTION CHECKLIST### Equipment: Stand-by Generator\n- **Name:**\n- **Year:**\n- **Unit No.:**\n- **Manufacturer:** All\n- **Model:** All### LEGEND/KEY\n| Legend | Key         |\n|--------|-------------|\n| W      | Weekly      |\n| M      | Monthly     |\n| Q      | Quarterly   |\n| S      | Semi-Annual |\n| A      | Annual      |\n| O      | Ok          |\n| R      | Repair      |\n| N      | Replace     |### CHECKS\n| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   |   |   | 1. Check fluid levels:                                               |\n|   |   |   |   |   |    - Engine oil                                                     |\n|   |   |   |   |   |    - Hydraulic governor oil                                         |\n|   |   |   |   |   |    - Radiator coolant                                              |\n|   |   |   |   |   |    - Fuel tank. Arrange for fuel delivery if fuel level is 50% or less |\n| X |   |   |   |   | 2. Check belt condition and tension. |\n| X |   |   |   |   | 3. Check that guards are in place and secure.",
+      "char_count": 1216,
+      "token_estimate": 304,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t4lstand-bygeneratorinsp_377e47dfadd8_chunk_002_1dc0cb8d",
+      "doc_id": "maint1-o1002-t4lstand-bygeneratorinsp_377e47dfadd8",
+      "chunk_index": 2,
+      "text": "|\n| X |   |   |   |   | 3. Check that guards are in place and secure. |\n| X |   |   |   |   | 4. Operate generator and observe operation. |\n|   | X |   |   |   | 5. Operate generator under building load for 1 hour and observe operation. |\n|   | X |   |   |   | 6. Check the following:                                           |\n|   |   |   |   |   |    - Hoses and connections, firm and tight                       |\n|   |   |   |   |   |    - Louvers operate properly and in correct sequence           |\n|   |   |   |   |   |    - Air intake to engine is not restricted                     |\n|   |   |   |   |   |    - Battery                                                       |\n|   |   |   |   |   |      - Electrolyte level and specific gravity                    |\n|   |   |   |   |   |      - Connections are tight                                       |\n|   |   |   |   |   |      - Has no leaks and is clean                                   |\n|   |   | X |   |   | 7. Refer to “Stand-by Generator Inspection SPECIFICATION” for semi-annual requirements.** |\n|   |   | X |   |   | 8.",
+      "char_count": 1094,
+      "token_estimate": 273,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment: Stand-by Generator",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t4lstand-bygeneratorinsp_377e47dfadd8_chunk_003_a87d94d5",
+      "doc_id": "maint1-o1002-t4lstand-bygeneratorinsp_377e47dfadd8",
+      "chunk_index": 3,
+      "text": "Check the following:                                           |\n|   |   |   |   |   |    - Hoses and connections, firm and tight                       |\n|   |   |   |   |   |    - Louvers operate properly and in correct sequence           |\n|   |   |   |   |   |    - Air intake to engine is not restricted                     |\n|   |   |   |   |   |    - Battery                                                       |\n|   |   |   |   |   |      - Electrolyte level and specific gravity                    |\n|   |   |   |   |   |      - Connections are tight                                       |\n|   |   |   |   |   |      - Has no leaks and is clean                                   |\n|   |   | X |   |   | 7. Refer to “Stand-by Generator Inspection SPECIFICATION” for semi-annual requirements.** |\n|   |   | X |   |   | 8. Refer to “Stand-by Generator Inspection SPECIFICATION” for annual requirements.** |### NOTE:\n**Qualified service firms are to be employed.**----### Monthly Schedule\n| Month | M | Q | S | A | Month | M | Q | S | A |\n|-------|---|---|---|---|-------|---|---|---|---|\n| JAN   | M | Q | S | A | JUL   | M | Q | S | A |\n| FEB   | M | Q | S | A | AUG   | M | Q | S | A |\n| MAR   | M | Q | S | A | SEP   | M | Q | S | A |\n| APR   | M | Q | S | A | OCT   | M | Q | S | A |\n| MAY   | M | Q | S | A | NOV   | M | Q | S | A |\n| JUN   | M | Q | S | A | DEC   | M | Q | S | A |----*Helping people live better*This document is uncontrolled when printed.",
+      "char_count": 1470,
+      "token_estimate": 367,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment: Stand-by Generator",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t4lstand-bygeneratorinsp_377e47dfadd8_chunk_004_b39a2bc1",
+      "doc_id": "maint1-o1002-t4lstand-bygeneratorinsp_377e47dfadd8",
+      "chunk_index": 4,
+      "text": "Refer to “Stand-by Generator Inspection SPECIFICATION” for semi-annual requirements.** |\n|   |   | X |   |   | 8. Refer to “Stand-by Generator Inspection SPECIFICATION” for annual requirements.** |### NOTE:\n**Qualified service firms are to be employed.**----### Monthly Schedule\n| Month | M | Q | S | A | Month | M | Q | S | A |\n|-------|---|---|---|---|-------|---|---|---|---|\n| JAN   | M | Q | S | A | JUL   | M | Q | S | A |\n| FEB   | M | Q | S | A | AUG   | M | Q | S | A |\n| MAR   | M | Q | S | A | SEP   | M | Q | S | A |\n| APR   | M | Q | S | A | OCT   | M | Q | S | A |\n| MAY   | M | Q | S | A | NOV   | M | Q | S | A |\n| JUN   | M | Q | S | A | DEC   | M | Q | S | A |----*Helping people live better*This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 1024,
+      "token_estimate": 256,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment: Stand-by Generator",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t4lstand-bygeneratorinsp_377e47dfadd8_chunk_005_74fc64bc",
+      "doc_id": "maint1-o1002-t4lstand-bygeneratorinsp_377e47dfadd8",
+      "chunk_index": 5,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025  Page 1 of 2# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 2 of 2**",
+      "char_count": 789,
+      "token_estimate": 197,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment: Stand-by Generator",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 5
+}

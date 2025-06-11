@@ -1,0 +1,66 @@
+{
+  "doc_id": "ipc3-p1003-groupastreptococcus_9ab627874b55",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": "ipc3-p1003-groupastreptococcus_9ab627874b55_chunk_000_41674b93",
+      "doc_id": "ipc3-p1003-groupastreptococcus_9ab627874b55",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Infection Prevention and Control\n**INDEX:** IPC3-P10.03\n**SECTION:** Communicable Diseases\n**EFFECTIVE DATE:** February 18, 2025\n**REVIEWED DATE:** February 11, 2025\n**APPROVED BY:** Chief Medical Officer\n**MODIFIED DATE:** May 30, 2025----## POLICY### Communicable Diseases## PROCEDURE### Screening- Consider Group A Streptococcus (GAS) when a resident displays signs and symptoms including:\n- fever\n- sore throat (pharyngitis)\n- skin infections such as:\n- impetigo (sores that can blister and develop a honey-colored crust)\n- erysipelas (raised, bright red infection of the skin)\n- Scarlet Fever (a rash that can feel rough like sandpaper, is worse in the skin folds and can cause some skin peeling when it resolves)- Invasive Group A streptococcal infections (iGAS) are rare and can cause severe symptoms and signs, such as:\n- fever and shortness of breath due to pneumonia\n- fever, severe pain and redness due to breakdown of the tissues under the skin as a result of necrotizing fasciitis\n- fever, chills, muscle aches, and nausea and vomiting### Management- Place suspected/confirmed residents on droplet and contact precautions.",
+      "char_count": 1172,
+      "token_estimate": 293,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p1003-groupastreptococcus_9ab627874b55_chunk_001_de72a586",
+      "doc_id": "ipc3-p1003-groupastreptococcus_9ab627874b55",
+      "chunk_index": 1,
+      "text": "- Notify the Infection Control Professional (ICP)/Designate upon confirmation of a case of GAS in the home. - Notify the health authority of suspect or confirmed invasive GAS strep infection and follow their direction including screening, testing and additional precautions. - Notify physician/nurse practitioner for treatment options and medication orders if needed. - If iGAS is suspected, the primary care provider must be immediately consulted for necessary interventions (e.g., transfer to the hospital). - Provide education to staff on the signs and symptoms of GAS and iGAS and the necessary precautions as needed. - Once a resident has been treated with appropriate antibiotics for more than 24 hours, they are no longer considered contagious and additional precautions can be discontinued.----## EDUCATIONHelping people live a better life.> This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 1167,
+      "token_estimate": 291,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p1003-groupastreptococcus_9ab627874b55_chunk_002_38207670",
+      "doc_id": "ipc3-p1003-groupastreptococcus_9ab627874b55",
+      "chunk_index": 2,
+      "text": "will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 2**# PROCEDURE## SECTION: Communicable Diseases\n\n### DESCRIPTION: Group A Streptococcus",
+      "char_count": 355,
+      "token_estimate": 88,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p1003-groupastreptococcus_9ab627874b55_chunk_004_935f097d",
+      "doc_id": "ipc3-p1003-groupastreptococcus_9ab627874b55",
+      "chunk_index": 4,
+      "text": "### INDEX: IPC3-P10.031. **IPC3-P10-E6** - Group A Streptococcus Fact Sheet## TOOLS\n\n1. **IPC3-P10-T5** - Resident Infection Report",
+      "char_count": 131,
+      "token_estimate": 32,
+      "section_title": "INDEX: IPC3-P10.031. **IPC3-P10-E6** - Group A Streptococcus Fact Sheet## TOOLS",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p1003-groupastreptococcus_9ab627874b55_chunk_006_5becfe00",
+      "doc_id": "ipc3-p1003-groupastreptococcus_9ab627874b55",
+      "chunk_index": 6,
+      "text": "2. **IPC3-P10-T7** - Shift Symptom Surveillance----> This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 2 of 2",
+      "char_count": 391,
+      "token_estimate": 97,
+      "section_title": "**IPC3-P10-T7** - Shift Symptom Surveillance----> This document is uncontrolled when printed.",
+      "chunk_type": "content",
+      "start_line": 26,
+      "end_line": 28
+    }
+  ]
+}

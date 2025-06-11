@@ -1,0 +1,162 @@
+{
+  "doc_id": "care19-p10residentsafetyincidentprogram_4ae718f2117f",
+  "total_chunks": 13,
+  "chunks": [
+    {
+      "chunk_id": "care19-p10residentsafetyincidentprogram_4ae718f2117f_chunk_000_ec066c62",
+      "doc_id": "care19-p10residentsafetyincidentprogram_4ae718f2117f",
+      "chunk_index": 0,
+      "text": "# Extendicare Policy Manual## CARE### INDEX: CARE19-P10- **EFFECTIVE DATE:** April 1, 2025\n- **REVIEWED DATE:** March 25, 2025\n- **APPROVED BY:** Senior Director, Operational Quality and Professional Practice\n- **MODIFIED DATE:**----## POLICYA Resident Safety Incident (RSI) is an event that may result in unnecessary harm to a resident. The home will have a resident safety program in effect that promotes a just culture and acknowledges that systematically responding to, reporting, and analyzing RSIs leads to improvements and safer resident care.### STANDARD- The Executive Director is responsible for the resident safety program within their home. - The Executive Director will ensure that all staff are aware of the procedures related to this policy. - Incident managers within the home will investigate and assess all RSIs objectively and consistently, using a systematic approach to identify and address root causes as per procedure **Investigation and Analysis of Resident Safety Incidents**. - The Incident Manager will use the **Risk Management Module (RMM) – Incident Report** in **Point Click Care (PCC)** to document RSIs as per procedure **RMM Incident Reporting**.",
+      "char_count": 1180,
+      "token_estimate": 295,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care19-p10residentsafetyincidentprogram_4ae718f2117f_chunk_001_ae2db24a",
+      "doc_id": "care19-p10residentsafetyincidentprogram_4ae718f2117f",
+      "chunk_index": 1,
+      "text": "- Incident managers within the home will investigate and assess all RSIs objectively and consistently, using a systematic approach to identify and address root causes as per procedure **Investigation and Analysis of Resident Safety Incidents**. - The Incident Manager will use the **Risk Management Module (RMM) – Incident Report** in **Point Click Care (PCC)** to document RSIs as per procedure **RMM Incident Reporting**. - The Executive Director will consult with **Human Resources (HR)** to confirm appropriate action(s) to be taken as a result of the findings of investigations. - The Executive Director will disclose incidents to affected residents or their **Substitute Decision Maker (SDM)** or **Power of Attorney (POA)** as per the procedure **Disclosure of Resident Safety Incidents**. - The Executive Director must be aware of the overarching **Resident Safety Plan** requirements and activities. - The Executive Director will report alleged/confirmed professional misconduct or incompetence to the appropriate regulatory authorities.",
+      "char_count": 1046,
+      "token_estimate": 261,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care19-p10residentsafetyincidentprogram_4ae718f2117f_chunk_002_3adf147b",
+      "doc_id": "care19-p10residentsafetyincidentprogram_4ae718f2117f",
+      "chunk_index": 2,
+      "text": "- The Executive Director must be aware of the overarching **Resident Safety Plan** requirements and activities. - The Executive Director will report alleged/confirmed professional misconduct or incompetence to the appropriate regulatory authorities. - The Executive Director will report all serious resident or staff safety concerns, misconduct, and other serious concerns to the **Regional Director/Operations (RD/O)**. - All staff will comply with regulatory requirements and/or provincial, regional, local health and/or other authority written directives for RSI reporting and submitting reportable incidents to the relevant authorities within the required timeframes. - The **Regional Director/Operations (RD/O)** will refer to the **Issue Alert Procedure** and submit an **Issue Alert** for high-risk incidents resulting in severe resident harm or death.----**Helping people live better**This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.",
+      "char_count": 1138,
+      "token_estimate": 284,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care19-p10residentsafetyincidentprogram_4ae718f2117f_chunk_003_61ca6e23",
+      "doc_id": "care19-p10residentsafetyincidentprogram_4ae718f2117f",
+      "chunk_index": 3,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 2**# POLICY## SECTION: Incident Management\n\n### DESCRIPTION: Resident Safety",
+      "char_count": 370,
+      "token_estimate": 92,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care19-p10residentsafetyincidentprogram_4ae718f2117f_chunk_005_7c8c58db",
+      "doc_id": "care19-p10residentsafetyincidentprogram_4ae718f2117f",
+      "chunk_index": 5,
+      "text": "### INDEX: CARE19-P10----## PROCEDURES\n\n1. RMM - Incident Reporting Process",
+      "char_count": 75,
+      "token_estimate": 18,
+      "section_title": "INDEX: CARE19-P10----## PROCEDURES",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care19-p10residentsafetyincidentprogram_4ae718f2117f_chunk_007_da16cebf",
+      "doc_id": "care19-p10residentsafetyincidentprogram_4ae718f2117f",
+      "chunk_index": 7,
+      "text": "2. Investigation and Analysis of Resident Safety Incidents\n\n3. Critical Incident Reporting",
+      "char_count": 90,
+      "token_estimate": 22,
+      "section_title": "Investigation and Analysis of Resident Safety Incidents",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care19-p10residentsafetyincidentprogram_4ae718f2117f_chunk_009_c7bca30a",
+      "doc_id": "care19-p10residentsafetyincidentprogram_4ae718f2117f",
+      "chunk_index": 9,
+      "text": "4. Disclosure of Resident Safety Incidents----## TOOLS\n\n1. Resident Safety Plan",
+      "char_count": 79,
+      "token_estimate": 19,
+      "section_title": "Disclosure of Resident Safety Incidents----## TOOLS",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care19-p10residentsafetyincidentprogram_4ae718f2117f_chunk_011_8b811a26",
+      "doc_id": "care19-p10residentsafetyincidentprogram_4ae718f2117f",
+      "chunk_index": 11,
+      "text": "2. Completing an RMM Report\n\n3. Incident Severity Levels",
+      "char_count": 56,
+      "token_estimate": 14,
+      "section_title": "Completing an RMM Report",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care19-p10residentsafetyincidentprogram_4ae718f2117f_chunk_013_f27a38a0",
+      "doc_id": "care19-p10residentsafetyincidentprogram_4ae718f2117f",
+      "chunk_index": 13,
+      "text": "4. RMM How-to Poster\n\n5. SBAR (Situation, Background, Assessment, Recommendation) tool",
+      "char_count": 86,
+      "token_estimate": 21,
+      "section_title": "RMM How-to Poster",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care19-p10residentsafetyincidentprogram_4ae718f2117f_chunk_015_56ce5b80",
+      "doc_id": "care19-p10residentsafetyincidentprogram_4ae718f2117f",
+      "chunk_index": 15,
+      "text": "6. Root Cause Analysis Checklist\n\n7. Tips for Conducting Interviews Following a Resident Safety Incident",
+      "char_count": 104,
+      "token_estimate": 26,
+      "section_title": "Root Cause Analysis Checklist",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care19-p10residentsafetyincidentprogram_4ae718f2117f_chunk_017_ddd7cf37",
+      "doc_id": "care19-p10residentsafetyincidentprogram_4ae718f2117f",
+      "chunk_index": 17,
+      "text": "8. Common Contributing Factors to Resident Safety Incidents\n\n9. Critical Incident Tracking Log",
+      "char_count": 94,
+      "token_estimate": 23,
+      "section_title": "Common Contributing Factors to Resident Safety Incidents",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care19-p10residentsafetyincidentprogram_4ae718f2117f_chunk_019_21834513",
+      "doc_id": "care19-p10residentsafetyincidentprogram_4ae718f2117f",
+      "chunk_index": 19,
+      "text": "10. Critical Incident Reporting Guide\n\n11. Disclosure Checklist for resident safety incident----## REFERENCES\n- Healthcare Excellence Canada (n.d.). Canadian Incident Analysis Framework\nwww.patientsafetyinstitute.ca.- Healthcare Excellence Canada (n.d.). Canadian Disclosure Guidelines, 2011\n[https://www.healthcareexcellence.ca/en/resources/canadian-disclosure-guidelines/])(https://www.healthcareexcellence.ca/en/resources/canadian-disclosure-guidelines/)- Fixing Long-Term Care Act, 2021, S.O. 2021, c. 39, Sched. (ON)\n[https://www.ontario.ca/laws/statute/21f39])(https://www.ontario.ca/laws/statute/21f39)- Ontario Regulation 246/22 (ON)\n[https://www.ontario.ca/laws/regulation/220246])(https://www.ontario.ca/laws/regulation/220246)- Protection for Persons in Care (AB)\nhttps://www.alberta.ca/protection-for-persons-in-care.- Health System Governance and Accountability (MB)\n[https://web2.gov.mb.ca/laws/statutes/ccsm/_pdf.php?cap=h26.5])(https://web2.gov.mb.ca/laws/statutes/ccsm/_pdf.php?cap=h26.5)- The Retirement Homes Act, 2010. www.e-laws.gov.on.ca----**This document is uncontrolled when printed.**\nExtendicare (Canada) Inc.",
+      "char_count": 1136,
+      "token_estimate": 284,
+      "section_title": "Critical Incident Reporting Guide",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care19-p10residentsafetyincidentprogram_4ae718f2117f_chunk_021_73d6951a",
+      "doc_id": "care19-p10residentsafetyincidentprogram_4ae718f2117f",
+      "chunk_index": 21,
+      "text": "(ON)\n[https://www.ontario.ca/laws/statute/21f39])(https://www.ontario.ca/laws/statute/21f39)- Ontario Regulation 246/22 (ON)\n[https://www.ontario.ca/laws/regulation/220246])(https://www.ontario.ca/laws/regulation/220246)- Protection for Persons in Care (AB)\nhttps://www.alberta.ca/protection-for-persons-in-care.- Health System Governance and Accountability (MB)\n[https://web2.gov.mb.ca/laws/statutes/ccsm/_pdf.php?cap=h26.5])(https://web2.gov.mb.ca/laws/statutes/ccsm/_pdf.php?cap=h26.5)- The Retirement Homes Act, 2010. www.e-laws.gov.on.ca----**This document is uncontrolled when printed.**\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 2 of 2**",
+      "char_count": 891,
+      "token_estimate": 222,
+      "section_title": "Disclosure Checklist for resident safety incident----## REFERENCES",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

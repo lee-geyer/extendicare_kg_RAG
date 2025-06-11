@@ -1,0 +1,54 @@
+{
+  "doc_id": "epm2-p1015-t5codewhiteposter_693500448616",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "epm2-p1015-t5codewhiteposter_693500448616_chunk_000_73200a1b",
+      "doc_id": "epm2-p1015-t5codewhiteposter_693500448616",
+      "chunk_index": 0,
+      "text": "```markdown\n\n# CODE WHITE",
+      "char_count": 25,
+      "token_estimate": 6,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1015-t5codewhiteposter_693500448616_chunk_002_45ff7f49",
+      "doc_id": "epm2-p1015-t5codewhiteposter_693500448616",
+      "chunk_index": 2,
+      "text": "## Emergency Response - Violent Situation### What does it mean? Code White is the phrase used to alert staff to any aggressive or violent situation. Staff need to call a Code White when facing a situation that makes them feel unsafe or creates a fear of violence due to the behaviour of another person. The goal is to preserve everybody’s safety, and to address the behaviour in a safe, respectful, and caring manner.### What do I do? If you are involved in a Code White incident:\n- Remain calm and leave the area if able to do so\n- If you cannot leave, maintain a safe distance from the aggressor\n- Call for help and announce 3 times, “Code White + location” if able\n- Talk in a low non-threatening voice.",
+      "char_count": 706,
+      "token_estimate": 176,
+      "section_title": "Emergency Response - Violent Situation### What does it mean?",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1015-t5codewhiteposter_693500448616_chunk_003_815e1af4",
+      "doc_id": "epm2-p1015-t5codewhiteposter_693500448616",
+      "chunk_index": 3,
+      "text": "The goal is to preserve everybody’s safety, and to address the behaviour in a safe, respectful, and caring manner.### What do I do? If you are involved in a Code White incident:\n- Remain calm and leave the area if able to do so\n- If you cannot leave, maintain a safe distance from the aggressor\n- Call for help and announce 3 times, “Code White + location” if able\n- Talk in a low non-threatening voice. Clearly and firmly tell the aggressor that his/her behaviour is unacceptable, unwelcome and they should stop\n- If a resident is involved, employ responsive behaviour management strategies as outlined in the plan of care\n- Listen and give the aggressor the opportunity to express their feelings or demands, and try other means to diffuse the situation (refer to Code White De-escalation Techniques)If you discover a Code White Incident:\n- Announce 3 times, “Code White + location”\n- If the situation puts the safety of residents, staff or visitors at risk, immediately call 9-1-1\n- Remove other individuals from the area for their own safety. Reduce traffic by closing door in affected area.",
+      "char_count": 1094,
+      "token_estimate": 273,
+      "section_title": "Emergency Response - Violent Situation### What does it mean?",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1015-t5codewhiteposter_693500448616_chunk_004_6c0ebb1e",
+      "doc_id": "epm2-p1015-t5codewhiteposter_693500448616",
+      "chunk_index": 4,
+      "text": "Clearly and firmly tell the aggressor that his/her behaviour is unacceptable, unwelcome and they should stop\n- If a resident is involved, employ responsive behaviour management strategies as outlined in the plan of care\n- Listen and give the aggressor the opportunity to express their feelings or demands, and try other means to diffuse the situation (refer to Code White De-escalation Techniques)If you discover a Code White Incident:\n- Announce 3 times, “Code White + location”\n- If the situation puts the safety of residents, staff or visitors at risk, immediately call 9-1-1\n- Remove other individuals from the area for their own safety. Reduce traffic by closing door in affected area. - The staff member who has the best relationship with the aggressor should handle the situation, if applicable and safe to do so\n- Ask other staff to help as required and call 9-1-1 as appropriate\n- When the emergency is over, announce 3 times “Code White all clear”### Review it before you need it:\n- Refer to your Home’s Emergency Planning and Management Manual, Code White\n- Review the Code White plan and checklist that describes your area’s role if a Code White occurs\n```",
+      "char_count": 1168,
+      "token_estimate": 292,
+      "section_title": "Emergency Response - Violent Situation### What does it mean?",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

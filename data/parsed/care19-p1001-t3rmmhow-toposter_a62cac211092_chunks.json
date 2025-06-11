@@ -1,0 +1,54 @@
+{
+  "doc_id": "care19-p1001-t3rmmhow-toposter_a62cac211092",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "care19-p1001-t3rmmhow-toposter_a62cac211092_chunk_000_5c90e563",
+      "doc_id": "care19-p1001-t3rmmhow-toposter_a62cac211092",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Completing a Risk Management (RM) Report### When would I complete an RM report? All resident safety incidents and reported abuse/neglect are recorded in RM.----| PointClickCare™ | Home | Admin | Clinical | QIA |\n|------------------|------|-------|----------|-----|\n| Summary          | Active | Historical | Struck Out | Incident Number: |\n| Resident Name:   | clear | Incident Date: | 2024-12-12 | 10:22 |\n| Type/Nature of Incident: | Select Type/Nature of Incident | Location: | Incident # | Person Preparing Report: |An internal incident report is the first legislated step for documenting incidents.",
+      "char_count": 621,
+      "token_estimate": 155,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care19-p1001-t3rmmhow-toposter_a62cac211092_chunk_002_00bf9a61",
+      "doc_id": "care19-p1001-t3rmmhow-toposter_a62cac211092",
+      "chunk_index": 2,
+      "text": "## Completing a Risk Management (RM) Report### When would I complete an RM report? All resident safety incidents and reported abuse/neglect are recorded in RM.----| PointClickCare™ | Home | Admin | Clinical | QIA |\n|------------------|------|-------|----------|-----|\n| Summary          | Active | Historical | Struck Out | Incident Number: |\n| Resident Name:   | clear | Incident Date: | 2024-12-12 | 10:22 |\n| Type/Nature of Incident: | Select Type/Nature of Incident | Location: | Incident # | Person Preparing Report: |An internal incident report is the first legislated step for documenting incidents. This is completed in the Risk Management Module of PCC.----### New Injury at Time of Incident\n- **Type of Injury:** Select Appropriate Type\n- **Location of Injury:** Select Appropriate Type\n- **Level:**\n- Good Catch\n- Near Miss\n- Level 2: No Harm/Damage\n- Level: Minor harm or damage\n- Level: Moderate harm or damage\n- Level: Serious severe permanent harm or damage\n- Level: DeathThe incident report must include the level of harm present at the time of the incident.----### Triggered Assessments and Progress Notes\nTriggered assessments and progress notes bridge the internal report to the resident chart.----### Signatures\n| Position               | Signature |\n|------------------------|-----------|\n| Executive Director      | unsign    |\n| DOC                    | sign      |You are done!",
+      "char_count": 1401,
+      "token_estimate": 350,
+      "section_title": "Completing a Risk Management (RM) Report### When would I complete an RM report?",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care19-p1001-t3rmmhow-toposter_a62cac211092_chunk_003_7d7255e4",
+      "doc_id": "care19-p1001-t3rmmhow-toposter_a62cac211092",
+      "chunk_index": 3,
+      "text": "All resident safety incidents and reported abuse/neglect are recorded in RM.----| PointClickCare™ | Home | Admin | Clinical | QIA |\n|------------------|------|-------|----------|-----|\n| Summary          | Active | Historical | Struck Out | Incident Number: |\n| Resident Name:   | clear | Incident Date: | 2024-12-12 | 10:22 |\n| Type/Nature of Incident: | Select Type/Nature of Incident | Location: | Incident # | Person Preparing Report: |An internal incident report is the first legislated step for documenting incidents. This is completed in the Risk Management Module of PCC.----### New Injury at Time of Incident\n- **Type of Injury:** Select Appropriate Type\n- **Location of Injury:** Select Appropriate Type\n- **Level:**\n- Good Catch\n- Near Miss\n- Level 2: No Harm/Damage\n- Level: Minor harm or damage\n- Level: Moderate harm or damage\n- Level: Serious severe permanent harm or damage\n- Level: DeathThe incident report must include the level of harm present at the time of the incident.----### Triggered Assessments and Progress Notes\nTriggered assessments and progress notes bridge the internal report to the resident chart.----### Signatures\n| Position               | Signature |\n|------------------------|-----------|\n| Executive Director      | unsign    |\n| DOC                    | sign      |You are done! Complete each tab including triggered assessment(s) and progress note in the Action section of the report.",
+      "char_count": 1425,
+      "token_estimate": 356,
+      "section_title": "Completing a Risk Management (RM) Report### When would I complete an RM report?",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care19-p1001-t3rmmhow-toposter_a62cac211092_chunk_004_8dcbbb7a",
+      "doc_id": "care19-p1001-t3rmmhow-toposter_a62cac211092",
+      "chunk_index": 4,
+      "text": "This is completed in the Risk Management Module of PCC.----### New Injury at Time of Incident\n- **Type of Injury:** Select Appropriate Type\n- **Location of Injury:** Select Appropriate Type\n- **Level:**\n- Good Catch\n- Near Miss\n- Level 2: No Harm/Damage\n- Level: Minor harm or damage\n- Level: Moderate harm or damage\n- Level: Serious severe permanent harm or damage\n- Level: DeathThe incident report must include the level of harm present at the time of the incident.----### Triggered Assessments and Progress Notes\nTriggered assessments and progress notes bridge the internal report to the resident chart.----### Signatures\n| Position               | Signature |\n|------------------------|-----------|\n| Executive Director      | unsign    |\n| DOC                    | sign      |You are done! Complete each tab including triggered assessment(s) and progress note in the Action section of the report. Your manager will review your report and sign it off. Complete any required follow-up in the resident chart as per policy.----Helping people live better.",
+      "char_count": 1055,
+      "token_estimate": 263,
+      "section_title": "Completing a Risk Management (RM) Report### When would I complete an RM report?",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

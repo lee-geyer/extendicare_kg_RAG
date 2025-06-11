@@ -1,0 +1,53 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t5vnonatmosphericboiler_66e8e8e76c69_chunk_000_206e5099",
+      "doc_id": "maint1-o1002-t5vnonatmosphericboiler_66e8e8e76c69",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## MAINTENANCE INSPECTION CHECKLIST### Equipment\n**Non-Atmospheric Boiler**\n**Name:**\n**Year:**\n**Unit No.:****Manufacturer:** Lochinvar, RBI, Camus, PK\n**Model:** Building Heating (Gas Fired) and domestic hot water### LEGEND/KEY\n| Legend | Key          |\n|--------|--------------|\n| W      | Weekly       |\n| M      | Monthly      |\n| Q      | Quarterly    |\n| S      | Semi-Annual  |\n| A      | Annual       |\n| O      | Ok           |\n| R      | Repair       |\n| N      | Replace      |### CHECKS\n| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   |   |   | 1. Check that the combustion air-inlet to the boiler room is clear and free of obstructions. |\n| X |   |   |   |   | 2. Observe the boiler vent and chimney for any obvious signs of cracks or leaks. |\n| X |   |   |   |   | 3. Check exhaust vent for corrosion. |\n| X |   |   |   |   | 4. Check operation of barometric damper. (Note: Replace safety relief valves every 5 years and label with date of replacement.) |\n| X |   |   |   |   | 5.",
+      "char_count": 1160,
+      "token_estimate": 290,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t5vnonatmosphericboiler_66e8e8e76c69_chunk_002_f41b2779",
+      "doc_id": "maint1-o1002-t5vnonatmosphericboiler_66e8e8e76c69",
+      "chunk_index": 2,
+      "text": "Check operation of barometric damper. (Note: Replace safety relief valves every 5 years and label with date of replacement.) |\n| X |   |   |   |   | 5. Check all pilots/burners for proper ignition and colour.*        |\n|   | X |   |   |   | 6. Manually test safety relief valve for proper operation and seating after test. |\n|   |   | X |   |   | 7. Refer to “Annual Heating Inspection SPECIFICATIONS” for annual requirements. ** |**NOTE:**\n*The services of qualified personnel may be required. **Qualified service firms are to be employed.### Monthly Schedule\n| Month | M | Q | S | A |\n|-------|---|---|---|---|\n| JAN   | W | W | W | W |\n| FEB   | W | W | W | W |\n| MAR   | W | W | W | W |\n| APR   | W | W | W | W |\n| MAY   | W | W | W | W |\n| JUN   | W | W | W | W |\n| JUL   | W | W | W | W |\n| AUG   | W | W | W | W |\n| SEP   | W | W | W | W |\n| OCT   | W | W | W | W |\n| NOV   | W | W | W | W |\n| DEC   | W | W | W | W |----**Helplng people**\n**Ilve better**This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1031,
+      "token_estimate": 257,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t5vnonatmosphericboiler_66e8e8e76c69_chunk_003_7de52589",
+      "doc_id": "maint1-o1002-t5vnonatmosphericboiler_66e8e8e76c69",
+      "chunk_index": 3,
+      "text": "**Qualified service firms are to be employed.### Monthly Schedule\n| Month | M | Q | S | A |\n|-------|---|---|---|---|\n| JAN   | W | W | W | W |\n| FEB   | W | W | W | W |\n| MAR   | W | W | W | W |\n| APR   | W | W | W | W |\n| MAY   | W | W | W | W |\n| JUN   | W | W | W | W |\n| JUL   | W | W | W | W |\n| AUG   | W | W | W | W |\n| SEP   | W | W | W | W |\n| OCT   | W | W | W | W |\n| NOV   | W | W | W | W |\n| DEC   | W | W | W | W |----**Helplng people**\n**Ilve better**This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025",
+      "char_count": 789,
+      "token_estimate": 197,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t5vnonatmosphericboiler_66e8e8e76c69_chunk_004_ded22458",
+      "doc_id": "maint1-o1002-t5vnonatmosphericboiler_66e8e8e76c69",
+      "chunk_index": 4,
+      "text": "# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 2 of 2**",
+      "char_count": 499,
+      "token_estimate": 124,
+      "section_title": "INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |",
+      "chunk_type": "content",
+      "start_line": 44,
+      "end_line": 47
+    }
+  ],
+  "total_chunks": 4
+}

@@ -1,0 +1,18 @@
+{
+  "doc_id": "ipc2-p10-e25-dropletprecautionsposter_a55a55b1abc4",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "ipc2-p10-e25-dropletprecautionsposter_a55a55b1abc4_chunk_000_d8342239",
+      "doc_id": "ipc2-p10-e25-dropletprecautionsposter_a55a55b1abc4",
+      "chunk_index": 0,
+      "text": "# VISITORS - GET INSTRUCTIONS FROM STAFF BEFORE ENTERING## DROPLET PRECAUTIONS### IN ADDITION TO ROUTINE PRACTICES- **Wear mask** within 2 metres of resident\n- **Wear eye protection** within 2 metres of resident\n- **Resident must wear mask** if they leave the room",
+      "char_count": 264,
+      "token_estimate": 66,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 2
+    }
+  ]
+}

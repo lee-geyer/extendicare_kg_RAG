@@ -1,0 +1,102 @@
+{
+  "doc_id": "care19-p1002-t2-rootcauseanalysischecklist_255a37008ead",
+  "total_chunks": 8,
+  "chunks": [
+    {
+      "chunk_id": "care19-p1002-t2-rootcauseanalysischecklist_255a37008ead_chunk_000_fe2106f0",
+      "doc_id": "care19-p1002-t2-rootcauseanalysischecklist_255a37008ead",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Root Cause Analysis Checklist**Date:** __________________\n**Incident:** __________________________________________________________________### Timing\n| Steps                                         | Status |\n|-----------------------------------------------|--------|\n| **Immediate Response**                        |        |\n| 1. Ensure resident safety                     |        |\n|    a. Review preliminary preventive steps in place. Organize and direct appropriate response to Resident Safety Incident (RSI). |        |\n|    b. Initiate reporting for RSI within the required timeframes as per regulatory requirements. |        |\n|    c. Identify point person for investigation. |        |\n|    d. Gather initial perspectives from all involved/witnesses. |        |\n|    e. Notify Regional Director/Operations (RD/O) of high-risk incidents resulting in severe resident harm or death. |        |\n| **Within 24 hours**                          |        |\n| 2. Gather and document initial information    |        |\n|    a. Ensure RSI is recorded in Risk Management module of PCC as per RMM Incident Reporting procedure |        |\n|    b.",
+      "char_count": 1157,
+      "token_estimate": 289,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care19-p1002-t2-rootcauseanalysischecklist_255a37008ead_chunk_002_5d180daa",
+      "doc_id": "care19-p1002-t2-rootcauseanalysischecklist_255a37008ead",
+      "chunk_index": 2,
+      "text": "Gather and document initial information    |        |\n|    a. Ensure RSI is recorded in Risk Management module of PCC as per RMM Incident Reporting procedure |        |\n|    b. Review resident chart/documentation and clinical data from physiological monitors or biomedical devices. |        |\n|    c. Schedule interviews of all involved including initial report, residents, staff and others involved |        |\n|    d. Ensure immediate steps that were or will be taken to minimize harm remain in place. |        |\n| **Within 1 week**                            |        |\n| 3. Complete a chart review and fill in the gaps |        |\n|    a. Complete interviews (re-interviewing some staff/residents/family members/observers may be necessary) |        |\n|    b. Review policies, procedures, training records, etc. |        |\n|    c. Review other records as required (e.g., paging, staffing, census, physical artifacts, equipment and maintenance records, photos, security camera footage, etc.) |        |\n|    d. Review previous incident reports, related reviews, indicator data |        |\n|    e.",
+      "char_count": 1095,
+      "token_estimate": 273,
+      "section_title": "Root Cause Analysis Checklist**Date:** __________________",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care19-p1002-t2-rootcauseanalysischecklist_255a37008ead_chunk_003_46b5bc4f",
+      "doc_id": "care19-p1002-t2-rootcauseanalysischecklist_255a37008ead",
+      "chunk_index": 3,
+      "text": "Review other records as required (e.g., paging, staffing, census, physical artifacts, equipment and maintenance records, photos, security camera footage, etc.) |        |\n|    d. Review previous incident reports, related reviews, indicator data |        |\n|    e. Observe processes and tasks             |        |----**Helping people live better**\nThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n**Page 1 of 3**# Incident Management Process## Timing and Steps| Timing         | Steps                                                                                                           | Status |\n|----------------|----------------------------------------------------------------------------------------------------------------|--------|\n|                | f. Consult experts as required (e.g., OT/PT, Skin and Wound lead, Dietician, BSO lead). | q      |\n|                | g.",
+      "char_count": 1157,
+      "token_estimate": 289,
+      "section_title": "Root Cause Analysis Checklist**Date:** __________________",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care19-p1002-t2-rootcauseanalysischecklist_255a37008ead_chunk_004_051b953b",
+      "doc_id": "care19-p1002-t2-rootcauseanalysischecklist_255a37008ead",
+      "chunk_index": 4,
+      "text": "Consult experts as required (e.g., OT/PT, Skin and Wound lead, Dietician, BSO lead). | q      |\n|                | g. Consult regional and head office supports as required. | q      |\n|                | h. Outline sequence of events (e.g., flowchart or timeline). | q      |\n|                | i. Include diagram/drawing of the scene of the incident as required. | q      |\n|                | j. Develop preliminary list of contributing factors. | q      |\n|                | k. Determine if interdisciplinary root cause analysis or report will be required. Confirm who will attend the root cause analysis meeting and/or assist with report writing. | q      |\n| Within 1-2 weeks | 4. Conduct root cause analysis                                                                                 |        |\n|                | a. Review expectations and obligations related to confidentiality. | q      |\n|                | b. Identify the contributing factors. Focus on the key factors, that if corrected, would have prevented the incident. | q      |\n|                | c. Choose the key contributing factors as focus for recommendations (particularly factors that are likely to recur).",
+      "char_count": 1183,
+      "token_estimate": 295,
+      "section_title": "Root Cause Analysis Checklist**Date:** __________________",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care19-p1002-t2-rootcauseanalysischecklist_255a37008ead_chunk_005_68ddbf00",
+      "doc_id": "care19-p1002-t2-rootcauseanalysischecklist_255a37008ead",
+      "chunk_index": 5,
+      "text": "| q      |\n|                | c. Choose the key contributing factors as focus for recommendations (particularly factors that are likely to recur). | q      |\n|                | d. Document rationale to accept, reject or delay implementation of recommended actions at Continuous Quality Improvement (CQI) committee. | q      |\n|                | e. Identify other learnings as appropriate. | q      |\n|                | f. Ensure new facts/outcomes are shared with resident and Substitute Decision Maker (SDM)/Power of Attorney (POA) and included in health record or elsewhere per provincial regulations and Disclosure of Resident Safety Incident Procedure. | q      |\n|                | g. Update/complete regulatory reporting. | q      |\n|                | h. Consult with regional or head office supports as required. | q      |\n|                | i. Create a concise, factual summary report such as the CARE19-O10.02-T1 SBAR Tool. Include short narrative, key issues/findings/contributing factors, key recommendations, and chronology of events. | q      |\n|                | j. Preserve confidentiality. Mark report “privileged and confidential – for legal purposes only”.",
+      "char_count": 1175,
+      "token_estimate": 293,
+      "section_title": "Root Cause Analysis Checklist**Date:** __________________",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care19-p1002-t2-rootcauseanalysischecklist_255a37008ead_chunk_006_3c3e7a85",
+      "doc_id": "care19-p1002-t2-rootcauseanalysischecklist_255a37008ead",
+      "chunk_index": 6,
+      "text": "Preserve confidentiality. Mark report “privileged and confidential – for legal purposes only”. | q      |\n| Within 1 month | 5. Develop action plan (home)                                                                                  |        |\n|                | a. Write action plans with SMART (specific, measurable, attainable, realistic, timely) objectives and sequence them appropriately. | q      |\n|                | b. Determine what information will be tracked to inform evaluation. | q      |\n|                | c. Implement action plan, monitor, re-evaluate. | q      |\n| Within 3-6 months | 6. Evaluate and share results                                                                                 |        |\n|                | a. Use an interdisciplinary approach to monitor and evaluate quality improvement initiatives and related resident safety issues at CQI. | q      |----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.",
+      "char_count": 1141,
+      "token_estimate": 285,
+      "section_title": "Root Cause Analysis Checklist**Date:** __________________",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care19-p1002-t2-rootcauseanalysischecklist_255a37008ead_chunk_007_e74a975b",
+      "doc_id": "care19-p1002-t2-rootcauseanalysischecklist_255a37008ead",
+      "chunk_index": 7,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n\n# Root Cause Analysis Guidelines## Purpose\nTo provide a structured approach for conducting root cause analysis (RCA) in order to improve systems and processes.## Scope\nThis document applies to all staff involved in the RCA process within Extendicare (Canada) Inc.## Responsibilities\n- **Committee**:\n- a. Provide updates to regional or head office supports if they were previously engaged in the RCA. - b. Identify ways to share lessons learned with key stakeholders.## Effective Root Cause Analysis\nTo be most effective, the root cause analysis should:\n- Focus primarily on systems and processes, not on individual performance. - Repeatedly dig deeper by asking “Why?” and “Why?” again and again, until further reasons are exhausted. - Identify human and other factors most directly associated with the event and the process(es) and systems related to its occurrence. - Identify changes that could be made in systems and processes that would reduce the risk of such events occurring in the future. - Include consideration of any relevant best practice or lessons learned from previous incidents.## Accessibility Statement\nThis document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1472,
+      "token_estimate": 368,
+      "section_title": "Root Cause Analysis Checklist**Date:** __________________",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care19-p1002-t2-rootcauseanalysischecklist_255a37008ead_chunk_009_aa26589f",
+      "doc_id": "care19-p1002-t2-rootcauseanalysischecklist_255a37008ead",
+      "chunk_index": 9,
+      "text": "- Include consideration of any relevant best practice or lessons learned from previous incidents.## Accessibility Statement\nThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.## Confidentiality Notice\nConfidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 3 of 3**",
+      "char_count": 490,
+      "token_estimate": 122,
+      "section_title": "Root Cause Analysis Guidelines## Purpose",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

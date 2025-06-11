@@ -1,0 +1,29 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint3-o1001-t5maintenancerequestlog_3f6e5f46f4cc_chunk_000_063e3adb",
+      "doc_id": "maint3-o1001-t5maintenancerequestlog_3f6e5f46f4cc",
+      "chunk_index": 0,
+      "text": "# Extendicare Maintenance Request Log**FACILITY:**\n**LOCATION:***This Section is to be completed by Maintenance Department*| ITEM NO. | DATE ENTERED | DESCRIPTION                | ROOM NO. | DATE COMP | CORRECTIVE ACTION | REPAIR TIME |\n|----------|--------------|----------------------------|----------|-----------|-------------------|-------------|\n|          |              | Please Write Legibly       |          |           |                   |             |----*Helping people live better**This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.***Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 814,
+      "token_estimate": 203,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint3-o1001-t5maintenancerequestlog_3f6e5f46f4cc_chunk_001_84ab8dcd",
+      "doc_id": "maint3-o1001-t5maintenancerequestlog_3f6e5f46f4cc",
+      "chunk_index": 1,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.***Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 2**# MAINTENANCE REQUEST LOG**FACILITY:**\n**LOCATION:***This Section is to be completed by Maintenance Department*| ITEM NO | DATE ENTERED | DESCRIPTION Please Write Legibly | ROOM NO | DATE COMP | CORRECTIVE ACTION | REPAIR TIME |\n|---------|--------------|----------------------------------|---------|-----------|-------------------|-------------|\n|         |              |                                  |         |           |                   |             |----*This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.***Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 2 of 2**",
+      "char_count": 1109,
+      "token_estimate": 277,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 2
+}

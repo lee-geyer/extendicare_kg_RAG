@@ -1,0 +1,42 @@
+{
+  "doc_id": "evs3-p1024washingslingsandbelts_af343dfdb57d",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "evs3-p1024washingslingsandbelts_af343dfdb57d_chunk_000_58ae7bb3",
+      "doc_id": "evs3-p1024washingslingsandbelts_af343dfdb57d",
+      "chunk_index": 0,
+      "text": "```markdown\n\n# Extendicare## PROCEDURE**MANUAL:** Environmental Services\n**INDEX:** EVS3-P10.24\n**SECTION:** Personal Clothing and Linen Processes-Laundry\n**DESCRIPTION:** Washing Slings and Belts\n**EFFECTIVE DATE:** March 18, 2025\n**REVIEWED DATE:** March 7, 2025\n**APPROVED BY:** Senior Director, Operational Quality and Professional Practice\n**MODIFIED DATE:** May 14, 2025----## POLICY### Personal Clothing and Linen Processes## PROCEDURE### Manager or Designate:\n- Review the Tool – Resident Sling and Belt Wash Guidelines and update as necessary to include laundering instructions for each style and model of sling or belt in use at the home. - Consult with the laundry chemical representative to provide wash formulas based on the manufacturer’s instruction for washing. - Have procedures available/posted for staff in the laundry room for the washing and drying for each style and model of sling and belt. - Ensure laundry staff follows manufacturers’ instructions on washing and drying slings and belts. - If a sling or belt in use in your home is not listed in the Tool – Resident Sling and Belt Wash Guidelines, contact the manufacturer for care instructions.",
+      "char_count": 1170,
+      "token_estimate": 292,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs3-p1024washingslingsandbelts_af343dfdb57d_chunk_002_394ff714",
+      "doc_id": "evs3-p1024washingslingsandbelts_af343dfdb57d",
+      "chunk_index": 2,
+      "text": "- Ensure laundry staff follows manufacturers’ instructions on washing and drying slings and belts. - If a sling or belt in use in your home is not listed in the Tool – Resident Sling and Belt Wash Guidelines, contact the manufacturer for care instructions. - Even if the washing instructions on the sling say that it can be put in the dryer, you should hang the sling to dry, as it is less damaging to the fabric.### Laundry Staff:\n- Follow washing and drying procedures for each type of sling and belt, as posted/available in the laundry room. - Report damaged slings and belts to the Manager, Executive Director or Director of Care/designate. Remove from circulation.## TOOLS",
+      "char_count": 677,
+      "token_estimate": 169,
+      "section_title": "Extendicare## PROCEDURE**MANUAL:** Environmental Services",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs3-p1024washingslingsandbelts_af343dfdb57d_chunk_003_2c12f789",
+      "doc_id": "evs3-p1024washingslingsandbelts_af343dfdb57d",
+      "chunk_index": 3,
+      "text": "1. Resident Sling and Belt Wash Guidelines----*This document is uncontrolled when printed.*\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n```",
+      "char_count": 374,
+      "token_estimate": 93,
+      "section_title": "Resident Sling and Belt Wash Guidelines----*This document is uncontrolled when printed.*",
+      "chunk_type": "content",
+      "start_line": 17,
+      "end_line": 19
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+# Extendicare ICP Task Checklist
+
+## DAILY
+- [ ] Review Infection Surveillance (24-hour Symptom Surveillance/HealthConnex) and cross reference with entries into the resident’s chart (e.g., in PCC).
+**Tip:** Review home’s surveillance. If two or more residents in a home area are exhibiting the same symptoms that are new or unusual for them, this may be an outbreak, and the health authority should be contacted to review.
+- [ ] Complete required Hand Hygiene audits.
+- [ ] Conduct rounds of the units, including resident rooms, tub/shower rooms, and utility rooms.
+- [ ] Encourage IPAC huddles with staff, such as during shift change.
+- [ ] During an outbreak, ensure sufficient PPE is available for staff.
+- [ ] Attend morning meetings to discuss IPAC issues or updates.
+
+## WEEKLY
+- [ ] Review Monthly Infection Form/HealthConnex and see if new infections were added.
+- [ ] Review the ARO Tracking Form and see if new residents were added or if any residents are due for clearance testing.
+**ALBERTA and MANITOBA:** Follow the health authority’s direction.
+- [ ] Complete required PPE audits.
+- [ ] Review vaccine refrigerator log, ensuring proper temperature and twice daily monitoring.
+- [ ] Follow up with office managers to ensure that new hires in the past week were screened appropriately for infectious diseases and all their immunization information was collected based on provincial guidance.
+- [ ] Ensure new hires are up to date with their mask fit testing.
+- [ ] Review three isolation carts/rooms and address as needed if any gaps identified (i.e., proper PPE available, garbage, laundry hamper, proper signage). Address any deficiencies.
+
+## MONTHLY
+- [ ] Review Monthly Infection Form/HealthConnex.
+Review monthly infection tracking for each home area for the prior month. For manual surveillance process, input into the Monthly Electronic Infection Workbook. Update resident days in the surveillance system. Ensure documented infection meets case definition to be counted in infection analysis. Refer to Surveillance Definitions of Infections in Canadian Long-Term Care Facilities.
+- [ ] Review infection trends and create an action plan if required.
+- [ ] Review compliance rates for PPE, HH and other audits, and create an action plan if required. Post results monthly for staff, residents, and family.
+- [ ] Touch base with the IPAC Champions to discuss deficiencies, and practical solutions (IPAC Huddle).
+- [ ] Review charts of newly admitted residents in the past month, and ensure proper documentation of all immunizations, that immunizations were offered, and completion of all screening assessments.
+- [ ] Discuss with the onboarding designate to ensure the files of new hires in the past month contain...
+
+----
+
+**Helplng people Iva better**
+This document is uncontrolled when printed.
+Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.
+Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025
+Page 1 of 3
+
+# IPAC Task Checklist
+
+## MONTHLY
+- [ ] Review appropriate immunization, screening and that mask fit testing has been completed. Refer to Staff Immunization/TB Testing Record.
+- [ ] Review mask fit testing program and address any identified gaps.
+- [ ] Review action plans as required and make any edits, as necessary, based on the data collected and trends generated.
+
+## QUARTERLY
+- [ ] Conduct IPAC Committee meetings
+*Tip: Plot quarterly meetings for the year (in advance).*
+- [ ] For manual surveillance process submit the Monthly Infection Electronic Workbook.
+- [ ] For HealthConnex surveillance process complete the HealthConnex Data Checklist and Audit.
+- [ ] For HealthConnex surveillance process generate quarterly infection rate report.
+- [ ] Collect the “Medical Devices and Equipment Reprocessing Checklist” from external care providers.
+- [ ] Complete “IC-Critical Medical Devices/Equipment” audit.
+
+## ANNUALLY
+- [ ] Update home-specific outbreak plan (September).
+- [ ] Ensure all staff have completed the mandatory annual education (e.g., on Surge Learning).
+- [ ] Provide and document IPAC education to all residents, visitors, caregivers, and volunteers.
+- [ ] Complete the IPAC Foundational Audit.
+*Tip: Review with the IPAC committee.*
+- [ ] Complete the IPAC Program Annual Evaluation and set goals and action plans for the new year.
+*Tip: Review with the IPAC committee.*
+- [ ] Conduct and participate in annual immunization campaigns.
+
+## AS TRIGGERED
+- [ ] Meet with the DOC to review the cleaning and disinfection compliance for tubs, showers, wheelchairs, etc.
+- [ ] In an outbreak, complete: Initial Meeting Minutes, Daily Meeting Minutes, and Final Meeting Minutes.
+
+----
+
+> This document is uncontrolled when printed.
+> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.
+> Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025
+> Page 2 of 3
+
+# IPAC Task Checklist
+
+## Minutes
+- [ ] In an outbreak, conduct daily outbreak tracking, and meetings with the Outbreak Management Team (including weekends).
+- [ ] Update action plans as needed.
+
+----
+
+> This document is uncontrolled when printed.
+> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.
+> Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025
+> Page 3 of 3

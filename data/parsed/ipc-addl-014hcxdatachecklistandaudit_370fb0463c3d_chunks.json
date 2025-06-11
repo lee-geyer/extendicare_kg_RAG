@@ -1,0 +1,18 @@
+{
+  "doc_id": "ipc-addl-014hcxdatachecklistandaudit_370fb0463c3d",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "ipc-addl-014hcxdatachecklistandaudit_370fb0463c3d_chunk_000_9e4e47fb",
+      "doc_id": "ipc-addl-014hcxdatachecklistandaudit_370fb0463c3d",
+      "chunk_index": 0,
+      "text": "# Checklist|HCX Data Checklist| | | | | | |\n|---|---|---|---|---|---|---|\n|Module|Data fields|Action|Daily|Weekly|Monthly|Notes|\n|INFECTION SURVEILLANCE|CASE STATUS|confirm as per surveillance case defintions, etc.|X| | |surveillance case definitions found under the 'i' in HCX|\n|INFECTION SURVEILLANCE|INFECTION SITE - OTHER INFECTIONS|note created to indicate OTHER type infection|X| | |see Rules and Definitions - Infection Surveillance Module - HCX cheat sheets|\n|INFECTION SURVEILLANCE|OUTCOME - CHRONIC| | | | | |\n|(excl HIV/HepB/HepC)|update resolution|X| | |see Rules and Definitions - Infection Surveillance Module - HCX cheat sheets| |\n|INFECTION SURVEILLANCE|OUTCOME - UNRESOLVED|resolve infections - older than one month (exclude AROs)| | |X| |\n|LAB RESULTS|RESULT - PENDING|update lab results >2 weeks| |X| | |\n|LAB RESULTS|PRIMARY ORGANISM - OTHER|verify that the organism is missing from the existing list, add full organism name to notes| | |X| |\n|INFECTION SURVEILLANCE|ORIGIN|all infections have HAI or Community Acquired correctly selected| | |X|see Rules and Definitions - Infection Surveillance Module - HCX cheat sheets|# Audit|HCX Audit| | | | |\n|---|---|---|---|---|\n|Month: January 2025| | | | |\n|Audit|Count|Threshold|Action|Notes|\n|Unresolved infections >30 days| | | | |\n|(excluding AROs)|0|<3|None| |\n|Pending lab results >30 days|0|<5|None| |\n|OTHER infections entered in last 30 days that meet an alternate surveillance case definition|0|0|None|Rules and Definitions - Infection Surveillance Module - HCX cheat sheets|\n|Review the last 15 resident infection cases verify confirmed as per surveillance case definitions|0|<3|All the infection which needed to be confirmed are completed.|surveillance case definitions found under the 'i' in HCX|\n|Review 72 hour report; all infections recorded in HCX|0|0|Yes all infection added| |\n|Review past month DECEASED outcomes and confirm infection was listed as cause of death or contributing cause|2|0|2 residents passed away who were positive for influenza A| |\n|Review ORIGIN, ensure all HAI and Community Acquired are accurately entered|0|0|Yes all are entered correctly|Rules and Definitions - Infection Surveillance Module - HCX cheat sheets|\n| | | | | |\n|*to be completed each month, copy kept in CQI| | | | |\n|**any audit finding above threshold requires an action plan| | | | |",
+      "char_count": 2357,
+      "token_estimate": 589,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "doc_id": "care17-p1002-e1foodequivalentsformealdocumentation_5c66a48d0dd6",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": "care17-p1002-e1foodequivalentsformealdocumentation_5c66a48d0dd6_chunk_000_75e1cdd1",
+      "doc_id": "care17-p1002-e1foodequivalentsformealdocumentation_5c66a48d0dd6",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Food Equivalents for Meal Documentation### BREAKFAST| Food Item                          | Full Breakfast | %   |\n|------------------------------------|----------------|-----|\n| Cereal                             |                | F   |\n| Toast and Eggs or Waffles          | 7556           |     |\n| ½ Cereal                           | ½              | %   |\n| Toast and Eggs or Waffles          | 505            | %a  |\n| Cereal                             | 255            |     |----**Helping people live better**This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 852,
+      "token_estimate": 213,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p1002-e1foodequivalentsformealdocumentation_5c66a48d0dd6_chunk_002_f23d2527",
+      "doc_id": "care17-p1002-e1foodequivalentsformealdocumentation_5c66a48d0dd6",
+      "chunk_index": 2,
+      "text": "will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 1 of 3**# Food Equivalents for Meal Documentation## LUNCH| Soup | Entree | Dessert | Full Lunch |\n|------|--------|---------|------------|\n|      |        |         | = %        |\n| Soup | Entree |         | = %        |\n|      | Entree | Dessert  | = %        |\n|      | Entree |         | = %        |\n| Soup |        |         | 25%        |\n|      |        |         | 50%        |----This document is uncontrolled when printed.Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 965,
+      "token_estimate": 241,
+      "section_title": "Food Equivalents for Meal Documentation### BREAKFAST| Food Item                          | Full Breakfast | %   |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p1002-e1foodequivalentsformealdocumentation_5c66a48d0dd6_chunk_003_c6ff7a8b",
+      "doc_id": "care17-p1002-e1foodequivalentsformealdocumentation_5c66a48d0dd6",
+      "chunk_index": 3,
+      "text": "© 2025----**Page 1 of 3**# Food Equivalents for Meal Documentation## LUNCH| Soup | Entree | Dessert | Full Lunch |\n|------|--------|---------|------------|\n|      |        |         | = %        |\n| Soup | Entree |         | = %        |\n|      | Entree | Dessert  | = %        |\n|      | Entree |         | = %        |\n| Soup |        |         | 25%        |\n|      |        |         | 50%        |----This document is uncontrolled when printed.Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 2 of 3**# Food Equivalents for Meal Documentation## DINNER| Entree (protein, starch, vegetable) | Dessert | Full Dinner |\n|--------------------------------------|---------|-------------|\n|                                      |         |             |\n| Entree                               |         | 75%         |\n| (protein, starch, vegetable)        |         |             |\n|                                      |         |             |\n| ½                                    | %       | ½           |\n|                                      |         |             |\n| Entree                               | Dessert | 50%         |\n| (protein, starch, vegetable)        |         |             |\n|                                      |         |             |\n|                                      | Dessert | 25%         |----This document is uncontrolled when printed.",
+      "char_count": 1618,
+      "token_estimate": 404,
+      "section_title": "Food Equivalents for Meal Documentation### BREAKFAST| Food Item                          | Full Breakfast | %   |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p1002-e1foodequivalentsformealdocumentation_5c66a48d0dd6_chunk_004_d3e48d93",
+      "doc_id": "care17-p1002-e1foodequivalentsformealdocumentation_5c66a48d0dd6",
+      "chunk_index": 4,
+      "text": "will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 2 of 3**# Food Equivalents for Meal Documentation## DINNER| Entree (protein, starch, vegetable) | Dessert | Full Dinner |\n|--------------------------------------|---------|-------------|\n|                                      |         |             |\n| Entree                               |         | 75%         |\n| (protein, starch, vegetable)        |         |             |\n|                                      |         |             |\n| ½                                    | %       | ½           |\n|                                      |         |             |\n| Entree                               | Dessert | 50%         |\n| (protein, starch, vegetable)        |         |             |\n|                                      |         |             |\n|                                      | Dessert | 25%         |----This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1169,
+      "token_estimate": 292,
+      "section_title": "Food Equivalents for Meal Documentation### BREAKFAST| Food Item                          | Full Breakfast | %   |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care17-p1002-e1foodequivalentsformealdocumentation_5c66a48d0dd6_chunk_005_6a45f2d1",
+      "doc_id": "care17-p1002-e1foodequivalentsformealdocumentation_5c66a48d0dd6",
+      "chunk_index": 5,
+      "text": "© 2025----**Page 2 of 3**# Food Equivalents for Meal Documentation## DINNER| Entree (protein, starch, vegetable) | Dessert | Full Dinner |\n|--------------------------------------|---------|-------------|\n|                                      |         |             |\n| Entree                               |         | 75%         |\n| (protein, starch, vegetable)        |         |             |\n|                                      |         |             |\n| ½                                    | %       | ½           |\n|                                      |         |             |\n| Entree                               | Dessert | 50%         |\n| (protein, starch, vegetable)        |         |             |\n|                                      |         |             |\n|                                      | Dessert | 25%         |----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 3 of 3**",
+      "char_count": 1196,
+      "token_estimate": 299,
+      "section_title": "Food Equivalents for Meal Documentation### BREAKFAST| Food Item                          | Full Breakfast | %   |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

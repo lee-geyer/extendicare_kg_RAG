@@ -1,0 +1,18 @@
+{
+  "doc_id": "care6-p1001-t6referral-skinandwoundlead_e409d4043cfd",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "care6-p1001-t6referral-skinandwoundlead_e409d4043cfd_chunk_000_eeeae75c",
+      "doc_id": "care6-p1001-t6referral-skinandwoundlead_e409d4043cfd",
+      "chunk_index": 0,
+      "text": "# Referral - Skin and Wound Lead**Resident:**\n**Location:**\n**Diagnoses:**## A. Referral### 1. Reason for referral:\n- Move-in with impaired skin integrity\n- Move-in with pressure injury\n- Existing skin issue no improvement\n- Need for therapeutic redistribution surfaces\n- Need for offloading strategy/device/equip\n- Complex wound\n- Symptoms of Infection\n- Doppler request\n- Lower leg and foot reassessment\n- Non-healing wound\n- ABPI arterial brachial pressure index\n- Advanced footcare request\n- Resident compliance challenges\n- Other### 2. Details of referral:### 3. Name and designation/position of staff initiating the referral:**SAVE the Referral, do not lock**## B. Response to referral### 1. Name and designation of Skin and Wound lead responding to referral:### 2. Date and Time of response to referral:### 3. Referral response details:\nA delayed progress note will populate when referral locked----**Signature**: ___________________________\n**Date**: _______________________________----**Page 1 of 1**",
+      "char_count": 1009,
+      "token_estimate": 252,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 18
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t7ssteamtableportableinsp_dc38d80541d5_chunk_000_1798e73d",
+      "doc_id": "maint1-o1002-t7ssteamtableportableinsp_dc38d80541d5",
+      "chunk_index": 0,
+      "text": "# Extendicare Maintenance Inspection Checklist## Equipment\n**Steam Table**### LEGEND/KEY\n- **W** – Weekly\n- **M** – Monthly\n- **Q** – Quarterly\n- **S** – Semi-Annual\n- **A** – Annual\n- **O** – Ok\n- **R** – Repair\n- **N** – Replace| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   |   |   | 1. Check that catches and hinges and door locks operate smoothly. |\n| X |   |   |   |   | 2. Clean and lubricate castors. |\n| X |   |   |   |   | 3. Check that sneeze guards are in place, secure and in good condition. |\n| X |   |   |   |   | 4. Test temperature controller for proper operation. |\n|   | X |   |   |   | 5. Check that cabling, connections and anti-short bushings are in place, secure and in good condition. |\n|   | X |   |   |   | 6. Check that compartment drains are clear and free flowing. |\n|   | X |   |   |   | 7. Check compartments for leaks.",
+      "char_count": 1001,
+      "token_estimate": 250,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t7ssteamtableportableinsp_dc38d80541d5_chunk_001_0064b973",
+      "doc_id": "maint1-o1002-t7ssteamtableportableinsp_dc38d80541d5",
+      "chunk_index": 1,
+      "text": "|\n|   | X |   |   |   | 7. Check compartments for leaks. |### Monthly Checks\n| JAN | FEB | MAR | APR | MAY | JUN |\n|-----|-----|-----|-----|-----|-----|\n| M   | Q   | S   | A   | M   | Q   |\n| W   | W   | W   | W   | W   | W   || JUL | AUG | SEP | OCT | NOV | DEC |\n|-----|-----|-----|-----|-----|-----|\n| M   | Q   | S   | A   | M   | Q   |\n| W   | W   | W   | W   | W   | W   |----*Helping people live better*> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 981,
+      "token_estimate": 245,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t7ssteamtableportableinsp_dc38d80541d5_chunk_002_ebe8d70c",
+      "doc_id": "maint1-o1002-t7ssteamtableportableinsp_dc38d80541d5",
+      "chunk_index": 2,
+      "text": "© 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 2 of 2**",
+      "char_count": 523,
+      "token_estimate": 130,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 3
+}

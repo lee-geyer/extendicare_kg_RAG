@@ -1,0 +1,162 @@
+{
+  "doc_id": "ipc7-p10-immunizationofresidentsandstaff_4effbf910222",
+  "total_chunks": 13,
+  "chunks": [
+    {
+      "chunk_id": "ipc7-p10-immunizationofresidentsandstaff_4effbf910222_chunk_000_f0ec3cfd",
+      "doc_id": "ipc7-p10-immunizationofresidentsandstaff_4effbf910222",
+      "chunk_index": 0,
+      "text": "# Extendicare Policy Manual: Infection Prevention and Control## INDEX: IPC7-P10### SECTION: Immunization- **EFFECTIVE DATE:** February 18, 2025\n- **REVIEWED DATE:** February 11, 2025\n- **APPROVED BY:** Chief Medical Officer\n- **MODIFIED DATE:** May 30, 2025----## POLICYImmunization of residents and staff, including annual influenza, will reduce the risk of infection and complications for residents, staff, families, and volunteers. Residents will be offered vaccinations as per provincial, regional health authority, and public health unit recommendations at the time of admission and as per publicly funded vaccine schedules, to help minimize the spread of infection. A comprehensive vaccination history is also obtained for all residents admitted to the home.Upon hire, staff will be asked to provide a copy of their immunization status showing dates of vaccination or evidence of immunity. Staff will provide results of their TB test completed in the past year as provincially required.",
+      "char_count": 992,
+      "token_estimate": 248,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-immunizationofresidentsandstaff_4effbf910222_chunk_001_5ca43a5f",
+      "doc_id": "ipc7-p10-immunizationofresidentsandstaff_4effbf910222",
+      "chunk_index": 1,
+      "text": "A comprehensive vaccination history is also obtained for all residents admitted to the home.Upon hire, staff will be asked to provide a copy of their immunization status showing dates of vaccination or evidence of immunity. Staff will provide results of their TB test completed in the past year as provincially required. Influenza vaccination will be offered to all staff annually; in the event of an outbreak, non-immunized staff will be required to follow public health directives.----## STANDARD- Individual immunization records will be maintained for all residents in the home. - Annual influenza vaccination will be recommended for all residents, as are any other vaccinations recommended and distributed through the local public health authority. - Annual influenza vaccination will be offered to all staff in the home. - Adverse events following immunization will be reported to the local public health authority as per provincial guidance or regulation.----## PROCEDURE1. IPC7-O10.01 - Resident Immunization",
+      "char_count": 1015,
+      "token_estimate": 253,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-immunizationofresidentsandstaff_4effbf910222_chunk_002_5a064772",
+      "doc_id": "ipc7-p10-immunizationofresidentsandstaff_4effbf910222",
+      "chunk_index": 2,
+      "text": "2. IPC7-O10.02 - Staff Immunizations and Tuberculosis Testing\n\n3. IPC7-O10.03 - Staff Annual Influenza Vaccination",
+      "char_count": 114,
+      "token_estimate": 28,
+      "section_title": "IPC7-O10.02 - Staff Immunizations and Tuberculosis Testing",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-immunizationofresidentsandstaff_4effbf910222_chunk_004_28307f76",
+      "doc_id": "ipc7-p10-immunizationofresidentsandstaff_4effbf910222",
+      "chunk_index": 4,
+      "text": "4. IPC7-O10.04 - Cold Chain----## EDUCATION1. IPC7-P10-E1 – Packing Cooler for Vaccine Transport----## TOOLS1. IPC7-P10-T1 - Staff Vaccination Medical Directive Form\n\n2. IPC7-P10-T2 - Resident Vaccination Medical Directive Form",
+      "char_count": 227,
+      "token_estimate": 56,
+      "section_title": "IPC7-O10.04 - Cold Chain----## EDUCATION1. IPC7-P10-E1 – Packing Cooler for Vaccine Transport----## TOOLS1. IPC7-P10-T1 - Staff Vaccination Medical Directive Form",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-immunizationofresidentsandstaff_4effbf910222_chunk_006_0a719c0f",
+      "doc_id": "ipc7-p10-immunizationofresidentsandstaff_4effbf910222",
+      "chunk_index": 6,
+      "text": "3. IPC7-P10-T3 - Staff Consent for TB Testing Form\n\n4. IPC7-P10-T4 - Staff Immunization and TB Testing Record",
+      "char_count": 109,
+      "token_estimate": 27,
+      "section_title": "IPC7-P10-T3 - Staff Consent for TB Testing Form",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-immunizationofresidentsandstaff_4effbf910222_chunk_008_74860617",
+      "doc_id": "ipc7-p10-immunizationofresidentsandstaff_4effbf910222",
+      "chunk_index": 8,
+      "text": "5. IPC7-P10-T5 - Staff Immunization Antiviral Tracking Report\n\n6. IPC7-P10-T6 – Staff Annual Influenza Vaccination Tracking Tool",
+      "char_count": 128,
+      "token_estimate": 32,
+      "section_title": "IPC7-P10-T5 - Staff Immunization Antiviral Tracking Report",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-immunizationofresidentsandstaff_4effbf910222_chunk_010_5f9dac59",
+      "doc_id": "ipc7-p10-immunizationofresidentsandstaff_4effbf910222",
+      "chunk_index": 10,
+      "text": "7. IPC7-P10-T7 – Staff Influenza Intention Form\n\n8. IPC7-P10-T8 - Resident Informed Consent for TB Screening and Vaccinations",
+      "char_count": 125,
+      "token_estimate": 31,
+      "section_title": "IPC7-P10-T7 – Staff Influenza Intention Form",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-immunizationofresidentsandstaff_4effbf910222_chunk_012_5283f27e",
+      "doc_id": "ipc7-p10-immunizationofresidentsandstaff_4effbf910222",
+      "chunk_index": 12,
+      "text": "9. IPC7-P10-T9 - TB Active Screening for Residents----Helping people live betterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----\n```markdown",
+      "char_count": 418,
+      "token_estimate": 104,
+      "section_title": "IPC7-P10-T9 - TB Active Screening for Residents----Helping people live betterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----",
+      "chunk_type": "content",
+      "start_line": 17,
+      "end_line": 18
+    },
+    {
+      "chunk_id": "ipc7-p10-immunizationofresidentsandstaff_4effbf910222_chunk_013_882d7f4b",
+      "doc_id": "ipc7-p10-immunizationofresidentsandstaff_4effbf910222",
+      "chunk_index": 13,
+      "text": "# POLICY**SECTION:** Immunization\n**DESCRIPTION:** Immunization\n**INDEX:** IPC7-P10## Checklists\n\n1. **IPC7-P10-T10** - Cold Chain Checklist",
+      "char_count": 140,
+      "token_estimate": 35,
+      "section_title": "POLICY**SECTION:** Immunization",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-immunizationofresidentsandstaff_4effbf910222_chunk_015_8f76ff90",
+      "doc_id": "ipc7-p10-immunizationofresidentsandstaff_4effbf910222",
+      "chunk_index": 15,
+      "text": "2. **IPC7-P10-T11** - Influenza Preparedness Checklist\n\n3. **IPC7-P10-T12** - Influenza Clinic Supplies Checklist",
+      "char_count": 113,
+      "token_estimate": 28,
+      "section_title": "**IPC7-P10-T11** - Influenza Preparedness Checklist",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-immunizationofresidentsandstaff_4effbf910222_chunk_017_4d86bdd2",
+      "doc_id": "ipc7-p10-immunizationofresidentsandstaff_4effbf910222",
+      "chunk_index": 17,
+      "text": "4. **IPC7-P10-T13** - Ontario - AEFI Form\n\n5. **IPC7-P10-T14** - Manitoba - AEFI Form",
+      "char_count": 85,
+      "token_estimate": 21,
+      "section_title": "**IPC7-P10-T13** - Ontario - AEFI Form",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-immunizationofresidentsandstaff_4effbf910222_chunk_019_2d1a6c06",
+      "doc_id": "ipc7-p10-immunizationofresidentsandstaff_4effbf910222",
+      "chunk_index": 19,
+      "text": "6. **IPC7-P10-T15** - Alberta - AEFI Form Link## REFERENCES\n- Government of Canada: Vaccines and Immunization\n[https://www.canada.ca/en/public-health/services/immunization-vaccines.html])(https://www.canada.ca/en/public-health/services/immunization-vaccines.html)- Government of Canada: Canadian Immunization Guide\n[https://www.canada.ca/en/public-health/services/canadian-immunization-guide.html])(https://www.canada.ca/en/public-health/services/canadian-immunization-guide.html)- Canadian Tuberculosis Standards (8th ed). Ottawa ON: Tuberculosis Prevention and Control, Public Health Agency of Canada, The Canadian Lung Association. Editor: Richard Menzies. - Canadian Journal of Respiratory, Critical Care, and Sleep Medicine Volume 6, 2022 - Issue sup1: Canadian Tuberculosis Standards - 8th Edition, Government of Canada: Tuberculosis: For Health Professionals\nhttps://www.canada.ca/en/public-health/services/diseases/tuberculosis/healthprofessionals.html----This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1033,
+      "token_estimate": 258,
+      "section_title": "**IPC7-P10-T15** - Alberta - AEFI Form Link## REFERENCES",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc7-p10-immunizationofresidentsandstaff_4effbf910222_chunk_020_da65d792",
+      "doc_id": "ipc7-p10-immunizationofresidentsandstaff_4effbf910222",
+      "chunk_index": 20,
+      "text": "- Canadian Journal of Respiratory, Critical Care, and Sleep Medicine Volume 6, 2022 - Issue sup1: Canadian Tuberculosis Standards - 8th Edition, Government of Canada: Tuberculosis: For Health Professionals\nhttps://www.canada.ca/en/public-health/services/diseases/tuberculosis/healthprofessionals.html----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n```",
+      "char_count": 630,
+      "token_estimate": 157,
+      "section_title": "**IPC7-P10-T15** - Alberta - AEFI Form Link## REFERENCES",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

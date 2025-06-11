@@ -1,0 +1,30 @@
+{
+  "doc_id": "ipc-addl-019cheatsheet-labresultsdataentry_3624d6e2e761",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "ipc-addl-019cheatsheet-labresultsdataentry_3624d6e2e761_chunk_000_5f413d3b",
+      "doc_id": "ipc-addl-019cheatsheet-labresultsdataentry_3624d6e2e761",
+      "chunk_index": 0,
+      "text": "# HealthConnex Cheat Sheets - Lab Results ModuleFor full data entry see - Cheat Sheet - HCX Rules and Definitions.pdf## How to Enter a Lab Result1. Open HealthConnex and click on “lab results” on the left-hand side of the screen.\n\n2. Scroll down to near the middle of the screen and click “+ New lab result”.\n- Fill in the boxes marked with a red *:\n- **Individual** – type resident's name and select.\n- **Collection date** – enter the date the specimen is collected.\n- **Culture date** – use the date of specimen collection, update when results are received.\n- **Procedure** – rapid tests are “POC device”, PCR swabs are “Respiratory culture”.\n- **Result** – for rapid test results use “preliminary positive” or “preliminary negative”. All other specimens will be “pending” until lab report is received.\n- **Organism** – leave blank until a lab report is received, and an organism is identified.\n- **Source** – rapid tests enter as “shallow anterior nasal swab”, PCR tests enter as “nasopharynx”. For other specimen collections, please select the most accurate option.\n- **Reason** – select as appropriate.\n- **Lab ID** – select the box beside “use auto-generated lab id”.",
+      "char_count": 1173,
+      "token_estimate": 293,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc-addl-019cheatsheet-labresultsdataentry_3624d6e2e761_chunk_002_f5c4a4a7",
+      "doc_id": "ipc-addl-019cheatsheet-labresultsdataentry_3624d6e2e761",
+      "chunk_index": 2,
+      "text": "3. Click “add” to save.\n\n4. Once the lab report is received, please update the “culture date” with the date on the lab report and the organism that is identified.## Notes:\n- If you are collecting multiple of one type of swab (rapid tests/PCR tests), these can be entered using “Batch lab entry” and multiple residents can be selected at a time.\n- Don’t enter externally obtained lab specimens, only specimens collected at the home.\n- If more than one organism is identified on a specimen, add a second organism using New Lab Result.| Result            | Organism       | Linked | Procedure      | Source  | Reason     | Culture Date |\n|-------------------|----------------|--------|----------------|---------|------------|--------------|\n| Preliminary       | Positive POC   | Yes    | POC Device     | Nares   | Symptomat  | 08-24-2023   |**Effective Date:** April 4, 2023",
+      "char_count": 873,
+      "token_estimate": 218,
+      "section_title": "Click “add” to save.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

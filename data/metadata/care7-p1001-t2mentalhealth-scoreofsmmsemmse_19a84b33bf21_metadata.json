@@ -1,0 +1,11 @@
+{
+  "doc_id": "care7-p1001-t2mentalhealth-scoreofsmmsemmse_19a84b33bf21",
+  "category": "Care",
+  "schema_used": "GenericDocumentMeta",
+  "extraction_success": true,
+  "metadata": {
+    "title": "Mental Health - Score of sMMSE / MMSE"
+  },
+  "error": null,
+  "fallback_metadata": null
+}

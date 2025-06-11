@@ -1,0 +1,18 @@
+{
+  "doc_id": "ipc-addl-015hcxgoogletrainingsite_9a4382d4e3da",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "ipc-addl-015hcxgoogletrainingsite_9a4382d4e3da_chunk_000_2148f5c6",
+      "doc_id": "ipc-addl-015hcxgoogletrainingsite_9a4382d4e3da",
+      "chunk_index": 0,
+      "text": "# HealthConnex TrainingClick on the link above and it will open the Google Drive below where resources can be found.## Drive### HealthConnex Training- **Name**\n- Analysis\n- General\n- Infection Surveillance\n- MyAudits\n- Outbreak Management\n- Release Notes\n- User Account Module\n- Videos",
+      "char_count": 285,
+      "token_estimate": 71,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 8
+    }
+  ]
+}

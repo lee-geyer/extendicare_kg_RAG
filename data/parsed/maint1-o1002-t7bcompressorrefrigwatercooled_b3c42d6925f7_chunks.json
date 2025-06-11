@@ -1,0 +1,41 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t7bcompressorrefrigwatercooled_b3c42d6925f7_chunk_000_97e828bc",
+      "doc_id": "maint1-o1002-t7bcompressorrefrigwatercooled_b3c42d6925f7",
+      "chunk_index": 0,
+      "text": "# Extendicare Maintenance Inspection Checklist## Equipment\n**Compressor Refrigeration Water Cooled**\n- **Name:** All\n- **Year:**\n- **Manufacturer:** Refrigeration – Water-Cooled (remote stations)\n- **Model:**## Legend/Key\n| Legend | Key         |\n|--------|-------------|\n| W      | Weekly      |\n| M      | Monthly     |\n| Q      | Quarterly   |\n| S      | Semi-Annual |\n| A      | Annual      |\n| O      | Ok          |\n| R      | Repair      |\n| N      | Replace     |## Inspection Checks\n| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   |   | 1 | Check for hammering noise.*                                          |\n| X |   |   |   | 2 | Check compressor oil level.*                                         |\n| X |   |   |   | 3 | Check line sight glass for bubbles.*                                 |\n| X |   |   |   | 4 | Check compressor mounting assembly for:                              |\n|   |   |   |   |   | - loose or broken bolts                                             |\n|   |   |   |   |   | - broken springs                                                   |\n|   |   |   |   |   | - broken or missing rubber isolators.",
+      "char_count": 1292,
+      "token_estimate": 323,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t7bcompressorrefrigwatercooled_b3c42d6925f7_chunk_001_a47f701e",
+      "doc_id": "maint1-o1002-t7bcompressorrefrigwatercooled_b3c42d6925f7",
+      "chunk_index": 1,
+      "text": "|\n| X |   |   |   | 5 | Check that piping insulation is intact. |\n|   | X |   |   | 6 | Check that defrost time clock dial has 1 start and 1 stop level per defrost cycle.** |\n|   |   | X |   | 7 | Check that water flows continuously to drain. |\n|   |   |   | X | 8 | Refer to “Air Conditioning and Controls Inspection SPECIFICATIONS” for annual requirements. |### Note:\n- *The services of qualified personnel may be required.*\n- **Applies to freezer only.**## Monthly Schedule\n| Month | M | Q | S | A |\n|-------|---|---|---|---|\n| JAN   | W | W | W | W |\n| FEB   | W | W | W | W |\n| MAR   | W | W | W | W |\n| APR   | W | W | W | W |\n| MAY   | W | W | W | W |\n| JUN   | W | W | W | W |\n| JUL   | W | W | W | W |\n| AUG   | W | W | W | W |\n| SEP   | W | W | W | W |\n| OCT   | W | W | W | W |\n| NOV   | W | W | W | W |\n| DEC   | W | W | W | W |----*This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.*\n*Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 1162,
+      "token_estimate": 290,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t7bcompressorrefrigwatercooled_b3c42d6925f7_chunk_002_97058d18",
+      "doc_id": "maint1-o1002-t7bcompressorrefrigwatercooled_b3c42d6925f7",
+      "chunk_index": 2,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.*\n*Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025*\n*Page 1 of 2*# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 2 of 2",
+      "char_count": 786,
+      "token_estimate": 196,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 3
+}

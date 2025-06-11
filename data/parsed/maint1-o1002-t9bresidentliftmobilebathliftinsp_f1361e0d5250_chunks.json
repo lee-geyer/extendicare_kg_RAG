@@ -1,0 +1,41 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t9bresidentliftmobilebathliftinsp_f1361e0d5250_chunk_000_cbe2ca58",
+      "doc_id": "maint1-o1002-t9bresidentliftmobilebathliftinsp_f1361e0d5250",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## MAINTENANCE INSPECTION CHECKLIST### Equipment\n**Resident Lift (Mobile Bath-Lift)****LEGEND/KEY**| LEGEND | KEY         |\n|--------|-------------|\n| W      | Weekly      |\n| M      | Monthly     |\n| Q      | Quarterly   |\n| S      | Semi-Annual |\n| A      | Annual      |### CHECKS| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   |   | 1 | Check operation of caster brakes, adjust or replace as necessary. |\n| X |   |   |   | 2 | Check all nuts and bolts for tightness; adjust as required. |\n|   | X |   |   | 3 | Check condition of all nylon washers; replace as required. |\n|   | X |   |   | 4 | Check that the mast safety locking device is in place and securely tightened. |\n|   | X |   |   | 5 | Check operation of pivoting arm rests and brackets. |\n|   | X |   |   | 6 | Lubricate each “PIVOT POINT” and ‘NYLON WASHER” with a drop of mineral oil. |\n|   | X |   |   | 7 | Inspect each welded connection for cracks. (REMOVE FROM SERVICE IMMEDIATELY ANY LIFT WITH CRACKED WELDS).",
+      "char_count": 1146,
+      "token_estimate": 286,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t9bresidentliftmobilebathliftinsp_f1361e0d5250_chunk_002_561ce8bf",
+      "doc_id": "maint1-o1002-t9bresidentliftmobilebathliftinsp_f1361e0d5250",
+      "chunk_index": 2,
+      "text": "|\n|   | X |   |   | 7 | Inspect each welded connection for cracks. (REMOVE FROM SERVICE IMMEDIATELY ANY LIFT WITH CRACKED WELDS). |\n|   | X |   |   | 8 | Visually inspect drive-belt for obvious wear or damage. |### Monthly Schedule|     | JAN | FEB | MAR | APR | MAY | JUN | |\n|-----|-----|-----|-----|-----|-----|-----|---|\n| M   | Q   | S   | A   | M   | Q   | S   | A   |\n| W   | W   | W   | W   | W   | W   | W   | W   ||     | JUL | AUG | SEP | OCT | NOV | DEC | |\n|-----|-----|-----|-----|-----|-----|-----|---|\n| M   | Q   | S   | A   | M   | Q   | S   | A   |\n| W   | W   | W   | W   | W   | W   | W   | W   |----*Helping people live better*This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025  Page 1 of 2# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed.",
+      "char_count": 1184,
+      "token_estimate": 296,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t9bresidentliftmobilebathliftinsp_f1361e0d5250_chunk_003_858fc203",
+      "doc_id": "maint1-o1002-t9bresidentliftmobilebathliftinsp_f1361e0d5250",
+      "chunk_index": 3,
+      "text": "will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025  Page 1 of 2# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 2 of 2",
+      "char_count": 755,
+      "token_estimate": 188,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 3
+}

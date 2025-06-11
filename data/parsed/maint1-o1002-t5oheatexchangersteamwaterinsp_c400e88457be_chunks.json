@@ -1,0 +1,53 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t5oheatexchangersteamwaterinsp_c400e88457be_chunk_000_1f0fe95a",
+      "doc_id": "maint1-o1002-t5oheatexchangersteamwaterinsp_c400e88457be",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## MAINTENANCE INSPECTION CHECKLIST### Equipment\n**Heat Exchanger (steam/water)**- **Name:**\n- **Year:**\n- **Unit No.:****Manufacturer:** All\n**Model:** All systems (hot water heating and domestic hot water)| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   | 1 |   | Manually test safety relief valve for proper operation and seating after test. |\n| X |   |   | 2 |   | Check steam pressure. |\n| X |   |   | 3 |   | Check temperature change across both sides of heat exchanger. |\n| X |   |   | 4 |   | Check for leaks and corrosion. |\n| X |   |   | 5 |   | Check for steam trap operation. *                                  |\n| X |   |   | 6 |   | Check condensate temperature. *                                    |\n| X |   |   | 7 |   | Check condensate pump.",
+      "char_count": 924,
+      "token_estimate": 231,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t5oheatexchangersteamwaterinsp_c400e88457be_chunk_002_56aa52f4",
+      "doc_id": "maint1-o1002-t5oheatexchangersteamwaterinsp_c400e88457be",
+      "chunk_index": 2,
+      "text": "*                                  |\n| X |   |   | 6 |   | Check condensate temperature. *                                    |\n| X |   |   | 7 |   | Check condensate pump. |**NOTE:**\n*The services of qualified personnel may be required.----### Monthly Schedule|     | JAN | FEB | MAR | APR | MAY | JUN | | | | | | | | | | | | | |\n|-----|-----|-----|-----|-----|-----|-----|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   |\n| W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   ||     | JUL | AUG | SEP | OCT | NOV | DEC | | | | | | | | | | | | | |\n|-----|-----|-----|-----|-----|-----|-----|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   |\n| W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   |----**Helplng people live better**\nThis document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1183,
+      "token_estimate": 295,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t5oheatexchangersteamwaterinsp_c400e88457be_chunk_003_f793ffc8",
+      "doc_id": "maint1-o1002-t5oheatexchangersteamwaterinsp_c400e88457be",
+      "chunk_index": 3,
+      "text": "|**NOTE:**\n*The services of qualified personnel may be required.----### Monthly Schedule|     | JAN | FEB | MAR | APR | MAY | JUN | | | | | | | | | | | | | |\n|-----|-----|-----|-----|-----|-----|-----|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   |\n| W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   ||     | JUL | AUG | SEP | OCT | NOV | DEC | | | | | | | | | | | | | |\n|-----|-----|-----|-----|-----|-----|-----|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   | M   | Q   | S   | A   |\n| W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   | W   |----**Helplng people live better**\nThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.",
+      "char_count": 1186,
+      "token_estimate": 296,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t5oheatexchangersteamwaterinsp_c400e88457be_chunk_004_95fcefc1",
+      "doc_id": "maint1-o1002-t5oheatexchangersteamwaterinsp_c400e88457be",
+      "chunk_index": 4,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n\n# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 2 of 2",
+      "char_count": 771,
+      "token_estimate": 192,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 4
+}

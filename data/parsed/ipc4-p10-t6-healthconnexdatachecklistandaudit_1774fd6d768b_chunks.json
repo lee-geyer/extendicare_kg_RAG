@@ -1,0 +1,18 @@
+{
+  "doc_id": "ipc4-p10-t6-healthconnexdatachecklistandaudit_1774fd6d768b",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "ipc4-p10-t6-healthconnexdatachecklistandaudit_1774fd6d768b_chunk_000_bfdd0f7d",
+      "doc_id": "ipc4-p10-t6-healthconnexdatachecklistandaudit_1774fd6d768b",
+      "chunk_index": 0,
+      "text": "# Checklist|HCX Data Checklist| | | | | | |\n|---|---|---|---|---|---|---|\n|Module|Data fields|Action|Daily|Weekly|Monthly|Notes|\n|INFECTION SURVEILLANCE|CASE STATUS|confirm as per surveillance case defintions, etc.|X| | |surveillance case definitions found under the 'i' in HCX|\n|INFECTION SURVEILLANCE|INFECTION SITE - OTHER INFECTIONS|note created to indicate OTHER type infection|X| | |see Rules and Definitions - Infection Surveillance Module - HCX cheat sheets|\n|INFECTION SURVEILLANCE|OUTCOME - CHRONIC| | | | | |\n|(excl HIV/HepB/HepC)|update resolution|X| | |see Rules and Definitions - Infection Surveillance Module - HCX cheat sheets| |\n|INFECTION SURVEILLANCE|OUTCOME - UNRESOLVED|resolve infections - older than one month (exclude AROs)| | |X| |\n|LAB RESULTS|RESULT - PENDING|update lab results >2 weeks| |X| | |\n|LAB RESULTS|PRIMARY ORGANISM - OTHER|verify that the organism is missing from the existing list, add full organism name to notes| | |X| |\n|INFECTION SURVEILLANCE|ORIGIN|all infections have HAI or Community Acquired correctly selected| | |X|see Rules and Definitions - Infection Surveillance Module - HCX cheat sheets|# Audit|HCX Audit| | | | |\n|---|---|---|---|---|\n|Month:| | | | |\n|Audit|Count|Threshold|Action|Notes|\n|Unresolved infections >30 days| | | | |\n|(excluding AROs)| |<3| | |\n|Pending lab results >30 days| |<5| | |\n|OTHER infections entered in last 30 days that meet an alternate surveillance case definition| |0| |Rules and Definitions - Infection Surveillance Module - HCX cheat sheets|\n|Review the last 15 resident infection cases verify confirmed as per surveillance case definitions| |<3| |surveillance case definitions found under the 'i' in HCX|\n|Review 72 hour report; all infections recorded in HCX| |0| | |\n|Review past month DECEASED outcomes and confirm infection was listed as cause of death or contributing cause| |0| |Rules and Definitions - Infection Surveillance Module - HCX cheat sheets|\n|Review ORIGIN, ensure all HAI and Community Acquired are accurately entered| |0| |Rules and Definitions - Infection Surveillance Module - HCX cheat sheets|\n| | | | | |\n|*to be completed each month, copy kept in CQI| | | | |\n|**any audit finding above threshold requires an action plan| | | | |",
+      "char_count": 2240,
+      "token_estimate": 560,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

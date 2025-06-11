@@ -1,0 +1,90 @@
+{
+  "doc_id": "ipc3-p1004urinarytractinfectionsutis_43792df1a53c",
+  "total_chunks": 7,
+  "chunks": [
+    {
+      "chunk_id": "ipc3-p1004urinarytractinfectionsutis_43792df1a53c_chunk_000_036efa1d",
+      "doc_id": "ipc3-p1004urinarytractinfectionsutis_43792df1a53c",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Infection Prevention and Control (IPAC)\n**INDEX:** IPC3-P10.04\n**SECTION:** Communicable Diseases\n**EFFECTIVE DATE:** February 18, 2025\n**REVIEWED DATE:** February 11, 2025\n**APPROVED BY:** Chief Medical Officer\n**MODIFIED DATE:** May 30, 2025----## POLICY### Communicable Diseases### PROCEDURE#### Prevention\n- Preventative interventions appropriate to the individual resident will be implemented (e.g., fluid intake, probiotics, peri-care, catheter care, toileting routine, etc.) and documented in their plan of care. - Oral antibiotic prophylaxis to prevent UTIs is not recommended. - Residents on prophylaxis to prevent UTIs should be evaluated by the primary care provider at regular intervals to ensure that treatment is appropriate and to plan for additional medical interventions, if necessary. - Staff will be educated on the prevention and recognition of UTI signs and symptoms.#### Assessment\n- UTIs will be assessed and diagnosed according to the Urinary Tract Infection (UTI) Assessment Algorithm, or as per provincial/regional guidelines. - The use of dipsticks for diagnosis of a UTI is not recommended and should be avoided.",
+      "char_count": 1177,
+      "token_estimate": 294,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p1004urinarytractinfectionsutis_43792df1a53c_chunk_001_bea2182e",
+      "doc_id": "ipc3-p1004urinarytractinfectionsutis_43792df1a53c",
+      "chunk_index": 1,
+      "text": "- Staff will be educated on the prevention and recognition of UTI signs and symptoms.#### Assessment\n- UTIs will be assessed and diagnosed according to the Urinary Tract Infection (UTI) Assessment Algorithm, or as per provincial/regional guidelines. - The use of dipsticks for diagnosis of a UTI is not recommended and should be avoided. - When sending urine for culture and sensitivity (C&S):\n- Appropriately collected urine specimens include a clean-catch or midstream freshly voided urine sample. - If a clean-catch or midstream sample is not possible, an in-and-out catheter is the preferred method of collection. - For Residents with an indwelling catheter, the catheter and collection bag must be freshly changed before the withdrawal of a urine specimen and initiation of antibiotic therapy.#### Management\n- UTIs will be treated according to the Urinary Tract Infections (UTI) in Long Term Care Clinical Pathway or as per provincial/regional protocol. - Asymptomatic bacteriuria should not be treated with antibiotics.",
+      "char_count": 1026,
+      "token_estimate": 256,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p1004urinarytractinfectionsutis_43792df1a53c_chunk_002_9c42a9a5",
+      "doc_id": "ipc3-p1004urinarytractinfectionsutis_43792df1a53c",
+      "chunk_index": 2,
+      "text": "- For Residents with an indwelling catheter, the catheter and collection bag must be freshly changed before the withdrawal of a urine specimen and initiation of antibiotic therapy.#### Management\n- UTIs will be treated according to the Urinary Tract Infections (UTI) in Long Term Care Clinical Pathway or as per provincial/regional protocol. - Asymptomatic bacteriuria should not be treated with antibiotics. - Due to the emergence of antibiotic-resistant bacteria, it is recommended that for medically stable residents, antibiotic therapy be delayed until C&S results are received.----## EDUCATIONHelping people\nIva betterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----",
+      "char_count": 949,
+      "token_estimate": 237,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p1004urinarytractinfectionsutis_43792df1a53c_chunk_003_9774682b",
+      "doc_id": "ipc3-p1004urinarytractinfectionsutis_43792df1a53c",
+      "chunk_index": 3,
+      "text": "# PROCEDURE## SECTION: Communicable Diseases\n\n### DESCRIPTION: Urinary Tract Infections (UTIs)",
+      "char_count": 94,
+      "token_estimate": 23,
+      "section_title": "PROCEDURE## SECTION: Communicable Diseases",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p1004urinarytractinfectionsutis_43792df1a53c_chunk_005_f136c6a4",
+      "doc_id": "ipc3-p1004urinarytractinfectionsutis_43792df1a53c",
+      "chunk_index": 5,
+      "text": "### INDEX: IPC3-P10.04### Related Documents\n\n1. IPC3-P10-E4 - UTI Fact Sheet",
+      "char_count": 76,
+      "token_estimate": 19,
+      "section_title": "INDEX: IPC3-P10.04### Related Documents",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p1004urinarytractinfectionsutis_43792df1a53c_chunk_007_08e8e882",
+      "doc_id": "ipc3-p1004urinarytractinfectionsutis_43792df1a53c",
+      "chunk_index": 7,
+      "text": "2. IPC3-P10-E5 - UTI Assessment Algorithm### TOOLS\n\n1. IPC3-P10-T1 - Urinary Tract Infection Pathway",
+      "char_count": 100,
+      "token_estimate": 25,
+      "section_title": "IPC3-P10-E5 - UTI Assessment Algorithm### TOOLS",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p1004urinarytractinfectionsutis_43792df1a53c_chunk_009_4da94496",
+      "doc_id": "ipc3-p1004urinarytractinfectionsutis_43792df1a53c",
+      "chunk_index": 9,
+      "text": "2. IPC3-P10-T5 - Resident Infection Report\n\n3. IPC3-P10-T7 - Shift Symptom Surveillance----Helping people live better> This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 2 of 2**",
+      "char_count": 462,
+      "token_estimate": 115,
+      "section_title": "IPC3-P10-T5 - Resident Infection Report",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

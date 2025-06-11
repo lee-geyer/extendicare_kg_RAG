@@ -1,0 +1,66 @@
+{
+  "doc_id": "care9-p1002-t2falls-headinjuryroutine_e8b2bd92584b",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": "care9-p1002-t2falls-headinjuryroutine_e8b2bd92584b_chunk_000_f993c35e",
+      "doc_id": "care9-p1002-t2falls-headinjuryroutine_e8b2bd92584b",
+      "chunk_index": 0,
+      "text": "# Falls - Head Injury Routine**Resident:**\n**Location:**## A. Vital Signs1. **Most Recent Temperature**\n- Temperature:                       **Date:**\n- Route:2. **Most Recent Pulse**\n- Pulse:                             **Date:**\n- Pulse Type:3. **Most Recent Respiration**\n- Respiration:                       **Date:**4. **Most Recent Blood Pressure**\n- Blood Pressure:                    **Date:**\n- Position:### SPN. Choose all that apply. - a. V/S taken and recorded\n- b. All V/S refused (above entry cleared)\n- c. Temperature refused (above entry cleared)\n- d. Pulse refused (above entry cleared)\n- e. Respiration refused (above entry cleared)\n- f. Blood pressure refused (above entry cleared)## B. Pain1. **Is Resident having a NEW or WORSENING pain?**\n- a. YES\n- b. NO### ACTION REQUIRED:\nPain - Integrated Screen & Assessment has been triggered. To complete, open from 'next assessment due' section of the Resident's health record. (S)## C. Pupils1. **Left Pupil Size**\n- 1. 1mm\n- 2. 2mm\n- 3. 3mm\n- 4. 4mm\n- 5. 5mm\n- 6. 6mm\n- 7. 7mm\n- 8. 8mm\n- 9. 9mm\n- 10. 10mm2. **Right Pupil Size**\n- 1. 1mm\n- 2. 2mm\n- 3. 3mm\n- 4. 4mm\n- 5. 5mm\n- 6. 6mm\n- 7. 7mm\n- 8. 8mm\n- 9. 9mm\n- 10. 10mm3.",
+      "char_count": 1188,
+      "token_estimate": 297,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care9-p1002-t2falls-headinjuryroutine_e8b2bd92584b_chunk_001_56fbbe88",
+      "doc_id": "care9-p1002-t2falls-headinjuryroutine_e8b2bd92584b",
+      "chunk_index": 1,
+      "text": "9mm\n- 10. 10mm3. **Left Pupil Reaction to Light**\n- N. Normal\n- S. Sluggish\n- F. Fixed4. **Right Pupil Reaction to Light**\n- N. Normal\n- S. Sluggish\n- F. Fixed5. **Pupils Equal in Size**\n- 1. Yes\n- 2. No### ACTION REQUIRED:\nReport changes or discrepancies in pupil size, sluggish/fixed reaction to light to the physician / NP as these can indicate a serious problem, potentially requiring immediate medical attention.## D. Glasgow Coma Scale----**Page 1 of 2**# Falls - Head Injury Routine## Resident:### 1. Eye Opening\n- **4.** Spontaneous\n- **3.** To Speech\n- **2.** To Pain\n- **1.** None### 2. Best Verbal Response\n- **5.** Orientated to time, person, place\n- **4.** Confused\n- **3.** Inappropriate Words\n- **2.** Incomprehensible sounds\n- **1.** No response### 3.",
+      "char_count": 767,
+      "token_estimate": 191,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care9-p1002-t2falls-headinjuryroutine_e8b2bd92584b_chunk_002_7bbf3207",
+      "doc_id": "care9-p1002-t2falls-headinjuryroutine_e8b2bd92584b",
+      "chunk_index": 2,
+      "text": "Eye Opening\n- **4.** Spontaneous\n- **3.** To Speech\n- **2.** To Pain\n- **1.** None### 2. Best Verbal Response\n- **5.** Orientated to time, person, place\n- **4.** Confused\n- **3.** Inappropriate Words\n- **2.** Incomprehensible sounds\n- **1.** No response### 3. Best Motor Response\n- **6.** Obeys command\n- **5.** Moves to localized pain\n- **4.** Flex to withdraw from pain\n- **3.** Abnormal Flexion (Decorticate Posturing)\n- **2.** Abnormal extension (Decerebrate Posturing)\n- **1.** No response## ACTION REQUIRED:\n- Abnormal extension or flexion, also known as abnormal posturing, is a medical emergency indicating severe brain damage or a disruption in brain function and requires immediate medical attention.## ACTION REQUIRED:\n- Click 'Save' to see the score at the top of the UDA. If the score is 8 or less contact physician/NP and send to hospital.### E. Best Motor Responses to Command",
+      "char_count": 891,
+      "token_estimate": 222,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care9-p1002-t2falls-headinjuryroutine_e8b2bd92584b_chunk_003_205bdb73",
+      "doc_id": "care9-p1002-t2falls-headinjuryroutine_e8b2bd92584b",
+      "chunk_index": 3,
+      "text": "1. **Left Hand Grip**\n- **S.** Strong\n- **M.** Moderate\n- **W.** Weak\n- **A.** Absent\n\n2. **Right Hand Grip**\n- **S.** Strong\n- **M.** Moderate\n- **W.** Weak\n- **A.** Absent",
+      "char_count": 173,
+      "token_estimate": 43,
+      "section_title": "**Left Hand Grip**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care9-p1002-t2falls-headinjuryroutine_e8b2bd92584b_chunk_005_9ea5f63a",
+      "doc_id": "care9-p1002-t2falls-headinjuryroutine_e8b2bd92584b",
+      "chunk_index": 5,
+      "text": "3. **Left Leg Movement**\n- **S.** Strong\n- **M.** Moderate\n- **W.** Weak\n- **A.** Absent\n\n4. **Right Leg Movement**\n- **S.** Strong\n- **M.** Moderate\n- **W.** Weak\n- **A.** Absent## ACTION REQUIRED:\n- Assess for change from baseline. If a change is identified contact physician/NP.----**Signature**: ____________________\n**Date**: ____________________\n**Page 2 of 2**",
+      "char_count": 367,
+      "token_estimate": 91,
+      "section_title": "**Left Leg Movement**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

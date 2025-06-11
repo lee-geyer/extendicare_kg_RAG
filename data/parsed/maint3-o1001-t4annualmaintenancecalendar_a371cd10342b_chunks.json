@@ -1,0 +1,17 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint3-o1001-t4annualmaintenancecalendar_a371cd10342b_chunk_000_b8970d90",
+      "doc_id": "maint3-o1001-t4annualmaintenancecalendar_a371cd10342b",
+      "chunk_index": 0,
+      "text": "# Extendicare Annual Maintenance Calendar**FACILITY:**\n**YEAR:**| JANUARY | APRIL | JULY | OCTOBER |\n|---------|-------|------|---------|\n| FEBRUARY| MAY   | AUGUST| NOVEMBER|\n| MARCH   | JUNE  | SEPTEMBER | DECEMBER |----*Helping people live better*> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 1**",
+      "char_count": 593,
+      "token_estimate": 148,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 5
+    }
+  ],
+  "total_chunks": 1
+}

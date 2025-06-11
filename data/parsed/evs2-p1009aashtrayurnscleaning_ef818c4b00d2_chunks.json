@@ -1,0 +1,66 @@
+{
+  "doc_id": "evs2-p1009aashtrayurnscleaning_ef818c4b00d2",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": "evs2-p1009aashtrayurnscleaning_ef818c4b00d2_chunk_000_58dcc767",
+      "doc_id": "evs2-p1009aashtrayurnscleaning_ef818c4b00d2",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Environmental Services\n**INDEX:** EVS2-P10.09A\n**SECTION:** Cleaning and Organization - Housekeeping\n**DESCRIPTION:** Ashtray Urns Cleaning\n**EFFECTIVE DATE:** March 18, 2025\n**REVIEWED DATE:** March 7, 2025\n**APPROVED BY:** Senior Director, Operational Quality and Professional Practice\n**MODIFIED DATE:** May 14, 2025----## POLICY### Cleaning and Organization## PROCEDUREClean all cigarette receptacles daily as specified in cleaning routines or as required to reduce the risk of fire and to reduce the odours caused by cigarettes.### Collect the following items:\n- bottle with disinfectant\n- small sieve, if using ash urn sand\n- disposable gloves\n- metal container\n- small bag of white ash urn sand\n- microfibre cleaning cloths\n- plastic garbage bag### To Clean:",
+      "char_count": 802,
+      "token_estimate": 200,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 14
+    },
+    {
+      "chunk_id": "evs2-p1009aashtrayurnscleaning_ef818c4b00d2_chunk_001_a462afa4",
+      "doc_id": "evs2-p1009aashtrayurnscleaning_ef818c4b00d2",
+      "chunk_index": 1,
+      "text": "1. Remove large litter such as paper, disposable cups, etc. and throw in garbage bag.\n\n2. Using the sieve, if required, to strain the sand and remove cigarette butts.",
+      "char_count": 166,
+      "token_estimate": 41,
+      "section_title": "Remove large litter such as paper, disposable cups, etc. and throw in garbage bag.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1009aashtrayurnscleaning_ef818c4b00d2_chunk_003_657d0bbd",
+      "doc_id": "evs2-p1009aashtrayurnscleaning_ef818c4b00d2",
+      "chunk_index": 3,
+      "text": "3. Deposit cigarette butts in metal container for 24 hours before disposal.\n\n4. Apply disinfectant solution on outside of container and wipe dry.",
+      "char_count": 145,
+      "token_estimate": 36,
+      "section_title": "Deposit cigarette butts in metal container for 24 hours before disposal.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1009aashtrayurnscleaning_ef818c4b00d2_chunk_005_7d0f07f8",
+      "doc_id": "evs2-p1009aashtrayurnscleaning_ef818c4b00d2",
+      "chunk_index": 5,
+      "text": "5. If only cleaning ashtrays follow steps 1, 3 and 4.\n\n6. Wipe inside of ashtray and wipe dry.",
+      "char_count": 94,
+      "token_estimate": 23,
+      "section_title": "If only cleaning ashtrays follow steps 1, 3 and 4.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "evs2-p1009aashtrayurnscleaning_ef818c4b00d2_chunk_007_2c7c3d43",
+      "doc_id": "evs2-p1009aashtrayurnscleaning_ef818c4b00d2",
+      "chunk_index": 7,
+      "text": "7. If cleaning flip top type, remove lid and follow steps 1, 3, 4 and 6.\n\n8. Apply top with disinfectant cleaner and wipe dry.----Helping people live betterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----Page 1 of 1",
+      "char_count": 493,
+      "token_estimate": 123,
+      "section_title": "If cleaning flip top type, remove lid and follow steps 1, 3, 4 and 6.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

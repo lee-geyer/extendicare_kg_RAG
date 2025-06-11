@@ -1,0 +1,30 @@
+{
+  "doc_id": "ipc2-p10-e39-agmpinprogresssignfrench_ffc5853a9eed",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "ipc2-p10-e39-agmpinprogresssignfrench_ffc5853a9eed_chunk_000_f5bc9f95",
+      "doc_id": "ipc2-p10-e39-agmpinprogresssignfrench_ffc5853a9eed",
+      "chunk_index": 0,
+      "text": "# INTERVENTIONS MEDICALES GENERANT DES AEROSOLS (IMGA) EN COURS## RESPIRATEUR N65 OBLIGATOIRE EN PLUS DES PRÉCAUTIONS CONTRE LES CONTACTS ET L’EXPOSITION AUX GOUTTELETTES- Portez une blouse à manches longues\n- Portez protection oculaire dans un rayon de 2 mètres du résident\n- Portez un respirateur N95 dont l’ajustement et l’étanchéité ont été vérifiés\n- Portez des gants```markdown\n\n# IMGA TERMINÉ À :",
+      "char_count": 403,
+      "token_estimate": 100,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-e39-agmpinprogresssignfrench_ffc5853a9eed_chunk_002_7190c979",
+      "doc_id": "ipc2-p10-e39-agmpinprogresssignfrench_ffc5853a9eed",
+      "chunk_index": 2,
+      "text": "## TEMPS DE SÉDIMENTATION :\n- **MINUTES**\n- (SI LE TEMPS DE SÉDIMENTATION N’EST PAS INDENTIDIE, UTILISEZ 180 MINUTES)## ENTRER EN TOUTE SÉCURITÉ À :\n```",
+      "char_count": 152,
+      "token_estimate": 38,
+      "section_title": "TEMPS DE SÉDIMENTATION :",
+      "chunk_type": "content",
+      "start_line": 5,
+      "end_line": 8
+    }
+  ]
+}

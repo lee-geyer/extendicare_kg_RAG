@@ -1,0 +1,54 @@
+{
+  "doc_id": "care8-p1003medicalassistanceindyingmaidprocedure_3d6f49d2493d",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "care8-p1003medicalassistanceindyingmaidprocedure_3d6f49d2493d_chunk_000_f81a2385",
+      "doc_id": "care8-p1003medicalassistanceindyingmaidprocedure_3d6f49d2493d",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** CARE\n**INDEX:** CARE8-P10.03\n**SECTION:** Palliative Care\n**EFFECTIVE DATE:** June 16, 2025\n**REVIEWED DATE:** June 9, 2025\n**APPROVED BY:** Director, Education and Resident Services\n**MODIFIED DATE:**----## POLICY### Palliative and End of Life Care## PROCEDURE- Residents must be provided with the opportunity to participate in all care and treatment decisions, including at end of life, and must be supported in their right to request interventions, including the right to request Medical Assistance in Dying (MAID). - The interdisciplinary team must provide residents with accurate information about the MAID process, upon request. - If the resident requests MAID, their decision must be respected, and staff must inform the Director of Care (DOC) who will facilitate a referral to the physician, which will assess eligibility as criteria set forth in federal legislation.",
+      "char_count": 912,
+      "token_estimate": 228,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care8-p1003medicalassistanceindyingmaidprocedure_3d6f49d2493d_chunk_001_b4a160a6",
+      "doc_id": "care8-p1003medicalassistanceindyingmaidprocedure_3d6f49d2493d",
+      "chunk_index": 1,
+      "text": "- The interdisciplinary team must provide residents with accurate information about the MAID process, upon request. - If the resident requests MAID, their decision must be respected, and staff must inform the Director of Care (DOC) who will facilitate a referral to the physician, which will assess eligibility as criteria set forth in federal legislation. - Compassionate care must continue while the MAID process is being followed in accordance with regional/provincial regulations and standards.### External**Note:** For eligibility criteria safeguards and consent, refer to Government of Canada Medical Assistance in Dying**Provincial Regulations:** All Provincial Medical regulating bodies have MAID guidelines in place and are detailed with source link included:- **Alberta:** Homes are required to complete the MAID “Record of Request Form”\nAlberta Health Services- **Manitoba:** Homes in Manitoba are required to complete the ‘MAID Contact Form”; there is also an “Information Pamphlet” for residents and families\nShared Health MB\nHomes also have a great provincial resource “FAQ-MAID Health Providers“\nFAQ-MAID Health Providers- **Ontario:** Ontario Medical Assistance in Dying## EDUCATION1.",
+      "char_count": 1200,
+      "token_estimate": 300,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care8-p1003medicalassistanceindyingmaidprocedure_3d6f49d2493d_chunk_002_dcd0a376",
+      "doc_id": "care8-p1003medicalassistanceindyingmaidprocedure_3d6f49d2493d",
+      "chunk_index": 2,
+      "text": "- If the resident requests MAID, their decision must be respected, and staff must inform the Director of Care (DOC) who will facilitate a referral to the physician, which will assess eligibility as criteria set forth in federal legislation. - Compassionate care must continue while the MAID process is being followed in accordance with regional/provincial regulations and standards.### External**Note:** For eligibility criteria safeguards and consent, refer to Government of Canada Medical Assistance in Dying**Provincial Regulations:** All Provincial Medical regulating bodies have MAID guidelines in place and are detailed with source link included:- **Alberta:** Homes are required to complete the MAID “Record of Request Form”\nAlberta Health Services- **Manitoba:** Homes in Manitoba are required to complete the ‘MAID Contact Form”; there is also an “Information Pamphlet” for residents and families\nShared Health MB\nHomes also have a great provincial resource “FAQ-MAID Health Providers“\nFAQ-MAID Health Providers- **Ontario:** Ontario Medical Assistance in Dying## EDUCATION1. Frequently Asked Questions: MAID----This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1190,
+      "token_estimate": 297,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care8-p1003medicalassistanceindyingmaidprocedure_3d6f49d2493d_chunk_003_dc9f6570",
+      "doc_id": "care8-p1003medicalassistanceindyingmaidprocedure_3d6f49d2493d",
+      "chunk_index": 3,
+      "text": "Frequently Asked Questions: MAID----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 1 of 1",
+      "char_count": 370,
+      "token_estimate": 92,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

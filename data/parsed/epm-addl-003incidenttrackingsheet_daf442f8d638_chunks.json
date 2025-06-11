@@ -1,0 +1,30 @@
+{
+  "doc_id": "epm-addl-003incidenttrackingsheet_daf442f8d638",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "epm-addl-003incidenttrackingsheet_daf442f8d638_chunk_000_018fc328",
+      "doc_id": "epm-addl-003incidenttrackingsheet_daf442f8d638",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Incident Tracking Sheet| **Originator:** | **Date:** | **Time:** |\n|------------------|-----------|-----------|\n| Enter date       |           |           || **Phone/Fax:**   | **Received by:** |\n|------------------|------------------|\n|                  |                  |### A. ISSUE/CONCERN/REQUEST### B. ACTION REQUIRED### C. OPTIONS CONSIDERED### D. ACTION TAKEN### E. REFERRED TO### F. RESOLVED BY| **Date:**        | **TIME:** | **Date:**        | **TIME:** |\n|------------------|-----------|------------------|-----------|\n| Enter date       |           | Enter date       |           |### G. ANTICIPATED COSTS### H. ACTUAL COSTS### I. PROBLEMS ENCOUNTERED### J. DETAIL OUTSTANDING, UNRESOLVED OR INCOMPLETE REQUESTS----Helping people have a better experience.> **Note:** This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc.",
+      "char_count": 1119,
+      "token_estimate": 279,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm-addl-003incidenttrackingsheet_daf442f8d638_chunk_002_25002aff",
+      "doc_id": "epm-addl-003incidenttrackingsheet_daf442f8d638",
+      "chunk_index": 2,
+      "text": "will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 2# Incident Tracking Sheet## Additional Comments## Incident Progress Notes- **Type of Incident:**\n- **Date:**\n- **Start Time:**\n- **Finish Time:**### Details\n- **Name of Incident Manager:**\n- **Note Taker:**| Time  | Event                                        | Signature |\n|-------|----------------------------------------------|-----------|\n|       |                                              |           |----> This document is uncontrolled when printed. > Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. > Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 2 of 2",
+      "char_count": 1026,
+      "token_estimate": 256,
+      "section_title": "Incident Tracking Sheet| **Originator:** | **Date:** | **Time:** |",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t9etherapeutictubinsp_2d53832ec109_chunk_000_5c001485",
+      "doc_id": "maint1-o1002-t9etherapeutictubinsp_2d53832ec109",
+      "chunk_index": 0,
+      "text": "# Extendicare Maintenance Inspection Checklist## Equipment\n**Therapeutic Tub**- **Name:**\n- **Year:**\n- **Manufacturer:** North Associates; Arjo\n- **Model:** All## Legend/Key\n| Legend | Key         |\n|--------|-------------|\n| W      | Weekly      |\n| M      | Monthly     |\n| Q      | Quarterly   |\n| S      | Semi-Annual |\n| A      | Annual      |\n| O      | Ok          |\n| R      | Repair      |\n| N      | Replace     |## Checks\n| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   | 1 |   | Test ground fault circuit interrupter (GFCI) (GFI). |\n|   | X |   | 2 |   | Test water temperature (full hot).",
+      "char_count": 752,
+      "token_estimate": 188,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t9etherapeutictubinsp_2d53832ec109_chunk_001_0cee4b3e",
+      "doc_id": "maint1-o1002-t9etherapeutictubinsp_2d53832ec109",
+      "chunk_index": 1,
+      "text": "# Extendicare Maintenance Inspection Checklist## Equipment\n**Therapeutic Tub**- **Name:**\n- **Year:**\n- **Manufacturer:** North Associates; Arjo\n- **Model:** All## Legend/Key\n| Legend | Key         |\n|--------|-------------|\n| W      | Weekly      |\n| M      | Monthly     |\n| Q      | Quarterly   |\n| S      | Semi-Annual |\n| A      | Annual      |\n| O      | Ok          |\n| R      | Repair      |\n| N      | Replace     |## Checks\n| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   | 1 |   | Test ground fault circuit interrupter (GFCI) (GFI). |\n|   | X |   | 2 |   | Test water temperature (full hot). Adjust as necessary.*            |\n|   |   | X | 3 |   | Check operation of:                                                  |\n|   |   |   |   |   | - pump/compressor                                                   |\n|   |   |   |   |   | - aerator                                                          |\n|   |   |   |   |   | - drain                                                             |\n|   |   |   |   |   | - overflow                                                          |\n|   |   |   |   |   | - backflush.",
+      "char_count": 1282,
+      "token_estimate": 320,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t9etherapeutictubinsp_2d53832ec109_chunk_002_69645d06",
+      "doc_id": "maint1-o1002-t9etherapeutictubinsp_2d53832ec109",
+      "chunk_index": 2,
+      "text": "|\n|   | X |   | 2 |   | Test water temperature (full hot). Adjust as necessary.*            |\n|   |   | X | 3 |   | Check operation of:                                                  |\n|   |   |   |   |   | - pump/compressor                                                   |\n|   |   |   |   |   | - aerator                                                          |\n|   |   |   |   |   | - drain                                                             |\n|   |   |   |   |   | - overflow                                                          |\n|   |   |   |   |   | - backflush. |\n|   |   |   |   |   | Repair or replace as required. |\n|   |   | X | 4 |   | Clean pump inlet screen. |\n|   |   | X | 5 |   | Check all valves and pipe connections for leaks. Repair or replace as required. |\n|   |   | X | 6 |   | Check that tub is secure to floor and gaskets and seals are in place and secure. |\n|   |   | X | 7 |   | Check filler hose for firmness and cracks. Replace as necessary. |\n|   |   | X | 8 |   | Clean water inlet strainers. |\n|   |   | X | 9 |   | Check surface finish for cracks, chips, etc. Repair as necessary. |**NOTE**\nMaximum temperature SHALL NOT exceed 106ᵒF (41 oC).",
+      "char_count": 1195,
+      "token_estimate": 298,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t9etherapeutictubinsp_2d53832ec109_chunk_003_607259db",
+      "doc_id": "maint1-o1002-t9etherapeutictubinsp_2d53832ec109",
+      "chunk_index": 3,
+      "text": "Repair as necessary. |**NOTE**\nMaximum temperature SHALL NOT exceed 106ᵒF (41 oC). If temperature cannot be readjusted immediately, TUB MUST BE TAGGED OUT OF SERVICE.## Monthly Schedule\n| Month | M | Q | S | A |\n|-------|---|---|---|---|\n| JAN   | W | W | W | W |\n| FEB   | W | W | W | W |\n| MAR   | W | W | W | W |\n| APR   | W | W | W | W |\n| MAY   | W | W | W | W |\n| JUN   | W | W | W | W |\n| JUL   | W | W | W | W |\n| AUG   | W | W | W | W |\n| SEP   | W | W | W | W |\n| OCT   | W | W | W | W |\n| NOV   | W | W | W | W |\n| DEC   | W | W | W | W |----*Helping people live better*\nThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025  Page 1 of 2# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1144,
+      "token_estimate": 286,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t9etherapeutictubinsp_2d53832ec109_chunk_004_f1d0c72d",
+      "doc_id": "maint1-o1002-t9etherapeutictubinsp_2d53832ec109",
+      "chunk_index": 4,
+      "text": "© 2025  Page 1 of 2# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 2 of 2",
+      "char_count": 510,
+      "token_estimate": 127,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 5
+}

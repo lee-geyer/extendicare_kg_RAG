@@ -1,0 +1,90 @@
+{
+  "doc_id": "care15-p1001-t2referralrestorativecarecoordinatingcommittee_449c4f6e5ce7",
+  "total_chunks": 7,
+  "chunks": [
+    {
+      "chunk_id": "care15-p1001-t2referralrestorativecarecoordinatingcommittee_449c4f6e5ce7_chunk_000_042d89fd",
+      "doc_id": "care15-p1001-t2referralrestorativecarecoordinatingcommittee_449c4f6e5ce7",
+      "chunk_index": 0,
+      "text": "# Referral - Restorative Care Coordinating Committee| Resident: | Effective Date: | Location: |\n|-----------|-----------------|-----------|\n| Initial Admission: | Admission: | Date of Birth: |\n| Score: NA | Category: NA | Physician: |## A. Referral### 1. Reason for referral\n- a. The Resident believes he or she is capable of improved performance in physical function. - b. Care professional believes the person is capable of improved performance in physical function. - c. InterRai triggered assessment protocol\n- d. InterRai triggered Quality indicator\n- e. Timed 4-metre (or 13-foot) walk\n- f. Deteriorated bladder or bowel continence\n- g. New or worsened or recurrent Respiratory condition\n- h. Fall risk\n- i. Cognitive decline\n- j. Functional decline (worsening function and/or mobility)\n- k. Communication\n- l. Physical Restraint / PASD\n- m. Other### 1c. InterRai assessment protocol triggered:\n- a. Physical Activities Promotion\n- b. Activities of Daily Living (ADLs)\n- c. Physical Restraints\n- d. Cognitive Loss\n- e. Communication\n- f. Falls\n- g. Cardio-Respiratory Conditions\n- h. Urinary Incontinence\n- i. Bowel Conditions### 1d. InterRai triggered Quality indicator:\n- a.",
+      "char_count": 1182,
+      "token_estimate": 295,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care15-p1001-t2referralrestorativecarecoordinatingcommittee_449c4f6e5ce7_chunk_001_1286f800",
+      "doc_id": "care15-p1001-t2referralrestorativecarecoordinatingcommittee_449c4f6e5ce7",
+      "chunk_index": 1,
+      "text": "Bowel Conditions### 1d. InterRai triggered Quality indicator:\n- a. early-loss ADL functioning (dressing and personal hygiene) worsened or who remained completely dependent in early-loss ADLs (ADL6A)\n- b. mid-loss ADL functioning (transfer and locomotion) worsened or who remained completely dependent in mid-loss ADLs (ADL5A)\n- c. worsened late-loss ADL functioning (bed mobility, transfer, eating and toilet) (ADL01)\n- d. ADL self-performance worsened (ADLD7)\n- e. ability to locomote worsened (MOB01)\n- f. cognitive ability worsened (COG01)\n- g. ability to communicate worsened (COM01)\n- h. bowel continence worsened (CNT02)\n- i. bladder continence worsened (CNT03)\n- j. developed a respiratory condition or have not gotten better (RSPX2)### 1f. Details of cognitive loss:### 1g. Details of Respiratory condition:### 1h. Has continence patterning and assessment been completed recently? - a. Yes\n- b. No### 1i. Details of continence patterns / assessment:### 1j. Details of functional decline or opportunity for improvement:----*Page 1 of 3*# Referral - Restorative Care Coordinating Committee## Resident:### 1. Details of reason for referral:### 2.",
+      "char_count": 1151,
+      "token_estimate": 287,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care15-p1001-t2referralrestorativecarecoordinatingcommittee_449c4f6e5ce7_chunk_002_e90870f4",
+      "doc_id": "care15-p1001-t2referralrestorativecarecoordinatingcommittee_449c4f6e5ce7",
+      "chunk_index": 2,
+      "text": "Details of functional decline or opportunity for improvement:----*Page 1 of 3*# Referral - Restorative Care Coordinating Committee## Resident:### 1. Details of reason for referral:### 2. Preferred restorative care specialty for referral:\n- a. Nursing Rehabilitation\n- b. Physiotherapy\n- c. Occupational therapy\n- d. Social Work\n- e. Recreation and Leisure### 2a. Suggested Nursing Rehabilitation Program(s):\n- a. Active Range of Motion\n- b. Passive Range of Motion\n- c. Bed Mobility\n- d. Walking\n- e. Transfers\n- f. Locomotion\n- g. Dressing\n- h. Grooming\n- i. Amputation or Prosthesis care\n- j. Splint or Brace Assistance\n- k. Eating or Swallowing\n- l. Communication\n- m. Prompted Voiding\n- n. Bladder retraining\n- o. Scheduled Toileting\n- p. Respiratory Therapy - Chest / Lung\n- q. Respiratory Therapy - CPAP\n- r. Other### 2b. Additional Reasons to refer to PT:\n- a. Balance training\n- b. Gait training\n- c. Enhance mobility/endurance\n- d. Muscle strengthening\n- e. ROM Exercises\n- f. Prevention of contractures\n- g. Post fall assessment\n- h. Post stroke\n- i. Restraint/PASD review\n- j. Other### 2c. Additional reasons to refer to OT: (S)\n- a. Walker/mobility aids assessment\n- b.",
+      "char_count": 1181,
+      "token_estimate": 295,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care15-p1001-t2referralrestorativecarecoordinatingcommittee_449c4f6e5ce7_chunk_003_59fddd8c",
+      "doc_id": "care15-p1001-t2referralrestorativecarecoordinatingcommittee_449c4f6e5ce7",
+      "chunk_index": 3,
+      "text": "Additional reasons to refer to OT: (S)\n- a. Walker/mobility aids assessment\n- b. Power-wheelchair driving assessment\n- c. Transfer assessment\n- d. Toilet seating assessment\n- e. Restraint/PASD review\n- f. Splinting and contracture management\n- g. Adaptive eating aids and assistive devices\n- h. Other### 2d. Additional reasons to refer to SW:\n- a. Cognitive Assessment----**Page 2 of 3**# Referral - Restorative Care Coordinating Committee## Resident:### 1. Communication",
+      "char_count": 471,
+      "token_estimate": 117,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care15-p1001-t2referralrestorativecarecoordinatingcommittee_449c4f6e5ce7_chunk_004_743b510e",
+      "doc_id": "care15-p1001-t2referralrestorativecarecoordinatingcommittee_449c4f6e5ce7",
+      "chunk_index": 4,
+      "text": "### 2. Mood changes\n\n### 3. Outreach programs",
+      "char_count": 45,
+      "token_estimate": 11,
+      "section_title": "2. Mood changes",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care15-p1001-t2referralrestorativecarecoordinatingcommittee_449c4f6e5ce7_chunk_006_82771e49",
+      "doc_id": "care15-p1001-t2referralrestorativecarecoordinatingcommittee_449c4f6e5ce7",
+      "chunk_index": 6,
+      "text": "### 4. Social systems navigation\n\n### 5. Facilitation of family and team communication",
+      "char_count": 86,
+      "token_estimate": 21,
+      "section_title": "4. Social systems navigation",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care15-p1001-t2referralrestorativecarecoordinatingcommittee_449c4f6e5ce7_chunk_008_66517bdc",
+      "doc_id": "care15-p1001-t2referralrestorativecarecoordinatingcommittee_449c4f6e5ce7",
+      "chunk_index": 8,
+      "text": "### 6. Crisis Intervention\n\n### 7. Other### 2e. Additional reasons to refer to recreation and leisure:\n- a. Complementary therapies (music therapy, art therapy, music resources, massage therapy)\n- b. Mood changes\n- c. Maintenance of abilities\n- d. Enhanced abilities\n- e. Exercise\n- f. Sensory support and stimulation\n- g. Cognitive programming (memory cafe)\n- h. Other### 2f. If other please describe:### 3. Name and designation/position of staff completing the referral:**SAVE the Referral, do not lock**----## B. Restorative care team member response to referral### 1. Name and designation/position of Restorative Care team member responding to referral:### 2. Date and Time of response to referral:### 3. Referral response details:\nA delayed progress note will populate the Resident chart when this referral is locked on the date and time it was opened.----**Signature**: ___________________________\n**Date**: _______________________________----**Page 3 of 3**",
+      "char_count": 964,
+      "token_estimate": 241,
+      "section_title": "6. Crisis Intervention",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

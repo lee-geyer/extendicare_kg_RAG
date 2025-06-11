@@ -1,0 +1,30 @@
+{
+  "doc_id": "epm2-p1006-t4naturaldisastersandextremeweatherposter_5f7a38ffa77b",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "epm2-p1006-t4naturaldisastersandextremeweatherposter_5f7a38ffa77b_chunk_000_180a7a61",
+      "doc_id": "epm2-p1006-t4naturaldisastersandextremeweatherposter_5f7a38ffa77b",
+      "chunk_index": 0,
+      "text": "```markdown\n\n# NATURAL DISASTERS AND EXTREME WEATHER EVENTS## Emergency Response### What does it mean? Natural Disasters and Extreme Weather are natural events that occur in the environment that may be dangerous and have the potential of incurring negative effects. This includes earthquakes, floods, tornados or hurricanes, dangerously high or low temperatures, or storms causing large snow accumulations or high winds.### What do I do? - Shelter in place until the disaster/event has passed\n- Close all open outside windows and doors\n- Instruct and help residents and visitors to move away from outside windows and doors\n- Do not leave until it has been confirmed by a legitimate source that the disaster/event has ended#### Tornado/Hurricane or Earthquake:\n- Crouch close to the floor away from any heavy and unrestrained equipment. If there is a sturdy table or countertop, crouch underneath it. Assist residents and visitors to do the same. - Cover your head with your arms, pillows, blankets, and mattresses if available. Assist residents and visitors to do the same. If a resident cannot be removed from a bed, cover them with a blanket.",
+      "char_count": 1144,
+      "token_estimate": 286,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1006-t4naturaldisastersandextremeweatherposter_5f7a38ffa77b_chunk_002_4bc8015e",
+      "doc_id": "epm2-p1006-t4naturaldisastersandextremeweatherposter_5f7a38ffa77b",
+      "chunk_index": 2,
+      "text": "Assist residents and visitors to do the same. If a resident cannot be removed from a bed, cover them with a blanket. - Assist residents in wheelchairs or walkers to put on the brake, sit on their walker/wheelchair, lean forward, and put their arms and hands over their neck and head. Place a blanket or pillow for protection if possible. - Assist residents who cannot be removed from beds to roll onto their stomach if possible and cover their back, neck, and head with pillows and blankets. - If there is fallen debris and you or anyone is trapped, do not attempt to move/remove them, call 9-1-1 and wait for assistance.### Review it before you need it:\n- Refer to your home’s Emergency Planning and Management Manual for Natural Disasters and Extreme Weather Events. - Review the Natural Disasters and Extreme Weather Events plan that describes your area’s role if an event occurs. ```",
+      "char_count": 887,
+      "token_estimate": 221,
+      "section_title": "NATURAL DISASTERS AND EXTREME WEATHER EVENTS## Emergency Response### What does it mean?",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

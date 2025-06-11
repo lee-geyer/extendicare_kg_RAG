@@ -1,0 +1,53 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint3-o1001-t7temperaturelog_2e3cedc43b20_chunk_000_3e800b2a",
+      "doc_id": "maint3-o1001-t7temperaturelog_2e3cedc43b20",
+      "chunk_index": 0,
+      "text": "# Extendicare Temperature Log**EQUIPMENT/LOCATION:**\n**RECORD PERIOD:** TO|       | MONDAY | TUESDAY | WEDNESDAY | THURSDAY | FRIDAY | SATURDAY | SUNDAY |\n|-------|--------|---------|-----------|----------|--------|----------|--------|\n| 1     |        |         |           |          |        |          |        |\n| 2     |        |         |           |          |        |          |        |\n| 3     |        |         |           |          |        |          |        |\n| 1     |        |         |           |          |        |          |        |\n| 2     |        |         |           |          |        |          |        |\n| 3     |        |         |           |          |        |          |        |\n| 1     |        |         |           |          |        |          |        |\n| 2     |        |         |           |          |        |          |        |\n| 3     |        |         |           |          |        |          |        |\n| 1     |        |         |           |          |        |          |        |\n| 2     |        |         |           |          |        |          |        |\n| 3     |        |         |           |          |        |          |        |\n| 1     |        |         |           |          |        |          |        |\n| 2     |        |         |           |          |        |          |        |\n| 3     |        |         |           |          |        |          |        |\n| 1     |        |         |           |          |        |          |        |\n| 2     |        |         |           |          |        |          |        |\n| 3     |        |         |           |          |        |          |        |\n| NOTES |        |         |           |          |        |          |        |----**Helping people live better**\nThis document is uncontrolled when printed.",
+      "char_count": 1852,
+      "token_estimate": 463,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint3-o1001-t7temperaturelog_2e3cedc43b20_chunk_001_e6e5f0d6",
+      "doc_id": "maint3-o1001-t7temperaturelog_2e3cedc43b20",
+      "chunk_index": 1,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025",
+      "char_count": 278,
+      "token_estimate": 69,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint3-o1001-t7temperaturelog_2e3cedc43b20_chunk_002_9cb3a296",
+      "doc_id": "maint3-o1001-t7temperaturelog_2e3cedc43b20",
+      "chunk_index": 2,
+      "text": "# TEMPERATURE LOG**EQUIPMENT/LOCATION:**\n**RECORD PERIOD:** TO|       | MONDAY | TUESDAY | WEDNESDAY | THURSDAY | FRIDAY | SATURDAY | SUNDAY |\n|-------|--------|---------|-----------|----------|--------|----------|--------|\n| 1     |        |         |           |          |        |          |        |\n| 2     |        |         |           |          |        |          |        |\n| 3     |        |         |           |          |        |          |        |\n| 1     |        |         |           |          |        |          |        |\n| 2     |        |         |           |          |        |          |        |\n| 3     |        |         |           |          |        |          |        |\n| 1     |        |         |           |          |        |          |        |\n| 2     |        |         |           |          |        |          |        |\n| 3     |        |         |           |          |        |          |        |\n| 1     |        |         |           |          |        |          |        |\n| 2     |        |         |           |          |        |          |        |\n| 3     |        |         |           |          |        |          |        |\n| 1     |        |         |           |          |        |          |        |\n| 2     |        |         |           |          |        |          |        |\n| 3     |        |         |           |          |        |          |        |\n| 1     |        |         |           |          |        |          |        |\n| 2     |        |         |           |          |        |          |        |\n| 3     |        |         |           |          |        |          |        |\n| NOTES |        |         |           |          |        |          |        |----This document is uncontrolled when printed.",
+      "char_count": 1809,
+      "token_estimate": 452,
+      "section_title": "TEMPERATURE LOG**EQUIPMENT/LOCATION:**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint3-o1001-t7temperaturelog_2e3cedc43b20_chunk_003_c5e54329",
+      "doc_id": "maint3-o1001-t7temperaturelog_2e3cedc43b20",
+      "chunk_index": 3,
+      "text": "Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 2 of 2**",
+      "char_count": 297,
+      "token_estimate": 74,
+      "section_title": "TEMPERATURE LOG**EQUIPMENT/LOCATION:**",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 4
+}

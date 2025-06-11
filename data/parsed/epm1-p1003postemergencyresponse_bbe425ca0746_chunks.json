@@ -1,0 +1,30 @@
+{
+  "doc_id": "epm1-p1003postemergencyresponse_bbe425ca0746",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "epm1-p1003postemergencyresponse_bbe425ca0746_chunk_000_56e87b1f",
+      "doc_id": "epm1-p1003postemergencyresponse_bbe425ca0746",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Emergency Planning and Management\n**INDEX:** EPM1-P10.03\n**SECTION:** Emergency Planning and Management Program\n**DESCRIPTION:** Post Emergency Response\n**APPROVED BY:** Senior Director, Corporate Quality and Risk\n**EFFECTIVE DATE:** January 13, 2025\n**REVIEWED DATE:** January 6, 2025\n**MODIFIED DATE:** May 30, 2025----## POLICY### Emergency Planning and Management Program## PROCEDURE### Executive Director/Designate and Incident Manager:- Host an analysis and debrief of the emergency with everyone involved in the emergency using the Post-Emergency Analysis and Debrief report as documentation.\n- Revise the emergency response plan as necessary based on findings, contact the corporate risk team if required.\n- Complete the Post-Emergency Checklist and send it to the Regional Director/Operations.\n- Save the completed debrief form in the Quality and Operations Reporting Team Folder.## TOOLS1. Post-Emergency Checklist",
+      "char_count": 961,
+      "token_estimate": 240,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 10
+    },
+    {
+      "chunk_id": "epm1-p1003postemergencyresponse_bbe425ca0746_chunk_001_b54e0eaa",
+      "doc_id": "epm1-p1003postemergencyresponse_bbe425ca0746",
+      "chunk_index": 1,
+      "text": "2. Post-Emergency Analysis and Debrief----*Helping people*\n*Ikva bettar*This document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 1 of 1",
+      "char_count": 406,
+      "token_estimate": 101,
+      "section_title": "Post-Emergency Analysis and Debrief----*Helping people*",
+      "chunk_type": "content",
+      "start_line": 11,
+      "end_line": 14
+    }
+  ]
+}

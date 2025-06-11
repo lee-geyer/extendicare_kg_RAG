@@ -1,0 +1,53 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint1-o1002-t7felectricboilerless-steamerinsp_d2ffcbfbe176_chunk_000_03da60f7",
+      "doc_id": "maint1-o1002-t7felectricboilerless-steamerinsp_d2ffcbfbe176",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## MAINTENANCE INSPECTION CHECKLIST### Equipment\n**Electric Boilerless Steamer**### LEGEND/KEY\n| Legend | Key          |\n|--------|--------------|\n| W      | Weekly       |\n| M      | Monthly      |\n| Q      | Quarterly    |\n| S      | Semi-Annual  |\n| A      | Annual       |\n| O      | Ok           |\n| R      | Repair       |\n| N      | Replace      |### CHECKS\n| W | M | Q | S | A | Item                                                                 |\n|---|---|---|---|---|----------------------------------------------------------------------|\n| X |   |   | 1 |   | Clean cooking compartment with a 50/50 mix of water and vinegar. Wipe down with a water-soaked damp cloth. DO NOT use detergent, abrasive compounds or steel wool for cleaning. |\n| X |   |   | 2 |   | Use a soft bristle brush to clean water sensor, temperature probe and convection fan grill. |\n| X |   |   | 3 |   | Clean exterior with a clean damp cloth and at same time check that equipment panels are attached and secure. |\n|   | X | X | 4 |   | Clean/replace water strainers/washers as needed. |\n|   |   | X | 5 |   | De-scale the water reservoir.",
+      "char_count": 1139,
+      "token_estimate": 284,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t7felectricboilerless-steamerinsp_d2ffcbfbe176_chunk_002_d3f68f40",
+      "doc_id": "maint1-o1002-t7felectricboilerless-steamerinsp_d2ffcbfbe176",
+      "chunk_index": 2,
+      "text": "|\n|   | X | X | 4 |   | Clean/replace water strainers/washers as needed. |\n|   |   | X | 5 |   | De-scale the water reservoir. Use Manufacturer recommended chemical cleaners and PPE (Personal Protective Equipment.) Follow procedures outlined in Manufacturer’s Maintenance Manual. |\n|   |   | X | 6 |   | Have an electrician check the terminals on the heating elements and the heating contactor for tightness. This should be coordinated as part of the annual electrical inspection of the facility.* |**NOTE:**\n*The services of qualified personnel may be required.*### Monthly Schedule\n| Month | M | Q | S | A |\n|-------|---|---|---|---|\n| JAN   | W | W | W | W |\n| FEB   | W | W | W | W |\n| MAR   | W | W | W | W |\n| APR   | W | W | W | W |\n| MAY   | W | W | W | W |\n| JUN   | W | W | W | W |\n| JUL   | W | W | W | W |\n| AUG   | W | W | W | W |\n| SEP   | W | W | W | W |\n| OCT   | W | W | W | W |\n| NOV   | W | W | W | W |\n| DEC   | W | W | W | W |----**Helping people live better**This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1050,
+      "token_estimate": 262,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t7felectricboilerless-steamerinsp_d2ffcbfbe176_chunk_003_c9965c91",
+      "doc_id": "maint1-o1002-t7felectricboilerless-steamerinsp_d2ffcbfbe176",
+      "chunk_index": 3,
+      "text": "This should be coordinated as part of the annual electrical inspection of the facility.* |**NOTE:**\n*The services of qualified personnel may be required.*### Monthly Schedule\n| Month | M | Q | S | A |\n|-------|---|---|---|---|\n| JAN   | W | W | W | W |\n| FEB   | W | W | W | W |\n| MAR   | W | W | W | W |\n| APR   | W | W | W | W |\n| MAY   | W | W | W | W |\n| JUN   | W | W | W | W |\n| JUL   | W | W | W | W |\n| AUG   | W | W | W | W |\n| SEP   | W | W | W | W |\n| OCT   | W | W | W | W |\n| NOV   | W | W | W | W |\n| DEC   | W | W | W | W |----**Helping people live better**This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1140,
+      "token_estimate": 285,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint1-o1002-t7felectricboilerless-steamerinsp_d2ffcbfbe176_chunk_004_8588be64",
+      "doc_id": "maint1-o1002-t7felectricboilerless-steamerinsp_d2ffcbfbe176",
+      "chunk_index": 4,
+      "text": "© 2025**\n**Page 1 of 2**# INSPECTION REPORT| ITEM | KEY | DESCRIPTION | INITIAL | DATE |\n|------|-----|-------------|---------|------|\n|      |     |             |         |      |> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**\nPage 2 of 2",
+      "char_count": 519,
+      "token_estimate": 129,
+      "section_title": "MAINTENANCE INSPECTION CHECKLIST### Equipment",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 4
+}

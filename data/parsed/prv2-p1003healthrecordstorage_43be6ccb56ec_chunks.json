@@ -1,0 +1,114 @@
+{
+  "doc_id": "prv2-p1003healthrecordstorage_43be6ccb56ec",
+  "total_chunks": 9,
+  "chunks": [
+    {
+      "chunk_id": "prv2-p1003healthrecordstorage_43be6ccb56ec_chunk_000_4ee75d19",
+      "doc_id": "prv2-p1003healthrecordstorage_43be6ccb56ec",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE- **MANUAL:** Privacy and Confidentiality\n- **INDEX:** PRV2-P10.03\n- **SECTION:** Health Records Management\n- **EFFECTIVE DATE:** April 1, 2025\n- **REVIEWED DATE:** March 25, 2025\n- **APPROVED BY:** Senior Director, Corporate Quality and Risk\n- **MODIFIED DATE:** May 30, 2025----## POLICY### Health Record Management## PROCEDURE### On-Site Storage ProcedureThe Executive Director/Director of Care or Delegate will:- Ensure these measures are in place when storing health records on-site at the home:",
+      "char_count": 525,
+      "token_estimate": 131,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 6
+    },
+    {
+      "chunk_id": "prv2-p1003healthrecordstorage_43be6ccb56ec_chunk_001_2ea45bd3",
+      "doc_id": "prv2-p1003healthrecordstorage_43be6ccb56ec",
+      "chunk_index": 1,
+      "text": "1. Lock filing cabinets and desks containing personal health information (PHI) or health records when not in use.\n\n2. Close active records and return to their regular storage area when not in use.",
+      "char_count": 196,
+      "token_estimate": 49,
+      "section_title": "Lock filing cabinets and desks containing personal health information (PHI) or health records when not in use.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv2-p1003healthrecordstorage_43be6ccb56ec_chunk_003_96b7cede",
+      "doc_id": "prv2-p1003healthrecordstorage_43be6ccb56ec",
+      "chunk_index": 3,
+      "text": "3. Doors that provide entry to areas where there is sensitive information (health records) are locked when there are no staff in the area.\n\n4. Only staff who require access to the records are provided with access.",
+      "char_count": 213,
+      "token_estimate": 53,
+      "section_title": "Doors that provide entry to areas where there is sensitive information (health records) are locked when there are no staff in the area.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv2-p1003healthrecordstorage_43be6ccb56ec_chunk_005_db334623",
+      "doc_id": "prv2-p1003healthrecordstorage_43be6ccb56ec",
+      "chunk_index": 5,
+      "text": "5. Avoid storing boxes at inaccessible heights.\n\n6. Avoid storing records in areas where there is risk of damage, mold or pest infestation including areas with leaking pipes, heating elements or basements.### Off-Site Storage ProcedureThe Executive Director/Director of Care or Delegate will:- Identify paper health records requiring storage at the home’s offsite records storage provider. (Electronic records are stored on Extendicare’s IT systems and are not sent to offsite storage facilities.)\n- Verify that there are no legal holds applicable to the subject records.\n- Insert the health record into a storage box and apply the records storage provider barcode.\n- Maintain and complete a list of the box contents using the Health Records Storage Content List tool. The content list should include:\n- Box storage code number.\n- Name or description of each document/file: e.g., Jane Doe Resident Medical Record discharged 2019, Jane Doe Resident Business file, Supplies Invoice etc.\n- Destruction date for box (refer to the Health Records Retention Table from procedure Destruction of Health Records).\n- Save a copy of the content list.\n- Complete the home’s record storage provider upload template with the following:",
+      "char_count": 1220,
+      "token_estimate": 305,
+      "section_title": "Avoid storing boxes at inaccessible heights.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv2-p1003healthrecordstorage_43be6ccb56ec_chunk_007_af14c8bd",
+      "doc_id": "prv2-p1003healthrecordstorage_43be6ccb56ec",
+      "chunk_index": 7,
+      "text": "1. Insert dates into the FROM DATE and TO DATE section which are the oldest and most recent dates of the records contained in the box, e.g., 2005-10-01 to 2006-08-03.\n\n2. Insert a description in the MAJOR DESCRIPTION field. This is the information that will appear on any inventory reports so it should be very descriptive, e.g.,----Helping people live betterThis document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----",
+      "char_count": 685,
+      "token_estimate": 171,
+      "section_title": "Insert dates into the FROM DATE and TO DATE section which are the oldest and most recent dates of the records contained in the box, e.g., 2005-10-01 to 2006-08-03.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv2-p1003healthrecordstorage_43be6ccb56ec_chunk_009_35fc3b26",
+      "doc_id": "prv2-p1003healthrecordstorage_43be6ccb56ec",
+      "chunk_index": 9,
+      "text": "# PROCEDURE## SECTION: Health Records\n\n### DESCRIPTION: Health Record Storage",
+      "char_count": 77,
+      "token_estimate": 19,
+      "section_title": "PROCEDURE## SECTION: Health Records",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv2-p1003healthrecordstorage_43be6ccb56ec_chunk_011_caf78640",
+      "doc_id": "prv2-p1003healthrecordstorage_43be6ccb56ec",
+      "chunk_index": 11,
+      "text": "### INDEX: PRV2-P10.03- Health records from Jan 2016 to Mar 2016, or A/P Invoices 2015, etc.\n- Remember, detailed information about the box allows someone looking for a file in the future to find it.1. (Optional) Insert a description in the MINOR DESCRIPTION field. This is additional information that will appear on any inventory reports that may help identify the contents.\n\n2. Insert the destruction date in the Destruction Date field. This is the date that the storage box will be scheduled for destruction. If the box contains several different destruction dates, use the date that is the furthest away.",
+      "char_count": 608,
+      "token_estimate": 152,
+      "section_title": "INDEX: PRV2-P10.03- Health records from Jan 2016 to Mar 2016, or A/P Invoices 2015, etc.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv2-p1003healthrecordstorage_43be6ccb56ec_chunk_013_101dc1b0",
+      "doc_id": "prv2-p1003healthrecordstorage_43be6ccb56ec",
+      "chunk_index": 13,
+      "text": "3. Complete this process for each storage box being sent off-site.\n\n4. Arrange for the box(es) to be picked up by the home’s record storage provider.## EDUCATION",
+      "char_count": 161,
+      "token_estimate": 40,
+      "section_title": "Complete this process for each storage box being sent off-site.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv2-p1003healthrecordstorage_43be6ccb56ec_chunk_015_63986253",
+      "doc_id": "prv2-p1003healthrecordstorage_43be6ccb56ec",
+      "chunk_index": 15,
+      "text": "1. Annual Privacy Education## TOOLS\n\n1. Health Records Storage Content List----Helping people live betterThis document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 2 of 2**",
+      "char_count": 446,
+      "token_estimate": 111,
+      "section_title": "Annual Privacy Education## TOOLS",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

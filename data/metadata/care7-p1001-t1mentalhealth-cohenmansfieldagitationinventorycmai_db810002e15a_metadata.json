@@ -1,0 +1,11 @@
+{
+  "doc_id": "care7-p1001-t1mentalhealth-cohenmansfieldagitationinventorycmai_db810002e15a",
+  "category": "Care",
+  "schema_used": "GenericDocumentMeta",
+  "extraction_success": true,
+  "metadata": {
+    "title": "Mental Health - Cohen Mansfield Agitation Inventory (CMAI)"
+  },
+  "error": null,
+  "fallback_metadata": null
+}

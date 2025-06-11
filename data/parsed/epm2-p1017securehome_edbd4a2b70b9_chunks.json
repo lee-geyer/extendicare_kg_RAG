@@ -1,0 +1,54 @@
+{
+  "doc_id": "epm2-p1017securehome_edbd4a2b70b9",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "epm2-p1017securehome_edbd4a2b70b9_chunk_000_d310c58b",
+      "doc_id": "epm2-p1017securehome_edbd4a2b70b9",
+      "chunk_index": 0,
+      "text": "```markdown\n\n# Extendicare## PROCEDURE\n**MANUAL:** Emergency Planning and Management\n**INDEX:** EPM2-P10.17\n**SECTION:** Emergency Response Codes\n**EFFECTIVE DATE:** January 13, 2025\n**REVIEWED DATE:** January 6, 2025\n**APPROVED BY:** Senior Director, Corporate Quality and Risk\n**MODIFIED DATE:** May 30, 2025----## POLICY",
+      "char_count": 323,
+      "token_estimate": 80,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1017securehome_edbd4a2b70b9_chunk_002_b7977673",
+      "doc_id": "epm2-p1017securehome_edbd4a2b70b9",
+      "chunk_index": 2,
+      "text": "### Emergency Response Codes## PROCEDURE\n\n### Respond\nIf the home has been notified by local or provincial police/RCMP of a dangerous situation outside the home in which a secure home is required, or there is an undesirable and potential dangerous individual attempting to enter the home, the home is to immediately begin secure home procedures and announce secure home.- **Secure home** means the outside windows and doors are locked and secured but the inside of the home is business as usual. If the threat is expected to remain outside, Secure Home would be enacted.\n- If the threat is an individual in the home with a weapon, enact **Code Silver**; if the individual has taken a hostage, enact **Code Purple**.\n- Follow the procedures for Secure Home as per the designated Job Action checklists and follow direction from the Incident Manager.### All staff will:\n- Close all outside windows and doors.\n- Close all curtain/blinds to outside windows.\n- Stay away from doors and windows leading to the outside.## TOOLS",
+      "char_count": 1019,
+      "token_estimate": 254,
+      "section_title": "Emergency Response Codes## PROCEDURE",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1017securehome_edbd4a2b70b9_chunk_004_2eb41a1f",
+      "doc_id": "epm2-p1017securehome_edbd4a2b70b9",
+      "chunk_index": 4,
+      "text": "1. Secure Home - Incident Manager Job Action Checklist\n\n2. Secure Home - Executive Director/Designate Job Action Checklist",
+      "char_count": 122,
+      "token_estimate": 30,
+      "section_title": "Secure Home - Incident Manager Job Action Checklist",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1017securehome_edbd4a2b70b9_chunk_006_17b905f2",
+      "doc_id": "epm2-p1017securehome_edbd4a2b70b9",
+      "chunk_index": 6,
+      "text": "3. Secure Home Poster----**Helping people**\nThis document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n```",
+      "char_count": 370,
+      "token_estimate": 92,
+      "section_title": "Secure Home Poster----**Helping people**",
+      "chunk_type": "content",
+      "start_line": 19,
+      "end_line": 22
+    }
+  ]
+}

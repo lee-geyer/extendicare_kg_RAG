@@ -1,0 +1,17 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint5-o1008annualheatinginspection_6403ad28ba71_chunk_000_a2c76795",
+      "doc_id": "maint5-o1008annualheatinginspection_6403ad28ba71",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE- **MANUAL:** Maintenance\n- **INDEX:** MAINT5-O10.08\n- **SECTION:** Certified Inspections\n- **DESCRIPTION:** Annual Heating Inspection\n- **EFFECTIVE DATE:**\n- **REVIEWED DATE:**\n- **APPROVED BY:** VP LTC Operations\n- **MODIFIED DATE:**----## POLICY### Certified Inspection Work## PROCEDURE- All work shall be performed by a provincially licensed gas fitter.\n- Complete the inspection list as outlined on the following forms.\n- Each column is for an individual boiler or furnace used for building heating.\n- Repair items that do not pass inspection, so that all boilers and furnaces are in safe working order at the end of the inspection.## TOOLS1. Annual Heating Inspection Form----> Helping people live better\n> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\n> Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 1",
+      "char_count": 1076,
+      "token_estimate": 269,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 13
+    }
+  ],
+  "total_chunks": 1
+}

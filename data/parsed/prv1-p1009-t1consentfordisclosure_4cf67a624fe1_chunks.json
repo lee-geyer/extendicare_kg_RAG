@@ -1,0 +1,54 @@
+{
+  "doc_id": "prv1-p1009-t1consentfordisclosure_4cf67a624fe1",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "prv1-p1009-t1consentfordisclosure_4cf67a624fe1_chunk_000_8f3925c4",
+      "doc_id": "prv1-p1009-t1consentfordisclosure_4cf67a624fe1",
+      "chunk_index": 0,
+      "text": "# Extendicare Consent for Disclosure of Health Record## WHO IS MAKING THE REQUEST**Full Name:**\nLast: ___________________________\nFirst: ___________________________\nM.I.: ___________________________**Address:**\nStreet Address: ___________________________________________\nApartment/Unit #: ___________________________\nCity: ___________________________\nProvince: ___________________________\nPostal Code: ___________________________**Phone:** ______________________________\n**Email:** _________________________________________**Name of Resident:**\n_____________________________________________**Your relationship to Resident (please describe):**\n_________________________________________________________________**Are you the Substitute Decision Maker for Care (POA) or if the resident is deceased, the Estate Trustee named in their Will or individual who has assumed responsibility for the administration of the Estate?**\n- [ ] Yes\n- [ ] No## ABOUT YOUR REQUEST**What records would you like copied? Please provide as much detail as possible in the box provided:**\n_________________________________________________________________## SIGNATUREPlease note there may be a charge for the requested documents.",
+      "char_count": 1200,
+      "token_estimate": 300,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv1-p1009-t1consentfordisclosure_4cf67a624fe1_chunk_001_3a05c934",
+      "doc_id": "prv1-p1009-t1consentfordisclosure_4cf67a624fe1",
+      "chunk_index": 1,
+      "text": "# Extendicare Consent for Disclosure of Health Record## WHO IS MAKING THE REQUEST**Full Name:**\nLast: ___________________________\nFirst: ___________________________\nM.I.: ___________________________**Address:**\nStreet Address: ___________________________________________\nApartment/Unit #: ___________________________\nCity: ___________________________\nProvince: ___________________________\nPostal Code: ___________________________**Phone:** ______________________________\n**Email:** _________________________________________**Name of Resident:**\n_____________________________________________**Your relationship to Resident (please describe):**\n_________________________________________________________________**Are you the Substitute Decision Maker for Care (POA) or if the resident is deceased, the Estate Trustee named in their Will or individual who has assumed responsibility for the administration of the Estate?**\n- [ ] Yes\n- [ ] No## ABOUT YOUR REQUEST**What records would you like copied? Please provide as much detail as possible in the box provided:**\n_________________________________________________________________## SIGNATUREPlease note there may be a charge for the requested documents. The cost is $30 for the first 20 pages and $0.20 for each additional page.",
+      "char_count": 1275,
+      "token_estimate": 318,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv1-p1009-t1consentfordisclosure_4cf67a624fe1_chunk_002_1e010ec1",
+      "doc_id": "prv1-p1009-t1consentfordisclosure_4cf67a624fe1",
+      "chunk_index": 2,
+      "text": "Please provide as much detail as possible in the box provided:**\n_________________________________________________________________## SIGNATUREPlease note there may be a charge for the requested documents. The cost is $30 for the first 20 pages and $0.20 for each additional page. You will be provided with an estimate if the cost is greater than $30. Your approval for costs above $30 is required prior to the request being processed. You will receive a response to your request including when the requested documents will be available.**Signature:** ___________________________\n**Date:** ___________________________**Witness:** ___________________________\n**Date:** ___________________________----## OFFICE USE ONLY**Date Completed:** _____________________\n**Number of Pages:** ______________________\n**Other:** ______________________________\n**Total Cost:** _________________________\n**Completed by:** ___________________\n**Signature:** __________________________----*Helping people live a better life. This document is uncontrolled when printed.*\n*Extendicare (Canada) Inc.",
+      "char_count": 1076,
+      "token_estimate": 269,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "prv1-p1009-t1consentfordisclosure_4cf67a624fe1_chunk_003_6f3daa07",
+      "doc_id": "prv1-p1009-t1consentfordisclosure_4cf67a624fe1",
+      "chunk_index": 3,
+      "text": "You will receive a response to your request including when the requested documents will be available.**Signature:** ___________________________\n**Date:** ___________________________**Witness:** ___________________________\n**Date:** ___________________________----## OFFICE USE ONLY**Date Completed:** _____________________\n**Number of Pages:** ______________________\n**Other:** ______________________________\n**Total Cost:** _________________________\n**Completed by:** ___________________\n**Signature:** __________________________----*Helping people live a better life. This document is uncontrolled when printed.*\n*Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.*\n*Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025*",
+      "char_count": 897,
+      "token_estimate": 224,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

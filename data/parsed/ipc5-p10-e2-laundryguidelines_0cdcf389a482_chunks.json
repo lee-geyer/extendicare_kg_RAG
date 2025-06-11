@@ -1,0 +1,66 @@
+{
+  "doc_id": "ipc5-p10-e2-laundryguidelines_0cdcf389a482",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": "ipc5-p10-e2-laundryguidelines_0cdcf389a482_chunk_000_b43e4bc4",
+      "doc_id": "ipc5-p10-e2-laundryguidelines_0cdcf389a482",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Laundry Guidelines - OutbreakThe guideline below was developed to support staff during picking up laundry from resident rooms where the resident is on isolation.### Laundry Pick-up Reminders:\n- All staff must don PPE prior to entering the room, regardless of task to complete.\n- If you have contact with either resident (shared), change PPE before moving onto the next task.\n- Use large rolling bins for garbage pickup - leave this in the hall. Alternatively, if few residents are isolated, double bagging (clear plastic bags) the red isolation laundry is needed before sending in the laundry chute or travelling with the soiled laundry through the home.\n- Wipe cart with disinfectant wipes before leaving the unit.### For Laundry Delivery:#### If Delivering Laundry Alone:",
+      "char_count": 791,
+      "token_estimate": 197,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc5-p10-e2-laundryguidelines_0cdcf389a482_chunk_002_10c3a32d",
+      "doc_id": "ipc5-p10-e2-laundryguidelines_0cdcf389a482",
+      "chunk_index": 2,
+      "text": "1. Perform hand hygiene and bring laundry cart close to resident doorway.\n\n2. Perform hand hygiene and put on ALL required PPE.",
+      "char_count": 127,
+      "token_estimate": 31,
+      "section_title": "Perform hand hygiene and bring laundry cart close to resident doorway.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc5-p10-e2-laundryguidelines_0cdcf389a482_chunk_004_90527e7a",
+      "doc_id": "ipc5-p10-e2-laundryguidelines_0cdcf389a482",
+      "chunk_index": 4,
+      "text": "3. Take laundry from cart and enter resident’s room, distribute laundry as usual.\n\n4. Come out of room and doff PPE, perform hand hygiene and move to next room.#### If Delivering Laundry in Pairs:",
+      "char_count": 196,
+      "token_estimate": 49,
+      "section_title": "Take laundry from cart and enter resident’s room, distribute laundry as usual.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc5-p10-e2-laundryguidelines_0cdcf389a482_chunk_006_98d057ac",
+      "doc_id": "ipc5-p10-e2-laundryguidelines_0cdcf389a482",
+      "chunk_index": 6,
+      "text": "1. Staff #1 remains in the hallway, performs hand hygiene to pass laundry from the cart.\n\n2. Staff #2 will perform hand hygiene and don ALL required PPE and enter the resident room.",
+      "char_count": 181,
+      "token_estimate": 45,
+      "section_title": "Staff #1 remains in the hallway, performs hand hygiene to pass laundry from the cart.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc5-p10-e2-laundryguidelines_0cdcf389a482_chunk_008_4b20b056",
+      "doc_id": "ipc5-p10-e2-laundryguidelines_0cdcf389a482",
+      "chunk_index": 8,
+      "text": "3. Staff #1 passes laundry to Staff #2 who places clean laundry in closets/dressers as usual.\n\n4. Staff perform hand hygiene, doff PPE and move to next room.----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025Page 1 of 1",
+      "char_count": 494,
+      "token_estimate": 123,
+      "section_title": "Staff #1 passes laundry to Staff #2 who places clean laundry in closets/dressers as usual.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

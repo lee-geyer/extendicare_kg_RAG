@@ -1,0 +1,34 @@
+# Extendicare IMS Leader Job Action Checklist – Planning
+
+**Note:** All documentation during the emergency must be given to the Administrator/Executive Director daily and kept on file for a minimum of three years.
+
+## Planning – Job Action Sheet
+
+**Role:** The planning function develops scenario/resource projections for the IMS Team and undertakes long range planning (more than 2 hours).
+
+**Name:**
+
+**Record the time action was initiated (note on the line below):**
+
+- Receive appointment and briefing from the Incident Manager.
+- Read this entire Job Action Sheet.
+- Establish a status board and keep it current.
+- Ensure all IMS Team members have appropriate policies/plans.
+- Monitor the external influences (e.g. weather, utilities, staffing, supplies, etc.).
+- Project the possible situation(s) in 2 hours (short term).
+- Prepare options to respond to the possible short term situation.
+- Project the possible situation(s) in more than 2 hours (long term).
+- Prepare options to respond to the possible long term situation.
+- Prepare a plan/strategy to restore the home to normal operations.
+- Estimate the resource requirements and financial implications (in coordination with Administration/ED/Finance Manager) to return to normal operations.
+- Attend IMS Team meetings.
+
+----
+
+**Helping people Iva better**
+
+This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.
+
+**Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025**
+
+**Page 1 of 1**

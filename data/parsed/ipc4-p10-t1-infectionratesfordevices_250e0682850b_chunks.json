@@ -1,0 +1,18 @@
+{
+  "doc_id": "ipc4-p10-t1-infectionratesfordevices_250e0682850b",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "ipc4-p10-t1-infectionratesfordevices_250e0682850b_chunk_000_71728b33",
+      "doc_id": "ipc4-p10-t1-infectionratesfordevices_250e0682850b",
+      "chunk_index": 0,
+      "text": "# Instructions|Resident Device Days| | | | | | | | | | | | | | |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n|Complete table for all residents with catheters| | | | | | | | | | | | | | |\n|Resident device days will be calculated automatically and populate in Infections tab| | | | | | | | | | | | | | |\n|Example:| | | | | | | | | | | | | | |\n| | | |Resident Catheter Device Days Per Month| | | | | | | | | | | |\n|Resident Name|Unit|Room #|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|\n|John Smith|A|101|31|28|31|30|31|30|31|31|30|31|30|31|\n|Mary Jones|A|102|31|20|0|0|0|0|0|0|30|15|0|0|\n| | | | | | | | | | | | | | | |\n|Infections| | | | | | | | | | | | | | |\n|# of catheter associated urinary tract infections| | | | | | | | | | | | | | |\n| | | | | | | | | | | | | | | |\n|Calculation for LTC infection rate with catheters| | | | | | | | | | | | | | |\n|# of UTIs in residents with indwelling catheters| | | | | | | | | | | | | | |\n|divided by # of Catheter-days (total number of days each resident had an indwelling catheter added together in the month)| | | | | | | | | | | | | | |\n|times 1,000 = # UTIs per 1,000  resident catheter device-days| | | | | | | | | | | | | | |\n| | | | | | | | | | | | | | | |\n|***Note: Please do not alter the formulas***| | | | | | | | | | | | | | |# Resident Device Days| | | |Resident Catheter Device Days Per Month| | | | | | | | | | | |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n|Resident Name|Unit|Room #|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|\n| | | | | | | | | | | | | | | |\n|Total Resident Device Days Per Month| | |0|0|0|0|0|0|0|0|0|0|0|0|# Infections|Infections|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|\n|---|---|---|---|---|---|---|---|---|---|---|---|---|\n|# Catheter associated Urinary Tract Infections| | | | | | | | | | | | |\n| | | | | | | | | | | | | |\n|Resident Device Days|0|0|0|0|0|0|0|0|0|0|0|0|# Rates Infections Monthly|Infections|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|\n|---|---|---|---|---|---|---|---|---|---|---|---|---|\n|Rate of Catheter Associated Urinary Tract Infections per 1000 resident device days|#DIV/0!|#DIV/0!|#DIV/0!|#DIV/0!|#DIV/0!|#DIV/0!|#DIV/0!|#DIV/0!|#DIV/0!|#DIV/0!|#DIV/0!|#DIV/0!|# Rates Infections Monthly Graph|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|\n|---|---|---|---|---|---|---|---|---|---|---|---|# Rates Infections Quarterly|Infections|Q1|Q2|Q3|Q4|\n|---|---|---|---|---|\n|Rate of Catheter Associated Urinary Tract Infections per 1000 resident device days|#DIV/0!|#DIV/0!|#DIV/0!|#DIV/0!|# Rates Infections Quarterly Grap|0.0|0.0|0.0|0.0|\n|---|---|---|---|",
+      "char_count": 2614,
+      "token_estimate": 653,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

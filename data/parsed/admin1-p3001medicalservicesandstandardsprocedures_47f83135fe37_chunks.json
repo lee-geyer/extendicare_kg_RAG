@@ -1,0 +1,41 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "admin1-p3001medicalservicesandstandardsprocedures_47f83135fe37_chunk_000_cbe819b6",
+      "doc_id": "admin1-p3001medicalservicesandstandardsprocedures_47f83135fe37",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Administration\n**INDEX:** ADMIN1-P30.01\n**SECTION:** Medical and Professional Services\n**EFFECTIVE DATE:** July 15, 2025\n**REVIEWED DATE:** July 8, 2025\n**APPROVED BY:** VP, LTC Operations\n**MODIFIED DATE:**----# POLICY## Medical Services and Standards### PROCEDUREApplicable to all Extendicare homes: the home’s Executive Director, Medical Director, or designate are responsible for each of the procedures listed below.1. Ensure each resident is under the care of a physician who is licensed by a provincial medical college/regulatory authority governing the provision of medical services in the province in which the home is located.",
+      "char_count": 672,
+      "token_estimate": 168,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": 0,
+      "end_line": 6
+    },
+    {
+      "chunk_id": "admin1-p3001medicalservicesandstandardsprocedures_47f83135fe37_chunk_001_fdd87527",
+      "doc_id": "admin1-p3001medicalservicesandstandardsprocedures_47f83135fe37",
+      "chunk_index": 1,
+      "text": "2. If the resident wishes to retain their own personal physician, that physician must agree to meet the standards as outlined in the provincial standards and regulations governing medical services in the province in which the home is located and the home’s Professional Advisory Committee.\n\n3. Assist the resident who does not have a physician to select one.",
+      "char_count": 358,
+      "token_estimate": 89,
+      "section_title": "If the resident wishes to retain their own personal physician, that physician must agree to meet the standards as outlined in the provincial standards and regulations governing medical services in the province in which the home is located and the home’s Professional Advisory Committee.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "admin1-p3001medicalservicesandstandardsprocedures_47f83135fe37_chunk_003_6e8b0511",
+      "doc_id": "admin1-p3001medicalservicesandstandardsprocedures_47f83135fe37",
+      "chunk_index": 3,
+      "text": "4. Advise each resident that they may contact their physician through the registered staff on the home area.Applicable to all Extendicare homes: the home’s physician(s) are responsible for each of the procedures listed below.1. Arrange to provide 24-hour coverage in the event that emergency medical services are needed.\n\n2. Make a referral for consultation when necessary.----**Helping people live better**\nThis document is uncontrolled when printed.\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\nPage 1 of 1",
+      "char_count": 742,
+      "token_estimate": 185,
+      "section_title": "Advise each resident that they may contact their physician through the registered staff on the home area.Applicable to all Extendicare homes: the home’s physician(s) are responsible for each of the procedures listed below.1. Arrange to provide 24-hour coverage in the event that emergency medical services are needed.",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ],
+  "total_chunks": 3
+}

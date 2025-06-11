@@ -1,0 +1,62 @@
+{
+  "processing_summary": {
+    "total_documents": 6,
+    "successful": 6,
+    "failed": 0,
+    "success_rate": 100.0,
+    "total_chunks_created": 53,
+    "processing_time_seconds": 59.000884771347046,
+    "avg_time_per_doc": 9.833480795224508
+  },
+  "successful_documents": [
+    {
+      "success": true,
+      "doc_id": "care6-p1001-t5skin-lowerlegandfootassessmentappusers_3571fd0f80bc",
+      "filename": "CARE6-P10.01-T5 Skin - Lower Leg and Foot Assessment (App Users).pdf",
+      "chunks": 6,
+      "content_length": 5118,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care6-p1001-t3skinwound-totalbodyassessmentappusers_dd0f276d629e",
+      "filename": "CARE6-P10.01-T3 Skin & Wound - Total Body Assessment (App Users).pdf",
+      "chunks": 1,
+      "content_length": 780,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care6-p10skinwoundpreventionandmanagementprogram_63e53986b0e2",
+      "filename": "CARE6-P10 Skin & Wound Prevention and Management Program.pdf",
+      "chunks": 10,
+      "content_length": 4369,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care6-p1001-t2skin-woundulcerinitialandweeklyevaluation_50c31e5ff1f6",
+      "filename": "CARE6-P10.01-T2 Skin - Wound Ulcer Initial and Weekly Evaluation.pdf",
+      "chunks": 25,
+      "content_length": 10423,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care6-p10-e4woundinfection-nerdsandstoneescriteria_fa8e545093cb",
+      "filename": "CARE6-P10-E4 Wound Infection- NERDS and STONEES Criteria.pdf",
+      "chunks": 4,
+      "content_length": 3922,
+      "metadata_success": true
+    },
+    {
+      "success": true,
+      "doc_id": "care6-p10-t1skinwoundpreventionandmanagementaudit_31255ed8bcf7",
+      "filename": "CARE6-P10-T1 Skin Wound Prevention and Management Audit.docx",
+      "chunks": 7,
+      "content_length": 7142,
+      "metadata_success": true
+    }
+  ],
+  "failed_documents": []
+}

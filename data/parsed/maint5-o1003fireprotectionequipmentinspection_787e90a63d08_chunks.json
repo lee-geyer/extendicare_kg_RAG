@@ -1,0 +1,101 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "maint5-o1003fireprotectionequipmentinspection_787e90a63d08_chunk_000_a39453a0",
+      "doc_id": "maint5-o1003fireprotectionequipmentinspection_787e90a63d08",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE**MANUAL:** Maintenance\n**INDEX:** MAINT5-O10.03\n**SECTION:** Certified Inspections\n**EFFECTIVE DATE:**\n**REVIEWED DATE:**\n**APPROVED BY:** VP LTC Operations\n**MODIFIED DATE:**----## POLICY### Certified Inspection Work## PROCEDUREThe following equipment shall be inspected:- All fire extinguishers (Annually)\n- All fire hoses (Annually)\n- The Kitchen Hood Fire Suppression System (Semi-Annually)During the inspection, the appropriate inspection report form shall be completed.",
+      "char_count": 501,
+      "token_estimate": 125,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint5-o1003fireprotectionequipmentinspection_787e90a63d08_chunk_001_3d839790",
+      "doc_id": "maint5-o1003fireprotectionequipmentinspection_787e90a63d08",
+      "chunk_index": 1,
+      "text": "A copy of the handwritten report shall be left with the Executive Director/Maintenance Manager, and a signed, typewritten copy shall be sent to the Extendicare Asset Management Department within 14 days of the date of the inspection.### Fire Extinguishers shall be tested according to the following schedule:| Type of Extinguisher                          | Recharge Interval | Test Interval |\n|-----------------------------------------------|-------------------|---------------|\n| Pump Tank                                     | 1 year            | Not required   |\n| Carbon Dioxide                                | 5 years           | 5 years       |\n| Dry Chemical with stainless steel shells      | 5 years           | 5 years       |\n| Dry Chemical with mild steel shells           | 6 years           | 12 years      |Fire hoses shall be hydrostatically inspected at intervals not exceeding 5 years after the initial purchase date and every 3 years after then.### FIRE EXTINGUISHERS- Each extinguisher shall be individually inspected in accordance with NFPA-10 (Standard for Portable Fire Extinguishers) and a record shall be kept of the results.",
+      "char_count": 1152,
+      "token_estimate": 288,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint5-o1003fireprotectionequipmentinspection_787e90a63d08_chunk_002_91aca6b9",
+      "doc_id": "maint5-o1003fireprotectionequipmentinspection_787e90a63d08",
+      "chunk_index": 2,
+      "text": "- For each extinguisher, inspect and record:\n- The identification number and the location of the extinguisher\n- The type of extinguisher\n- The physical condition and if there are signs of physical damage\n- The condition of all seals and tamper indicators\n- The level of the extinguishing agent, and the pressure gauge reading. (Determine the level by weighing)\n- The date of the last recharge and the projected date for the next recharge\n- The date of the last hydrostatic test and the projected date of the next hydrostatic test----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025",
+      "char_count": 854,
+      "token_estimate": 213,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint5-o1003fireprotectionequipmentinspection_787e90a63d08_chunk_003_88e8d6cb",
+      "doc_id": "maint5-o1003fireprotectionequipmentinspection_787e90a63d08",
+      "chunk_index": 3,
+      "text": "# Extendicare## PROCEDURE### SECTION: Certified\n\n### DESCRIPTION: Fire Protection Equipment Inspection",
+      "char_count": 102,
+      "token_estimate": 25,
+      "section_title": "Extendicare## PROCEDURE### SECTION: Certified",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint5-o1003fireprotectionequipmentinspection_787e90a63d08_chunk_005_ce7bcdc3",
+      "doc_id": "maint5-o1003fireprotectionequipmentinspection_787e90a63d08",
+      "chunk_index": 5,
+      "text": "### INDEX: MAINT5-O10.03----- Those extinguishers which are due to be tested or recharged within eight months of the date of the inspection, shall be temporarily replaced while they are removed and either tested or recharged as required. All this shall be done in conformance with the procedures outlined in NFPA-10 (Standard for Portable Fire Extinguishers). - Remove the maintenance and inspection label tag from the extinguisher and install a new label. Record on the label the date of the last hydrostatic test and the date of the last refill. If these were not performed during this inspection, this information may be transferred from the previous label. - Install the extinguisher in the proper location with the manufacturer’s label facing out. Ensure that the maintenance and inspection label is not placed on the front of the extinguisher.### STANDPIPE AND HOSE SYSTEM- Each hose shall be individually inspected in accordance with NFPA-14 and NFPA 1962 and a record shall be kept of the results.",
+      "char_count": 1005,
+      "token_estimate": 251,
+      "section_title": "INDEX: MAINT5-O10.03----- Those extinguishers which are due to be tested or recharged within eight months of the date of the inspection, shall be temporarily replaced while they are removed and either tested or recharged as required. All this shall be done in conformance with the procedures outlined in NFPA-10 (Standard for Portable Fire Extinguishers).",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint5-o1003fireprotectionequipmentinspection_787e90a63d08_chunk_006_b03702a2",
+      "doc_id": "maint5-o1003fireprotectionequipmentinspection_787e90a63d08",
+      "chunk_index": 6,
+      "text": "- Install the extinguisher in the proper location with the manufacturer’s label facing out. Ensure that the maintenance and inspection label is not placed on the front of the extinguisher.### STANDPIPE AND HOSE SYSTEM- Each hose shall be individually inspected in accordance with NFPA-14 and NFPA 1962 and a record shall be kept of the results. - For each hose, inspect and record:\n- The identification number and the location of the hose\n- The condition of the hose\n- The condition of the gaskets, couplings, and nozzle\n- The date of the last service test and the projected date of the next service test. - Those hoses which are due to be service tested within six months of the date of the inspection shall be temporarily replaced while they are removed, and service tested as per NFPA 1962. - Re-rack the hose in such a manner that the transverse holds do not occur at the same places as before.### KITCHEN HOOD- The kitchen hood and the kitchen hood fire suppression system shall be inspected at intervals not to exceed six months between inspections.",
+      "char_count": 1055,
+      "token_estimate": 263,
+      "section_title": "INDEX: MAINT5-O10.03----- Those extinguishers which are due to be tested or recharged within eight months of the date of the inspection, shall be temporarily replaced while they are removed and either tested or recharged as required. All this shall be done in conformance with the procedures outlined in NFPA-10 (Standard for Portable Fire Extinguishers).",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint5-o1003fireprotectionequipmentinspection_787e90a63d08_chunk_007_14fea37f",
+      "doc_id": "maint5-o1003fireprotectionequipmentinspection_787e90a63d08",
+      "chunk_index": 7,
+      "text": "- Those hoses which are due to be service tested within six months of the date of the inspection shall be temporarily replaced while they are removed, and service tested as per NFPA 1962. - Re-rack the hose in such a manner that the transverse holds do not occur at the same places as before.### KITCHEN HOOD- The kitchen hood and the kitchen hood fire suppression system shall be inspected at intervals not to exceed six months between inspections. - Inspect and record the condition of all actuation components, including remote manual pull stations, mechanical or electrical devices, detectors, actuators, etc. - Annually, during the winter inspection, replace all fusible links and automatic sprinkler heads. This shall not be required if automatic bulb-type sprinklers or spray nozzles are used, and the annual examination shows no build-up of grease or other material on the sprinkler or spray nozzle.### TOOLS1. Fire Extinguisher and Fire Hose Inspection Form",
+      "char_count": 966,
+      "token_estimate": 241,
+      "section_title": "INDEX: MAINT5-O10.03----- Those extinguishers which are due to be tested or recharged within eight months of the date of the inspection, shall be temporarily replaced while they are removed and either tested or recharged as required. All this shall be done in conformance with the procedures outlined in NFPA-10 (Standard for Portable Fire Extinguishers).",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "maint5-o1003fireprotectionequipmentinspection_787e90a63d08_chunk_008_48219eb3",
+      "doc_id": "maint5-o1003fireprotectionequipmentinspection_787e90a63d08",
+      "chunk_index": 8,
+      "text": "2. Kitchen Hood Fire Suppression System Inspection (Semi-Annual) Form----> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\n> Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 2 of 2",
+      "char_count": 413,
+      "token_estimate": 103,
+      "section_title": "Kitchen Hood Fire Suppression System Inspection (Semi-Annual) Form----> This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.",
+      "chunk_type": "content",
+      "start_line": 36,
+      "end_line": 38
+    }
+  ],
+  "total_chunks": 8
+}

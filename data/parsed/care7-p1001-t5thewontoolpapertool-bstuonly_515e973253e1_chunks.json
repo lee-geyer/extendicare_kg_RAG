@@ -1,0 +1,30 @@
+{
+  "doc_id": "care7-p1001-t5thewontoolpapertool-bstuonly_515e973253e1",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "care7-p1001-t5thewontoolpapertool-bstuonly_515e973253e1_chunk_000_171f5267",
+      "doc_id": "care7-p1001-t5thewontoolpapertool-bstuonly_515e973253e1",
+      "chunk_index": 0,
+      "text": "# Extendicare## Resident Name:\n**THE WON TOOL**### Who I Am Now\n- **Preferred Name:**\n- **Language(s):**\n- **Things that I am good at and/or best known for (strengths, abilities, etc.):**\n- **The following people and pets are important to me (names, roles, details):**\n- **What I believe and practice (cultural, spiritual, religious; morals, values and traditions):**### About My Past\n- **Where I grew up/lived (building types, communities, cities):**\n- **What I did for a living (occupations, roles, interests, education):**\n- **My high points in life (events, achievements, experiences, significant dates):**\n- **My low points in life (loss, death, significant dates, strained relationships, trauma, environmental events):**\n- **For additional details, refer to (chart, care plan, care partner, etc.):**----**Adapted from:** Behavioural Supports Ontario - My Personhood Summary and DementiAbility - W.O.W.",
+      "char_count": 907,
+      "token_estimate": 226,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care7-p1001-t5thewontoolpapertool-bstuonly_515e973253e1_chunk_001_a731eb2c",
+      "doc_id": "care7-p1001-t5thewontoolpapertool-bstuonly_515e973253e1",
+      "chunk_index": 1,
+      "text": "**Helping people live better**# Resident Care Plan## Resident Information\n- **Resident Name:** THE WON TOOL## Abilities and Support Strategies| **Abilities**         | **Triggers/Behaviours** | **Staff Strategies** |\n|-----------------------|-------------------------|----------------------|\n| Communication         |                         |                      |\n| Language:             |                         |                      |\n| Eating/Drinking       |                         |                      |\n| Preference:           |                         |                      |\n| Preferred Time:       |                         |                      |\n| Toileting             |                         |                      |\n| Bathing/Shower        |                         |                      |\n| Preference:           |                         |                      |\n| Preferred Time:       |                         |                      |\n| Mouth care            |                         |                      |\n| Sleeping              |                         |                      |\n| Preference:           |                         |                      |\n| Preferred Time:       |                         |                      |\n| Dressing/Grooming     |                         |                      |\n| Mobility/Transfers     |                         |                      |\n| Other notes:          |                         |                      |## Review Information\n- **Date Reviewed:**\n- **Date of Next Review:**----### Adaptation Sources\n- Adapted from: Behavioural Supports Ontario - My Personhood Summary and DementiAbility - W.O.W.",
+      "char_count": 1684,
+      "token_estimate": 421,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

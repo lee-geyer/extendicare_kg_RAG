@@ -1,0 +1,78 @@
+{
+  "doc_id": "care11-p10-t3restraintpersonalassistanceservicedeviceconsentform_7bbe94afcf02",
+  "total_chunks": 6,
+  "chunks": [
+    {
+      "chunk_id": "care11-p10-t3restraintpersonalassistanceservicedeviceconsentform_7bbe94afcf02_chunk_000_aa1d05a6",
+      "doc_id": "care11-p10-t3restraintpersonalassistanceservicedeviceconsentform_7bbe94afcf02",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Restraint & Personal Assistance Service Device (PASD) Consent Form**Resident Name:** _______________________________            **Room/Bed:** ________\n**Substitute Decision Maker (only if resident not capable):** ___________________________Confirm discussion has occurred & acknowledge your understanding of each item by checking ‘yes.’### Device Classification (restraint vs. PASD) is based on the effect the device has and risk to the resident, including:\n| Item                                                                 | Yes |\n|----------------------------------------------------------------------|-----|\n| Restriction of freedom of movement or normal access to body         |  ✔  |\n| Physical injury (e.g., skin irritation, breakdown, or pressure ulcers)|  ✔  |\n| Decreased mobility, pain, or discomfort                               |  ✔  |\n| Psychological impacts (e.g., withdrawal, anxiety, depression, agitation)|  ✔  |\n| Increased confusion and/or sedation                                   |  ✔  |\n| Increased falls risk, entrapment suffocation, or death.",
+      "char_count": 1091,
+      "token_estimate": 272,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care11-p10-t3restraintpersonalassistanceservicedeviceconsentform_7bbe94afcf02_chunk_002_8561854c",
+      "doc_id": "care11-p10-t3restraintpersonalassistanceservicedeviceconsentform_7bbe94afcf02",
+      "chunk_index": 2,
+      "text": "## Restraint & Personal Assistance Service Device (PASD) Consent Form**Resident Name:** _______________________________            **Room/Bed:** ________\n**Substitute Decision Maker (only if resident not capable):** ___________________________Confirm discussion has occurred & acknowledge your understanding of each item by checking ‘yes.’### Device Classification (restraint vs. PASD) is based on the effect the device has and risk to the resident, including:\n| Item                                                                 | Yes |\n|----------------------------------------------------------------------|-----|\n| Restriction of freedom of movement or normal access to body         |  ✔  |\n| Physical injury (e.g., skin irritation, breakdown, or pressure ulcers)|  ✔  |\n| Decreased mobility, pain, or discomfort                               |  ✔  |\n| Psychological impacts (e.g., withdrawal, anxiety, depression, agitation)|  ✔  |\n| Increased confusion and/or sedation                                   |  ✔  |\n| Increased falls risk, entrapment suffocation, or death. |  ✔  |### Restraints are temporary measures implemented as a last resort only after alternatives have been trialed and deemed unsuccessful.",
+      "char_count": 1217,
+      "token_estimate": 304,
+      "section_title": "Restraint & Personal Assistance Service Device (PASD) Consent Form**Resident Name:** _______________________________            **Room/Bed:** ________",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care11-p10-t3restraintpersonalassistanceservicedeviceconsentform_7bbe94afcf02_chunk_003_2136a226",
+      "doc_id": "care11-p10-t3restraintpersonalassistanceservicedeviceconsentform_7bbe94afcf02",
+      "chunk_index": 3,
+      "text": "PASD) is based on the effect the device has and risk to the resident, including:\n| Item                                                                 | Yes |\n|----------------------------------------------------------------------|-----|\n| Restriction of freedom of movement or normal access to body         |  ✔  |\n| Physical injury (e.g., skin irritation, breakdown, or pressure ulcers)|  ✔  |\n| Decreased mobility, pain, or discomfort                               |  ✔  |\n| Psychological impacts (e.g., withdrawal, anxiety, depression, agitation)|  ✔  |\n| Increased confusion and/or sedation                                   |  ✔  |\n| Increased falls risk, entrapment suffocation, or death. |  ✔  |### Restraints are temporary measures implemented as a last resort only after alternatives have been trialed and deemed unsuccessful. - Use of least restrictive device(s) for the shortest duration possible. - Reason for use of device (including indications for application/release as per order). - Type of device (e.g., physical, chemical, environmental). - Assessment including trialed alternative interventions and outcomes. - Frequency of monitoring and repositioning while restraint is in use.",
+      "char_count": 1201,
+      "token_estimate": 300,
+      "section_title": "Restraint & Personal Assistance Service Device (PASD) Consent Form**Resident Name:** _______________________________            **Room/Bed:** ________",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care11-p10-t3restraintpersonalassistanceservicedeviceconsentform_7bbe94afcf02_chunk_004_b7b34efb",
+      "doc_id": "care11-p10-t3restraintpersonalassistanceservicedeviceconsentform_7bbe94afcf02",
+      "chunk_index": 4,
+      "text": "- Assessment including trialed alternative interventions and outcomes. - Frequency of monitoring and repositioning while restraint is in use. - Re-evaluation quarterly or based on changes in status or effects from the device. - PASDs which are intended to promote self-sufficiency in ADLs but have the effect of restraint will be subject to associated protocols. - Opportunity to ask questions with answers provided to my satisfaction. - Right to revoke my consent at any time, unless emergency restraint is determined necessary by the interdisciplinary team based on resident behaviour posing imminent risk to self or others.My signature acknowledges informed understanding of all items outlined above.",
+      "char_count": 703,
+      "token_estimate": 175,
+      "section_title": "Restraint & Personal Assistance Service Device (PASD) Consent Form**Resident Name:** _______________________________            **Room/Bed:** ________",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care11-p10-t3restraintpersonalassistanceservicedeviceconsentform_7bbe94afcf02_chunk_005_3b4851e6",
+      "doc_id": "care11-p10-t3restraintpersonalassistanceservicedeviceconsentform_7bbe94afcf02",
+      "chunk_index": 5,
+      "text": "- Opportunity to ask questions with answers provided to my satisfaction. - Right to revoke my consent at any time, unless emergency restraint is determined necessary by the interdisciplinary team based on resident behaviour posing imminent risk to self or others.My signature acknowledges informed understanding of all items outlined above. I hereby consent to authorize the use of the following device(s):\n- Seatbelt (front/rear facing)\n- Bed rails: Type/side_______\n- Raised edge mattress\n- Tilt wheelchair\n- Bed Bolster\n- Chemical restraint\n- Tabletop tray on wheelchair\n- Positioning wedge\n- Other: ____________### Signatures\n- **Signature of Resident/SDM:** ___________________________  **Date:** __________\n- **Signature of DOC/Physician/Nurse:** _____________________  **Date:** __________\n- **Signature of Witness:** _________________________________  **Date:** __________Consent discussed & verified during reassessments:\n- ___Date__  __Initials/designation__\n- __Date__  __Initials/designation__\n- ___Date__  __Initials/designation__\n- ___Date__  __Initials/designation__----This document is uncontrolled when printed. Extendicare (Canada) Inc.",
+      "char_count": 1154,
+      "token_estimate": 288,
+      "section_title": "Restraint & Personal Assistance Service Device (PASD) Consent Form**Resident Name:** _______________________________            **Room/Bed:** ________",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "care11-p10-t3restraintpersonalassistanceservicedeviceconsentform_7bbe94afcf02_chunk_006_9b6e452d",
+      "doc_id": "care11-p10-t3restraintpersonalassistanceservicedeviceconsentform_7bbe94afcf02",
+      "chunk_index": 6,
+      "text": "I hereby consent to authorize the use of the following device(s):\n- Seatbelt (front/rear facing)\n- Bed rails: Type/side_______\n- Raised edge mattress\n- Tilt wheelchair\n- Bed Bolster\n- Chemical restraint\n- Tabletop tray on wheelchair\n- Positioning wedge\n- Other: ____________### Signatures\n- **Signature of Resident/SDM:** ___________________________  **Date:** __________\n- **Signature of DOC/Physician/Nurse:** _____________________  **Date:** __________\n- **Signature of Witness:** _________________________________  **Date:** __________Consent discussed & verified during reassessments:\n- ___Date__  __Initials/designation__\n- __Date__  __Initials/designation__\n- ___Date__  __Initials/designation__\n- ___Date__  __Initials/designation__----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n**Page 1 of 1**",
+      "char_count": 1082,
+      "token_estimate": 270,
+      "section_title": "Restraint & Personal Assistance Service Device (PASD) Consent Form**Resident Name:** _______________________________            **Room/Bed:** ________",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "doc_id": "ipc2-p10-t5-visitingpetscreeningchecklistforhome2_549c64796c44",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "ipc2-p10-t5-visitingpetscreeningchecklistforhome2_549c64796c44_chunk_000_b857c407",
+      "doc_id": "ipc2-p10-t5-visitingpetscreeningchecklistforhome2_549c64796c44",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Visiting Pet Screening Checklist for HOMEGather health information and ask dog owners or handlers these questions before and at every visit:### Health Information Questions",
+      "char_count": 190,
+      "token_estimate": 47,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-t5-visitingpetscreeningchecklistforhome2_549c64796c44_chunk_002_0403c53d",
+      "doc_id": "ipc2-p10-t5-visitingpetscreeningchecklistforhome2_549c64796c44",
+      "chunk_index": 2,
+      "text": "1. Are there any changes to your dog’s:\n- Vaccination, parasite control, or health records since their last visit?\n\n2. In the past week, has your dog:\n- Vomited or had diarrhea?\n- Begun sneezing or coughing or had discharge from the nose or eyes?\n- Had new skin or ear problems, such as itching or hair loss?\n- Had a new health problem that makes you think (s)he is ill?\n- Received oral or injectable antibiotics or immunosuppressive medications?",
+      "char_count": 446,
+      "token_estimate": 111,
+      "section_title": "Are there any changes to your dog’s:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc2-p10-t5-visitingpetscreeningchecklistforhome2_549c64796c44_chunk_004_f76c0f15",
+      "doc_id": "ipc2-p10-t5-visitingpetscreeningchecklistforhome2_549c64796c44",
+      "chunk_index": 4,
+      "text": "3. For dogs that have not recently visited the facility and annually for all dogs:\n- Has your dog received an evaluation by a licensed veterinarian within the past year and determined to be healthy?\n\n4. In the past month, has your dog:\n- Been diagnosed with a known or suspected communicable disease? (Dogs with a concerning medical condition should have a written veterinary health clearance before being allowed to enter the facility)\n- Been fed meat or egg-based raw or dehydrated (not cooked) foods, chews, or treats?### Important Note\n**DO NOT ALLOW DOGS IF:** The owner/handler answers YES to any of the above health conditions.----**Owner’s name:**\n**Staff name:**\n**Date:**----*Heping peopie*\n*Tvektta*This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----*Page 1 of 1*",
+      "char_count": 1049,
+      "token_estimate": 262,
+      "section_title": "For dogs that have not recently visited the facility and annually for all dogs:",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

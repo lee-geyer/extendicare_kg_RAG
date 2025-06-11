@@ -1,0 +1,18 @@
+{
+  "doc_id": "evs3-p1012-t1familydoeslaundrysignage_c1b1e50d7ed1",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "evs3-p1012-t1familydoeslaundrysignage_c1b1e50d7ed1_chunk_000_3debab28",
+      "doc_id": "evs3-p1012-t1familydoeslaundrysignage_c1b1e50d7ed1",
+      "chunk_index": 0,
+      "text": "```markdown\n\n# Extendicare Laundry Policy## Policy Overview\n- **Policy Number:** [Insert Policy Number]\n- **Effective Date:** [Insert Effective Date]\n- **Review Date:** [Insert Review Date]## Purpose\nThis document outlines the procedures for handling laundry within Extendicare facilities.## Responsibilities\n- **Care Staff:**\n- Please put clothing in the container provided.\n- Ensure that clothing is not placed in circulation.## Accessibility\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.## Confidentiality\nConfidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----*This document is uncontrolled when printed.*\n```",
+      "char_count": 794,
+      "token_estimate": 198,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

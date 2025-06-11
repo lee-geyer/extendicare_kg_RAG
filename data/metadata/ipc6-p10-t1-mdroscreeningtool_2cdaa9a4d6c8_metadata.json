@@ -1,0 +1,11 @@
+{
+  "doc_id": "ipc6-p10-t1-mdroscreeningtool_2cdaa9a4d6c8",
+  "category": "Infection Prevention and Control",
+  "schema_used": "GenericDocumentMeta",
+  "extraction_success": true,
+  "metadata": {
+    "title": "IPAC - MDROs Screening Tool (Multi-Drug Resistant Organism)"
+  },
+  "error": null,
+  "fallback_metadata": null
+}

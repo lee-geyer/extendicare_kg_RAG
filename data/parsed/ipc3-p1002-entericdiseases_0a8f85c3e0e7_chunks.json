@@ -1,0 +1,78 @@
+{
+  "doc_id": "ipc3-p1002-entericdiseases_0a8f85c3e0e7",
+  "total_chunks": 6,
+  "chunks": [
+    {
+      "chunk_id": "ipc3-p1002-entericdiseases_0a8f85c3e0e7_chunk_000_c7b7dee8",
+      "doc_id": "ipc3-p1002-entericdiseases_0a8f85c3e0e7",
+      "chunk_index": 0,
+      "text": "# Extendicare## PROCEDURE\n**MANUAL:** Infection Prevention and Control\n**INDEX:** IPC3-P10.02\n**SECTION:** Communicable Diseases\n**EFFECTIVE DATE:** February 18, 2025\n**REVIEWED DATE:** February 11, 2025\n**DESCRIPTION:** Gastrointestinal Diseases (GI)\n**APPROVED BY:** Chief Medical Officer\n**MODIFIED DATE:** May 30, 2025----## POLICY\n\n### Communicable Diseases### PROCEDURE",
+      "char_count": 375,
+      "token_estimate": 93,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p1002-entericdiseases_0a8f85c3e0e7_chunk_002_537095dc",
+      "doc_id": "ipc3-p1002-entericdiseases_0a8f85c3e0e7",
+      "chunk_index": 2,
+      "text": "#### Management\n- Staff will report any resident signs and symptoms of gastrointestinal (GI) infection to the registered staff. - Place a resident who shows signs and symptoms of a GI infection on Contact Precautions and notify the Infection Control Professional/Designate and the Director of Care/Director of Health and Wellness. - The home may consider contact & droplet precautions when vomiting is present. - Additional precautions will be discontinued based on identified organism or resolution of symptoms (afebrile and 48 hours after symptoms resolve or resident returns to baseline) or as directed by health authority. - Staff to remain off work for 48 hrs after symptoms resolve and afebrile or as directed by the health authority. - Contact physician/nurse practitioner to determine if lab testing is required, and/or\n- public health authority in the event of an outbreak. - Provide a dedicated bedside commode for the infected resident if there are other residents in the room who share the bathroom. - Emphasize the importance of hand hygiene for GI infections to staff, visitors, and residents.",
+      "char_count": 1107,
+      "token_estimate": 276,
+      "section_title": "Management",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p1002-entericdiseases_0a8f85c3e0e7_chunk_003_6ce96480",
+      "doc_id": "ipc3-p1002-entericdiseases_0a8f85c3e0e7",
+      "chunk_index": 3,
+      "text": "- Provide a dedicated bedside commode for the infected resident if there are other residents in the room who share the bathroom. - Emphasize the importance of hand hygiene for GI infections to staff, visitors, and residents. - Hand washing with soap and water is preferred when Norovirus is suspected or identified.#### Communication\n- When transferring a resident, alert both the transporting personnel as well as the receiving facility personnel that the resident has a GI infection. - Alert the physician/nurse practitioner of any resident with a GI infection. - All reportable diseases will be reported to public health authority as per regulations.## EDUCATION",
+      "char_count": 665,
+      "token_estimate": 166,
+      "section_title": "Management",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p1002-entericdiseases_0a8f85c3e0e7_chunk_004_9cd4e72e",
+      "doc_id": "ipc3-p1002-entericdiseases_0a8f85c3e0e7",
+      "chunk_index": 4,
+      "text": "1. IPC3-P10-E1 - Norovirus Fact Sheet----*This document is uncontrolled when printed.*\nExtendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n\n# PROCEDURE## SECTION: Communicable Diseases",
+      "char_count": 411,
+      "token_estimate": 102,
+      "section_title": "IPC3-P10-E1 - Norovirus Fact Sheet----*This document is uncontrolled when printed.*",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p1002-entericdiseases_0a8f85c3e0e7_chunk_006_a3cf0ff5",
+      "doc_id": "ipc3-p1002-entericdiseases_0a8f85c3e0e7",
+      "chunk_index": 6,
+      "text": "### DESCRIPTION: Gastrointestinal Diseases (GI)\n\n### INDEX: IPC3-P10.02## TOOLS",
+      "char_count": 79,
+      "token_estimate": 19,
+      "section_title": "DESCRIPTION: Gastrointestinal Diseases (GI)",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "ipc3-p1002-entericdiseases_0a8f85c3e0e7_chunk_008_70f0372c",
+      "doc_id": "ipc3-p1002-entericdiseases_0a8f85c3e0e7",
+      "chunk_index": 8,
+      "text": "1. IPC3-P10-T5 Resident Infection Report\n\n2. IPC3-P10-T7 Shift Symptom Surveillance> **Note:** This document is uncontrolled when printed.\n> Extendicare Canada Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025----**Page 2 of 2**",
+      "char_count": 436,
+      "token_estimate": 109,
+      "section_title": "IPC3-P10-T5 Resident Infection Report",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    }
+  ]
+}

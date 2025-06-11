@@ -1,0 +1,66 @@
+{
+  "doc_id": "epm2-p1007-t2codegrey-air-exclusion-maintenance-checklist_9be84ae938e3",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": "epm2-p1007-t2codegrey-air-exclusion-maintenance-checklist_9be84ae938e3_chunk_000_3a835e45",
+      "doc_id": "epm2-p1007-t2codegrey-air-exclusion-maintenance-checklist_9be84ae938e3",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Code Grey – Air Exclusion",
+      "char_count": 43,
+      "token_estimate": 10,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1007-t2codegrey-air-exclusion-maintenance-checklist_9be84ae938e3_chunk_002_c206441c",
+      "doc_id": "epm2-p1007-t2codegrey-air-exclusion-maintenance-checklist_9be84ae938e3",
+      "chunk_index": 2,
+      "text": "### Maintenance Job Action Checklist**Date:** Enter date\n**Name:***Note: You may edit this job action checklist to be home specific. If some of the actions are not applicable to your home, remove them and add the correct actions.*### Respond\n- Record the time action was initiated\n- Notification received from:\n- Known information:\n- Shut down HVAC (heating, ventilation, air conditioning) systems to avoid drawing in externally contaminated air (schematics can be found in the home’s Emergency Response Plan). - If your home has an Air Conditioning unit such as a rooftop unit that recirculates inside air, have your HVAC contractor adjust the economizer to ensure it is not bringing in any outside air; your Air Conditioning can then be left on. - If your home has an air conditioning unit that requires outside air and the air quality conditions continue to be detrimental, shut down your air conditioning units. - Shut down completed at (time):\n- Shut down air system exhaust fans to avoid creating negative pressure within the building. - Shut down completed at (time):\n- Close vents (louvers), if possible: entrances and exits. - Ensure all outside windows and doors are closed.",
+      "char_count": 1184,
+      "token_estimate": 296,
+      "section_title": "Maintenance Job Action Checklist**Date:** Enter date",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1007-t2codegrey-air-exclusion-maintenance-checklist_9be84ae938e3_chunk_003_f898775f",
+      "doc_id": "epm2-p1007-t2codegrey-air-exclusion-maintenance-checklist_9be84ae938e3",
+      "chunk_index": 3,
+      "text": "- Shut down completed at (time):\n- Close vents (louvers), if possible: entrances and exits. - Ensure all outside windows and doors are closed. - Open foyers with vestibule-style doors (first set closes before second set opens) one at a time after the other door is closed. - If the home has automatic doors, disconnect all the automatic function of the doors (instructions can be found in the home’s Emergency Response Plan).----This document is uncontrolled when printed. Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability. Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025",
+      "char_count": 751,
+      "token_estimate": 187,
+      "section_title": "Maintenance Job Action Checklist**Date:** Enter date",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1007-t2codegrey-air-exclusion-maintenance-checklist_9be84ae938e3_chunk_004_606a452d",
+      "doc_id": "epm2-p1007-t2codegrey-air-exclusion-maintenance-checklist_9be84ae938e3",
+      "chunk_index": 4,
+      "text": "# Code Grey – Air Exclusion\n\n## Maintenance Job Action Checklist### Recover",
+      "char_count": 75,
+      "token_estimate": 18,
+      "section_title": "Code Grey – Air Exclusion",
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm2-p1007-t2codegrey-air-exclusion-maintenance-checklist_9be84ae938e3_chunk_006_87e1908a",
+      "doc_id": "epm2-p1007-t2codegrey-air-exclusion-maintenance-checklist_9be84ae938e3",
+      "chunk_index": 6,
+      "text": "### Air Exclusion – All ClearOnce receiving official word that the Code Grey – Air Exclusion emergency is over:- Record the time action was initiated\n- Notification received from:\n- Agency:\n- Turn on air exchange/HVAC system(s).\n- Check air filters and clean or replace as necessary.\n- Reconnect automatic door function, if applicable.\n- Participate in the incident debrief and analysis.----> This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\n> Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 2 of 2",
+      "char_count": 733,
+      "token_estimate": 183,
+      "section_title": "Air Exclusion – All ClearOnce receiving official word that the Code Grey – Air Exclusion emergency is over:- Record the time action was initiated",
+      "chunk_type": "content",
+      "start_line": 21,
+      "end_line": 30
+    }
+  ]
+}

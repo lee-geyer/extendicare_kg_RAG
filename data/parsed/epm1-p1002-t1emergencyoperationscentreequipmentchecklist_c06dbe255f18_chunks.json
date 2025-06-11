@@ -1,0 +1,30 @@
+{
+  "doc_id": "epm1-p1002-t1emergencyoperationscentreequipmentchecklist_c06dbe255f18",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "epm1-p1002-t1emergencyoperationscentreequipmentchecklist_c06dbe255f18_chunk_000_d34a3134",
+      "doc_id": "epm1-p1002-t1emergencyoperationscentreequipmentchecklist_c06dbe255f18",
+      "chunk_index": 0,
+      "text": "# Extendicare\n\n## Emergency Operations Centre",
+      "char_count": 45,
+      "token_estimate": 11,
+      "section_title": null,
+      "chunk_type": "content",
+      "start_line": null,
+      "end_line": null
+    },
+    {
+      "chunk_id": "epm1-p1002-t1emergencyoperationscentreequipmentchecklist_c06dbe255f18_chunk_002_0ef16ffd",
+      "doc_id": "epm1-p1002-t1emergencyoperationscentreequipmentchecklist_c06dbe255f18",
+      "chunk_index": 2,
+      "text": "### Equipment Checklist**Date:** Enter date\n**Name:**### Mandatory Equipment\n- Telephone communication\n- Emergency power supply (battery backup)/where applicable\n- Disaster box\n- Emergency Response Plan\n- Notepads and pens### Optional Equipment\n- Computer with email/internet access and/or smart phone\n- Computerized resident charts (e.g. Point Click Care)\n- Whiteboard/flip charts\n- Computer printer/photocopier> External communications will be centralized at the EOC. The intercom, nursing phones or home walkie-talkies (if available) will be used for internal communication. If telephone communications are inoperative, designate employee(s) as a runner.### Home Information:\n- **Primary EOC location:** __\n- **Telephone #/ext.:**\n- **Alternate EOC location (outside of home):**\n- **Telephone #/ext.:**----> Helping people live better\n> This document is uncontrolled when printed.\n> Extendicare (Canada) Inc. will provide, on request, information in an accessible format or with communication supports to people with disabilities, in a manner that takes into account their disability.\n> Confidential and Proprietary Information of Extendicare (Canada) Inc. © 2025\n> Page 1 of 1",
+      "char_count": 1180,
+      "token_estimate": 295,
+      "section_title": "Equipment Checklist**Date:** Enter date",
+      "chunk_type": "content",
+      "start_line": 2,
+      "end_line": 20
+    }
+  ]
+}
